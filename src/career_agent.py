@@ -25,6 +25,12 @@ WEB = ROOT / "web"
 LOG_PATH = DATA / "career-agent.log"
 
 CLOSED_STATUSES = {"closed", "expired"}
+TRACKER_STATUSES = {"ready_for_review", "applied", "skipped"}
+
+
+def has_full_listing(job: dict) -> bool:
+    """A draft is allowed only when the employer text is long enough to quote."""
+    return len((job.get("fullText") or "").strip()) >= 280
 
 
 def load_json(path: Path) -> dict:
@@ -240,10 +246,10 @@ def classify(jobs: list[dict], tracker: dict) -> dict:
         state = items.get(job["id"], {})
         scored = score_job(job)
         row = {"job": job, "score": scored}
-        if job["listingStatus"] in CLOSED_STATUSES or state.get("applied"):
+        if job["listingStatus"] in CLOSED_STATUSES or state.get("applied") or state.get("status") == "skipped":
             excluded.append(row)
             continue
-        if job["prepareApplication"] and not state.get("applied"):
+        if job["prepareApplication"] and has_full_listing(job) and not state.get("applied"):
             drafts.append(row)
             continue
         holds.append(row)
@@ -274,6 +280,12 @@ def write_applications(profile: dict, groups: dict, logger) -> None:
         folder = APPLICATIONS / job["id"]
         folder.mkdir(parents=True, exist_ok=True)
         (folder / "fit-notes.md").write_text(render_fit_notes(job, row["score"]), encoding="utf-8")
+        # A role that is no longer a draft must not keep a downloadable letter.
+        for name in ("cv.md", "cover-letter.md"):
+            stale = folder / name
+            if stale.exists():
+                stale.unlink()
+                logger.info("Removed draft %s for %s because it is not ready to send", name, job["id"])
         logger.info("Recorded fit notes only for %s (%s)", job["id"], job["listingStatus"])
 
 
@@ -293,10 +305,13 @@ def ensure_tracker(jobs: list[dict], groups: dict) -> dict:
             status = current.get("status") or "hold"
         if current.get("applied"):
             status = "applied"
+        elif current.get("status") == "skipped":
+            status = "skipped"
         items[job["id"]] = {
             "status": status,
             "viewed": True,
-            "applied": bool(current.get("applied")),
+            "applied": bool(current.get("applied")) or status == "applied",
+            "confirmed": bool(current.get("confirmed")),
             "notes": current.get("notes", ""),
         }
     # Drop tracker rows whose listings are no longer in the catalogue,
@@ -317,27 +332,69 @@ def html_escape(text: str) -> str:
     )
 
 
-def card(row: dict, kind: str) -> str:
+def set_tracker_status(job_id: str, status: str, path: Path | None = None) -> dict:
+    """Write a review mark into tracker.json so a reload shows the same state."""
+    if status not in TRACKER_STATUSES:
+        raise ValueError("不認識的狀態。")
+    tracker_path = path or (DATA / "tracker.json")
+    tracker = load_json(tracker_path) if tracker_path.exists() else {"items": {}}
+    item = tracker.setdefault("items", {}).get(job_id)
+    if item is None:
+        raise ValueError("找不到這個職位。")
+    item["status"] = status
+    item["viewed"] = True
+    item["applied"] = status == "applied"
+    save_json(tracker_path, tracker)
+    return item
+
+
+def confirm_tracker(job_id: str, path: Path | None = None) -> dict:
+    """Record that a person has checked the letter and may download it."""
+    tracker_path = path or (DATA / "tracker.json")
+    tracker = load_json(tracker_path)
+    item = tracker.setdefault("items", {}).get(job_id)
+    if item is None:
+        raise ValueError("找不到這個職位。")
+    item["confirmed"] = True
+    if item.get("status") in {None, "", "hold"}:
+        item["status"] = "ready_for_review"
+    save_json(tracker_path, tracker)
+    return item
+
+
+def card(row: dict, kind: str, state: dict | None = None) -> str:
     job = row["job"]
     score = row["score"]["score"]
     requirements = "".join(f"<li>{html_escape(item)}</li>" for item in job["requirements"])
     gaps = "".join(f"<li>{html_escape(item['note'])}</li>" for item in job["gaps"])
+    state = state or {}
+    confirmed = bool(state.get("confirmed"))
+    status = state.get("status") or ""
     materials = ""
     caution = ""
-    if job["prepareApplication"] and kind == "draft":
+    if job["prepareApplication"] and has_full_listing(job) and kind == "draft":
+        hidden = "" if confirmed else " hidden"
+        confirm_button = "" if confirmed else '<button type="button" data-confirm>我已核對，允許下載</button>'
+        waiting = "" if confirmed else "<p class=\"score\">確認後才能下載。</p>"
         materials = (
-            f'<p class="links"><a href="../applications/{html_escape(job["id"])}/cv.md">CV draft</a>'
-            f' · <a href="../applications/{html_escape(job["id"])}/cover-letter.md">Cover letter</a>'
-            f' · <a href="../applications/{html_escape(job["id"])}/fit-notes.md">Fit notes</a></p>'
+            f'<p class="links"><a href="../applications/{html_escape(job["id"])}/fit-notes.md">Fit notes</a></p>'
+            f'<p><button type="button" data-preview>預覽求職信</button> {confirm_button}</p>'
+            f'<pre class="letter-preview" hidden></pre>'
+            f'{waiting}'
+            f'<p class="links downloads"{hidden}>'
+            f'<a href="../applications/{html_escape(job["id"])}/cv.md">下載履歷</a>'
+            f' · <a href="../applications/{html_escape(job["id"])}/cover-letter.md">下載求職信</a></p>'
         )
         if score < 45:
             caution = "<p class=\"score\">不建議現在提交。職缺點名的技能尚未出現在履歷來源裡。</p>"
     else:
+        if not has_full_listing(job) and job["listingStatus"] not in CLOSED_STATUSES:
+            caution = "<p class=\"score\">未讀到完整職缺，所以沒有起草。</p>"
         materials = (
             f'<p class="links"><a href="../applications/{html_escape(job["id"])}/fit-notes.md">Fit notes</a></p>'
         )
     return f"""
-    <article class="card" data-id="{html_escape(job["id"])}" data-kind="{html_escape(kind)}">
+    <article class="card" data-id="{html_escape(job["id"])}" data-kind="{html_escape(kind)}" data-status="{html_escape(status)}" data-confirmed="{"true" if confirmed else "false"}">
       <header>
         <h3>{html_escape(job["title"])}</h3>
         <p class="meta">{html_escape(job["company"])} · {html_escape(job["location"])}</p>
@@ -352,19 +409,26 @@ def card(row: dict, kind: str) -> str:
       {caution}
       {materials}
       <div class="actions">
-        <button type="button" data-mark="ready_for_review">Keep for review</button>
-        <button type="button" data-mark="applied">Mark submitted</button>
-        <button type="button" data-mark="skipped">Skip</button>
+        <button type="button" data-mark="ready_for_review">保留審閱</button>
+        <button type="button" data-mark="applied">已提交</button>
+        <button type="button" data-mark="skipped">略過</button>
       </div>
-      <p class="state" data-state></p>
+      <p class="state" data-state>檔案狀態：{html_escape(status) if status else "尚未標記"}</p>
     </article>
     """
 
 
-def render_html(profile: dict, groups: dict, searched_on: str = "2026-10-06", last_search: dict | None = None) -> str:
-    draft_cards = "\n".join(card(row, "draft") for row in groups["drafts"])
-    hold_cards = "\n".join(card(row, "hold") for row in groups["holds"])
-    excluded_cards = "\n".join(card(row, "excluded") for row in groups["excluded"])
+def render_html(
+    profile: dict,
+    groups: dict,
+    searched_on: str = "2026-10-06",
+    last_search: dict | None = None,
+    tracker: dict | None = None,
+) -> str:
+    states = (tracker or {}).get("items", {})
+    draft_cards = "\n".join(card(row, "draft", states.get(row["job"]["id"])) for row in groups["drafts"])
+    hold_cards = "\n".join(card(row, "hold", states.get(row["job"]["id"])) for row in groups["holds"])
+    excluded_cards = "\n".join(card(row, "excluded", states.get(row["job"]["id"])) for row in groups["excluded"])
     master = load_master_cv()
     if master:
         cv_status = (
@@ -449,13 +513,23 @@ def render_html(profile: dict, groups: dict, searched_on: str = "2026-10-06", la
       margin: 14px 0;
     }}
     .panel h2 {{ margin-top: 0.4em; }}
+    pre.letter-preview {{
+      white-space: pre-wrap;
+      max-height: 240px;
+      overflow: auto;
+      background: white;
+      border: 1px solid var(--line);
+      padding: 10px;
+      font-size: 0.92rem;
+    }}
+    [hidden] {{ display: none !important; }}
   </style>
 </head>
 <body>
   <main>
     <h1>職位搜尋與申請草稿</h1>
     <p class="lead">{html_escape(profile["name"])}，{html_escape(profile["currentRole"])}。搜尋日為 {html_escape(searched_on)}。這些是草稿，尚未向任何僱主提交。</p>
-    <p class="lead">偏好地區是香港。JobsDB 與 LinkedIn 搜尋香港職缺，JobStreet 搜尋新加坡，Remotive 搜尋遠端職位。即時結果只保存搜尋卡上的文字。</p>
+    <p class="lead">偏好地區是香港。JobsDB 與 LinkedIn 搜尋香港職缺，JobStreet 搜尋新加坡，Remotive 搜尋遠端職位。只有讀到完整職缺才會起草。搜尋卡本身不會生成求職信。</p>
     <section class="panel">
       <h2>即時搜尋</h2>
       <label for="keywords">關鍵字</label>
@@ -477,38 +551,95 @@ def render_html(profile: dict, groups: dict, searched_on: str = "2026-10-06", la
       <button type="button" data-filter="excluded" aria-pressed="true">已排除</button>
     </div>
     <h2>建議起草</h2>
-    <p class="lead">已去掉已截止的職位。提交前請打開原連結，核對完整職缺，並補上聯絡資料。</p>
+    <p class="lead">這裡只放已讀到完整職缺的草稿。預覽求職信後按確認，下載連結才會出現。標記會寫入 data/tracker.json。</p>
     <section id="drafts">{draft_cards}</section>
     <h2>先不要投</h2>
-    <p class="lead">職位仍可能開放，但地點、入學狀態或技術條件與現有資料差太遠。</p>
+    <p class="lead">這些職位可能仍開放。未讀到完整職缺的不會起草。地點或條件差太遠的也不會起草。</p>
     <section id="holds">{hold_cards}</section>
     <h2>已排除</h2>
     <p class="lead">僱主頁面顯示已額滿、廣告已過期，或申請已關閉。保留紀錄是為了避免重複申請。</p>
     <section id="excluded">{excluded_cards}</section>
   </main>
   <script>
-    const storageKey = "cheung-job-tracker-2026-10-06";
-    const saved = JSON.parse(localStorage.getItem(storageKey) || "{{}}");
+    // Older pages stored marks only in the browser. Drop that copy so the
+    // file in data/tracker.json is the only status a reload can show.
+    localStorage.removeItem("cheung-job-tracker-2026-10-06");
 
     function paint(card) {{
-      const id = card.dataset.id;
-      const state = saved[id] || {{}};
+      const status = card.dataset.status || "";
       card.querySelectorAll("button[data-mark]").forEach((button) => {{
-        button.setAttribute("aria-pressed", String(button.dataset.mark === state.status));
+        button.setAttribute("aria-pressed", String(button.dataset.mark === status));
       }});
-      const label = card.querySelector("[data-state]");
-      label.textContent = state.status ? "本機狀態：" + state.status : "本機狀態：尚未標記";
+    }}
+
+    async function postJson(url, payload) {{
+      const response = await fetch(url, {{
+        method: "POST",
+        headers: {{ "Content-Type": "application/json" }},
+        body: JSON.stringify(payload)
+      }});
+      let body = {{}};
+      try {{
+        body = await response.json();
+      }} catch (error) {{
+        body = {{}};
+      }}
+      if (!response.ok || !body.ok) {{
+        throw new Error(body.message || "操作失敗");
+      }}
+      return body;
     }}
 
     document.querySelectorAll(".card").forEach((card) => {{
       paint(card);
       card.querySelectorAll("button[data-mark]").forEach((button) => {{
-        button.addEventListener("click", () => {{
-          saved[card.dataset.id] = {{ status: button.dataset.mark, viewed: true }};
-          localStorage.setItem(storageKey, JSON.stringify(saved));
-          paint(card);
+        button.addEventListener("click", async () => {{
+          const label = card.querySelector("[data-state]");
+          const mark = button.dataset.mark;
+          label.textContent = "正在寫入檔案…";
+          try {{
+            await postJson("/api/tracker", {{ id: card.dataset.id, status: mark }});
+            if (mark === "applied" || mark === "skipped") {{
+              window.location.reload();
+              return;
+            }}
+            card.dataset.status = mark;
+            label.textContent = "檔案狀態：" + mark;
+            paint(card);
+          }} catch (error) {{
+            label.textContent = error.message;
+          }}
         }});
       }});
+      const preview = card.querySelector("[data-preview]");
+      if (preview) {{
+        preview.addEventListener("click", async () => {{
+          const box = card.querySelector(".letter-preview");
+          box.hidden = false;
+          box.textContent = "正在讀取求職信…";
+          try {{
+            const payload = await postJson("/api/preview", {{ id: card.dataset.id }});
+            box.textContent = payload.text;
+          }} catch (error) {{
+            box.textContent = error.message;
+          }}
+        }});
+      }}
+      const confirmButton = card.querySelector("[data-confirm]");
+      if (confirmButton) {{
+        confirmButton.addEventListener("click", async () => {{
+          confirmButton.disabled = true;
+          try {{
+            await postJson("/api/confirm", {{ id: card.dataset.id }});
+            window.location.reload();
+          }} catch (error) {{
+            confirmButton.disabled = false;
+            const box = card.querySelector(".letter-preview");
+            box.hidden = false;
+            box.textContent = error.message;
+          }}
+        }});
+      }}
     }});
 
     const refetchButton = document.getElementById("refetch");
@@ -581,10 +712,17 @@ def render_html(profile: dict, groups: dict, searched_on: str = "2026-10-06", la
 """
 
 
-def write_site(profile: dict, groups: dict, logger, searched_on: str = "2026-10-06", last_search: dict | None = None) -> None:
+def write_site(
+    profile: dict,
+    groups: dict,
+    logger,
+    searched_on: str = "2026-10-06",
+    last_search: dict | None = None,
+    tracker: dict | None = None,
+) -> None:
     WEB.mkdir(parents=True, exist_ok=True)
     (WEB / "index.html").write_text(
-        render_html(profile, groups, searched_on, last_search),
+        render_html(profile, groups, searched_on, last_search, tracker),
         encoding="utf-8",
     )
     logger.info(
@@ -613,7 +751,14 @@ def run() -> dict:
         logger.info("Excluded %s (%s)", row["job"]["id"], row["job"]["listingStatus"])
     write_applications(profile, groups, logger)
     tracker = ensure_tracker(catalogue["jobs"], groups)
-    write_site(profile, groups, logger, catalogue.get("searchedOn", "2026-10-06"), catalogue.get("lastLiveSearch"))
+    write_site(
+        profile,
+        groups,
+        logger,
+        catalogue.get("searchedOn", "2026-10-06"),
+        catalogue.get("lastLiveSearch"),
+        tracker,
+    )
     report = {
         "drafts": [row["job"]["id"] for row in groups["drafts"]],
         "holds": [row["job"]["id"] for row in groups["holds"]],

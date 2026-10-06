@@ -61,13 +61,23 @@
       margin: 14px 0;
     }
     .panel h2 { margin-top: 0.4em; }
+    pre.letter-preview {
+      white-space: pre-wrap;
+      max-height: 240px;
+      overflow: auto;
+      background: white;
+      border: 1px solid var(--line);
+      padding: 10px;
+      font-size: 0.92rem;
+    }
+    [hidden] { display: none !important; }
   </style>
 </head>
 <body>
   <main>
     <h1>職位搜尋與申請草稿</h1>
     <p class="lead">CHEUNG Yuk Yuen，AI Application Trainee。搜尋日為 2026-10-06。這些是草稿，尚未向任何僱主提交。</p>
-    <p class="lead">偏好地區是香港。JobsDB 與 LinkedIn 搜尋香港職缺，JobStreet 搜尋新加坡，Remotive 搜尋遠端職位。即時結果只保存搜尋卡上的文字。</p>
+    <p class="lead">偏好地區是香港。JobsDB 與 LinkedIn 搜尋香港職缺，JobStreet 搜尋新加坡，Remotive 搜尋遠端職位。只有讀到完整職缺才會起草。搜尋卡本身不會生成求職信。</p>
     <section class="panel">
       <h2>即時搜尋</h2>
       <label for="keywords">關鍵字</label>
@@ -89,78 +99,326 @@
       <button type="button" data-filter="excluded" aria-pressed="true">已排除</button>
     </div>
     <h2>建議起草</h2>
-    <p class="lead">已去掉已截止的職位。提交前請打開原連結，核對完整職缺，並補上聯絡資料。</p>
+    <p class="lead">這裡只放已讀到完整職缺的草稿。預覽求職信後按確認，下載連結才會出現。標記會寫入 data/tracker.json。</p>
     <section id="drafts">
-    <article class="card" data-id="ricoh-fde-associate" data-kind="draft">
+    <article class="card" data-id="ricoh-fde-associate" data-kind="draft" data-status="ready_for_review" data-confirmed="false">
       <header>
         <h3>Forward Deployed Engineer Associate - AI &amp; Data (Open to Fresh Graduates)</h3>
         <p class="meta">Ricoh Hong Kong Limited · Kowloon Bay, Kwun Tong District</p>
-        <p class="score">Fit 71/100 · open_summary_only</p>
+        <p class="score">Fit 81/100 · open_full</p>
       </header>
       <p>Associate role open to fresh graduates. The public card says the hire works with technical experts and business stakeholders to design, develop, and implement AI solutions, with structured training, hands-on AI, cloud, and digital work, and a promotion path.</p>
       <h4>Requirements</h4>
-      <ul><li>Fresh graduates are welcome</li><li>Design, develop, and implement AI solutions with technical and business stakeholders</li><li>Structured training and mentorship</li><li>Hands-on AI, cloud, and digital technologies</li></ul>
+      <ul><li>Ricoh Hong Kong is building the next generation of Al-enabled engineers and consultants. Join our inaugural IGNITE Forward Deployed Engineer Associate Program and turn emerging technology into practical solutions that enhance the way</li><li>As a Forward Deployed Engineer Associate - AI &amp; Data, you will work alongside technical experts and business stakeholders to design, develop, and implement innovative AI solutions.</li><li>Collaborate with business teams, customers, and sales teams to understand requirements and solve real-world challenges.</li><li>Develop technical solutions, proposals, and proof-of-concepts for customer engagements.</li></ul>
       <h4>Gaps</h4>
-      <ul><li>Only the JobsDB card summary was retrieved, so cloud-stack requirements are unknown.</li><li>Degree title and graduation date are blank in the source profile.</li></ul>
+      <ul><li>Degree title and graduation date are blank in the source profile.</li></ul>
       <p><a href="https://hk.jobsdb.com/job/94705146">Open listing</a></p>
       
-      <p class="links"><a href="../applications/ricoh-fde-associate/cv.md">CV draft</a> · <a href="../applications/ricoh-fde-associate/cover-letter.md">Cover letter</a> · <a href="../applications/ricoh-fde-associate/fit-notes.md">Fit notes</a></p>
+      <p class="links"><a href="../applications/ricoh-fde-associate/fit-notes.md">Fit notes</a></p><p><button type="button" data-preview>預覽求職信</button> <button type="button" data-confirm>我已核對，允許下載</button></p><pre class="letter-preview" hidden></pre><p class="score">確認後才能下載。</p><p class="links downloads" hidden><a href="../applications/ricoh-fde-associate/cv.md">下載履歷</a> · <a href="../applications/ricoh-fde-associate/cover-letter.md">下載求職信</a></p>
       <div class="actions">
-        <button type="button" data-mark="ready_for_review">Keep for review</button>
-        <button type="button" data-mark="applied">Mark submitted</button>
-        <button type="button" data-mark="skipped">Skip</button>
+        <button type="button" data-mark="ready_for_review">保留審閱</button>
+        <button type="button" data-mark="applied">已提交</button>
+        <button type="button" data-mark="skipped">略過</button>
       </div>
-      <p class="state" data-state></p>
+      <p class="state" data-state>檔案狀態：ready_for_review</p>
     </article>
     
 
-    <article class="card" data-id="ricoh-fde-intern" data-kind="draft">
+    <article class="card" data-id="ricoh-fde-intern" data-kind="draft" data-status="ready_for_review" data-confirmed="false">
       <header>
         <h3>Part-time Forward Deployed Engineer Intern (University Students Welcome)</h3>
         <p class="meta">Ricoh Hong Kong Limited · Kowloon Bay, Kwun Tong District</p>
-        <p class="score">Fit 69/100 · open_summary_only</p>
+        <p class="score">Fit 79/100 · open_full</p>
       </header>
       <p>Part-time intern seat for university students. The public card says the intern works with technical experts and business stakeholders to design, develop, and implement AI solutions, with practical exposure to AI, data, and automation and a possible path to a full-time AI and data role.</p>
       <h4>Requirements</h4>
-      <ul><li>University students are welcome</li><li>Part-time</li><li>Work with technical experts and business stakeholders on AI solutions</li><li>Practical experience in AI, data, and automation</li></ul>
+      <ul><li>Ricoh Hong Kong is building the next generation of AI-enabled engineers and consultants. Join our IGNITE Forward Deployed Engineer Internship Program and gain hands-on experience in applying emerging technologies to solve real business</li><li>As a Part-time FDE Intern, you will work alongside technical experts and business stakeholders to explore, develop, and implement innovative AI and data solutions.</li><li>Collaborate with business teams and technical specialists to understand business requirements and solve real-world challenges.</li><li>Support the development of AI, Microsoft Copilot, analytics, and automation solutions.</li></ul>
       <h4>Gaps</h4>
-      <ul><li>JobsDB blocked the full advertisement. Only the company-list summary and three bullets were retrieved.</li><li>The profile does not say whether CHEUNG is still enrolled, and the card asks for a university student.</li></ul>
+      <ul><li>The profile does not say whether CHEUNG is still enrolled, and the card asks for a university student.</li></ul>
       <p><a href="https://hk.jobsdb.com/job/94927343">Open listing</a></p>
       
-      <p class="links"><a href="../applications/ricoh-fde-intern/cv.md">CV draft</a> · <a href="../applications/ricoh-fde-intern/cover-letter.md">Cover letter</a> · <a href="../applications/ricoh-fde-intern/fit-notes.md">Fit notes</a></p>
+      <p class="links"><a href="../applications/ricoh-fde-intern/fit-notes.md">Fit notes</a></p><p><button type="button" data-preview>預覽求職信</button> <button type="button" data-confirm>我已核對，允許下載</button></p><pre class="letter-preview" hidden></pre><p class="score">確認後才能下載。</p><p class="links downloads" hidden><a href="../applications/ricoh-fde-intern/cv.md">下載履歷</a> · <a href="../applications/ricoh-fde-intern/cover-letter.md">下載求職信</a></p>
       <div class="actions">
-        <button type="button" data-mark="ready_for_review">Keep for review</button>
-        <button type="button" data-mark="applied">Mark submitted</button>
-        <button type="button" data-mark="skipped">Skip</button>
+        <button type="button" data-mark="ready_for_review">保留審閱</button>
+        <button type="button" data-mark="applied">已提交</button>
+        <button type="button" data-mark="skipped">略過</button>
       </div>
-      <p class="state" data-state></p>
+      <p class="state" data-state>檔案狀態：ready_for_review</p>
     </article>
     
 
-    <article class="card" data-id="live-linkedin-4467966959" data-kind="draft">
+    <article class="card" data-id="live-linkedin-4456165750" data-kind="draft" data-status="ready_for_review" data-confirmed="false">
+      <header>
+        <h3>Data Science - Internship</h3>
+        <p class="meta">DBS Bank · Hong Kong, Hong Kong SAR</p>
+        <p class="score">Fit 70/100 · open_full</p>
+      </header>
+      <p>Business Function
+As the leading bank in Asia, Transformation &amp; Data (T&amp;D) supports our management on the implementation of the Group’s agenda. Data Chapter, organized under T&amp;D, is committed to create synergies between the data analytics functions across the bank, establish centres of excellence, shared services, and reusable data assets, as well as enhance career opportunities and the sense of community for data professionals.
+Responsibilities
+Work with senior data scientists to design, build </p>
+      <h4>Requirements</h4>
+      <ul><li>Work with senior data scientists to design, build and test machine learning, GenAI, and agentic AI solutions for business use cases.</li><li>Assist with data preparation, exploratory data analysis, model development, and evaluation.</li><li>Share the latest techniques and technologies in AI and data science, participate in a spirit of continuous learning with the team.</li><li>Knowledge of machine learning and statistics; basic knowledge of software development concepts.</li></ul>
+      <h4>Gaps</h4>
+      <ul></ul>
+      <p><a href="https://hk.linkedin.com/jobs/view/data-science-internship-at-dbs-bank-4456165750">Open listing</a></p>
+      
+      <p class="links"><a href="../applications/live-linkedin-4456165750/fit-notes.md">Fit notes</a></p><p><button type="button" data-preview>預覽求職信</button> <button type="button" data-confirm>我已核對，允許下載</button></p><pre class="letter-preview" hidden></pre><p class="score">確認後才能下載。</p><p class="links downloads" hidden><a href="../applications/live-linkedin-4456165750/cv.md">下載履歷</a> · <a href="../applications/live-linkedin-4456165750/cover-letter.md">下載求職信</a></p>
+      <div class="actions">
+        <button type="button" data-mark="ready_for_review">保留審閱</button>
+        <button type="button" data-mark="applied">已提交</button>
+        <button type="button" data-mark="skipped">略過</button>
+      </div>
+      <p class="state" data-state>檔案狀態：ready_for_review</p>
+    </article>
+    
+
+    <article class="card" data-id="live-linkedin-4330148175" data-kind="draft" data-status="ready_for_review" data-confirmed="false">
+      <header>
+        <h3>AI Engineer (NLP) (Internship)</h3>
+        <p class="meta">FCC ANALYTICS · Hong Kong, Hong Kong SAR</p>
+        <p class="score">Fit 64/100 · open_full</p>
+      </header>
+      <p>Develop AI applications for tasks within the AML context
+Develop, finetune, and evaluate AI models for NLP utilities including but not limited to knowledge extraction, token-level annotation, information standardization, and etc.
+Integrate NLP utilities with existing AML system and pipelines</p>
+      <h4>Requirements</h4>
+      <ul><li>Develop AI applications for tasks within the AML context</li><li>Develop, finetune, and evaluate AI models for NLP utilities including but not limited to knowledge extraction, token-level annotation, information standardization, and etc.</li></ul>
+      <h4>Gaps</h4>
+      <ul></ul>
+      <p><a href="https://hk.linkedin.com/jobs/view/ai-engineer-nlp-internship-at-fcc-analytics-4330148175">Open listing</a></p>
+      
+      <p class="links"><a href="../applications/live-linkedin-4330148175/fit-notes.md">Fit notes</a></p><p><button type="button" data-preview>預覽求職信</button> <button type="button" data-confirm>我已核對，允許下載</button></p><pre class="letter-preview" hidden></pre><p class="score">確認後才能下載。</p><p class="links downloads" hidden><a href="../applications/live-linkedin-4330148175/cv.md">下載履歷</a> · <a href="../applications/live-linkedin-4330148175/cover-letter.md">下載求職信</a></p>
+      <div class="actions">
+        <button type="button" data-mark="ready_for_review">保留審閱</button>
+        <button type="button" data-mark="applied">已提交</button>
+        <button type="button" data-mark="skipped">略過</button>
+      </div>
+      <p class="state" data-state>檔案狀態：ready_for_review</p>
+    </article>
+    
+
+    <article class="card" data-id="live-linkedin-4464874851" data-kind="draft" data-status="ready_for_review" data-confirmed="false">
+      <header>
+        <h3>AI Engineer Intern</h3>
+        <p class="meta">Bybit · Hong Kong, Hong Kong SAR</p>
+        <p class="score">Fit 64/100 · open_full</p>
+      </header>
+      <p>About Us
+Established in March 2018, Bybit is one of the fastest growing cryptocurrency derivatives exchanges, with more than 70 million registered users. We offer a professional platform where crypto traders can find an ultra-fast matching engine, excellent customer service and multilingual community support. We provide innovative online spot and derivatives trading services, mining and staking products, as well as API support, to retail and institutional clients around the world, and strive to </p>
+      <h4>Requirements</h4>
+      <ul><li>Established in March 2018, Bybit is one of the fastest growing cryptocurrency derivatives exchanges, with more than 70 million registered users. We offer a professional platform where crypto traders can find an ultra-fast matching engine,</li><li>Our core values define us. We listen, care, and improve to create a faster, fairer, and more humane trading environment for our users. Our innovative, highly advanced, user-friendly platform has been designed from the ground-up using</li><li>- Build the evals that prove a prompt or retrieval change actually helped, before it reaches users.</li><li>- Prototype in days, then add the tests and logging that let it run unattended in production.</li></ul>
+      <h4>Gaps</h4>
+      <ul></ul>
+      <p><a href="https://hk.linkedin.com/jobs/view/ai-engineer-intern-at-bybit-4464874851">Open listing</a></p>
+      
+      <p class="links"><a href="../applications/live-linkedin-4464874851/fit-notes.md">Fit notes</a></p><p><button type="button" data-preview>預覽求職信</button> <button type="button" data-confirm>我已核對，允許下載</button></p><pre class="letter-preview" hidden></pre><p class="score">確認後才能下載。</p><p class="links downloads" hidden><a href="../applications/live-linkedin-4464874851/cv.md">下載履歷</a> · <a href="../applications/live-linkedin-4464874851/cover-letter.md">下載求職信</a></p>
+      <div class="actions">
+        <button type="button" data-mark="ready_for_review">保留審閱</button>
+        <button type="button" data-mark="applied">已提交</button>
+        <button type="button" data-mark="skipped">略過</button>
+      </div>
+      <p class="state" data-state>檔案狀態：ready_for_review</p>
+    </article>
+    
+
+    <article class="card" data-id="live-linkedin-4466503023" data-kind="draft" data-status="ready_for_review" data-confirmed="false">
+      <header>
+        <h3>AI Development Engineer Intern</h3>
+        <p class="meta">Bybit · Hong Kong, Hong Kong SAR</p>
+        <p class="score">Fit 64/100 · open_full</p>
+      </header>
+      <p>About Us
+Established in 2018, Bybit is one of the world’s leading cryptocurrency exchanges and digital financial platforms, serving over 80 million users across more than 200 countries and regions. Powered by world-class technology and a user-first mindset, Bybit delivers a seamless ecosystem across trading, payments, wealth management, custody, institutional services, and Web3 — connecting users to the future of digital finance.
+Our core values define how we build. We listen, care and improve t</p>
+      <h4>Requirements</h4>
+      <ul><li>Our core values define how we build. We listen, care and improve to create products and experiences that put users first. Backed by a global team of ambitious builders, problem-solvers, and innovators, we foster a high-performance and</li><li>Today, Bybit is recognized as one of the most trusted and transparent platforms in the digital asset industry, continuing to expand its global presence while building the infrastructure for the next generation of financial services.</li><li>- Build the evals that prove a prompt or retrieval change actually helped, before it reaches users.</li><li>- Prototype in days, then add the tests and logging that let it run unattended in production.</li></ul>
+      <h4>Gaps</h4>
+      <ul></ul>
+      <p><a href="https://hk.linkedin.com/jobs/view/ai-development-engineer-intern-at-bybit-4466503023">Open listing</a></p>
+      
+      <p class="links"><a href="../applications/live-linkedin-4466503023/fit-notes.md">Fit notes</a></p><p><button type="button" data-preview>預覽求職信</button> <button type="button" data-confirm>我已核對，允許下載</button></p><pre class="letter-preview" hidden></pre><p class="score">確認後才能下載。</p><p class="links downloads" hidden><a href="../applications/live-linkedin-4466503023/cv.md">下載履歷</a> · <a href="../applications/live-linkedin-4466503023/cover-letter.md">下載求職信</a></p>
+      <div class="actions">
+        <button type="button" data-mark="ready_for_review">保留審閱</button>
+        <button type="button" data-mark="applied">已提交</button>
+        <button type="button" data-mark="skipped">略過</button>
+      </div>
+      <p class="state" data-state>檔案狀態：ready_for_review</p>
+    </article>
+    
+
+    <article class="card" data-id="live-linkedin-4467966959" data-kind="draft" data-status="ready_for_review" data-confirmed="false">
       <header>
         <h3>AI R&amp;D Engineering Intern — AI Infrastructure, Model Routing &amp; Applied Research</h3>
         <p class="meta">A-Field Tech · Hong Kong, Hong Kong SAR</p>
-        <p class="score">Fit 58/100 · open_live</p>
+        <p class="score">Fit 62/100 · open_full</p>
       </header>
-      <p>AI R&amp;D Engineering Intern — AI Infrastructure, Model Routing &amp; Applied Research</p>
+      <p>Help build the intelligence layer for Asia’s AI infrastructure
+A-Field Tech Limited is a Hong Kong-based AI and network infrastructure company. NexLLM is a Hong Kong-based AI infrastructure company building a stable and secure regional gateway for developers who need reliable access to leading AI models.
+Our live platform provides developers with OpenAI-compatible APIs across a growing catalogue of models, including Claude, OpenAI, Gemini, Qwen, and DeepSeek. We are now developing the next layer</p>
       <h4>Requirements</h4>
-      <ul><li>Only the search-card title and summary were retrieved.</li></ul>
+      <ul><li>Help build the intelligence layer for Asia’s AI infrastructure</li><li>A-Field Tech Limited is a Hong Kong-based AI and network infrastructure company. NexLLM is a Hong Kong-based AI infrastructure company building a stable and secure regional gateway for developers who need reliable access to leading AI</li><li>Our live platform provides developers with OpenAI-compatible APIs across a growing catalogue of models, including Claude, OpenAI, Gemini, Qwen, and DeepSeek. We are now developing the next layer: intelligent model routing, model</li><li>We are looking for a full-time AI R&amp;D Engineering Intern to join our engineering team. This internship is designed for a university student who wants practical experience working on real AI infrastructure, applied research, and software</li></ul>
       <h4>Gaps</h4>
-      <ul><li>Only the public search card was saved. Open the listing before applying.</li></ul>
+      <ul><li>c++ appears in the advertisement and is not in the profile or uploaded CV.</li></ul>
       <p><a href="https://hk.linkedin.com/jobs/view/ai-r-d-engineering-intern-%E2%80%94-ai-infrastructure-model-routing-applied-research-at-a-field-tech-4467966959">Open listing</a></p>
       
-      <p class="links"><a href="../applications/live-linkedin-4467966959/cv.md">CV draft</a> · <a href="../applications/live-linkedin-4467966959/cover-letter.md">Cover letter</a> · <a href="../applications/live-linkedin-4467966959/fit-notes.md">Fit notes</a></p>
+      <p class="links"><a href="../applications/live-linkedin-4467966959/fit-notes.md">Fit notes</a></p><p><button type="button" data-preview>預覽求職信</button> <button type="button" data-confirm>我已核對，允許下載</button></p><pre class="letter-preview" hidden></pre><p class="score">確認後才能下載。</p><p class="links downloads" hidden><a href="../applications/live-linkedin-4467966959/cv.md">下載履歷</a> · <a href="../applications/live-linkedin-4467966959/cover-letter.md">下載求職信</a></p>
       <div class="actions">
-        <button type="button" data-mark="ready_for_review">Keep for review</button>
-        <button type="button" data-mark="applied">Mark submitted</button>
-        <button type="button" data-mark="skipped">Skip</button>
+        <button type="button" data-mark="ready_for_review">保留審閱</button>
+        <button type="button" data-mark="applied">已提交</button>
+        <button type="button" data-mark="skipped">略過</button>
       </div>
-      <p class="state" data-state></p>
+      <p class="state" data-state>檔案狀態：ready_for_review</p>
     </article>
     
 
-    <article class="card" data-id="smartage-swe-ai" data-kind="draft">
+    <article class="card" data-id="live-linkedin-4464580209" data-kind="draft" data-status="ready_for_review" data-confirmed="false">
+      <header>
+        <h3>AI Developer - Internship/Co-op (Winter or Summer 2027)</h3>
+        <p class="meta">Intact · Hong Kong, Hong Kong SAR</p>
+        <p class="score">Fit 62/100 · open_full</p>
+      </header>
+      <p>Calling all AI and machine learning experts! We have a fantastic opportunity to join our team in Hong Kong.
+Artificial intelligence is shaping the future of insurance. Our latest lab is located in the Hong Kong Science and Technology Park to turn this vision into a reality. As Canada's largest home, auto and business insurer, we're here to cultivate the next generation of technology and talent. Together, we're helping our customers protect what matters to them most through the power of data scie</p>
+      <h4>Requirements</h4>
+      <ul><li>Artificial intelligence is shaping the future of insurance. Our latest lab is located in the Hong Kong Science and Technology Park to turn this vision into a reality. As Canada's largest home, auto and business insurer, we're here to</li><li>Technology is only as good as the people behind it. Every day at work, you’ll inspire and be inspired by the brilliant minds of our greater lab team: actuaries, data scientists, machine learning experts, geomathematicians, meteorologists,</li><li>Together, you will tackle challenging problems and have the freedom to imagine, research, create, test, and bring innovative solutions to life that will have a profound impact on our business and the needs of our customers.</li><li>As our company grows, your career will grow with it. There will always be an opportunity for you to develop your leadership skills, strengthen your expertise or take your work in a new direction. Whether it’s leading a new, exciting</li></ul>
+      <h4>Gaps</h4>
+      <ul><li>pytorch appears in the advertisement and is not in the profile or uploaded CV.</li></ul>
+      <p><a href="https://hk.linkedin.com/jobs/view/ai-developer-internship-co-op-winter-or-summer-2027-at-intact-4464580209">Open listing</a></p>
+      
+      <p class="links"><a href="../applications/live-linkedin-4464580209/fit-notes.md">Fit notes</a></p><p><button type="button" data-preview>預覽求職信</button> <button type="button" data-confirm>我已核對，允許下載</button></p><pre class="letter-preview" hidden></pre><p class="score">確認後才能下載。</p><p class="links downloads" hidden><a href="../applications/live-linkedin-4464580209/cv.md">下載履歷</a> · <a href="../applications/live-linkedin-4464580209/cover-letter.md">下載求職信</a></p>
+      <div class="actions">
+        <button type="button" data-mark="ready_for_review">保留審閱</button>
+        <button type="button" data-mark="applied">已提交</button>
+        <button type="button" data-mark="skipped">略過</button>
+      </div>
+      <p class="state" data-state>檔案狀態：ready_for_review</p>
+    </article>
+    
+
+    <article class="card" data-id="live-linkedin-4464560916" data-kind="draft" data-status="ready_for_review" data-confirmed="false">
+      <header>
+        <h3>Data Scientist - Internship/Co-op (Winter or Summer2027)</h3>
+        <p class="meta">Intact · Hong Kong, Hong Kong SAR</p>
+        <p class="score">Fit 62/100 · open_full</p>
+      </header>
+      <p>Calling all AI and machine learning experts! We have a fantastic opportunity to join our team in Hong Kong.
+Artificial intelligence is shaping the future of insurance. Our latest lab is located in the Hong Kong Science and Technology Park to turn this vision into a reality. As Canada's largest home, auto and business insurer, we're here to cultivate the next generation of technology and talent. Together, we're helping our customers protect what matters to them most through the power of data scie</p>
+      <h4>Requirements</h4>
+      <ul><li>Artificial intelligence is shaping the future of insurance. Our latest lab is located in the Hong Kong Science and Technology Park to turn this vision into a reality. As Canada's largest home, auto and business insurer, we're here to</li><li>Technology is only as good as the people behind it. Every day at work, you’ll inspire and be inspired by the brilliant minds of our greater lab team: actuaries, data scientists, machine learning experts, geomathematicians, meteorologists,</li><li>Together, you will tackle challenging problems and have the freedom to imagine, research, create, test, and bring innovative solutions to life that will have a profound impact on our business and the needs of our customers.</li><li>As our company grows, your career will grow with it. There will always be an opportunity for you to develop your leadership skills, strengthen your expertise or take your work in a new direction. Whether it’s leading a new, exciting</li></ul>
+      <h4>Gaps</h4>
+      <ul><li>pytorch appears in the advertisement and is not in the profile or uploaded CV.</li></ul>
+      <p><a href="https://hk.linkedin.com/jobs/view/data-scientist-internship-co-op-winter-or-summer2027-at-intact-4464560916">Open listing</a></p>
+      
+      <p class="links"><a href="../applications/live-linkedin-4464560916/fit-notes.md">Fit notes</a></p><p><button type="button" data-preview>預覽求職信</button> <button type="button" data-confirm>我已核對，允許下載</button></p><pre class="letter-preview" hidden></pre><p class="score">確認後才能下載。</p><p class="links downloads" hidden><a href="../applications/live-linkedin-4464560916/cv.md">下載履歷</a> · <a href="../applications/live-linkedin-4464560916/cover-letter.md">下載求職信</a></p>
+      <div class="actions">
+        <button type="button" data-mark="ready_for_review">保留審閱</button>
+        <button type="button" data-mark="applied">已提交</button>
+        <button type="button" data-mark="skipped">略過</button>
+      </div>
+      <p class="state" data-state>檔案狀態：ready_for_review</p>
+    </article>
+    
+
+    <article class="card" data-id="live-jobsdb-95035037" data-kind="draft" data-status="ready_for_review" data-confirmed="false">
+      <header>
+        <h3>Intern (AI-Focused at Credit Trading Desk, APAC) (6 months)</h3>
+        <p class="meta">Natixis CIB Hong Kong · Hong Kong SAR</p>
+        <p class="score">Fit 58/100 · open_full</p>
+      </header>
+      <p>Company Description
+Natixis Corporate &amp; Investment Banking is a leading global financial institution that provides advisory, investment banking, financing, corporate banking and capital markets services to corporations, financial institutions, financial sponsors and sovereign and supranational organizations worldwide.
+Our teams of experts in close to 30 countries advise clients on their strategic development, helping them to grow and transform their businesses, and maximize their positive impact</p>
+      <h4>Requirements</h4>
+      <ul><li>Our teams of experts in close to 30 countries advise clients on their strategic development, helping them to grow and transform their businesses, and maximize their positive impact. Natixis CIB is committed to aligning its financing</li><li>Problem-Solving Mindset: A proactive &quot;builder&quot; mentality</li><li>Essential: AI/ML Frameworks: Practical experience working with LLM APIs and CLIs (OpenAI, Claude, etc.), prompt engineering</li><li>SQL database knowledge (writing queries, basic database design).</li></ul>
+      <h4>Gaps</h4>
+      <ul></ul>
+      <p><a href="https://hk.jobsdb.com/job/95035037">Open listing</a></p>
+      
+      <p class="links"><a href="../applications/live-jobsdb-95035037/fit-notes.md">Fit notes</a></p><p><button type="button" data-preview>預覽求職信</button> <button type="button" data-confirm>我已核對，允許下載</button></p><pre class="letter-preview" hidden></pre><p class="score">確認後才能下載。</p><p class="links downloads" hidden><a href="../applications/live-jobsdb-95035037/cv.md">下載履歷</a> · <a href="../applications/live-jobsdb-95035037/cover-letter.md">下載求職信</a></p>
+      <div class="actions">
+        <button type="button" data-mark="ready_for_review">保留審閱</button>
+        <button type="button" data-mark="applied">已提交</button>
+        <button type="button" data-mark="skipped">略過</button>
+      </div>
+      <p class="state" data-state>檔案狀態：ready_for_review</p>
+    </article>
+    
+
+    <article class="card" data-id="live-jobsdb-94691097" data-kind="draft" data-status="ready_for_review" data-confirmed="false">
+      <header>
+        <h3>Internship, UX/UI &amp; Product Design (AI/SaaS)</h3>
+        <p class="meta">EV Technologies Limited · Hong Kong Island</p>
+        <p class="score">Fit 58/100 · open_full</p>
+      </header>
+      <p>About The Company
+Headquartered in Hong Kong, Everest Global (EVG) is a Technology focused global venture building group driving mass adoption since 2018. With a global team of 100 operators, engineers and strategists, we have built and launched a diverse portfolio of products for the future of digital interaction across use cases, such as Edgen, Aspen Digital, T-Rex, Last Odessey and BlockTempo. As an early investor and lead advisor, we have contributed to unicorns and 100+ defining projects su</p>
+      <h4>Requirements</h4>
+      <ul><li>Headquartered in Hong Kong, Everest Global (EVG) is a Technology focused global venture building group driving mass adoption since 2018. With a global team of 100 operators, engineers and strategists, we have built and launched a diverse</li><li>We pride ourselves on being a bridge between mainstream business leaders, cultural icons, and innovators. By bridging traditional spheres with the dynamic tech community, we're able to build impactful products for today while pushing</li><li>Complex technical backends need radical visual clarity. At EVG, you will design the interfaces, workflows, and visual language for complex AI engines and financial platforms, translating low-level system power into seamless user</li><li>Format: Hybrid (in-office design reviews at EVG Labs).</li></ul>
+      <h4>Gaps</h4>
+      <ul></ul>
+      <p><a href="https://hk.jobsdb.com/job/94691097">Open listing</a></p>
+      
+      <p class="links"><a href="../applications/live-jobsdb-94691097/fit-notes.md">Fit notes</a></p><p><button type="button" data-preview>預覽求職信</button> <button type="button" data-confirm>我已核對，允許下載</button></p><pre class="letter-preview" hidden></pre><p class="score">確認後才能下載。</p><p class="links downloads" hidden><a href="../applications/live-jobsdb-94691097/cv.md">下載履歷</a> · <a href="../applications/live-jobsdb-94691097/cover-letter.md">下載求職信</a></p>
+      <div class="actions">
+        <button type="button" data-mark="ready_for_review">保留審閱</button>
+        <button type="button" data-mark="applied">已提交</button>
+        <button type="button" data-mark="skipped">略過</button>
+      </div>
+      <p class="state" data-state>檔案狀態：ready_for_review</p>
+    </article>
+    
+
+    <article class="card" data-id="live-linkedin-4467028193" data-kind="draft" data-status="ready_for_review" data-confirmed="false">
+      <header>
+        <h3>Summer 2027 | Software Engineer Intern (ML Research, Core Technology)</h3>
+        <p class="meta">Nex · Central &amp; Western District, Hong Kong SAR</p>
+        <p class="score">Fit 56/100 · open_full</p>
+      </header>
+      <p>Nex is on a mission to help families rediscover the joy of movement. Created by parents for parents, Nex combines technology and play to deliver fun, social, and interactive experiences powered by natural body motion, encouraging kids and adults to move more, play more, and have fun together. Nex Playground, the company’s award-winning active play system, is purpose-built to get families moving year-round, with safety and privacy as core considerations in its intentional design. It is certified </p>
+      <h4>Requirements</h4>
+      <ul><li>Nex is on a mission to help families rediscover the joy of movement. Created by parents for parents, Nex combines technology and play to deliver fun, social, and interactive experiences powered by natural body motion, encouraging kids and</li><li>Nex Playground features a growing library of 50+ experiences, including motion and dance games, fitness and educational experiences, and Nex Originals. Content includes collaborations with partners like Hasbro, Sesame Workshop, and</li><li>Type: Full Time Internship (June 1, 2027 - August 31, 2027)</li><li>The Core Technology team develops the technologies that allow Nex Playground to use cameras, microphones, and other sensors to understand player movement and interactions in real time.</li></ul>
+      <h4>Gaps</h4>
+      <ul><li>pytorch appears in the advertisement and is not in the profile or uploaded CV.</li></ul>
+      <p><a href="https://hk.linkedin.com/jobs/view/summer-2027-software-engineer-intern-ml-research-core-technology-at-nex-4467028193">Open listing</a></p>
+      
+      <p class="links"><a href="../applications/live-linkedin-4467028193/fit-notes.md">Fit notes</a></p><p><button type="button" data-preview>預覽求職信</button> <button type="button" data-confirm>我已核對，允許下載</button></p><pre class="letter-preview" hidden></pre><p class="score">確認後才能下載。</p><p class="links downloads" hidden><a href="../applications/live-linkedin-4467028193/cv.md">下載履歷</a> · <a href="../applications/live-linkedin-4467028193/cover-letter.md">下載求職信</a></p>
+      <div class="actions">
+        <button type="button" data-mark="ready_for_review">保留審閱</button>
+        <button type="button" data-mark="applied">已提交</button>
+        <button type="button" data-mark="skipped">略過</button>
+      </div>
+      <p class="state" data-state>檔案狀態：ready_for_review</p>
+    </article>
+    
+
+    <article class="card" data-id="live-jobsdb-94575906" data-kind="draft" data-status="ready_for_review" data-confirmed="false">
+      <header>
+        <h3>Human Resources Ai Intern</h3>
+        <p class="meta">Micro Connect (H.K.) Investments Limited · Central and Western District</p>
+        <p class="score">Fit 52/100 · open_full</p>
+      </header>
+      <p>About the role
+We are seeking a motivated and innovative HR AI Agent Intern to join our dynamic HR team in Hong Kong. You will build and ship HR AI agents that automate high-volume HR workflows, prototype internal &quot;HR copilots,&quot; and work closely with stakeholders across different teams to drive adoption through creative agent design, LLM-powered workflows, and data-driven insights. This internship offers hands-on experience in a fast-paced environment where your ideas and efforts will be appreci</p>
+      <h4>Requirements</h4>
+      <ul><li>We are seeking a motivated and innovative HR AI Agent Intern to join our dynamic HR team in Hong Kong. You will build and ship HR AI agents that automate high-volume HR workflows, prototype internal &quot;HR copilots,&quot; and work closely with</li><li>Assess current HR workflows end-to-end, identify the highest-leverage opportunities to apply AI or automation, and design, develop, and deploy HR AI agents from scratch that integrate with existing HR systems and data</li><li>Create reusable agent skills, select and orchestrate the optimal LLMs and frameworks, and continuously test and iterate on agent performance</li><li>Prior hands-on experience building HR AI Agents is strongly preferred, e.g., HR chatbots, HR copilots, workflow agents, RAG-based HR assistants</li></ul>
+      <h4>Gaps</h4>
+      <ul><li>The listing is outside Hong Kong.</li></ul>
+      <p><a href="https://hk.jobsdb.com/job/94575906">Open listing</a></p>
+      
+      <p class="links"><a href="../applications/live-jobsdb-94575906/fit-notes.md">Fit notes</a></p><p><button type="button" data-preview>預覽求職信</button> <button type="button" data-confirm>我已核對，允許下載</button></p><pre class="letter-preview" hidden></pre><p class="score">確認後才能下載。</p><p class="links downloads" hidden><a href="../applications/live-jobsdb-94575906/cv.md">下載履歷</a> · <a href="../applications/live-jobsdb-94575906/cover-letter.md">下載求職信</a></p>
+      <div class="actions">
+        <button type="button" data-mark="ready_for_review">保留審閱</button>
+        <button type="button" data-mark="applied">已提交</button>
+        <button type="button" data-mark="skipped">略過</button>
+      </div>
+      <p class="state" data-state>檔案狀態：ready_for_review</p>
+    </article>
+    </section>
+    <h2>先不要投</h2>
+    <p class="lead">這些職位可能仍開放。未讀到完整職缺的不會起草。地點或條件差太遠的也不會起草。</p>
+    <section id="holds">
+    <article class="card" data-id="smartage-swe-ai" data-kind="hold" data-status="hold" data-confirmed="false">
       <header>
         <h3>Software Engineer AI (Intern or Full-time)</h3>
         <p class="meta">SmartAge Intelligence Limited · Sha Tin, Hong Kong</p>
@@ -172,228 +430,43 @@
       <h4>Gaps</h4>
       <ul><li>Flutter, Figma, and IoT tools are required on the listing and are not in the source profile.</li><li>Cloud backends and databases are not recorded.</li><li>The only full text found was a third-party board, so the employer page should be checked before applying.</li></ul>
       <p><a href="https://www.techjobasia.com/jobs/CTqdRMU_Q1-ODjmWUJia1w---Software-Engineer-AI-(Intern-or-Full-time)">Open listing</a></p>
-      
-      <p class="links"><a href="../applications/smartage-swe-ai/cv.md">CV draft</a> · <a href="../applications/smartage-swe-ai/cover-letter.md">Cover letter</a> · <a href="../applications/smartage-swe-ai/fit-notes.md">Fit notes</a></p>
+      <p class="score">未讀到完整職缺，所以沒有起草。</p>
+      <p class="links"><a href="../applications/smartage-swe-ai/fit-notes.md">Fit notes</a></p>
       <div class="actions">
-        <button type="button" data-mark="ready_for_review">Keep for review</button>
-        <button type="button" data-mark="applied">Mark submitted</button>
-        <button type="button" data-mark="skipped">Skip</button>
+        <button type="button" data-mark="ready_for_review">保留審閱</button>
+        <button type="button" data-mark="applied">已提交</button>
+        <button type="button" data-mark="skipped">略過</button>
       </div>
-      <p class="state" data-state></p>
+      <p class="state" data-state>檔案狀態：hold</p>
     </article>
     
 
-    <article class="card" data-id="live-jobsdb-95035037" data-kind="draft">
+    <article class="card" data-id="live-linkedin-4462188381" data-kind="hold" data-status="hold" data-confirmed="false">
       <header>
-        <h3>Intern (AI-Focused at Credit Trading Desk, APAC) (6 months)</h3>
-        <p class="meta">Natixis CIB Hong Kong · Hong Kong SAR</p>
-        <p class="score">Fit 52/100 · open_live</p>
+        <h3>Research Intern</h3>
+        <p class="meta">Microsoft · Hong Kong, Hong Kong SAR</p>
+        <p class="score">Fit 48/100 · open_full</p>
       </header>
-      <p>Passion in Finance: A strong interest in financial markets, and trading mechanics.
-Problem-Solving Mindset: A proactive &quot;builder&quot;...</p>
+      <p>Overview
+Come build community, explore your passions and do your best work at Microsoft with thousands of University interns from every corner of the world. This opportunity will allow you to bring your aspirations, talent, potential - and excitement for the journey ahead.
+As a Research Intern, you will conduct research and leads research collaborations that yield new insights, theories, analyses, data, algorithms, and/or prototypes that advance the state-of-the-art of computer science and engin</p>
       <h4>Requirements</h4>
-      <ul><li>Work type: Full time</li></ul>
+      <ul><li>Come build community, explore your passions and do your best work at Microsoft with thousands of University interns from every corner of the world. This opportunity will allow you to bring your aspirations, talent, potential - and</li><li>As a Research Intern, you will conduct research and leads research collaborations that yield new insights, theories, analyses, data, algorithms, and/or prototypes that advance the state-of-the-art of computer science and engineering, as</li><li>We are seeking candidates excelling in deep thinking research aspects and fast-paced entrepreneurial execution. The ideal candidates should have the ability to work with researchers and product team colleagues at Microsoft to push forward</li><li>Microsoft's mission is to empower every person and every organization on the planet to achieve more. As employees we come together with a growth mindset, innovate to empower others, and collaborate to realize our shared goals. Each day we</li></ul>
       <h4>Gaps</h4>
-      <ul><li>Only the public search card was saved. Open the listing before applying.</li></ul>
-      <p><a href="https://hk.jobsdb.com/job/95035037">Open listing</a></p>
+      <ul><li>c++ appears in the advertisement and is not in the profile or uploaded CV.</li><li>pytorch appears in the advertisement and is not in the profile or uploaded CV.</li></ul>
+      <p><a href="https://hk.linkedin.com/jobs/view/research-intern-at-microsoft-4462188381">Open listing</a></p>
       
-      <p class="links"><a href="../applications/live-jobsdb-95035037/cv.md">CV draft</a> · <a href="../applications/live-jobsdb-95035037/cover-letter.md">Cover letter</a> · <a href="../applications/live-jobsdb-95035037/fit-notes.md">Fit notes</a></p>
+      <p class="links"><a href="../applications/live-linkedin-4462188381/fit-notes.md">Fit notes</a></p>
       <div class="actions">
-        <button type="button" data-mark="ready_for_review">Keep for review</button>
-        <button type="button" data-mark="applied">Mark submitted</button>
-        <button type="button" data-mark="skipped">Skip</button>
+        <button type="button" data-mark="ready_for_review">保留審閱</button>
+        <button type="button" data-mark="applied">已提交</button>
+        <button type="button" data-mark="skipped">略過</button>
       </div>
-      <p class="state" data-state></p>
+      <p class="state" data-state>檔案狀態：hold</p>
     </article>
     
 
-    <article class="card" data-id="live-jobsdb-94691097" data-kind="draft">
-      <header>
-        <h3>Internship, UX/UI &amp; Product Design (AI/SaaS)</h3>
-        <p class="meta">EV Technologies Limited · Hong Kong Island</p>
-        <p class="score">Fit 52/100 · open_live</p>
-      </header>
-      <p>Design interfaces and visual systems for AI engines and financial platforms.</p>
-      <h4>Requirements</h4>
-      <ul><li>High-performers will be eligible for a full-time returning offer</li><li>Exposure to frontier tech and products</li><li>International team and mentorship</li><li>Work type: Part time</li></ul>
-      <h4>Gaps</h4>
-      <ul><li>Only the public search card was saved. Open the listing before applying.</li></ul>
-      <p><a href="https://hk.jobsdb.com/job/94691097">Open listing</a></p>
-      
-      <p class="links"><a href="../applications/live-jobsdb-94691097/cv.md">CV draft</a> · <a href="../applications/live-jobsdb-94691097/cover-letter.md">Cover letter</a> · <a href="../applications/live-jobsdb-94691097/fit-notes.md">Fit notes</a></p>
-      <div class="actions">
-        <button type="button" data-mark="ready_for_review">Keep for review</button>
-        <button type="button" data-mark="applied">Mark submitted</button>
-        <button type="button" data-mark="skipped">Skip</button>
-      </div>
-      <p class="state" data-state></p>
-    </article>
-    
-
-    <article class="card" data-id="live-linkedin-4330148175" data-kind="draft">
-      <header>
-        <h3>AI Engineer (NLP) (Internship)</h3>
-        <p class="meta">FCC ANALYTICS · Hong Kong, Hong Kong SAR</p>
-        <p class="score">Fit 52/100 · open_live</p>
-      </header>
-      <p>AI Engineer (NLP) (Internship)</p>
-      <h4>Requirements</h4>
-      <ul><li>Only the search-card title and summary were retrieved.</li></ul>
-      <h4>Gaps</h4>
-      <ul><li>Only the public search card was saved. Open the listing before applying.</li></ul>
-      <p><a href="https://hk.linkedin.com/jobs/view/ai-engineer-nlp-internship-at-fcc-analytics-4330148175">Open listing</a></p>
-      
-      <p class="links"><a href="../applications/live-linkedin-4330148175/cv.md">CV draft</a> · <a href="../applications/live-linkedin-4330148175/cover-letter.md">Cover letter</a> · <a href="../applications/live-linkedin-4330148175/fit-notes.md">Fit notes</a></p>
-      <div class="actions">
-        <button type="button" data-mark="ready_for_review">Keep for review</button>
-        <button type="button" data-mark="applied">Mark submitted</button>
-        <button type="button" data-mark="skipped">Skip</button>
-      </div>
-      <p class="state" data-state></p>
-    </article>
-    
-
-    <article class="card" data-id="live-linkedin-4464874851" data-kind="draft">
-      <header>
-        <h3>AI Engineer Intern</h3>
-        <p class="meta">Bybit · Hong Kong, Hong Kong SAR</p>
-        <p class="score">Fit 52/100 · open_live</p>
-      </header>
-      <p>AI Engineer Intern</p>
-      <h4>Requirements</h4>
-      <ul><li>Only the search-card title and summary were retrieved.</li></ul>
-      <h4>Gaps</h4>
-      <ul><li>Only the public search card was saved. Open the listing before applying.</li></ul>
-      <p><a href="https://hk.linkedin.com/jobs/view/ai-engineer-intern-at-bybit-4464874851">Open listing</a></p>
-      
-      <p class="links"><a href="../applications/live-linkedin-4464874851/cv.md">CV draft</a> · <a href="../applications/live-linkedin-4464874851/cover-letter.md">Cover letter</a> · <a href="../applications/live-linkedin-4464874851/fit-notes.md">Fit notes</a></p>
-      <div class="actions">
-        <button type="button" data-mark="ready_for_review">Keep for review</button>
-        <button type="button" data-mark="applied">Mark submitted</button>
-        <button type="button" data-mark="skipped">Skip</button>
-      </div>
-      <p class="state" data-state></p>
-    </article>
-    
-
-    <article class="card" data-id="live-linkedin-4464580209" data-kind="draft">
-      <header>
-        <h3>AI Developer - Internship/Co-op (Winter or Summer 2027)</h3>
-        <p class="meta">Intact · Hong Kong, Hong Kong SAR</p>
-        <p class="score">Fit 52/100 · open_live</p>
-      </header>
-      <p>AI Developer - Internship/Co-op (Winter or Summer 2027)</p>
-      <h4>Requirements</h4>
-      <ul><li>Only the search-card title and summary were retrieved.</li></ul>
-      <h4>Gaps</h4>
-      <ul><li>Only the public search card was saved. Open the listing before applying.</li></ul>
-      <p><a href="https://hk.linkedin.com/jobs/view/ai-developer-internship-co-op-winter-or-summer-2027-at-intact-4464580209">Open listing</a></p>
-      
-      <p class="links"><a href="../applications/live-linkedin-4464580209/cv.md">CV draft</a> · <a href="../applications/live-linkedin-4464580209/cover-letter.md">Cover letter</a> · <a href="../applications/live-linkedin-4464580209/fit-notes.md">Fit notes</a></p>
-      <div class="actions">
-        <button type="button" data-mark="ready_for_review">Keep for review</button>
-        <button type="button" data-mark="applied">Mark submitted</button>
-        <button type="button" data-mark="skipped">Skip</button>
-      </div>
-      <p class="state" data-state></p>
-    </article>
-    
-
-    <article class="card" data-id="live-linkedin-4466503023" data-kind="draft">
-      <header>
-        <h3>AI Development Engineer Intern</h3>
-        <p class="meta">Bybit · Hong Kong, Hong Kong SAR</p>
-        <p class="score">Fit 52/100 · open_live</p>
-      </header>
-      <p>AI Development Engineer Intern</p>
-      <h4>Requirements</h4>
-      <ul><li>Only the search-card title and summary were retrieved.</li></ul>
-      <h4>Gaps</h4>
-      <ul><li>Only the public search card was saved. Open the listing before applying.</li></ul>
-      <p><a href="https://hk.linkedin.com/jobs/view/ai-development-engineer-intern-at-bybit-4466503023">Open listing</a></p>
-      
-      <p class="links"><a href="../applications/live-linkedin-4466503023/cv.md">CV draft</a> · <a href="../applications/live-linkedin-4466503023/cover-letter.md">Cover letter</a> · <a href="../applications/live-linkedin-4466503023/fit-notes.md">Fit notes</a></p>
-      <div class="actions">
-        <button type="button" data-mark="ready_for_review">Keep for review</button>
-        <button type="button" data-mark="applied">Mark submitted</button>
-        <button type="button" data-mark="skipped">Skip</button>
-      </div>
-      <p class="state" data-state></p>
-    </article>
-    
-
-    <article class="card" data-id="precision-robotics-intern" data-kind="draft">
-      <header>
-        <h3>AI Engineer Intern</h3>
-        <p class="meta">Precision Robotics (Hong Kong) Limited · Hong Kong Science Park, Tai Po District</p>
-        <p class="score">Fit 39/100 · unconfirmed_aggregator</p>
-      </header>
-      <p>Science Park internship assisting software engineers on surgical robotics. Duties include research, testing, verification, debugging, documentation, and field-trial support. The aggregator requires C++ and lists Python, Java, robotics, and real-time communication as relevant. It also says the intern should be studying a bachelor's degree in computing, electronics, or a related subject.</p>
-      <h4>Requirements</h4>
-      <ul><li>Studying a bachelor's degree in computer science, computing, electronics, or a related discipline</li><li>Good knowledge of C++</li><li>Python or Java is useful</li><li>Robotics and real-time communication are a bonus</li><li>Software testing, debugging, verification, and documentation</li><li>English and Chinese</li></ul>
-      <h4>Gaps</h4>
-      <ul><li>C++ is required and is not recorded in the profile.</li><li>Python and Java are not recorded.</li><li>The text comes from an aggregator with no posting date, so it may be stale.</li></ul>
-      <p><a href="https://jobs.weekday.works/precision-robotics-(hong-kong)-limited-ai-engineer-intern">Open listing</a></p>
-      <p class="score">不建議現在提交。職缺點名的技能尚未出現在履歷來源裡。</p>
-      <p class="links"><a href="../applications/precision-robotics-intern/cv.md">CV draft</a> · <a href="../applications/precision-robotics-intern/cover-letter.md">Cover letter</a> · <a href="../applications/precision-robotics-intern/fit-notes.md">Fit notes</a></p>
-      <div class="actions">
-        <button type="button" data-mark="ready_for_review">Keep for review</button>
-        <button type="button" data-mark="applied">Mark submitted</button>
-        <button type="button" data-mark="skipped">Skip</button>
-      </div>
-      <p class="state" data-state></p>
-    </article>
-    </section>
-    <h2>先不要投</h2>
-    <p class="lead">職位仍可能開放，但地點、入學狀態或技術條件與現有資料差太遠。</p>
-    <section id="holds">
-    <article class="card" data-id="live-linkedin-4456165750" data-kind="hold">
-      <header>
-        <h3>Data Science - Internship</h3>
-        <p class="meta">DBS Bank · Hong Kong, Hong Kong SAR</p>
-        <p class="score">Fit 46/100 · open_live</p>
-      </header>
-      <p>Data Science - Internship</p>
-      <h4>Requirements</h4>
-      <ul><li>Only the search-card title and summary were retrieved.</li></ul>
-      <h4>Gaps</h4>
-      <ul><li>Only the public search card was saved. Open the listing before applying.</li></ul>
-      <p><a href="https://hk.linkedin.com/jobs/view/data-science-internship-at-dbs-bank-4456165750">Open listing</a></p>
-      
-      <p class="links"><a href="../applications/live-linkedin-4456165750/fit-notes.md">Fit notes</a></p>
-      <div class="actions">
-        <button type="button" data-mark="ready_for_review">Keep for review</button>
-        <button type="button" data-mark="applied">Mark submitted</button>
-        <button type="button" data-mark="skipped">Skip</button>
-      </div>
-      <p class="state" data-state></p>
-    </article>
-    
-
-    <article class="card" data-id="live-linkedin-4467028193" data-kind="hold">
-      <header>
-        <h3>Summer 2027 | Software Engineer Intern (ML Research, Core Technology)</h3>
-        <p class="meta">Nex · Central &amp; Western District, Hong Kong SAR</p>
-        <p class="score">Fit 46/100 · open_live</p>
-      </header>
-      <p>Summer 2027 | Software Engineer Intern (ML Research, Core Technology)</p>
-      <h4>Requirements</h4>
-      <ul><li>Only the search-card title and summary were retrieved.</li></ul>
-      <h4>Gaps</h4>
-      <ul><li>Only the public search card was saved. Open the listing before applying.</li></ul>
-      <p><a href="https://hk.linkedin.com/jobs/view/summer-2027-software-engineer-intern-ml-research-core-technology-at-nex-4467028193">Open listing</a></p>
-      
-      <p class="links"><a href="../applications/live-linkedin-4467028193/fit-notes.md">Fit notes</a></p>
-      <div class="actions">
-        <button type="button" data-mark="ready_for_review">Keep for review</button>
-        <button type="button" data-mark="applied">Mark submitted</button>
-        <button type="button" data-mark="skipped">Skip</button>
-      </div>
-      <p class="state" data-state></p>
-    </article>
-    
-
-    <article class="card" data-id="live-linkedin-4463847041" data-kind="hold">
+    <article class="card" data-id="live-linkedin-4463847041" data-kind="hold" data-status="hold" data-confirmed="false">
       <header>
         <h3>Binance Accelerator Program - LLM Model Training &amp; Data Processing</h3>
         <p class="meta">Binance · Hong Kong, Hong Kong SAR</p>
@@ -405,64 +478,41 @@ Problem-Solving Mindset: A proactive &quot;builder&quot;...</p>
       <h4>Gaps</h4>
       <ul><li>Only the public search card was saved. Open the listing before applying.</li></ul>
       <p><a href="https://hk.linkedin.com/jobs/view/binance-accelerator-program-llm-model-training-data-processing-at-binance-4463847041">Open listing</a></p>
-      
+      <p class="score">未讀到完整職缺，所以沒有起草。</p>
       <p class="links"><a href="../applications/live-linkedin-4463847041/fit-notes.md">Fit notes</a></p>
       <div class="actions">
-        <button type="button" data-mark="ready_for_review">Keep for review</button>
-        <button type="button" data-mark="applied">Mark submitted</button>
-        <button type="button" data-mark="skipped">Skip</button>
+        <button type="button" data-mark="ready_for_review">保留審閱</button>
+        <button type="button" data-mark="applied">已提交</button>
+        <button type="button" data-mark="skipped">略過</button>
       </div>
-      <p class="state" data-state></p>
+      <p class="state" data-state>檔案狀態：hold</p>
     </article>
     
 
-    <article class="card" data-id="live-linkedin-4462188381" data-kind="hold">
+    <article class="card" data-id="precision-robotics-intern" data-kind="hold" data-status="hold" data-confirmed="false">
       <header>
-        <h3>Research Intern</h3>
-        <p class="meta">Microsoft · Hong Kong, Hong Kong SAR</p>
-        <p class="score">Fit 46/100 · open_live</p>
+        <h3>AI Engineer Intern</h3>
+        <p class="meta">Precision Robotics (Hong Kong) Limited · Hong Kong Science Park, Tai Po District</p>
+        <p class="score">Fit 39/100 · unconfirmed_aggregator</p>
       </header>
-      <p>Research Intern</p>
+      <p>Science Park internship assisting software engineers on surgical robotics. Duties include research, testing, verification, debugging, documentation, and field-trial support. The aggregator requires C++ and lists Python, Java, robotics, and real-time communication as relevant. It also says the intern should be studying a bachelor's degree in computing, electronics, or a related subject.</p>
       <h4>Requirements</h4>
-      <ul><li>Only the search-card title and summary were retrieved.</li></ul>
+      <ul><li>Studying a bachelor's degree in computer science, computing, electronics, or a related discipline</li><li>Good knowledge of C++</li><li>Python or Java is useful</li><li>Robotics and real-time communication are a bonus</li><li>Software testing, debugging, verification, and documentation</li><li>English and Chinese</li></ul>
       <h4>Gaps</h4>
-      <ul><li>Only the public search card was saved. Open the listing before applying.</li></ul>
-      <p><a href="https://hk.linkedin.com/jobs/view/research-intern-at-microsoft-4462188381">Open listing</a></p>
-      
-      <p class="links"><a href="../applications/live-linkedin-4462188381/fit-notes.md">Fit notes</a></p>
+      <ul><li>C++ is required and is not recorded in the profile.</li><li>Python and Java are not recorded.</li><li>The text comes from an aggregator with no posting date, so it may be stale.</li></ul>
+      <p><a href="https://jobs.weekday.works/precision-robotics-(hong-kong)-limited-ai-engineer-intern">Open listing</a></p>
+      <p class="score">未讀到完整職缺，所以沒有起草。</p>
+      <p class="links"><a href="../applications/precision-robotics-intern/fit-notes.md">Fit notes</a></p>
       <div class="actions">
-        <button type="button" data-mark="ready_for_review">Keep for review</button>
-        <button type="button" data-mark="applied">Mark submitted</button>
-        <button type="button" data-mark="skipped">Skip</button>
+        <button type="button" data-mark="ready_for_review">保留審閱</button>
+        <button type="button" data-mark="applied">已提交</button>
+        <button type="button" data-mark="skipped">略過</button>
       </div>
-      <p class="state" data-state></p>
+      <p class="state" data-state>檔案狀態：hold</p>
     </article>
     
 
-    <article class="card" data-id="live-linkedin-4464560916" data-kind="hold">
-      <header>
-        <h3>Data Scientist - Internship/Co-op (Winter or Summer2027)</h3>
-        <p class="meta">Intact · Hong Kong, Hong Kong SAR</p>
-        <p class="score">Fit 46/100 · open_live</p>
-      </header>
-      <p>Data Scientist - Internship/Co-op (Winter or Summer2027)</p>
-      <h4>Requirements</h4>
-      <ul><li>Only the search-card title and summary were retrieved.</li></ul>
-      <h4>Gaps</h4>
-      <ul><li>Only the public search card was saved. Open the listing before applying.</li></ul>
-      <p><a href="https://hk.linkedin.com/jobs/view/data-scientist-internship-co-op-winter-or-summer2027-at-intact-4464560916">Open listing</a></p>
-      
-      <p class="links"><a href="../applications/live-linkedin-4464560916/fit-notes.md">Fit notes</a></p>
-      <div class="actions">
-        <button type="button" data-mark="ready_for_review">Keep for review</button>
-        <button type="button" data-mark="applied">Mark submitted</button>
-        <button type="button" data-mark="skipped">Skip</button>
-      </div>
-      <p class="state" data-state></p>
-    </article>
-    
-
-    <article class="card" data-id="live-jobsdb-94834920" data-kind="hold">
+    <article class="card" data-id="live-jobsdb-94834920" data-kind="hold" data-status="hold" data-confirmed="false">
       <header>
         <h3>Technology Research Intern – MarTech &amp; AI (Part-time)</h3>
         <p class="meta">GoGoChart Technology Limited · Cheung Sha Wan, Sham Shui Po District</p>
@@ -474,18 +524,18 @@ Problem-Solving Mindset: A proactive &quot;builder&quot;...</p>
       <h4>Gaps</h4>
       <ul><li>The listing is outside Hong Kong.</li><li>Only the public search card was saved. Open the listing before applying.</li></ul>
       <p><a href="https://hk.jobsdb.com/job/94834920">Open listing</a></p>
-      
+      <p class="score">未讀到完整職缺，所以沒有起草。</p>
       <p class="links"><a href="../applications/live-jobsdb-94834920/fit-notes.md">Fit notes</a></p>
       <div class="actions">
-        <button type="button" data-mark="ready_for_review">Keep for review</button>
-        <button type="button" data-mark="applied">Mark submitted</button>
-        <button type="button" data-mark="skipped">Skip</button>
+        <button type="button" data-mark="ready_for_review">保留審閱</button>
+        <button type="button" data-mark="applied">已提交</button>
+        <button type="button" data-mark="skipped">略過</button>
       </div>
-      <p class="state" data-state></p>
+      <p class="state" data-state>檔案狀態：hold</p>
     </article>
     
 
-    <article class="card" data-id="live-jobstreet-94906278" data-kind="hold">
+    <article class="card" data-id="live-jobstreet-94906278" data-kind="hold" data-status="hold" data-confirmed="false">
       <header>
         <h3>Data Science and AI Intern</h3>
         <p class="meta">SBS Transit · Sengkang, North-East Region</p>
@@ -497,41 +547,18 @@ Problem-Solving Mindset: A proactive &quot;builder&quot;...</p>
       <h4>Gaps</h4>
       <ul><li>The listing is outside Hong Kong.</li><li>Only the public search card was saved. Open the listing before applying.</li></ul>
       <p><a href="https://sg.jobstreet.com/job/94906278">Open listing</a></p>
-      
+      <p class="score">未讀到完整職缺，所以沒有起草。</p>
       <p class="links"><a href="../applications/live-jobstreet-94906278/fit-notes.md">Fit notes</a></p>
       <div class="actions">
-        <button type="button" data-mark="ready_for_review">Keep for review</button>
-        <button type="button" data-mark="applied">Mark submitted</button>
-        <button type="button" data-mark="skipped">Skip</button>
+        <button type="button" data-mark="ready_for_review">保留審閱</button>
+        <button type="button" data-mark="applied">已提交</button>
+        <button type="button" data-mark="skipped">略過</button>
       </div>
-      <p class="state" data-state></p>
+      <p class="state" data-state>檔案狀態：hold</p>
     </article>
     
 
-    <article class="card" data-id="live-jobsdb-94575906" data-kind="hold">
-      <header>
-        <h3>Human Resources Ai Intern</h3>
-        <p class="meta">Micro Connect (H.K.) Investments Limited · Central and Western District</p>
-        <p class="score">Fit 28/100 · open_live</p>
-      </header>
-      <p>Build and ship HR AI agents that automate high-volume HR workflows in Hong Kong.</p>
-      <h4>Requirements</h4>
-      <ul><li>Work type: Part time</li></ul>
-      <h4>Gaps</h4>
-      <ul><li>The listing is outside Hong Kong.</li><li>Only the public search card was saved. Open the listing before applying.</li></ul>
-      <p><a href="https://hk.jobsdb.com/job/94575906">Open listing</a></p>
-      
-      <p class="links"><a href="../applications/live-jobsdb-94575906/fit-notes.md">Fit notes</a></p>
-      <div class="actions">
-        <button type="button" data-mark="ready_for_review">Keep for review</button>
-        <button type="button" data-mark="applied">Mark submitted</button>
-        <button type="button" data-mark="skipped">Skip</button>
-      </div>
-      <p class="state" data-state></p>
-    </article>
-    
-
-    <article class="card" data-id="live-jobsdb-94731783" data-kind="hold">
+    <article class="card" data-id="live-jobsdb-94731783" data-kind="hold" data-status="hold" data-confirmed="false">
       <header>
         <h3>AI Software Developer/Assistant/Intern</h3>
         <p class="meta">Hong Kong Univisual Intelligent Technology Limited · Kowloon Tong, Kowloon City District</p>
@@ -543,18 +570,18 @@ Problem-Solving Mindset: A proactive &quot;builder&quot;...</p>
       <h4>Gaps</h4>
       <ul><li>The listing is outside Hong Kong.</li><li>Only the public search card was saved. Open the listing before applying.</li></ul>
       <p><a href="https://hk.jobsdb.com/job/94731783">Open listing</a></p>
-      
+      <p class="score">未讀到完整職缺，所以沒有起草。</p>
       <p class="links"><a href="../applications/live-jobsdb-94731783/fit-notes.md">Fit notes</a></p>
       <div class="actions">
-        <button type="button" data-mark="ready_for_review">Keep for review</button>
-        <button type="button" data-mark="applied">Mark submitted</button>
-        <button type="button" data-mark="skipped">Skip</button>
+        <button type="button" data-mark="ready_for_review">保留審閱</button>
+        <button type="button" data-mark="applied">已提交</button>
+        <button type="button" data-mark="skipped">略過</button>
       </div>
-      <p class="state" data-state></p>
+      <p class="state" data-state>檔案狀態：hold</p>
     </article>
     
 
-    <article class="card" data-id="live-jobsdb-94676123" data-kind="hold">
+    <article class="card" data-id="live-jobsdb-94676123" data-kind="hold" data-status="hold" data-confirmed="false">
       <header>
         <h3>AI Product Developer Intern</h3>
         <p class="meta">VIBE TECHNOLOGY LIMITED · Kowloon Tong, Kowloon City District</p>
@@ -566,41 +593,41 @@ Problem-Solving Mindset: A proactive &quot;builder&quot;...</p>
       <h4>Gaps</h4>
       <ul><li>The listing is outside Hong Kong.</li><li>Only the public search card was saved. Open the listing before applying.</li></ul>
       <p><a href="https://hk.jobsdb.com/job/94676123">Open listing</a></p>
-      
+      <p class="score">未讀到完整職缺，所以沒有起草。</p>
       <p class="links"><a href="../applications/live-jobsdb-94676123/fit-notes.md">Fit notes</a></p>
       <div class="actions">
-        <button type="button" data-mark="ready_for_review">Keep for review</button>
-        <button type="button" data-mark="applied">Mark submitted</button>
-        <button type="button" data-mark="skipped">Skip</button>
+        <button type="button" data-mark="ready_for_review">保留審閱</button>
+        <button type="button" data-mark="applied">已提交</button>
+        <button type="button" data-mark="skipped">略過</button>
       </div>
-      <p class="state" data-state></p>
+      <p class="state" data-state>檔案狀態：hold</p>
     </article>
     
 
-    <article class="card" data-id="ricoh-ai-specialist" data-kind="hold">
+    <article class="card" data-id="ricoh-ai-specialist" data-kind="hold" data-status="hold" data-confirmed="false">
       <header>
         <h3>AI Solution Specialist</h3>
         <p class="meta">Ricoh Hong Kong Limited · Kowloon Bay, Kwun Tong District</p>
-        <p class="score">Fit 21/100 · open_summary_only</p>
+        <p class="score">Fit 21/100 · open_full</p>
       </header>
       <p>Ricoh card for an AI Solution Specialist. Bullets cover building solutions with sales, finding AI application opportunities, and turning R&amp;D findings into prototypes. Years of experience are not on the card.</p>
       <h4>Requirements</h4>
-      <ul><li>Develop solutions with sales to meet customer needs</li><li>Investigate and identify AI application opportunities</li><li>Translate technical R&amp;D findings into prototypes</li></ul>
+      <ul><li>Develop technical solutions and collaborate with sales team to understand customer requirements</li><li>Develop and deliver technical proposals and proof of concepts (PoCs)</li><li>Develop AI agents using LLMs, focusing on prompt engineering and RAG (Retrieval-Augmented Generation) techniques</li><li>Analyze workflows to design AI-driven enhancements</li></ul>
       <h4>Gaps</h4>
       <ul><li>Specialist titles often expect prior commercial delivery, and the card does not say otherwise.</li><li>The full advertisement was not retrieved.</li><li>Working with sales on customer solutions is not in the trainee profile.</li></ul>
       <p><a href="https://hk.jobsdb.com/job/94904479">Open listing</a></p>
       
       <p class="links"><a href="../applications/ricoh-ai-specialist/fit-notes.md">Fit notes</a></p>
       <div class="actions">
-        <button type="button" data-mark="ready_for_review">Keep for review</button>
-        <button type="button" data-mark="applied">Mark submitted</button>
-        <button type="button" data-mark="skipped">Skip</button>
+        <button type="button" data-mark="ready_for_review">保留審閱</button>
+        <button type="button" data-mark="applied">已提交</button>
+        <button type="button" data-mark="skipped">略過</button>
       </div>
-      <p class="state" data-state></p>
+      <p class="state" data-state>檔案狀態：hold</p>
     </article>
     
 
-    <article class="card" data-id="fdm-se-grad-hk" data-kind="hold">
+    <article class="card" data-id="fdm-se-grad-hk" data-kind="hold" data-status="hold" data-confirmed="false">
       <header>
         <h3>Software Engineering Graduate Programme (International students, Hong Kong based)</h3>
         <p class="meta">FDM Group · Hong Kong</p>
@@ -612,18 +639,18 @@ Problem-Solving Mindset: A proactive &quot;builder&quot;...</p>
       <h4>Gaps</h4>
       <ul><li>The page is written for students returning from the UK, Australia, or Canada. That history is not in the profile.</li><li>A 2.5-year commitment should be a conscious choice, not a default application.</li></ul>
       <p><a href="https://careers.fdmgroup.com/vacancies/1721/software-engineering-graduate-programme--international-students-hong-kong-based.html">Open listing</a></p>
-      
+      <p class="score">未讀到完整職缺，所以沒有起草。</p>
       <p class="links"><a href="../applications/fdm-se-grad-hk/fit-notes.md">Fit notes</a></p>
       <div class="actions">
-        <button type="button" data-mark="ready_for_review">Keep for review</button>
-        <button type="button" data-mark="applied">Mark submitted</button>
-        <button type="button" data-mark="skipped">Skip</button>
+        <button type="button" data-mark="ready_for_review">保留審閱</button>
+        <button type="button" data-mark="applied">已提交</button>
+        <button type="button" data-mark="skipped">略過</button>
       </div>
-      <p class="state" data-state></p>
+      <p class="state" data-state>檔案狀態：hold</p>
     </article>
     
 
-    <article class="card" data-id="dbs-map-2027-ai" data-kind="hold">
+    <article class="card" data-id="dbs-map-2027-ai" data-kind="hold" data-status="hold" data-confirmed="false">
       <header>
         <h3>2027 Management Associate Programme (Technology and AI &amp; Data Science)</h3>
         <p class="meta">DBS · Singapore</p>
@@ -635,20 +662,20 @@ Problem-Solving Mindset: A proactive &quot;builder&quot;...</p>
       <h4>Gaps</h4>
       <ul><li>The posting is in Singapore. The search preference is Hong Kong.</li><li>Python, Pandas, NumPy, scikit-learn, RAG, and LangChain are not in the source profile.</li><li>Degree details are blank, and the programme asks for a transcript at application time.</li></ul>
       <p><a href="https://dbs.wd3.myworkdayjobs.com/DBS_Careers/job/Singapore---Central/XMLNAME-2027-Management-Associate-Programme--Technology-and-AI---Data-Science-_WD88186">Open listing</a></p>
-      
+      <p class="score">未讀到完整職缺，所以沒有起草。</p>
       <p class="links"><a href="../applications/dbs-map-2027-ai/fit-notes.md">Fit notes</a></p>
       <div class="actions">
-        <button type="button" data-mark="ready_for_review">Keep for review</button>
-        <button type="button" data-mark="applied">Mark submitted</button>
-        <button type="button" data-mark="skipped">Skip</button>
+        <button type="button" data-mark="ready_for_review">保留審閱</button>
+        <button type="button" data-mark="applied">已提交</button>
+        <button type="button" data-mark="skipped">略過</button>
       </div>
-      <p class="state" data-state></p>
+      <p class="state" data-state>檔案狀態：hold</p>
     </article>
     </section>
     <h2>已排除</h2>
     <p class="lead">僱主頁面顯示已額滿、廣告已過期，或申請已關閉。保留紀錄是為了避免重複申請。</p>
     <section id="excluded">
-    <article class="card" data-id="hkpc-technical-officer" data-kind="excluded">
+    <article class="card" data-id="hkpc-technical-officer" data-kind="excluded" data-status="closed" data-confirmed="false">
       <header>
         <h3>Technical Officer, Emerging Applications</h3>
         <p class="meta">Hong Kong Productivity Council · Hong Kong</p>
@@ -663,15 +690,15 @@ Problem-Solving Mindset: A proactive &quot;builder&quot;...</p>
       
       <p class="links"><a href="../applications/hkpc-technical-officer/fit-notes.md">Fit notes</a></p>
       <div class="actions">
-        <button type="button" data-mark="ready_for_review">Keep for review</button>
-        <button type="button" data-mark="applied">Mark submitted</button>
-        <button type="button" data-mark="skipped">Skip</button>
+        <button type="button" data-mark="ready_for_review">保留審閱</button>
+        <button type="button" data-mark="applied">已提交</button>
+        <button type="button" data-mark="skipped">略過</button>
       </div>
-      <p class="state" data-state></p>
+      <p class="state" data-state>檔案狀態：closed</p>
     </article>
     
 
-    <article class="card" data-id="macroview-solution-engineer" data-kind="excluded">
+    <article class="card" data-id="macroview-solution-engineer" data-kind="excluded" data-status="closed" data-confirmed="false">
       <header>
         <h3>Solution Engineer - AI Automation (Fresh Graduates Welcome)</h3>
         <p class="meta">Macroview Telecom Limited · Tsing Yi, Kwai Tsing District</p>
@@ -686,15 +713,15 @@ Problem-Solving Mindset: A proactive &quot;builder&quot;...</p>
       
       <p class="links"><a href="../applications/macroview-solution-engineer/fit-notes.md">Fit notes</a></p>
       <div class="actions">
-        <button type="button" data-mark="ready_for_review">Keep for review</button>
-        <button type="button" data-mark="applied">Mark submitted</button>
-        <button type="button" data-mark="skipped">Skip</button>
+        <button type="button" data-mark="ready_for_review">保留審閱</button>
+        <button type="button" data-mark="applied">已提交</button>
+        <button type="button" data-mark="skipped">略過</button>
       </div>
-      <p class="state" data-state></p>
+      <p class="state" data-state>檔案狀態：closed</p>
     </article>
     
 
-    <article class="card" data-id="pharmcare-ai-trainee" data-kind="excluded">
+    <article class="card" data-id="pharmcare-ai-trainee" data-kind="excluded" data-status="closed" data-confirmed="false">
       <header>
         <h3>AI / Application Specialist Trainee</h3>
         <p class="meta">PharmCare · Hong Kong</p>
@@ -709,37 +736,94 @@ Problem-Solving Mindset: A proactive &quot;builder&quot;...</p>
       
       <p class="links"><a href="../applications/pharmcare-ai-trainee/fit-notes.md">Fit notes</a></p>
       <div class="actions">
-        <button type="button" data-mark="ready_for_review">Keep for review</button>
-        <button type="button" data-mark="applied">Mark submitted</button>
-        <button type="button" data-mark="skipped">Skip</button>
+        <button type="button" data-mark="ready_for_review">保留審閱</button>
+        <button type="button" data-mark="applied">已提交</button>
+        <button type="button" data-mark="skipped">略過</button>
       </div>
-      <p class="state" data-state></p>
+      <p class="state" data-state>檔案狀態：closed</p>
     </article>
     </section>
   </main>
   <script>
-    const storageKey = "cheung-job-tracker-2026-10-06";
-    const saved = JSON.parse(localStorage.getItem(storageKey) || "{}");
+    // Older pages stored marks only in the browser. Drop that copy so the
+    // file in data/tracker.json is the only status a reload can show.
+    localStorage.removeItem("cheung-job-tracker-2026-10-06");
 
     function paint(card) {
-      const id = card.dataset.id;
-      const state = saved[id] || {};
+      const status = card.dataset.status || "";
       card.querySelectorAll("button[data-mark]").forEach((button) => {
-        button.setAttribute("aria-pressed", String(button.dataset.mark === state.status));
+        button.setAttribute("aria-pressed", String(button.dataset.mark === status));
       });
-      const label = card.querySelector("[data-state]");
-      label.textContent = state.status ? "本機狀態：" + state.status : "本機狀態：尚未標記";
+    }
+
+    async function postJson(url, payload) {
+      const response = await fetch(url, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(payload)
+      });
+      let body = {};
+      try {
+        body = await response.json();
+      } catch (error) {
+        body = {};
+      }
+      if (!response.ok || !body.ok) {
+        throw new Error(body.message || "操作失敗");
+      }
+      return body;
     }
 
     document.querySelectorAll(".card").forEach((card) => {
       paint(card);
       card.querySelectorAll("button[data-mark]").forEach((button) => {
-        button.addEventListener("click", () => {
-          saved[card.dataset.id] = { status: button.dataset.mark, viewed: true };
-          localStorage.setItem(storageKey, JSON.stringify(saved));
-          paint(card);
+        button.addEventListener("click", async () => {
+          const label = card.querySelector("[data-state]");
+          const mark = button.dataset.mark;
+          label.textContent = "正在寫入檔案…";
+          try {
+            await postJson("/api/tracker", { id: card.dataset.id, status: mark });
+            if (mark === "applied" || mark === "skipped") {
+              window.location.reload();
+              return;
+            }
+            card.dataset.status = mark;
+            label.textContent = "檔案狀態：" + mark;
+            paint(card);
+          } catch (error) {
+            label.textContent = error.message;
+          }
         });
       });
+      const preview = card.querySelector("[data-preview]");
+      if (preview) {
+        preview.addEventListener("click", async () => {
+          const box = card.querySelector(".letter-preview");
+          box.hidden = false;
+          box.textContent = "正在讀取求職信…";
+          try {
+            const payload = await postJson("/api/preview", { id: card.dataset.id });
+            box.textContent = payload.text;
+          } catch (error) {
+            box.textContent = error.message;
+          }
+        });
+      }
+      const confirmButton = card.querySelector("[data-confirm]");
+      if (confirmButton) {
+        confirmButton.addEventListener("click", async () => {
+          confirmButton.disabled = true;
+          try {
+            await postJson("/api/confirm", { id: card.dataset.id });
+            window.location.reload();
+          } catch (error) {
+            confirmButton.disabled = false;
+            const box = card.querySelector(".letter-preview");
+            box.hidden = false;
+            box.textContent = error.message;
+          }
+        });
+      }
     });
 
     const refetchButton = document.getElementById("refetch");

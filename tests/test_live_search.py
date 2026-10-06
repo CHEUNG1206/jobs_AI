@@ -19,7 +19,7 @@ sys.path.insert(0, str(ROOT / "src"))
 from career_agent import render_cv, score_job
 from cv_store import extract_text, matching_sentences, parse_upload, save_upload
 from job_search import merge_catalogue, search_all, title_matches, to_catalogue_job
-from server import make_handler
+from server import draft_download_block, make_handler
 from http.server import ThreadingHTTPServer
 
 
@@ -148,6 +148,10 @@ class LiveSearchTest(unittest.TestCase):
                 "location": "Sha Tin, Hong Kong",
                 "url": "https://hk.jobsdb.com/job/5",
                 "summary": "Test an AI chatbot on Android.",
+                "full_text": long_advertisement(
+                    "You will develop and test an AI chatbot on Android. "
+                    "The intern is responsible for checking accuracy and latency."
+                ),
                 "bullets": [],
                 "work_types": ["Internship"],
                 "listed": "today",
@@ -164,6 +168,10 @@ class LiveSearchTest(unittest.TestCase):
                 "location": "Singapore",
                 "url": "https://sg.jobstreet.com/job/6",
                 "summary": "Lead a team. C++ required.",
+                "full_text": long_advertisement(
+                    "You will lead design reviews for the team. "
+                    "The manager is responsible for hiring. Good knowledge of C++ is required."
+                ),
                 "bullets": [],
                 "work_types": [],
                 "listed": "",
@@ -176,10 +184,89 @@ class LiveSearchTest(unittest.TestCase):
         self.assertFalse(senior["prepareApplication"])
         self.assertLess(score_job(senior)["score"], score_job(intern)["score"])
         self.assertNotIn("proficient in C++", " ".join(senior["letter"]).lower())
+        self.assertEqual(senior["letter"], [])
+
+    def test_a_search_card_alone_never_prepares_a_letter(self):
+        job = to_catalogue_job(
+            {
+                "platform": "LinkedIn",
+                "remote_id": "9",
+                "title": "AI Intern",
+                "company": "Lab",
+                "location": "Hong Kong",
+                "url": "https://hk.linkedin.com/jobs/view/9",
+                "summary": "AI Intern",
+                "full_text": "",
+                "bullets": [],
+                "work_types": [],
+                "listed": "",
+            },
+            PROFILE,
+            "chatbot android",
+        )
+        self.assertFalse(job["prepareApplication"])
+        self.assertEqual(job["letter"], [])
+
+    def test_two_advertisements_produce_different_letters(self):
+        corpus = "Develop an AI chatbot for a robot. Test robot application features in Android simulation environments."
+        alpha = to_catalogue_job(
+            {
+                "platform": "JobsDB",
+                "remote_id": "1",
+                "title": "AI Intern",
+                "company": "Alpha Lab",
+                "location": "Hong Kong",
+                "url": "https://hk.jobsdb.com/job/1",
+                "summary": "chatbot",
+                "full_text": long_advertisement(
+                    "You will develop an AI chatbot and demonstrate it to visitors. "
+                    "The intern is responsible for chatbot accuracy during the alpha-orbit demonstration."
+                ),
+                "bullets": [],
+                "work_types": ["Internship"],
+                "listed": "",
+            },
+            PROFILE,
+            corpus,
+        )
+        beta = to_catalogue_job(
+            {
+                "platform": "JobsDB",
+                "remote_id": "2",
+                "title": "AI Intern",
+                "company": "Beta Lab",
+                "location": "Hong Kong",
+                "url": "https://hk.jobsdb.com/job/2",
+                "summary": "android",
+                "full_text": long_advertisement(
+                    "You will test Android simulation of a robot application. "
+                    "The intern is responsible for tracing Android failures in the beta-harbor lab."
+                ),
+                "bullets": [],
+                "work_types": ["Internship"],
+                "listed": "",
+            },
+            PROFILE,
+            corpus,
+        )
+        alpha_letter = " ".join(alpha["letter"])
+        beta_letter = " ".join(beta["letter"])
+        self.assertIn("alpha-orbit", alpha_letter)
+        self.assertIn("beta-harbor", beta_letter)
+        self.assertNotIn("alpha-orbit", beta_letter)
+        self.assertNotEqual(alpha["letter"], beta["letter"])
 
     def test_title_match_accepts_short_ai_token(self):
         self.assertTrue(title_matches("AI Intern", "AI intern"))
         self.assertFalse(title_matches("Office Assistant", "AI intern"))
+
+
+def long_advertisement(seed: str) -> str:
+    """Repeat a fixture until it is long enough to count as a full advertisement."""
+    text = seed.strip()
+    while len(text) < 280:
+        text += " " + seed.strip()
+    return text
 
 
 class CvUploadTest(unittest.TestCase):
@@ -216,6 +303,19 @@ class CvUploadTest(unittest.TestCase):
         filename, data = parse_upload(body, 'multipart/form-data; boundary="bound"')
         self.assertEqual(filename, "master.txt")
         self.assertIn(b"robot chatbot", data)
+
+
+class DownloadGateTest(unittest.TestCase):
+    def test_block_message_depends_on_confirmation(self):
+        tracker = {"items": {"gate-check": {"confirmed": False}}}
+        self.assertEqual(
+            draft_download_block("applications/gate-check/cover-letter.md", tracker),
+            "請先確認這份草稿，才能下載。",
+        )
+        tracker["items"]["gate-check"]["confirmed"] = True
+        self.assertIsNone(draft_download_block("applications/gate-check/cv.md", tracker))
+        self.assertIsNone(draft_download_block("applications/gate-check/fit-notes.md", tracker))
+        self.assertIsNone(draft_download_block("applications/master/cv.md", tracker))
 
 
 class EndpointTest(unittest.TestCase):
