@@ -1,4 +1,6 @@
 data/career-agent.log
+data/uploads/
+data/master_cv.json
 __pycache__/
 *.pyc
 .pytest_cache/

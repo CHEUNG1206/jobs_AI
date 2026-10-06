@@ -15,6 +15,7 @@ import argparse
 import json
 from pathlib import Path
 
+from cv_store import load_master_cv, matching_sentences
 from logging_setup import build_logger
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -75,8 +76,14 @@ def ordered_experience(profile: dict, job: dict) -> list[str]:
     return ordered
 
 
-def render_cv(profile: dict, job: dict | None = None) -> str:
-    """Build a CV that uses only profile facts and labels missing fields."""
+def render_cv(profile: dict, job: dict | None = None, master: dict | None = None) -> str:
+    """Build a CV that uses only profile facts and labels missing fields.
+
+    An uploaded master CV is copied underneath. Matching sentences are
+    listed for the target job, and the upload itself is not rewritten.
+    """
+    if master is None:
+        master = load_master_cv()
     angle = ""
     if job and job.get("summaryAngle"):
         angle = job["summaryAngle"]
@@ -91,7 +98,28 @@ def render_cv(profile: dict, job: dict | None = None) -> str:
     missing = "\n".join(f"- {item}" for item in profile["notStated"])
     target = "Master CV, not aimed at one advertisement."
     if job:
-        target = f"{job['title']} — {job['company']}"
+        target = f"{job.get('title', '')} — {job.get('company', '')}"
+    uploaded = ""
+    if master and master.get("text"):
+        highlights = ""
+        if job:
+            matched = matching_sentences(master["text"], job)
+            if matched:
+                highlights = "\n".join(f"- {line}" for line in matched)
+                highlights = f"\n\n## Sentences from the upload that share words with this listing\n\n{highlights}\n"
+            else:
+                highlights = (
+                    "\n\n## Sentences from the upload that share words with this listing\n\n"
+                    "None of the uploaded sentences share a distinctive word with this listing.\n"
+                )
+        uploaded = f"""
+## Uploaded master CV
+
+Source file: {master.get("filename", "upload")} ({master.get("uploadedAt", "")})
+The text below is copied from that file.
+
+{master["text"].strip()}
+{highlights}"""
     return f"""# {profile["name"]}
 
 {profile["currentRole"]}, {profile["organisation"]}
@@ -128,13 +156,20 @@ Graduation: {profile["education"]["graduation"] or "[fill in]"}
 ## Do not invent these before sending
 
 {missing}
-
-This CV was drafted on 2026-10-06 from the assignment work context. It is not a submitted application.
+{uploaded}
+This CV was drafted from the assignment work context and any uploaded master CV. It is not a submitted application.
 """
 
 
-def render_letter(profile: dict, job: dict) -> str:
+def render_letter(profile: dict, job: dict, master: dict | None = None) -> str:
+    if master is None:
+        master = load_master_cv()
     paragraphs = "\n\n".join(job["letter"])
+    if master and master.get("text"):
+        paragraphs += (
+            f"\n\nThe CV draft includes the master CV file "
+            f"{master.get('filename', 'upload')} uploaded on {master.get('uploadedAt', 'the upload date')}."
+        )
     return f"""# Cover letter
 
 {profile["name"]}
@@ -264,6 +299,10 @@ def ensure_tracker(jobs: list[dict], groups: dict) -> dict:
             "applied": bool(current.get("applied")),
             "notes": current.get("notes", ""),
         }
+    # Drop tracker rows whose listings are no longer in the catalogue,
+    # including live cards that the latest search did not return.
+    current_ids = {job["id"] for job in jobs}
+    items = {key: value for key, value in items.items() if key in current_ids}
     tracker = {"updatedOn": "2026-10-06", "items": items}
     save_json(path, tracker)
     return tracker
@@ -322,10 +361,31 @@ def card(row: dict, kind: str) -> str:
     """
 
 
-def render_html(profile: dict, groups: dict) -> str:
+def render_html(profile: dict, groups: dict, searched_on: str = "2026-10-06", last_search: dict | None = None) -> str:
     draft_cards = "\n".join(card(row, "draft") for row in groups["drafts"])
     hold_cards = "\n".join(card(row, "hold") for row in groups["holds"])
     excluded_cards = "\n".join(card(row, "excluded") for row in groups["excluded"])
+    master = load_master_cv()
+    if master:
+        cv_status = (
+            f"已上傳 {master.get('filename', 'CV')}（{master.get('uploadedAt', '')}，"
+            f"{master.get('characters', 0)} 字）。草稿會原文引用這份履歷。"
+        )
+    else:
+        cv_status = "尚未上傳。評分和草稿仍用作業裡的經歷。"
+    if last_search:
+        counts = last_search.get("counts") or {}
+        count_text = "，".join(f"{name} {number} 則" for name, number in counts.items())
+        error_text = ""
+        if last_search.get("errors"):
+            error_text = " 未能連上：" + "；".join(last_search["errors"])
+        search_status = (
+            f"上次搜尋 {last_search.get('at', searched_on)}，關鍵字「{last_search.get('keywords', '')}」。"
+            f"{count_text}。新加入 {last_search.get('added', 0)} 則。{error_text}"
+        )
+    else:
+        search_status = "尚未用按鈕搜尋。下面是已保存的職缺。"
+    keyword_value = html_escape((last_search or {}).get("keywords") or "AI intern")
     return f"""<!DOCTYPE html>
 <html lang="zh-Hant">
 <head>
@@ -367,7 +427,7 @@ def render_html(profile: dict, groups: dict) -> str:
     .meta, .score, .state {{ color: var(--muted); margin: 0.15em 0; }}
     .score {{ color: var(--accent); font-weight: 650; }}
     a {{ color: var(--accent); }}
-    button {{
+    button, input[type="text"] {{
       font: inherit;
       margin: 8px 8px 0 0;
       padding: 6px 10px;
@@ -376,16 +436,41 @@ def render_html(profile: dict, groups: dict) -> str:
       background: transparent;
       cursor: pointer;
     }}
-    button[aria-pressed="true"] {{ background: var(--ink); color: white; }}
+    input[type="text"] {{ cursor: text; min-width: 16rem; background: white; }}
+    input[type="file"] {{ font: inherit; margin-top: 8px; }}
+    button[aria-pressed="true"], button.primary {{ background: var(--ink); color: white; }}
+    button:disabled {{ opacity: 0.55; cursor: wait; }}
     .filters {{ display: flex; gap: 8px; flex-wrap: wrap; margin: 12px 0 4px; }}
+    .panel {{
+      background: var(--card);
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      padding: 18px 18px 14px;
+      margin: 14px 0;
+    }}
+    .panel h2 {{ margin-top: 0.4em; }}
   </style>
 </head>
 <body>
   <main>
     <h1>職位搜尋與申請草稿</h1>
-    <p class="lead">{html_escape(profile["name"])}，{html_escape(profile["currentRole"])}。搜尋日為 2026-10-06。這些是草稿，尚未向任何僱主提交。</p>
-    <p class="lead">偏好地區是香港，目標是 AI 應用、機械人軟件、見習或實習。履歷只使用作業裡寫過的工作內容。電郵、電話、院校和學位留空，避免把沒有來源的資料寫進申請。</p>
-    <p><a href="../applications/master/cv.md">主履歷草稿</a></p>
+    <p class="lead">{html_escape(profile["name"])}，{html_escape(profile["currentRole"])}。搜尋日為 {html_escape(searched_on)}。這些是草稿，尚未向任何僱主提交。</p>
+    <p class="lead">偏好地區是香港。JobsDB 與 LinkedIn 搜尋香港職缺，JobStreet 搜尋新加坡，Remotive 搜尋遠端職位。即時結果只保存搜尋卡上的文字。</p>
+    <section class="panel">
+      <h2>即時搜尋</h2>
+      <label for="keywords">關鍵字</label>
+      <input id="keywords" type="text" value="{keyword_value}">
+      <button id="refetch" class="primary" type="button">立即重新搜尋</button>
+      <p id="search-status" class="state">{html_escape(search_status)}</p>
+      <h2>主履歷</h2>
+      <form id="cv-form">
+        <label for="cv-file">上傳 PDF、DOCX、TXT 或 Markdown</label><br>
+        <input id="cv-file" name="cv" type="file" accept=".pdf,.docx,.txt,.md,.markdown" required>
+        <button type="submit">上傳主履歷</button>
+      </form>
+      <p id="cv-status" class="state">{html_escape(cv_status)}</p>
+      <p><a href="../applications/master/cv.md">主履歷草稿</a></p>
+    </section>
     <div class="filters">
       <button type="button" data-filter="draft" aria-pressed="true">建議起草</button>
       <button type="button" data-filter="hold" aria-pressed="true">先不要投</button>
@@ -426,6 +511,56 @@ def render_html(profile: dict, groups: dict) -> str:
       }});
     }});
 
+    const refetchButton = document.getElementById("refetch");
+    const searchStatus = document.getElementById("search-status");
+    refetchButton.addEventListener("click", async () => {{
+      refetchButton.disabled = true;
+      searchStatus.textContent = "正在搜尋 JobsDB、JobStreet、LinkedIn 和 Remotive…";
+      try {{
+        const response = await fetch("/api/refetch", {{
+          method: "POST",
+          headers: {{ "Content-Type": "application/json" }},
+          body: JSON.stringify({{ keywords: document.getElementById("keywords").value }})
+        }});
+        const payload = await response.json();
+        if (!response.ok || !payload.ok) {{
+          searchStatus.textContent = payload.message || "搜尋失敗";
+          refetchButton.disabled = false;
+          return;
+        }}
+        searchStatus.textContent = payload.message;
+        window.location.reload();
+      }} catch (error) {{
+        searchStatus.textContent = "連不到搜尋服務。請在專案目錄執行 python3 src/server.py 後再開啟這個頁面。";
+        refetchButton.disabled = false;
+      }}
+    }});
+
+    document.getElementById("cv-form").addEventListener("submit", async (event) => {{
+      event.preventDefault();
+      const status = document.getElementById("cv-status");
+      const fileInput = document.getElementById("cv-file");
+      if (!fileInput.files.length) {{
+        status.textContent = "請先選擇檔案。";
+        return;
+      }}
+      const body = new FormData();
+      body.append("cv", fileInput.files[0]);
+      status.textContent = "正在讀取履歷…";
+      try {{
+        const response = await fetch("/api/cv", {{ method: "POST", body }});
+        const payload = await response.json();
+        if (!response.ok || !payload.ok) {{
+          status.textContent = payload.message || "上傳失敗";
+          return;
+        }}
+        status.textContent = payload.message;
+        window.location.reload();
+      }} catch (error) {{
+        status.textContent = "連不到上傳服務。請在專案目錄執行 python3 src/server.py 後再開啟這個頁面。";
+      }}
+    }});
+
     document.querySelectorAll("button[data-filter]").forEach((button) => {{
       button.addEventListener("click", () => {{
         const on = button.getAttribute("aria-pressed") !== "true";
@@ -446,9 +581,12 @@ def render_html(profile: dict, groups: dict) -> str:
 """
 
 
-def write_site(profile: dict, groups: dict, logger) -> None:
+def write_site(profile: dict, groups: dict, logger, searched_on: str = "2026-10-06", last_search: dict | None = None) -> None:
     WEB.mkdir(parents=True, exist_ok=True)
-    (WEB / "index.html").write_text(render_html(profile, groups), encoding="utf-8")
+    (WEB / "index.html").write_text(
+        render_html(profile, groups, searched_on, last_search),
+        encoding="utf-8",
+    )
     logger.info(
         "Wrote tracker page with %s drafts, %s holds, %s excluded",
         len(groups["drafts"]),
@@ -475,7 +613,7 @@ def run() -> dict:
         logger.info("Excluded %s (%s)", row["job"]["id"], row["job"]["listingStatus"])
     write_applications(profile, groups, logger)
     tracker = ensure_tracker(catalogue["jobs"], groups)
-    write_site(profile, groups, logger)
+    write_site(profile, groups, logger, catalogue.get("searchedOn", "2026-10-06"), catalogue.get("lastLiveSearch"))
     report = {
         "drafts": [row["job"]["id"] for row in groups["drafts"]],
         "holds": [row["job"]["id"] for row in groups["holds"]],

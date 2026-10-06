@@ -2,7 +2,9 @@
   "name": "CHEUNG Yuk Yuen",
   "currentRole": "AI Application Trainee",
   "organisation": "Department of Physics",
-  "locationPreference": ["Hong Kong"],
+  "locationPreference": [
+    "Hong Kong"
+  ],
   "source": "Assignment 1 work context (CHEUNG Yuk Yuen). Facts below are limited to that document.",
   "retrievedFromAssignmentOn": "2026-10-06",
   "contact": {
@@ -39,7 +41,11 @@
       "text": "Follow AI and technology updates across news, articles, and video sources, then decide which changes matter for the chatbot."
     }
   ],
-  "toolsNamedInWork": ["Cursor", "Claude Code", "Android simulation"],
+  "toolsNamedInWork": [
+    "Cursor",
+    "Claude Code",
+    "Android simulation"
+  ],
   "notStated": [
     "university name",
     "degree title and graduation date",

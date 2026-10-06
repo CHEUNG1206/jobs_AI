@@ -1,9 +1,22 @@
 {
   "searchedOn": "2026-10-06",
   "criteria": {
-    "locations": ["Hong Kong"],
-    "roles": ["AI application", "chatbot", "robotics software", "junior", "trainee", "intern"],
-    "sources": ["JobsDB", "employer career sites", "public aggregators"]
+    "locations": [
+      "Hong Kong"
+    ],
+    "roles": [
+      "AI application",
+      "chatbot",
+      "robotics software",
+      "junior",
+      "trainee",
+      "intern"
+    ],
+    "sources": [
+      "JobsDB",
+      "employer career sites",
+      "public aggregators"
+    ]
   },
   "jobs": [
     {
@@ -55,13 +68,20 @@
           "note": "The profile does not say whether CHEUNG is still enrolled, and the card asks for a university student."
         }
       ],
-      "cvOrder": ["chatbot", "models", "debug", "android", "research"],
+      "cvOrder": [
+        "chatbot",
+        "models",
+        "debug",
+        "android",
+        "research"
+      ],
       "summaryAngle": "AI Application Trainee looking for a supervised, part-time chance to implement AI solutions with engineers and business stakeholders.",
       "letter": [
         "I am applying for the part-time Forward Deployed Engineer Intern role in Kowloon Bay. I am an AI Application Trainee in a Department of Physics. My current project is an AI chatbot for a robot, which I also demonstrate at the College of Science Information Day.",
         "The public listing says the intern works with technical experts and business stakeholders to design, develop, and implement AI solutions, and that the work includes AI, data, and automation. That matches how I already spend the role. I compare AI models and server-tunnelling setups because a demo fails if the answer is wrong or if the reply is too slow. I test the robot application in an Android simulation environment, use Cursor and Claude Code to trace faults, and then run the same path as a first-time user. A flow can look finished to the person who built it and still break for someone else.",
         "I would like the mentorship described in the listing, and the chance to turn that testing habit into solutions other teams can use. Please treat this as a draft. The full JobsDB text was not available when this letter was written on 6 October 2026, and my profile does not yet record enrolment status, degree, or contact details. I will add those, and I will not submit this application unless I am eligible for a student internship."
-      ]
+      ],
+      "origin": "curated"
     },
     {
       "id": "ricoh-fde-associate",
@@ -112,13 +132,20 @@
           "note": "Degree title and graduation date are blank in the source profile."
         }
       ],
-      "cvOrder": ["chatbot", "models", "debug", "android", "research"],
+      "cvOrder": [
+        "chatbot",
+        "models",
+        "debug",
+        "android",
+        "research"
+      ],
       "summaryAngle": "AI Application Trainee seeking a first full-time role that pairs structured training with delivery of AI solutions.",
       "letter": [
         "I am applying for the Forward Deployed Engineer Associate, AI and Data, role at Ricoh Hong Kong. I am an AI Application Trainee in a Department of Physics, and I am looking for a full-time role that still has structured training.",
         "I build an AI chatbot for a robot and show it at the College of Science Information Day. Before a demonstration I test combinations of models and server-tunnelling configurations, because accuracy and response time both have to hold with an audience watching. I also test the robot application in an Android simulation environment. Cursor and Claude Code shorten the debugging, but I still re-run the journey as a user. That is the check that catches a design which only makes sense to the person who wrote it.",
         "Your card describes working beside technical experts and business stakeholders, with mentorship and hands-on AI, cloud, and digital work. I can bring the chatbot project, the test habit, and the willingness to learn the cloud tools the full advertisement requires. This draft uses the company-list summary retrieved on 6 October 2026. I will read the full JobsDB text, add my degree and contact details, and only then decide to apply. If I am still enrolled, the part-time intern posting is the better fit."
-      ]
+      ],
+      "origin": "curated"
     },
     {
       "id": "smartage-swe-ai",
@@ -176,13 +203,20 @@
           "note": "The only full text found was a third-party board, so the employer page should be checked before applying."
         }
       ],
-      "cvOrder": ["android", "chatbot", "debug", "models", "research"],
+      "cvOrder": [
+        "android",
+        "chatbot",
+        "debug",
+        "models",
+        "research"
+      ],
       "summaryAngle": "AI Application Trainee with Android simulation and chatbot testing experience, applying for a mobile AI internship while learning the Flutter and IoT stack the team uses.",
       "letter": [
         "I am applying for the Software Engineer AI intern or full-time opening at SmartAge Intelligence in Sha Tin. I am an AI Application Trainee in a Department of Physics. I develop an AI chatbot for a robot and test the robot application in an Android simulation environment.",
         "The listing asks for Flutter, Figma, IoT work, and a cloud backend. Those tools are not part of the work recorded in my profile, so I am not claiming them. What I can offer now is the testing side of a mobile and AI product. I run feature checks, compare AI models and tunnelling setups for accuracy and speed, and use Cursor and Claude Code when a failure is hard to trace. I also repeat the path as a user, because a demo at the College of Science Information Day shows gaps that a developer walkthrough misses. The role's unit-testing and post-launch maintenance work is the same kind of loop.",
         "I would use the training time in the listing to learn Flutter and the IoT pieces on a real client project. Please confirm on SmartAge's own channel that this TechJobAsia posting, read on 6 October 2026, is still open. I still need to add my programme name, contact details, and any mobile coursework before this draft is sent."
-      ]
+      ],
+      "origin": "curated"
     },
     {
       "id": "precision-robotics-intern",
@@ -235,13 +269,20 @@
           "note": "The text comes from an aggregator with no posting date, so it may be stale."
         }
       ],
-      "cvOrder": ["android", "debug", "chatbot", "models", "research"],
+      "cvOrder": [
+        "android",
+        "debug",
+        "chatbot",
+        "models",
+        "research"
+      ],
       "summaryAngle": "AI Application Trainee who tests robot software and an on-robot chatbot, interested in a surgical-robotics internship if the C++ requirement can be met.",
       "letter": [
         "I am writing about the AI Engineer Intern role at Precision Robotics in Hong Kong Science Park. I am an AI Application Trainee in a Department of Physics. I test robot applications and an AI chatbot that runs with a robot, including demonstrations at the College of Science Information Day.",
         "The duties that match my current work are testing, verification, debugging, and documentation. I spend most weekdays on the robot application and its Android simulation. I compare AI models and server-tunnelling setups so answers stay accurate and responses stay fast. Cursor and Claude Code help me find faults, and I still retest as a user because a designer can miss what a clinician or a visitor will stumble on. I can document what failed and what changed.",
         "I should be clear about the gap. The aggregator listing requires good C++ knowledge, and C++ is not in my recorded work. Python and Java are not recorded either. I will not send this letter unless I can show coursework or a project that meets that bar, and unless Precision Robotics still has the internship open. The page I used was a third-party copy read on 6 October 2026, with no posting date."
-      ]
+      ],
+      "origin": "curated"
     },
     {
       "id": "ricoh-ai-specialist",
@@ -287,9 +328,16 @@
           "note": "Working with sales on customer solutions is not in the trainee profile."
         }
       ],
-      "cvOrder": ["chatbot", "research", "models", "debug", "android"],
+      "cvOrder": [
+        "chatbot",
+        "research",
+        "models",
+        "debug",
+        "android"
+      ],
       "summaryAngle": "",
-      "letter": []
+      "letter": [],
+      "origin": "curated"
     },
     {
       "id": "dbs-map-2027-ai",
@@ -340,7 +388,8 @@
       ],
       "cvOrder": [],
       "summaryAngle": "",
-      "letter": []
+      "letter": [],
+      "origin": "curated"
     },
     {
       "id": "fdm-se-grad-hk",
@@ -386,7 +435,8 @@
       ],
       "cvOrder": [],
       "summaryAngle": "",
-      "letter": []
+      "letter": [],
+      "origin": "curated"
     },
     {
       "id": "hkpc-technical-officer",
@@ -403,7 +453,9 @@
       "prepareApplication": false,
       "baseScore": 0,
       "summary": "HKPC Technical Officer role in the Centre of Advanced Power and Autonomous Systems. Fresh graduates were welcome and generative-AI experience was preferred. The careers page now says the position has been filled.",
-      "requirements": ["Do not apply. The employer page says the position has been filled."],
+      "requirements": [
+        "Do not apply. The employer page says the position has been filled."
+      ],
       "evidence": [],
       "gaps": [
         {
@@ -413,7 +465,8 @@
       ],
       "cvOrder": [],
       "summaryAngle": "",
-      "letter": []
+      "letter": [],
+      "origin": "curated"
     },
     {
       "id": "macroview-solution-engineer",
@@ -430,7 +483,9 @@
       "prepareApplication": false,
       "baseScore": 0,
       "summary": "Fresh-graduate solution engineer role covering Microsoft Copilot, Azure AI, agents, and proof-of-concept demos. Joblum shows the advertisement as expired, so no materials were drafted.",
-      "requirements": ["Do not apply. The copied advertisement is expired."],
+      "requirements": [
+        "Do not apply. The copied advertisement is expired."
+      ],
       "evidence": [],
       "gaps": [
         {
@@ -440,7 +495,8 @@
       ],
       "cvOrder": [],
       "summaryAngle": "",
-      "letter": []
+      "letter": [],
+      "origin": "curated"
     },
     {
       "id": "pharmcare-ai-trainee",
@@ -457,7 +513,9 @@
       "prepareApplication": false,
       "baseScore": 0,
       "summary": "Chatbot design, response review, and debugging for a pharmacy product. The public post was tied to an HKU Netjobs internship and LinkedIn no longer accepts applications. It is recorded only to avoid a duplicate attempt.",
-      "requirements": ["Do not apply through the closed LinkedIn post."],
+      "requirements": [
+        "Do not apply through the closed LinkedIn post."
+      ],
       "evidence": [],
       "gaps": [
         {
@@ -467,7 +525,937 @@
       ],
       "cvOrder": [],
       "summaryAngle": "",
-      "letter": []
+      "letter": [],
+      "origin": "curated"
+    },
+    {
+      "id": "live-linkedin-4467966959",
+      "origin": "live",
+      "title": "AI R&D Engineering Intern — AI Infrastructure, Model Routing & Applied Research",
+      "company": "A-Field Tech",
+      "location": "Hong Kong, Hong Kong SAR",
+      "employmentType": "See listing",
+      "url": "https://hk.linkedin.com/jobs/view/ai-r-d-engineering-intern-%E2%80%94-ai-infrastructure-model-routing-applied-research-at-a-field-tech-4467966959",
+      "source": "LinkedIn",
+      "retrievedOn": "2026-10-06",
+      "listingStatus": "open_live",
+      "listed": "",
+      "createdAt": "",
+      "prepareApplication": true,
+      "baseScore": 30,
+      "summary": "AI R&D Engineering Intern — AI Infrastructure, Model Routing & Applied Research",
+      "requirements": [
+        "Only the search-card title and summary were retrieved."
+      ],
+      "evidence": [
+        {
+          "points": 12,
+          "note": "The card uses intern, trainee, graduate, junior, or student wording."
+        },
+        {
+          "points": 10,
+          "note": "The listing is in Hong Kong."
+        },
+        {
+          "points": 6,
+          "note": "The card mentions AI, robotics, Android, a chatbot, or an LLM."
+        },
+        {
+          "points": 6,
+          "note": "A word in the card also appears in the profile or uploaded CV."
+        }
+      ],
+      "gaps": [
+        {
+          "points": -6,
+          "note": "Only the public search card was saved. Open the listing before applying."
+        }
+      ],
+      "cvOrder": [
+        "models",
+        "research",
+        "chatbot",
+        "android",
+        "debug"
+      ],
+      "summaryAngle": "AI Application Trainee comparing this LinkedIn listing with the recorded trainee work.",
+      "letter": [
+        "I am applying for the AI R&D Engineering Intern — AI Infrastructure, Model Routing & Applied Research role at A-Field Tech. I am AI Application Trainee in Department of Physics.",
+        "This draft uses the LinkedIn search card retrieved for Hong Kong, Hong Kong SAR. The card says: AI R&D Engineering Intern — AI Infrastructure, Model Routing & Applied Research",
+        "The work I can point to is the following. Develop an AI chatbot for a robot and demonstrate it during the College of Science Information Day. Test combinations of AI models and server-tunnelling configurations to keep answers accurate and responses fast. Test robot application features in Android simulation environments and trace failures that are slow to isolate by hand. Use Cursor and Claude Code while debugging, then recheck the same flow as a designer and as a first-time user. Follow AI and technology updates across news, articles, and video sources, then decide which changes matter for the chatbot.",
+        "I will open the full advertisement before sending this letter, and I will not treat a skill as mine unless it is in my CV. Contact details that are still blank need to be filled in first."
+      ]
+    },
+    {
+      "id": "live-jobsdb-95035037",
+      "origin": "live",
+      "title": "Intern (AI-Focused at Credit Trading Desk, APAC) (6 months)",
+      "company": "Natixis CIB Hong Kong",
+      "location": "Hong Kong SAR",
+      "employmentType": "Full time",
+      "url": "https://hk.jobsdb.com/job/95035037",
+      "source": "JobsDB",
+      "retrievedOn": "2026-10-06",
+      "listingStatus": "open_live",
+      "listed": "3d ago",
+      "createdAt": "",
+      "prepareApplication": true,
+      "baseScore": 30,
+      "summary": "Passion in Finance: A strong interest in financial markets, and trading mechanics.\nProblem-Solving Mindset: A proactive \"builder\"...",
+      "requirements": [
+        "Work type: Full time"
+      ],
+      "evidence": [
+        {
+          "points": 12,
+          "note": "The card uses intern, trainee, graduate, junior, or student wording."
+        },
+        {
+          "points": 10,
+          "note": "The listing is in Hong Kong."
+        },
+        {
+          "points": 6,
+          "note": "The card mentions AI, robotics, Android, a chatbot, or an LLM."
+        }
+      ],
+      "gaps": [
+        {
+          "points": -6,
+          "note": "Only the public search card was saved. Open the listing before applying."
+        }
+      ],
+      "cvOrder": [
+        "chatbot",
+        "models",
+        "android",
+        "debug",
+        "research"
+      ],
+      "summaryAngle": "AI Application Trainee comparing this JobsDB listing with the recorded trainee work.",
+      "letter": [
+        "I am applying for the Intern (AI-Focused at Credit Trading Desk, APAC) (6 months) role at Natixis CIB Hong Kong. I am AI Application Trainee in Department of Physics.",
+        "This draft uses the JobsDB search card retrieved for Hong Kong SAR. The card says: Passion in Finance: A strong interest in financial markets, and trading mechanics.\nProblem-Solving Mindset: A proactive \"builder\"...",
+        "The work I can point to is the following. Develop an AI chatbot for a robot and demonstrate it during the College of Science Information Day. Test combinations of AI models and server-tunnelling configurations to keep answers accurate and responses fast. Test robot application features in Android simulation environments and trace failures that are slow to isolate by hand. Use Cursor and Claude Code while debugging, then recheck the same flow as a designer and as a first-time user. Follow AI and technology updates across news, articles, and video sources, then decide which changes matter for the chatbot.",
+        "I will open the full advertisement before sending this letter, and I will not treat a skill as mine unless it is in my CV. Contact details that are still blank need to be filled in first."
+      ]
+    },
+    {
+      "id": "live-jobsdb-94691097",
+      "origin": "live",
+      "title": "Internship, UX/UI & Product Design (AI/SaaS)",
+      "company": "EV Technologies Limited",
+      "location": "Hong Kong Island",
+      "employmentType": "Part time",
+      "url": "https://hk.jobsdb.com/job/94691097",
+      "source": "JobsDB",
+      "retrievedOn": "2026-10-06",
+      "listingStatus": "open_live",
+      "listed": "18d ago",
+      "createdAt": "",
+      "prepareApplication": true,
+      "baseScore": 30,
+      "summary": "Design interfaces and visual systems for AI engines and financial platforms.",
+      "requirements": [
+        "High-performers will be eligible for a full-time returning offer",
+        "Exposure to frontier tech and products",
+        "International team and mentorship",
+        "Work type: Part time"
+      ],
+      "evidence": [
+        {
+          "points": 12,
+          "note": "The card uses intern, trainee, graduate, junior, or student wording."
+        },
+        {
+          "points": 10,
+          "note": "The listing is in Hong Kong."
+        },
+        {
+          "points": 6,
+          "note": "The card mentions AI, robotics, Android, a chatbot, or an LLM."
+        }
+      ],
+      "gaps": [
+        {
+          "points": -6,
+          "note": "Only the public search card was saved. Open the listing before applying."
+        }
+      ],
+      "cvOrder": [
+        "chatbot",
+        "models",
+        "android",
+        "debug",
+        "research"
+      ],
+      "summaryAngle": "AI Application Trainee comparing this JobsDB listing with the recorded trainee work.",
+      "letter": [
+        "I am applying for the Internship, UX/UI & Product Design (AI/SaaS) role at EV Technologies Limited. I am AI Application Trainee in Department of Physics.",
+        "This draft uses the JobsDB search card retrieved for Hong Kong Island. The card says: Design interfaces and visual systems for AI engines and financial platforms.",
+        "The work I can point to is the following. Develop an AI chatbot for a robot and demonstrate it during the College of Science Information Day. Test combinations of AI models and server-tunnelling configurations to keep answers accurate and responses fast. Test robot application features in Android simulation environments and trace failures that are slow to isolate by hand. Use Cursor and Claude Code while debugging, then recheck the same flow as a designer and as a first-time user. Follow AI and technology updates across news, articles, and video sources, then decide which changes matter for the chatbot.",
+        "I will open the full advertisement before sending this letter, and I will not treat a skill as mine unless it is in my CV. Contact details that are still blank need to be filled in first."
+      ]
+    },
+    {
+      "id": "live-linkedin-4330148175",
+      "origin": "live",
+      "title": "AI Engineer (NLP) (Internship)",
+      "company": "FCC ANALYTICS",
+      "location": "Hong Kong, Hong Kong SAR",
+      "employmentType": "See listing",
+      "url": "https://hk.linkedin.com/jobs/view/ai-engineer-nlp-internship-at-fcc-analytics-4330148175",
+      "source": "LinkedIn",
+      "retrievedOn": "2026-10-06",
+      "listingStatus": "open_live",
+      "listed": "",
+      "createdAt": "",
+      "prepareApplication": true,
+      "baseScore": 30,
+      "summary": "AI Engineer (NLP) (Internship)",
+      "requirements": [
+        "Only the search-card title and summary were retrieved."
+      ],
+      "evidence": [
+        {
+          "points": 12,
+          "note": "The card uses intern, trainee, graduate, junior, or student wording."
+        },
+        {
+          "points": 10,
+          "note": "The listing is in Hong Kong."
+        },
+        {
+          "points": 6,
+          "note": "The card mentions AI, robotics, Android, a chatbot, or an LLM."
+        }
+      ],
+      "gaps": [
+        {
+          "points": -6,
+          "note": "Only the public search card was saved. Open the listing before applying."
+        }
+      ],
+      "cvOrder": [
+        "chatbot",
+        "models",
+        "android",
+        "debug",
+        "research"
+      ],
+      "summaryAngle": "AI Application Trainee comparing this LinkedIn listing with the recorded trainee work.",
+      "letter": [
+        "I am applying for the AI Engineer (NLP) (Internship) role at FCC ANALYTICS. I am AI Application Trainee in Department of Physics.",
+        "This draft uses the LinkedIn search card retrieved for Hong Kong, Hong Kong SAR. The card says: AI Engineer (NLP) (Internship)",
+        "The work I can point to is the following. Develop an AI chatbot for a robot and demonstrate it during the College of Science Information Day. Test combinations of AI models and server-tunnelling configurations to keep answers accurate and responses fast. Test robot application features in Android simulation environments and trace failures that are slow to isolate by hand. Use Cursor and Claude Code while debugging, then recheck the same flow as a designer and as a first-time user. Follow AI and technology updates across news, articles, and video sources, then decide which changes matter for the chatbot.",
+        "I will open the full advertisement before sending this letter, and I will not treat a skill as mine unless it is in my CV. Contact details that are still blank need to be filled in first."
+      ]
+    },
+    {
+      "id": "live-linkedin-4464874851",
+      "origin": "live",
+      "title": "AI Engineer Intern",
+      "company": "Bybit",
+      "location": "Hong Kong, Hong Kong SAR",
+      "employmentType": "See listing",
+      "url": "https://hk.linkedin.com/jobs/view/ai-engineer-intern-at-bybit-4464874851",
+      "source": "LinkedIn",
+      "retrievedOn": "2026-10-06",
+      "listingStatus": "open_live",
+      "listed": "",
+      "createdAt": "",
+      "prepareApplication": true,
+      "baseScore": 30,
+      "summary": "AI Engineer Intern",
+      "requirements": [
+        "Only the search-card title and summary were retrieved."
+      ],
+      "evidence": [
+        {
+          "points": 12,
+          "note": "The card uses intern, trainee, graduate, junior, or student wording."
+        },
+        {
+          "points": 10,
+          "note": "The listing is in Hong Kong."
+        },
+        {
+          "points": 6,
+          "note": "The card mentions AI, robotics, Android, a chatbot, or an LLM."
+        }
+      ],
+      "gaps": [
+        {
+          "points": -6,
+          "note": "Only the public search card was saved. Open the listing before applying."
+        }
+      ],
+      "cvOrder": [
+        "chatbot",
+        "models",
+        "android",
+        "debug",
+        "research"
+      ],
+      "summaryAngle": "AI Application Trainee comparing this LinkedIn listing with the recorded trainee work.",
+      "letter": [
+        "I am applying for the AI Engineer Intern role at Bybit. I am AI Application Trainee in Department of Physics.",
+        "This draft uses the LinkedIn search card retrieved for Hong Kong, Hong Kong SAR. The card says: AI Engineer Intern",
+        "The work I can point to is the following. Develop an AI chatbot for a robot and demonstrate it during the College of Science Information Day. Test combinations of AI models and server-tunnelling configurations to keep answers accurate and responses fast. Test robot application features in Android simulation environments and trace failures that are slow to isolate by hand. Use Cursor and Claude Code while debugging, then recheck the same flow as a designer and as a first-time user. Follow AI and technology updates across news, articles, and video sources, then decide which changes matter for the chatbot.",
+        "I will open the full advertisement before sending this letter, and I will not treat a skill as mine unless it is in my CV. Contact details that are still blank need to be filled in first."
+      ]
+    },
+    {
+      "id": "live-linkedin-4464580209",
+      "origin": "live",
+      "title": "AI Developer - Internship/Co-op (Winter or Summer 2027)",
+      "company": "Intact",
+      "location": "Hong Kong, Hong Kong SAR",
+      "employmentType": "See listing",
+      "url": "https://hk.linkedin.com/jobs/view/ai-developer-internship-co-op-winter-or-summer-2027-at-intact-4464580209",
+      "source": "LinkedIn",
+      "retrievedOn": "2026-10-06",
+      "listingStatus": "open_live",
+      "listed": "",
+      "createdAt": "",
+      "prepareApplication": true,
+      "baseScore": 30,
+      "summary": "AI Developer - Internship/Co-op (Winter or Summer 2027)",
+      "requirements": [
+        "Only the search-card title and summary were retrieved."
+      ],
+      "evidence": [
+        {
+          "points": 12,
+          "note": "The card uses intern, trainee, graduate, junior, or student wording."
+        },
+        {
+          "points": 10,
+          "note": "The listing is in Hong Kong."
+        },
+        {
+          "points": 6,
+          "note": "The card mentions AI, robotics, Android, a chatbot, or an LLM."
+        }
+      ],
+      "gaps": [
+        {
+          "points": -6,
+          "note": "Only the public search card was saved. Open the listing before applying."
+        }
+      ],
+      "cvOrder": [
+        "chatbot",
+        "models",
+        "android",
+        "debug",
+        "research"
+      ],
+      "summaryAngle": "AI Application Trainee comparing this LinkedIn listing with the recorded trainee work.",
+      "letter": [
+        "I am applying for the AI Developer - Internship/Co-op (Winter or Summer 2027) role at Intact. I am AI Application Trainee in Department of Physics.",
+        "This draft uses the LinkedIn search card retrieved for Hong Kong, Hong Kong SAR. The card says: AI Developer - Internship/Co-op (Winter or Summer 2027)",
+        "The work I can point to is the following. Develop an AI chatbot for a robot and demonstrate it during the College of Science Information Day. Test combinations of AI models and server-tunnelling configurations to keep answers accurate and responses fast. Test robot application features in Android simulation environments and trace failures that are slow to isolate by hand. Use Cursor and Claude Code while debugging, then recheck the same flow as a designer and as a first-time user. Follow AI and technology updates across news, articles, and video sources, then decide which changes matter for the chatbot.",
+        "I will open the full advertisement before sending this letter, and I will not treat a skill as mine unless it is in my CV. Contact details that are still blank need to be filled in first."
+      ]
+    },
+    {
+      "id": "live-linkedin-4466503023",
+      "origin": "live",
+      "title": "AI Development Engineer Intern",
+      "company": "Bybit",
+      "location": "Hong Kong, Hong Kong SAR",
+      "employmentType": "See listing",
+      "url": "https://hk.linkedin.com/jobs/view/ai-development-engineer-intern-at-bybit-4466503023",
+      "source": "LinkedIn",
+      "retrievedOn": "2026-10-06",
+      "listingStatus": "open_live",
+      "listed": "",
+      "createdAt": "",
+      "prepareApplication": true,
+      "baseScore": 30,
+      "summary": "AI Development Engineer Intern",
+      "requirements": [
+        "Only the search-card title and summary were retrieved."
+      ],
+      "evidence": [
+        {
+          "points": 12,
+          "note": "The card uses intern, trainee, graduate, junior, or student wording."
+        },
+        {
+          "points": 10,
+          "note": "The listing is in Hong Kong."
+        },
+        {
+          "points": 6,
+          "note": "The card mentions AI, robotics, Android, a chatbot, or an LLM."
+        }
+      ],
+      "gaps": [
+        {
+          "points": -6,
+          "note": "Only the public search card was saved. Open the listing before applying."
+        }
+      ],
+      "cvOrder": [
+        "chatbot",
+        "models",
+        "android",
+        "debug",
+        "research"
+      ],
+      "summaryAngle": "AI Application Trainee comparing this LinkedIn listing with the recorded trainee work.",
+      "letter": [
+        "I am applying for the AI Development Engineer Intern role at Bybit. I am AI Application Trainee in Department of Physics.",
+        "This draft uses the LinkedIn search card retrieved for Hong Kong, Hong Kong SAR. The card says: AI Development Engineer Intern",
+        "The work I can point to is the following. Develop an AI chatbot for a robot and demonstrate it during the College of Science Information Day. Test combinations of AI models and server-tunnelling configurations to keep answers accurate and responses fast. Test robot application features in Android simulation environments and trace failures that are slow to isolate by hand. Use Cursor and Claude Code while debugging, then recheck the same flow as a designer and as a first-time user. Follow AI and technology updates across news, articles, and video sources, then decide which changes matter for the chatbot.",
+        "I will open the full advertisement before sending this letter, and I will not treat a skill as mine unless it is in my CV. Contact details that are still blank need to be filled in first."
+      ]
+    },
+    {
+      "id": "live-linkedin-4456165750",
+      "origin": "live",
+      "title": "Data Science - Internship",
+      "company": "DBS Bank",
+      "location": "Hong Kong, Hong Kong SAR",
+      "employmentType": "See listing",
+      "url": "https://hk.linkedin.com/jobs/view/data-science-internship-at-dbs-bank-4456165750",
+      "source": "LinkedIn",
+      "retrievedOn": "2026-10-06",
+      "listingStatus": "open_live",
+      "listed": "",
+      "createdAt": "",
+      "prepareApplication": false,
+      "baseScore": 30,
+      "summary": "Data Science - Internship",
+      "requirements": [
+        "Only the search-card title and summary were retrieved."
+      ],
+      "evidence": [
+        {
+          "points": 12,
+          "note": "The card uses intern, trainee, graduate, junior, or student wording."
+        },
+        {
+          "points": 10,
+          "note": "The listing is in Hong Kong."
+        }
+      ],
+      "gaps": [
+        {
+          "points": -6,
+          "note": "Only the public search card was saved. Open the listing before applying."
+        }
+      ],
+      "cvOrder": [
+        "chatbot",
+        "models",
+        "android",
+        "debug",
+        "research"
+      ],
+      "summaryAngle": "AI Application Trainee comparing this LinkedIn listing with the recorded trainee work.",
+      "letter": [
+        "I am applying for the Data Science - Internship role at DBS Bank. I am AI Application Trainee in Department of Physics.",
+        "This draft uses the LinkedIn search card retrieved for Hong Kong, Hong Kong SAR. The card says: Data Science - Internship",
+        "The work I can point to is the following. Develop an AI chatbot for a robot and demonstrate it during the College of Science Information Day. Test combinations of AI models and server-tunnelling configurations to keep answers accurate and responses fast. Test robot application features in Android simulation environments and trace failures that are slow to isolate by hand. Use Cursor and Claude Code while debugging, then recheck the same flow as a designer and as a first-time user. Follow AI and technology updates across news, articles, and video sources, then decide which changes matter for the chatbot.",
+        "I will open the full advertisement before sending this letter, and I will not treat a skill as mine unless it is in my CV. Contact details that are still blank need to be filled in first."
+      ]
+    },
+    {
+      "id": "live-linkedin-4467028193",
+      "origin": "live",
+      "title": "Summer 2027 | Software Engineer Intern (ML Research, Core Technology)",
+      "company": "Nex",
+      "location": "Central & Western District, Hong Kong SAR",
+      "employmentType": "See listing",
+      "url": "https://hk.linkedin.com/jobs/view/summer-2027-software-engineer-intern-ml-research-core-technology-at-nex-4467028193",
+      "source": "LinkedIn",
+      "retrievedOn": "2026-10-06",
+      "listingStatus": "open_live",
+      "listed": "",
+      "createdAt": "",
+      "prepareApplication": false,
+      "baseScore": 30,
+      "summary": "Summer 2027 | Software Engineer Intern (ML Research, Core Technology)",
+      "requirements": [
+        "Only the search-card title and summary were retrieved."
+      ],
+      "evidence": [
+        {
+          "points": 12,
+          "note": "The card uses intern, trainee, graduate, junior, or student wording."
+        },
+        {
+          "points": 10,
+          "note": "The listing is in Hong Kong."
+        }
+      ],
+      "gaps": [
+        {
+          "points": -6,
+          "note": "Only the public search card was saved. Open the listing before applying."
+        }
+      ],
+      "cvOrder": [
+        "research",
+        "chatbot",
+        "models",
+        "android",
+        "debug"
+      ],
+      "summaryAngle": "AI Application Trainee comparing this LinkedIn listing with the recorded trainee work.",
+      "letter": [
+        "I am applying for the Summer 2027 | Software Engineer Intern (ML Research, Core Technology) role at Nex. I am AI Application Trainee in Department of Physics.",
+        "This draft uses the LinkedIn search card retrieved for Central & Western District, Hong Kong SAR. The card says: Summer 2027 | Software Engineer Intern (ML Research, Core Technology)",
+        "The work I can point to is the following. Develop an AI chatbot for a robot and demonstrate it during the College of Science Information Day. Test combinations of AI models and server-tunnelling configurations to keep answers accurate and responses fast. Test robot application features in Android simulation environments and trace failures that are slow to isolate by hand. Use Cursor and Claude Code while debugging, then recheck the same flow as a designer and as a first-time user. Follow AI and technology updates across news, articles, and video sources, then decide which changes matter for the chatbot.",
+        "I will open the full advertisement before sending this letter, and I will not treat a skill as mine unless it is in my CV. Contact details that are still blank need to be filled in first."
+      ]
+    },
+    {
+      "id": "live-linkedin-4463847041",
+      "origin": "live",
+      "title": "Binance Accelerator Program - LLM Model Training & Data Processing",
+      "company": "Binance",
+      "location": "Hong Kong, Hong Kong SAR",
+      "employmentType": "See listing",
+      "url": "https://hk.linkedin.com/jobs/view/binance-accelerator-program-llm-model-training-data-processing-at-binance-4463847041",
+      "source": "LinkedIn",
+      "retrievedOn": "2026-10-06",
+      "listingStatus": "open_live",
+      "listed": "",
+      "createdAt": "",
+      "prepareApplication": false,
+      "baseScore": 30,
+      "summary": "Binance Accelerator Program - LLM Model Training & Data Processing",
+      "requirements": [
+        "Only the search-card title and summary were retrieved."
+      ],
+      "evidence": [
+        {
+          "points": 10,
+          "note": "The listing is in Hong Kong."
+        },
+        {
+          "points": 6,
+          "note": "The card mentions AI, robotics, Android, a chatbot, or an LLM."
+        },
+        {
+          "points": 6,
+          "note": "A word in the card also appears in the profile or uploaded CV."
+        }
+      ],
+      "gaps": [
+        {
+          "points": -6,
+          "note": "Only the public search card was saved. Open the listing before applying."
+        }
+      ],
+      "cvOrder": [
+        "models",
+        "chatbot",
+        "android",
+        "debug",
+        "research"
+      ],
+      "summaryAngle": "AI Application Trainee comparing this LinkedIn listing with the recorded trainee work.",
+      "letter": [
+        "I am applying for the Binance Accelerator Program - LLM Model Training & Data Processing role at Binance. I am AI Application Trainee in Department of Physics.",
+        "This draft uses the LinkedIn search card retrieved for Hong Kong, Hong Kong SAR. The card says: Binance Accelerator Program - LLM Model Training & Data Processing",
+        "The work I can point to is the following. Develop an AI chatbot for a robot and demonstrate it during the College of Science Information Day. Test combinations of AI models and server-tunnelling configurations to keep answers accurate and responses fast. Test robot application features in Android simulation environments and trace failures that are slow to isolate by hand. Use Cursor and Claude Code while debugging, then recheck the same flow as a designer and as a first-time user. Follow AI and technology updates across news, articles, and video sources, then decide which changes matter for the chatbot.",
+        "I will open the full advertisement before sending this letter, and I will not treat a skill as mine unless it is in my CV. Contact details that are still blank need to be filled in first."
+      ]
+    },
+    {
+      "id": "live-linkedin-4462188381",
+      "origin": "live",
+      "title": "Research Intern",
+      "company": "Microsoft",
+      "location": "Hong Kong, Hong Kong SAR",
+      "employmentType": "See listing",
+      "url": "https://hk.linkedin.com/jobs/view/research-intern-at-microsoft-4462188381",
+      "source": "LinkedIn",
+      "retrievedOn": "2026-10-06",
+      "listingStatus": "open_live",
+      "listed": "",
+      "createdAt": "",
+      "prepareApplication": false,
+      "baseScore": 30,
+      "summary": "Research Intern",
+      "requirements": [
+        "Only the search-card title and summary were retrieved."
+      ],
+      "evidence": [
+        {
+          "points": 12,
+          "note": "The card uses intern, trainee, graduate, junior, or student wording."
+        },
+        {
+          "points": 10,
+          "note": "The listing is in Hong Kong."
+        }
+      ],
+      "gaps": [
+        {
+          "points": -6,
+          "note": "Only the public search card was saved. Open the listing before applying."
+        }
+      ],
+      "cvOrder": [
+        "research",
+        "chatbot",
+        "models",
+        "android",
+        "debug"
+      ],
+      "summaryAngle": "AI Application Trainee comparing this LinkedIn listing with the recorded trainee work.",
+      "letter": [
+        "I am applying for the Research Intern role at Microsoft. I am AI Application Trainee in Department of Physics.",
+        "This draft uses the LinkedIn search card retrieved for Hong Kong, Hong Kong SAR. The card says: Research Intern",
+        "The work I can point to is the following. Develop an AI chatbot for a robot and demonstrate it during the College of Science Information Day. Test combinations of AI models and server-tunnelling configurations to keep answers accurate and responses fast. Test robot application features in Android simulation environments and trace failures that are slow to isolate by hand. Use Cursor and Claude Code while debugging, then recheck the same flow as a designer and as a first-time user. Follow AI and technology updates across news, articles, and video sources, then decide which changes matter for the chatbot.",
+        "I will open the full advertisement before sending this letter, and I will not treat a skill as mine unless it is in my CV. Contact details that are still blank need to be filled in first."
+      ]
+    },
+    {
+      "id": "live-linkedin-4464560916",
+      "origin": "live",
+      "title": "Data Scientist - Internship/Co-op (Winter or Summer2027)",
+      "company": "Intact",
+      "location": "Hong Kong, Hong Kong SAR",
+      "employmentType": "See listing",
+      "url": "https://hk.linkedin.com/jobs/view/data-scientist-internship-co-op-winter-or-summer2027-at-intact-4464560916",
+      "source": "LinkedIn",
+      "retrievedOn": "2026-10-06",
+      "listingStatus": "open_live",
+      "listed": "",
+      "createdAt": "",
+      "prepareApplication": false,
+      "baseScore": 30,
+      "summary": "Data Scientist - Internship/Co-op (Winter or Summer2027)",
+      "requirements": [
+        "Only the search-card title and summary were retrieved."
+      ],
+      "evidence": [
+        {
+          "points": 12,
+          "note": "The card uses intern, trainee, graduate, junior, or student wording."
+        },
+        {
+          "points": 10,
+          "note": "The listing is in Hong Kong."
+        }
+      ],
+      "gaps": [
+        {
+          "points": -6,
+          "note": "Only the public search card was saved. Open the listing before applying."
+        }
+      ],
+      "cvOrder": [
+        "chatbot",
+        "models",
+        "android",
+        "debug",
+        "research"
+      ],
+      "summaryAngle": "AI Application Trainee comparing this LinkedIn listing with the recorded trainee work.",
+      "letter": [
+        "I am applying for the Data Scientist - Internship/Co-op (Winter or Summer2027) role at Intact. I am AI Application Trainee in Department of Physics.",
+        "This draft uses the LinkedIn search card retrieved for Hong Kong, Hong Kong SAR. The card says: Data Scientist - Internship/Co-op (Winter or Summer2027)",
+        "The work I can point to is the following. Develop an AI chatbot for a robot and demonstrate it during the College of Science Information Day. Test combinations of AI models and server-tunnelling configurations to keep answers accurate and responses fast. Test robot application features in Android simulation environments and trace failures that are slow to isolate by hand. Use Cursor and Claude Code while debugging, then recheck the same flow as a designer and as a first-time user. Follow AI and technology updates across news, articles, and video sources, then decide which changes matter for the chatbot.",
+        "I will open the full advertisement before sending this letter, and I will not treat a skill as mine unless it is in my CV. Contact details that are still blank need to be filled in first."
+      ]
+    },
+    {
+      "id": "live-jobsdb-94834920",
+      "origin": "live",
+      "title": "Technology Research Intern – MarTech & AI (Part-time)",
+      "company": "GoGoChart Technology Limited",
+      "location": "Cheung Sha Wan, Sham Shui Po District",
+      "employmentType": "Part time",
+      "url": "https://hk.jobsdb.com/job/94834920",
+      "source": "JobsDB",
+      "retrievedOn": "2026-10-06",
+      "listingStatus": "open_live",
+      "listed": "12d ago",
+      "createdAt": "",
+      "prepareApplication": false,
+      "baseScore": 30,
+      "summary": "Technology Research Intern supporting AI-powered MarTech platform testing and research.",
+      "requirements": [
+        "Work type: Part time"
+      ],
+      "evidence": [
+        {
+          "points": 12,
+          "note": "The card uses intern, trainee, graduate, junior, or student wording."
+        },
+        {
+          "points": 6,
+          "note": "The card mentions AI, robotics, Android, a chatbot, or an LLM."
+        },
+        {
+          "points": 6,
+          "note": "A word in the card also appears in the profile or uploaded CV."
+        }
+      ],
+      "gaps": [
+        {
+          "points": -14,
+          "note": "The listing is outside Hong Kong."
+        },
+        {
+          "points": -6,
+          "note": "Only the public search card was saved. Open the listing before applying."
+        }
+      ],
+      "cvOrder": [
+        "debug",
+        "research",
+        "chatbot",
+        "models",
+        "android"
+      ],
+      "summaryAngle": "AI Application Trainee comparing this JobsDB listing with the recorded trainee work.",
+      "letter": [
+        "I am applying for the Technology Research Intern – MarTech & AI (Part-time) role at GoGoChart Technology Limited. I am AI Application Trainee in Department of Physics.",
+        "This draft uses the JobsDB search card retrieved for Cheung Sha Wan, Sham Shui Po District. The card says: Technology Research Intern supporting AI-powered MarTech platform testing and research.",
+        "The work I can point to is the following. Develop an AI chatbot for a robot and demonstrate it during the College of Science Information Day. Test combinations of AI models and server-tunnelling configurations to keep answers accurate and responses fast. Test robot application features in Android simulation environments and trace failures that are slow to isolate by hand. Use Cursor and Claude Code while debugging, then recheck the same flow as a designer and as a first-time user. Follow AI and technology updates across news, articles, and video sources, then decide which changes matter for the chatbot.",
+        "I will open the full advertisement before sending this letter, and I will not treat a skill as mine unless it is in my CV. Contact details that are still blank need to be filled in first."
+      ]
+    },
+    {
+      "id": "live-jobstreet-94906278",
+      "origin": "live",
+      "title": "Data Science and AI Intern",
+      "company": "SBS Transit",
+      "location": "Sengkang, North-East Region",
+      "employmentType": "Full time",
+      "url": "https://sg.jobstreet.com/job/94906278",
+      "source": "JobStreet",
+      "retrievedOn": "2026-10-06",
+      "listingStatus": "open_live",
+      "listed": "8d ago",
+      "createdAt": "",
+      "prepareApplication": false,
+      "baseScore": 30,
+      "summary": "Train and deploy Machine Learning (ML), Artificial Intelligence (AI) and/or Data Science models on selected problems including Natural Language.",
+      "requirements": [
+        "Work type: Full time"
+      ],
+      "evidence": [
+        {
+          "points": 12,
+          "note": "The card uses intern, trainee, graduate, junior, or student wording."
+        },
+        {
+          "points": 6,
+          "note": "The card mentions AI, robotics, Android, a chatbot, or an LLM."
+        },
+        {
+          "points": 6,
+          "note": "A word in the card also appears in the profile or uploaded CV."
+        }
+      ],
+      "gaps": [
+        {
+          "points": -14,
+          "note": "The listing is outside Hong Kong."
+        },
+        {
+          "points": -6,
+          "note": "Only the public search card was saved. Open the listing before applying."
+        }
+      ],
+      "cvOrder": [
+        "models",
+        "chatbot",
+        "android",
+        "debug",
+        "research"
+      ],
+      "summaryAngle": "AI Application Trainee comparing this JobStreet listing with the recorded trainee work.",
+      "letter": [
+        "I am applying for the Data Science and AI Intern role at SBS Transit. I am AI Application Trainee in Department of Physics.",
+        "This draft uses the JobStreet search card retrieved for Sengkang, North-East Region. The card says: Train and deploy Machine Learning (ML), Artificial Intelligence (AI) and/or Data Science models on selected problems including Natural Language.",
+        "The work I can point to is the following. Develop an AI chatbot for a robot and demonstrate it during the College of Science Information Day. Test combinations of AI models and server-tunnelling configurations to keep answers accurate and responses fast. Test robot application features in Android simulation environments and trace failures that are slow to isolate by hand. Use Cursor and Claude Code while debugging, then recheck the same flow as a designer and as a first-time user. Follow AI and technology updates across news, articles, and video sources, then decide which changes matter for the chatbot.",
+        "I will open the full advertisement before sending this letter, and I will not treat a skill as mine unless it is in my CV. Contact details that are still blank need to be filled in first."
+      ]
+    },
+    {
+      "id": "live-jobsdb-94575906",
+      "origin": "live",
+      "title": "Human Resources Ai Intern",
+      "company": "Micro Connect (H.K.) Investments Limited",
+      "location": "Central and Western District",
+      "employmentType": "Part time",
+      "url": "https://hk.jobsdb.com/job/94575906",
+      "source": "JobsDB",
+      "retrievedOn": "2026-10-06",
+      "listingStatus": "open_live",
+      "listed": "24d ago",
+      "createdAt": "",
+      "prepareApplication": false,
+      "baseScore": 30,
+      "summary": "Build and ship HR AI agents that automate high-volume HR workflows in Hong Kong.",
+      "requirements": [
+        "Work type: Part time"
+      ],
+      "evidence": [
+        {
+          "points": 12,
+          "note": "The card uses intern, trainee, graduate, junior, or student wording."
+        },
+        {
+          "points": 6,
+          "note": "The card mentions AI, robotics, Android, a chatbot, or an LLM."
+        }
+      ],
+      "gaps": [
+        {
+          "points": -14,
+          "note": "The listing is outside Hong Kong."
+        },
+        {
+          "points": -6,
+          "note": "Only the public search card was saved. Open the listing before applying."
+        }
+      ],
+      "cvOrder": [
+        "chatbot",
+        "models",
+        "android",
+        "debug",
+        "research"
+      ],
+      "summaryAngle": "AI Application Trainee comparing this JobsDB listing with the recorded trainee work.",
+      "letter": [
+        "I am applying for the Human Resources Ai Intern role at Micro Connect (H.K.) Investments Limited. I am AI Application Trainee in Department of Physics.",
+        "This draft uses the JobsDB search card retrieved for Central and Western District. The card says: Build and ship HR AI agents that automate high-volume HR workflows in Hong Kong.",
+        "The work I can point to is the following. Develop an AI chatbot for a robot and demonstrate it during the College of Science Information Day. Test combinations of AI models and server-tunnelling configurations to keep answers accurate and responses fast. Test robot application features in Android simulation environments and trace failures that are slow to isolate by hand. Use Cursor and Claude Code while debugging, then recheck the same flow as a designer and as a first-time user. Follow AI and technology updates across news, articles, and video sources, then decide which changes matter for the chatbot.",
+        "I will open the full advertisement before sending this letter, and I will not treat a skill as mine unless it is in my CV. Contact details that are still blank need to be filled in first."
+      ]
+    },
+    {
+      "id": "live-jobsdb-94731783",
+      "origin": "live",
+      "title": "AI Software Developer/Assistant/Intern",
+      "company": "Hong Kong Univisual Intelligent Technology Limited",
+      "location": "Kowloon Tong, Kowloon City District",
+      "employmentType": "Full time",
+      "url": "https://hk.jobsdb.com/job/94731783",
+      "source": "JobsDB",
+      "retrievedOn": "2026-10-06",
+      "listingStatus": "open_live",
+      "listed": "17d ago",
+      "createdAt": "",
+      "prepareApplication": false,
+      "baseScore": 30,
+      "summary": "You have the opportunity to shape the future of technology and make a lasting impact on the world. Using AI solve real-world problems.",
+      "requirements": [
+        "Work type: Full time"
+      ],
+      "evidence": [
+        {
+          "points": 12,
+          "note": "The card uses intern, trainee, graduate, junior, or student wording."
+        },
+        {
+          "points": 6,
+          "note": "The card mentions AI, robotics, Android, a chatbot, or an LLM."
+        }
+      ],
+      "gaps": [
+        {
+          "points": -14,
+          "note": "The listing is outside Hong Kong."
+        },
+        {
+          "points": -6,
+          "note": "Only the public search card was saved. Open the listing before applying."
+        }
+      ],
+      "cvOrder": [
+        "chatbot",
+        "models",
+        "android",
+        "debug",
+        "research"
+      ],
+      "summaryAngle": "AI Application Trainee comparing this JobsDB listing with the recorded trainee work.",
+      "letter": [
+        "I am applying for the AI Software Developer/Assistant/Intern role at Hong Kong Univisual Intelligent Technology Limited. I am AI Application Trainee in Department of Physics.",
+        "This draft uses the JobsDB search card retrieved for Kowloon Tong, Kowloon City District. The card says: You have the opportunity to shape the future of technology and make a lasting impact on the world. Using AI solve real-world problems.",
+        "The work I can point to is the following. Develop an AI chatbot for a robot and demonstrate it during the College of Science Information Day. Test combinations of AI models and server-tunnelling configurations to keep answers accurate and responses fast. Test robot application features in Android simulation environments and trace failures that are slow to isolate by hand. Use Cursor and Claude Code while debugging, then recheck the same flow as a designer and as a first-time user. Follow AI and technology updates across news, articles, and video sources, then decide which changes matter for the chatbot.",
+        "I will open the full advertisement before sending this letter, and I will not treat a skill as mine unless it is in my CV. Contact details that are still blank need to be filled in first."
+      ]
+    },
+    {
+      "id": "live-jobsdb-94676123",
+      "origin": "live",
+      "title": "AI Product Developer Intern",
+      "company": "VIBE TECHNOLOGY LIMITED",
+      "location": "Kowloon Tong, Kowloon City District",
+      "employmentType": "Full time",
+      "url": "https://hk.jobsdb.com/job/94676123",
+      "source": "JobsDB",
+      "retrievedOn": "2026-10-06",
+      "listingStatus": "open_live",
+      "listed": "19d ago",
+      "createdAt": "",
+      "prepareApplication": false,
+      "baseScore": 30,
+      "summary": "Help shape an AI learning platform for students while using modern tools, LLMs, and product thinking.",
+      "requirements": [
+        "Work type: Full time"
+      ],
+      "evidence": [
+        {
+          "points": 12,
+          "note": "The card uses intern, trainee, graduate, junior, or student wording."
+        },
+        {
+          "points": 6,
+          "note": "The card mentions AI, robotics, Android, a chatbot, or an LLM."
+        }
+      ],
+      "gaps": [
+        {
+          "points": -14,
+          "note": "The listing is outside Hong Kong."
+        },
+        {
+          "points": -6,
+          "note": "Only the public search card was saved. Open the listing before applying."
+        }
+      ],
+      "cvOrder": [
+        "models",
+        "chatbot",
+        "android",
+        "debug",
+        "research"
+      ],
+      "summaryAngle": "AI Application Trainee comparing this JobsDB listing with the recorded trainee work.",
+      "letter": [
+        "I am applying for the AI Product Developer Intern role at VIBE TECHNOLOGY LIMITED. I am AI Application Trainee in Department of Physics.",
+        "This draft uses the JobsDB search card retrieved for Kowloon Tong, Kowloon City District. The card says: Help shape an AI learning platform for students while using modern tools, LLMs, and product thinking.",
+        "The work I can point to is the following. Develop an AI chatbot for a robot and demonstrate it during the College of Science Information Day. Test combinations of AI models and server-tunnelling configurations to keep answers accurate and responses fast. Test robot application features in Android simulation environments and trace failures that are slow to isolate by hand. Use Cursor and Claude Code while debugging, then recheck the same flow as a designer and as a first-time user. Follow AI and technology updates across news, articles, and video sources, then decide which changes matter for the chatbot.",
+        "I will open the full advertisement before sending this letter, and I will not treat a skill as mine unless it is in my CV. Contact details that are still blank need to be filled in first."
+      ]
     }
-  ]
+  ],
+  "lastLiveSearch": {
+    "keywords": "AI intern",
+    "at": "2026-10-06 02:48 UTC",
+    "counts": {
+      "JobsDB": 15,
+      "JobStreet": 15,
+      "LinkedIn": 10,
+      "Remotive": 4
+    },
+    "errors": [],
+    "added": 17
+  }
 }

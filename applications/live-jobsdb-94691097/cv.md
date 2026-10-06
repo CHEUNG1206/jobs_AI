@@ -8,20 +8,20 @@ Email: [fill in]
 Phone: [fill in]
 LinkedIn: [fill in]
 
-Prepared for: AI Engineer Intern — Precision Robotics (Hong Kong) Limited
+Prepared for: Internship, UX/UI & Product Design (AI/SaaS) — EV Technologies Limited
 
 ## Summary
 
-AI Application Trainee who tests robot software and an on-robot chatbot, interested in a surgical-robotics internship if the C++ requirement can be met.
+AI Application Trainee comparing this JobsDB listing with the recorded trainee work.
 
 ## Experience
 
 ### AI Application Trainee — Department of Physics
 
-- Test robot application features in Android simulation environments and trace failures that are slow to isolate by hand.
-- Use Cursor and Claude Code while debugging, then recheck the same flow as a designer and as a first-time user.
 - Develop an AI chatbot for a robot and demonstrate it during the College of Science Information Day.
 - Test combinations of AI models and server-tunnelling configurations to keep answers accurate and responses fast.
+- Test robot application features in Android simulation environments and trace failures that are slow to isolate by hand.
+- Use Cursor and Claude Code while debugging, then recheck the same flow as a designer and as a first-time user.
 - Follow AI and technology updates across news, articles, and video sources, then decide which changes matter for the chatbot.
 
 ## Tools used in that work

@@ -71,6 +71,8 @@ class CareerAgentTest(unittest.TestCase):
         self.assertIn("建議起草", page)
         self.assertIn("已排除", page)
         self.assertIn("不建議現在提交", page)
+        self.assertIn("立即重新搜尋", page)
+        self.assertIn('id="cv-file"', page)
         self.assertNotIn("applications/hkpc-technical-officer/cv.md", page)
         tracker = json.loads((ROOT / "data" / "tracker.json").read_text(encoding="utf-8"))
         self.assertEqual(tracker["items"]["hkpc-technical-officer"]["status"], "closed")

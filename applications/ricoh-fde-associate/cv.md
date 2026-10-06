@@ -44,4 +44,4 @@ Graduation: [fill in]
 - programming languages
 - years of commercial employment
 
-This CV was drafted on 2026-10-06 from the assignment work context. It is not a submitted application.
+This CV was drafted from the assignment work context and any uploaded master CV. It is not a submitted application.

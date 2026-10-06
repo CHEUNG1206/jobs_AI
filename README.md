@@ -32,10 +32,19 @@
 ## 怎樣使用
 
 ```bash
-python3 src/career_agent.py
-python3 -m unittest tests/test_career_agent.py
+python3 src/server.py
 ```
 
-然後打開 `web/index.html`。頁面上可以把職位標成保留、已提交或略過，狀態存在瀏覽器本機。檔案 `data/tracker.json` 是給腳本用的狀態；把某一則的 `applied` 改成 `true` 後再執行腳本，該職位會從起草清單消失。
+瀏覽器打開 `http://127.0.0.1:8765/web/index.html`。
+
+「立即重新搜尋」會向四個公開來源取回職缺：JobsDB（香港）、LinkedIn 公開職缺列表（香港）、JobStreet（新加坡）、Remotive（遠端）。已核對過的舊職位會保留。已關閉的不會重新起草。新結果只採用搜尋卡上的文字，分數按見習用語、是否在香港、以及和履歷相同的詞來計算。
+
+「上傳主履歷」接受 PDF、DOCX、TXT 或 Markdown。原文會抄進草稿，並標出和該職位用詞重疊的句子。檔案留在本機 `data/uploads/`，不會自動寄出。
+
+頁面上的保留、已提交、略過存在瀏覽器本機。檔案 `data/tracker.json` 是給腳本用的狀態；把某一則的 `applied` 改成 `true` 後再執行，該職位會從起草清單消失。
+
+```bash
+python3 -m unittest tests/test_career_agent.py tests/test_live_search.py
+```
 
 申請信在 `applications/<職位id>/`。主履歷在 `applications/master/cv.md`。
