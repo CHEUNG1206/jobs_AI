@@ -2,7 +2,7 @@
 
 這份資料依作業「Searching for jobs and preparing applications」的四步來做：按偏好搜尋、去掉已看過或已關閉的職位、按現有經歷評分、只為仍然值得看的職位起草履歷和求職信。
 
-搜尋日是 **2026-10-06**。對象是作業裡的 **CHEUNG Yuk Yuen（張煜源）**，現職物理系 AI Application Trainee。草稿**沒有向任何僱主提交**。
+搜尋日是 **2026-10-06**。對象是作業裡的 **CHEUNG Yuk Yuen**，現職物理系 AI Application Trainee。草稿**沒有向任何僱主提交**。
 
 ## 建議先看的職位
 

@@ -383,7 +383,7 @@ def render_html(profile: dict, groups: dict) -> str:
 <body>
   <main>
     <h1>職位搜尋與申請草稿</h1>
-    <p class="lead">{html_escape(profile["name"])}（{html_escape(profile["nameZh"])}），{html_escape(profile["currentRole"])}。搜尋日為 2026-10-06。這些是草稿，尚未向任何僱主提交。</p>
+    <p class="lead">{html_escape(profile["name"])}，{html_escape(profile["currentRole"])}。搜尋日為 2026-10-06。這些是草稿，尚未向任何僱主提交。</p>
     <p class="lead">偏好地區是香港，目標是 AI 應用、機械人軟件、見習或實習。履歷只使用作業裡寫過的工作內容。電郵、電話、院校和學位留空，避免把沒有來源的資料寫進申請。</p>
     <p><a href="../applications/master/cv.md">主履歷草稿</a></p>
     <div class="filters">
