@@ -1,0 +1,65 @@
+{
+  "updatedOn": "2026-10-06",
+  "items": {
+    "ricoh-fde-intern": {
+      "status": "ready_for_review",
+      "viewed": true,
+      "applied": false,
+      "notes": ""
+    },
+    "ricoh-fde-associate": {
+      "status": "ready_for_review",
+      "viewed": true,
+      "applied": false,
+      "notes": ""
+    },
+    "smartage-swe-ai": {
+      "status": "ready_for_review",
+      "viewed": true,
+      "applied": false,
+      "notes": ""
+    },
+    "precision-robotics-intern": {
+      "status": "ready_for_review",
+      "viewed": true,
+      "applied": false,
+      "notes": ""
+    },
+    "ricoh-ai-specialist": {
+      "status": "hold",
+      "viewed": true,
+      "applied": false,
+      "notes": ""
+    },
+    "dbs-map-2027-ai": {
+      "status": "hold",
+      "viewed": true,
+      "applied": false,
+      "notes": ""
+    },
+    "fdm-se-grad-hk": {
+      "status": "hold",
+      "viewed": true,
+      "applied": false,
+      "notes": ""
+    },
+    "hkpc-technical-officer": {
+      "status": "closed",
+      "viewed": true,
+      "applied": false,
+      "notes": ""
+    },
+    "macroview-solution-engineer": {
+      "status": "closed",
+      "viewed": true,
+      "applied": false,
+      "notes": ""
+    },
+    "pharmcare-ai-trainee": {
+      "status": "closed",
+      "viewed": true,
+      "applied": false,
+      "notes": ""
+    }
+  }
+}

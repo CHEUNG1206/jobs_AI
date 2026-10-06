@@ -1,0 +1,27 @@
+{
+  "drafts": [
+    "ricoh-fde-associate",
+    "ricoh-fde-intern",
+    "smartage-swe-ai",
+    "precision-robotics-intern"
+  ],
+  "holds": [
+    "ricoh-ai-specialist",
+    "fdm-se-grad-hk",
+    "dbs-map-2027-ai"
+  ],
+  "excluded": [
+    "hkpc-technical-officer",
+    "macroview-solution-engineer",
+    "pharmcare-ai-trainee"
+  ],
+  "scores": {
+    "ricoh-fde-associate": 71,
+    "ricoh-fde-intern": 69,
+    "smartage-swe-ai": 54,
+    "precision-robotics-intern": 39,
+    "ricoh-ai-specialist": 21,
+    "fdm-se-grad-hk": 18,
+    "dbs-map-2027-ai": 7
+  }
+}

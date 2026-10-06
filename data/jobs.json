@@ -1,0 +1,473 @@
+{
+  "searchedOn": "2026-10-06",
+  "criteria": {
+    "locations": ["Hong Kong"],
+    "roles": ["AI application", "chatbot", "robotics software", "junior", "trainee", "intern"],
+    "sources": ["JobsDB", "employer career sites", "public aggregators"]
+  },
+  "jobs": [
+    {
+      "id": "ricoh-fde-intern",
+      "title": "Part-time Forward Deployed Engineer Intern (University Students Welcome)",
+      "company": "Ricoh Hong Kong Limited",
+      "location": "Kowloon Bay, Kwun Tong District",
+      "employmentType": "Part-time internship",
+      "url": "https://hk.jobsdb.com/job/94927343",
+      "source": "JobsDB company job list",
+      "retrievedOn": "2026-10-06",
+      "listingStatus": "open_summary_only",
+      "listed": "7d ago",
+      "createdAt": "2026-09-28T16:47:12Z",
+      "prepareApplication": true,
+      "baseScore": 45,
+      "summary": "Part-time intern seat for university students. The public card says the intern works with technical experts and business stakeholders to design, develop, and implement AI solutions, with practical exposure to AI, data, and automation and a possible path to a full-time AI and data role.",
+      "requirements": [
+        "University students are welcome",
+        "Part-time",
+        "Work with technical experts and business stakeholders on AI solutions",
+        "Practical experience in AI, data, and automation"
+      ],
+      "evidence": [
+        {
+          "points": 16,
+          "note": "The card is aimed at university students and part-time work, which is the closest level match to an AI Application Trainee."
+        },
+        {
+          "points": 12,
+          "note": "Designing and implementing AI solutions lines up with building a robot chatbot and demonstrating it."
+        },
+        {
+          "points": 8,
+          "note": "Model and tunnelling tests are practical AI work, which matches the card's AI, data, and automation exposure."
+        },
+        {
+          "points": 6,
+          "note": "The workplace is in Hong Kong, the preferred location."
+        }
+      ],
+      "gaps": [
+        {
+          "points": -10,
+          "note": "JobsDB blocked the full advertisement. Only the company-list summary and three bullets were retrieved."
+        },
+        {
+          "points": -8,
+          "note": "The profile does not say whether CHEUNG is still enrolled, and the card asks for a university student."
+        }
+      ],
+      "cvOrder": ["chatbot", "models", "debug", "android", "research"],
+      "summaryAngle": "AI Application Trainee looking for a supervised, part-time chance to implement AI solutions with engineers and business stakeholders.",
+      "letter": [
+        "I am applying for the part-time Forward Deployed Engineer Intern role in Kowloon Bay. I am an AI Application Trainee in a Department of Physics. My current project is an AI chatbot for a robot, which I also demonstrate at the College of Science Information Day.",
+        "The public listing says the intern works with technical experts and business stakeholders to design, develop, and implement AI solutions, and that the work includes AI, data, and automation. That matches how I already spend the role. I compare AI models and server-tunnelling setups because a demo fails if the answer is wrong or if the reply is too slow. I test the robot application in an Android simulation environment, use Cursor and Claude Code to trace faults, and then run the same path as a first-time user. A flow can look finished to the person who built it and still break for someone else.",
+        "I would like the mentorship described in the listing, and the chance to turn that testing habit into solutions other teams can use. Please treat this as a draft. The full JobsDB text was not available when this letter was written on 6 October 2026, and my profile does not yet record enrolment status, degree, or contact details. I will add those, and I will not submit this application unless I am eligible for a student internship."
+      ]
+    },
+    {
+      "id": "ricoh-fde-associate",
+      "title": "Forward Deployed Engineer Associate - AI & Data (Open to Fresh Graduates)",
+      "company": "Ricoh Hong Kong Limited",
+      "location": "Kowloon Bay, Kwun Tong District",
+      "employmentType": "Full-time, fresh graduates welcome",
+      "url": "https://hk.jobsdb.com/job/94705146",
+      "source": "JobsDB company job list",
+      "retrievedOn": "2026-10-06",
+      "listingStatus": "open_summary_only",
+      "listed": "18d ago",
+      "createdAt": "2026-09-17T10:02:37Z",
+      "prepareApplication": true,
+      "baseScore": 45,
+      "summary": "Associate role open to fresh graduates. The public card says the hire works with technical experts and business stakeholders to design, develop, and implement AI solutions, with structured training, hands-on AI, cloud, and digital work, and a promotion path.",
+      "requirements": [
+        "Fresh graduates are welcome",
+        "Design, develop, and implement AI solutions with technical and business stakeholders",
+        "Structured training and mentorship",
+        "Hands-on AI, cloud, and digital technologies"
+      ],
+      "evidence": [
+        {
+          "points": 16,
+          "note": "Fresh-graduate wording fits a trainee moving into a first full-time AI role."
+        },
+        {
+          "points": 12,
+          "note": "The chatbot project is already an implemented AI application, not only a written summary."
+        },
+        {
+          "points": 8,
+          "note": "Repeated model and tunnelling tests are hands-on technical work of the kind the bullets describe."
+        },
+        {
+          "points": 6,
+          "note": "The workplace is in Hong Kong."
+        }
+      ],
+      "gaps": [
+        {
+          "points": -10,
+          "note": "Only the JobsDB card summary was retrieved, so cloud-stack requirements are unknown."
+        },
+        {
+          "points": -6,
+          "note": "Degree title and graduation date are blank in the source profile."
+        }
+      ],
+      "cvOrder": ["chatbot", "models", "debug", "android", "research"],
+      "summaryAngle": "AI Application Trainee seeking a first full-time role that pairs structured training with delivery of AI solutions.",
+      "letter": [
+        "I am applying for the Forward Deployed Engineer Associate, AI and Data, role at Ricoh Hong Kong. I am an AI Application Trainee in a Department of Physics, and I am looking for a full-time role that still has structured training.",
+        "I build an AI chatbot for a robot and show it at the College of Science Information Day. Before a demonstration I test combinations of models and server-tunnelling configurations, because accuracy and response time both have to hold with an audience watching. I also test the robot application in an Android simulation environment. Cursor and Claude Code shorten the debugging, but I still re-run the journey as a user. That is the check that catches a design which only makes sense to the person who wrote it.",
+        "Your card describes working beside technical experts and business stakeholders, with mentorship and hands-on AI, cloud, and digital work. I can bring the chatbot project, the test habit, and the willingness to learn the cloud tools the full advertisement requires. This draft uses the company-list summary retrieved on 6 October 2026. I will read the full JobsDB text, add my degree and contact details, and only then decide to apply. If I am still enrolled, the part-time intern posting is the better fit."
+      ]
+    },
+    {
+      "id": "smartage-swe-ai",
+      "title": "Software Engineer AI (Intern or Full-time)",
+      "company": "SmartAge Intelligence Limited",
+      "location": "Sha Tin, Hong Kong",
+      "employmentType": "Internship or full-time, onsite",
+      "url": "https://www.techjobasia.com/jobs/CTqdRMU_Q1-ODjmWUJia1w---Software-Engineer-AI-(Intern-or-Full-time)",
+      "source": "TechJobAsia",
+      "retrievedOn": "2026-10-06",
+      "listingStatus": "open_third_party",
+      "listed": "7 days ago on TechJobAsia at retrieval",
+      "createdAt": "",
+      "prepareApplication": true,
+      "baseScore": 40,
+      "summary": "Intern or full-time software role in Sha Tin. The team wants HTML and Flutter mobile work, Android and iOS apps, unit tests, IoT tasks, and a Google or Azure SaaS backend. Students on an Applied AI programme are preferred. About one fifth of the time is described as training and research.",
+      "requirements": [
+        "Mobile or website development, including Flutter, HTML, CSS, and Figma",
+        "Flutter apps for iOS and Android, plus unit testing",
+        "IoT work such as ESP32, MQTT, and Node-RED",
+        "Cloud exposure such as Azure, Firebase, or AWS",
+        "MongoDB or MySQL",
+        "English and Chinese",
+        "Students in an Applied AI programme are preferred"
+      ],
+      "evidence": [
+        {
+          "points": 14,
+          "note": "Intern or full-time, and a preference for Applied AI students, sits close to the trainee role."
+        },
+        {
+          "points": 10,
+          "note": "Android simulation testing is the nearest recorded skill to the mobile app work."
+        },
+        {
+          "points": 6,
+          "note": "The role reserves time for training and research, which fits someone still building a toolkit."
+        },
+        {
+          "points": 6,
+          "note": "Sha Tin is in Hong Kong."
+        }
+      ],
+      "gaps": [
+        {
+          "points": -12,
+          "note": "Flutter, Figma, and IoT tools are required on the listing and are not in the source profile."
+        },
+        {
+          "points": -6,
+          "note": "Cloud backends and databases are not recorded."
+        },
+        {
+          "points": -4,
+          "note": "The only full text found was a third-party board, so the employer page should be checked before applying."
+        }
+      ],
+      "cvOrder": ["android", "chatbot", "debug", "models", "research"],
+      "summaryAngle": "AI Application Trainee with Android simulation and chatbot testing experience, applying for a mobile AI internship while learning the Flutter and IoT stack the team uses.",
+      "letter": [
+        "I am applying for the Software Engineer AI intern or full-time opening at SmartAge Intelligence in Sha Tin. I am an AI Application Trainee in a Department of Physics. I develop an AI chatbot for a robot and test the robot application in an Android simulation environment.",
+        "The listing asks for Flutter, Figma, IoT work, and a cloud backend. Those tools are not part of the work recorded in my profile, so I am not claiming them. What I can offer now is the testing side of a mobile and AI product. I run feature checks, compare AI models and tunnelling setups for accuracy and speed, and use Cursor and Claude Code when a failure is hard to trace. I also repeat the path as a user, because a demo at the College of Science Information Day shows gaps that a developer walkthrough misses. The role's unit-testing and post-launch maintenance work is the same kind of loop.",
+        "I would use the training time in the listing to learn Flutter and the IoT pieces on a real client project. Please confirm on SmartAge's own channel that this TechJobAsia posting, read on 6 October 2026, is still open. I still need to add my programme name, contact details, and any mobile coursework before this draft is sent."
+      ]
+    },
+    {
+      "id": "precision-robotics-intern",
+      "title": "AI Engineer Intern",
+      "company": "Precision Robotics (Hong Kong) Limited",
+      "location": "Hong Kong Science Park, Tai Po District",
+      "employmentType": "Internship, full-time as listed on the aggregator",
+      "url": "https://jobs.weekday.works/precision-robotics-(hong-kong)-limited-ai-engineer-intern",
+      "source": "Weekday aggregator",
+      "retrievedOn": "2026-10-06",
+      "listingStatus": "unconfirmed_aggregator",
+      "listed": "No posting date on the aggregator page",
+      "createdAt": "",
+      "prepareApplication": true,
+      "baseScore": 40,
+      "summary": "Science Park internship assisting software engineers on surgical robotics. Duties include research, testing, verification, debugging, documentation, and field-trial support. The aggregator requires C++ and lists Python, Java, robotics, and real-time communication as relevant. It also says the intern should be studying a bachelor's degree in computing, electronics, or a related subject.",
+      "requirements": [
+        "Studying a bachelor's degree in computer science, computing, electronics, or a related discipline",
+        "Good knowledge of C++",
+        "Python or Java is useful",
+        "Robotics and real-time communication are a bonus",
+        "Software testing, debugging, verification, and documentation",
+        "English and Chinese"
+      ],
+      "evidence": [
+        {
+          "points": 14,
+          "note": "Daily work is already robot-application testing and debugging, which is the centre of this intern brief."
+        },
+        {
+          "points": 8,
+          "note": "A robot chatbot that has to answer accurately and quickly is adjacent to applied robotics software."
+        },
+        {
+          "points": 6,
+          "note": "Science Park is in Hong Kong."
+        }
+      ],
+      "gaps": [
+        {
+          "points": -15,
+          "note": "C++ is required and is not recorded in the profile."
+        },
+        {
+          "points": -6,
+          "note": "Python and Java are not recorded."
+        },
+        {
+          "points": -8,
+          "note": "The text comes from an aggregator with no posting date, so it may be stale."
+        }
+      ],
+      "cvOrder": ["android", "debug", "chatbot", "models", "research"],
+      "summaryAngle": "AI Application Trainee who tests robot software and an on-robot chatbot, interested in a surgical-robotics internship if the C++ requirement can be met.",
+      "letter": [
+        "I am writing about the AI Engineer Intern role at Precision Robotics in Hong Kong Science Park. I am an AI Application Trainee in a Department of Physics. I test robot applications and an AI chatbot that runs with a robot, including demonstrations at the College of Science Information Day.",
+        "The duties that match my current work are testing, verification, debugging, and documentation. I spend most weekdays on the robot application and its Android simulation. I compare AI models and server-tunnelling setups so answers stay accurate and responses stay fast. Cursor and Claude Code help me find faults, and I still retest as a user because a designer can miss what a clinician or a visitor will stumble on. I can document what failed and what changed.",
+        "I should be clear about the gap. The aggregator listing requires good C++ knowledge, and C++ is not in my recorded work. Python and Java are not recorded either. I will not send this letter unless I can show coursework or a project that meets that bar, and unless Precision Robotics still has the internship open. The page I used was a third-party copy read on 6 October 2026, with no posting date."
+      ]
+    },
+    {
+      "id": "ricoh-ai-specialist",
+      "title": "AI Solution Specialist",
+      "company": "Ricoh Hong Kong Limited",
+      "location": "Kowloon Bay, Kwun Tong District",
+      "employmentType": "Not stated on the public card",
+      "url": "https://hk.jobsdb.com/job/94904479",
+      "source": "JobsDB company job list",
+      "retrievedOn": "2026-10-06",
+      "listingStatus": "open_summary_only",
+      "listed": "8d ago",
+      "createdAt": "2026-09-27T23:37:26Z",
+      "prepareApplication": false,
+      "baseScore": 35,
+      "summary": "Ricoh card for an AI Solution Specialist. Bullets cover building solutions with sales, finding AI application opportunities, and turning R&D findings into prototypes. Years of experience are not on the card.",
+      "requirements": [
+        "Develop solutions with sales to meet customer needs",
+        "Investigate and identify AI application opportunities",
+        "Translate technical R&D findings into prototypes"
+      ],
+      "evidence": [
+        {
+          "points": 10,
+          "note": "A demonstrated chatbot is a prototype, and model tests are a form of technical investigation."
+        },
+        {
+          "points": 6,
+          "note": "The role is in Hong Kong."
+        }
+      ],
+      "gaps": [
+        {
+          "points": -12,
+          "note": "Specialist titles often expect prior commercial delivery, and the card does not say otherwise."
+        },
+        {
+          "points": -10,
+          "note": "The full advertisement was not retrieved."
+        },
+        {
+          "points": -8,
+          "note": "Working with sales on customer solutions is not in the trainee profile."
+        }
+      ],
+      "cvOrder": ["chatbot", "research", "models", "debug", "android"],
+      "summaryAngle": "",
+      "letter": []
+    },
+    {
+      "id": "dbs-map-2027-ai",
+      "title": "2027 Management Associate Programme (Technology and AI & Data Science)",
+      "company": "DBS",
+      "location": "Singapore",
+      "employmentType": "12-month graduate programme",
+      "url": "https://dbs.wd3.myworkdayjobs.com/DBS_Careers/job/Singapore---Central/XMLNAME-2027-Management-Associate-Programme--Technology-and-AI---Data-Science-_WD88186",
+      "source": "DBS Workday posting, job requisition text retrieved from the public cxs endpoint",
+      "retrievedOn": "2026-10-06",
+      "listingStatus": "open_outside_preference",
+      "listed": "Posted 10 days ago",
+      "createdAt": "2026-09-25",
+      "prepareApplication": false,
+      "baseScore": 30,
+      "summary": "Twelve-month graduate programme. The AI and Data Science track builds LLM copilots and agents, evaluations, safety guardrails, and ML models. DBS asks for a relevant degree, Python and common data-science libraries, and knowledge of LLMs, RAG, and vector databases. LangChain or LangGraph is an advantage. Additional locations on the posting are Singapore - Central and Singapore - East. Applications were open when retrieved.",
+      "requirements": [
+        "Bachelor's or master's degree in data science, analytics, AI, computer science, or a related discipline",
+        "Python plus Pandas, NumPy, and scikit-learn",
+        "Machine learning, LLMs, generative AI, and AI agents",
+        "Prompt engineering, RAG, and vector databases",
+        "LangChain, LangGraph, or Google ADK is an advantage",
+        "Work location is Singapore"
+      ],
+      "evidence": [
+        {
+          "points": 12,
+          "note": "Building and evaluating a chatbot is the same family of work as the GenAI and agent track."
+        },
+        {
+          "points": 6,
+          "note": "Comparing models for accuracy and latency is a basic form of the evaluation work the track describes."
+        }
+      ],
+      "gaps": [
+        {
+          "points": -20,
+          "note": "The posting is in Singapore. The search preference is Hong Kong."
+        },
+        {
+          "points": -15,
+          "note": "Python, Pandas, NumPy, scikit-learn, RAG, and LangChain are not in the source profile."
+        },
+        {
+          "points": -6,
+          "note": "Degree details are blank, and the programme asks for a transcript at application time."
+        }
+      ],
+      "cvOrder": [],
+      "summaryAngle": "",
+      "letter": []
+    },
+    {
+      "id": "fdm-se-grad-hk",
+      "title": "Software Engineering Graduate Programme (International students, Hong Kong based)",
+      "company": "FDM Group",
+      "location": "Hong Kong",
+      "employmentType": "2.5-year graduate programme",
+      "url": "https://careers.fdmgroup.com/vacancies/1721/software-engineering-graduate-programme--international-students-hong-kong-based.html",
+      "source": "FDM careers site",
+      "retrievedOn": "2026-10-06",
+      "listingStatus": "open_conditional",
+      "listed": "Live page on retrieval; no posting date shown",
+      "createdAt": "",
+      "prepareApplication": false,
+      "baseScore": 30,
+      "summary": "Hong Kong graduate programme aimed at people returning from study in the UK, Australia, or Canada. Training includes SQL, Python, applied AI integrations, software fundamentals, and testing. The commitment is 2.5 years. Client work can include development, automation testing, or production support.",
+      "requirements": [
+        "Bachelor's degree or higher, or about to finish one",
+        "Studied or studying in the UK, Australia, or Canada and returning to Hong Kong",
+        "Commit to the full 2.5-year programme",
+        "English, with Cantonese or Mandarin as a plus",
+        "Eligible to work in Hong Kong"
+      ],
+      "evidence": [
+        {
+          "points": 8,
+          "note": "Testing and applied AI appear in the training plan and in the current trainee work."
+        },
+        {
+          "points": 6,
+          "note": "The programme is based in Hong Kong."
+        }
+      ],
+      "gaps": [
+        {
+          "points": -18,
+          "note": "The page is written for students returning from the UK, Australia, or Canada. That history is not in the profile."
+        },
+        {
+          "points": -8,
+          "note": "A 2.5-year commitment should be a conscious choice, not a default application."
+        }
+      ],
+      "cvOrder": [],
+      "summaryAngle": "",
+      "letter": []
+    },
+    {
+      "id": "hkpc-technical-officer",
+      "title": "Technical Officer, Emerging Applications",
+      "company": "Hong Kong Productivity Council",
+      "location": "Hong Kong",
+      "employmentType": "Full-time",
+      "url": "https://careers.hkpc.org/job/Technical-Officer%2C-Emerging-Applications/1364935366/",
+      "source": "HKPC e-Recruitment",
+      "retrievedOn": "2026-10-06",
+      "listingStatus": "closed",
+      "listed": "Page said the position has been filled",
+      "createdAt": "",
+      "prepareApplication": false,
+      "baseScore": 0,
+      "summary": "HKPC Technical Officer role in the Centre of Advanced Power and Autonomous Systems. Fresh graduates were welcome and generative-AI experience was preferred. The careers page now says the position has been filled.",
+      "requirements": ["Do not apply. The employer page says the position has been filled."],
+      "evidence": [],
+      "gaps": [
+        {
+          "points": 0,
+          "note": "Closed listing. Kept so it is not drafted again."
+        }
+      ],
+      "cvOrder": [],
+      "summaryAngle": "",
+      "letter": []
+    },
+    {
+      "id": "macroview-solution-engineer",
+      "title": "Solution Engineer - AI Automation (Fresh Graduates Welcome)",
+      "company": "Macroview Telecom Limited",
+      "location": "Tsing Yi, Kwai Tsing District",
+      "employmentType": "Full-time",
+      "url": "https://hk.joblum.com/job/solution-engineer-ai-automation-fresh/4187375",
+      "source": "Joblum",
+      "retrievedOn": "2026-10-06",
+      "listingStatus": "expired",
+      "listed": "Posted 30 July 2026. Joblum marked it expired.",
+      "createdAt": "2026-07-30",
+      "prepareApplication": false,
+      "baseScore": 0,
+      "summary": "Fresh-graduate solution engineer role covering Microsoft Copilot, Azure AI, agents, and proof-of-concept demos. Joblum shows the advertisement as expired, so no materials were drafted.",
+      "requirements": ["Do not apply. The copied advertisement is expired."],
+      "evidence": [],
+      "gaps": [
+        {
+          "points": 0,
+          "note": "Expired listing. Kept so it is not drafted again."
+        }
+      ],
+      "cvOrder": [],
+      "summaryAngle": "",
+      "letter": []
+    },
+    {
+      "id": "pharmcare-ai-trainee",
+      "title": "AI / Application Specialist Trainee",
+      "company": "PharmCare",
+      "location": "Hong Kong",
+      "employmentType": "HKU winter STEM internship",
+      "url": "https://hk.linkedin.com/jobs/view/ai-application-specialist-trainee-hku-winter-stem-internship-at-pharmcare-%E9%86%AB%E8%97%A5%E9%80%9A-4036740440",
+      "source": "LinkedIn",
+      "retrievedOn": "2026-10-06",
+      "listingStatus": "closed",
+      "listed": "LinkedIn said it is no longer accepting applications",
+      "createdAt": "",
+      "prepareApplication": false,
+      "baseScore": 0,
+      "summary": "Chatbot design, response review, and debugging for a pharmacy product. The public post was tied to an HKU Netjobs internship and LinkedIn no longer accepts applications. It is recorded only to avoid a duplicate attempt.",
+      "requirements": ["Do not apply through the closed LinkedIn post."],
+      "evidence": [],
+      "gaps": [
+        {
+          "points": 0,
+          "note": "Closed, and the scheme was advertised for HKU students."
+        }
+      ],
+      "cvOrder": [],
+      "summaryAngle": "",
+      "letter": []
+    }
+  ]
+}

@@ -1,0 +1,344 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>職位搜尋與申請草稿</title>
+  <style>
+    :root {
+      color-scheme: light;
+      --ink: #1c1915;
+      --muted: #5c564e;
+      --line: #e4ddd2;
+      --paper: #faf7f2;
+      --card: #fffdf9;
+      --accent: #8c3d2f;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: "Iowan Old Style", Palatino, "Palatino Linotype", "Songti TC", serif;
+      color: var(--ink);
+      background: var(--paper);
+      line-height: 1.5;
+    }
+    main { max-width: 920px; margin: 0 auto; padding: 32px 20px 80px; }
+    h1 { font-size: 2rem; line-height: 1.2; margin-bottom: 0.2em; }
+    h2 { margin-top: 2.2em; font-size: 1.35rem; }
+    h3 { margin: 0 0 0.2em; font-size: 1.2rem; }
+    h4 { margin: 0.8em 0 0.2em; font-size: 0.95rem; }
+    p, li { font-size: 1rem; }
+    .lead { color: var(--muted); max-width: 68ch; }
+    .card {
+      background: var(--card);
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      padding: 18px 18px 14px;
+      margin: 14px 0;
+    }
+    .meta, .score, .state { color: var(--muted); margin: 0.15em 0; }
+    .score { color: var(--accent); font-weight: 650; }
+    a { color: var(--accent); }
+    button {
+      font: inherit;
+      margin: 8px 8px 0 0;
+      padding: 6px 10px;
+      border-radius: 999px;
+      border: 1px solid var(--ink);
+      background: transparent;
+      cursor: pointer;
+    }
+    button[aria-pressed="true"] { background: var(--ink); color: white; }
+    .filters { display: flex; gap: 8px; flex-wrap: wrap; margin: 12px 0 4px; }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>職位搜尋與申請草稿</h1>
+    <p class="lead">CHEUNG Yuk Yuen（張煜源），AI Application Trainee。搜尋日為 2026-10-06。這些是草稿，尚未向任何僱主提交。</p>
+    <p class="lead">偏好地區是香港，目標是 AI 應用、機械人軟件、見習或實習。履歷只使用作業裡寫過的工作內容。電郵、電話、院校和學位留空，避免把沒有來源的資料寫進申請。</p>
+    <p><a href="../applications/master/cv.md">主履歷草稿</a></p>
+    <div class="filters">
+      <button type="button" data-filter="draft" aria-pressed="true">建議起草</button>
+      <button type="button" data-filter="hold" aria-pressed="true">先不要投</button>
+      <button type="button" data-filter="excluded" aria-pressed="true">已排除</button>
+    </div>
+    <h2>建議起草</h2>
+    <p class="lead">已去掉已截止的職位。提交前請打開原連結，核對完整職缺，並補上聯絡資料。</p>
+    <section id="drafts">
+    <article class="card" data-id="ricoh-fde-associate" data-kind="draft">
+      <header>
+        <h3>Forward Deployed Engineer Associate - AI &amp; Data (Open to Fresh Graduates)</h3>
+        <p class="meta">Ricoh Hong Kong Limited · Kowloon Bay, Kwun Tong District</p>
+        <p class="score">Fit 71/100 · open_summary_only</p>
+      </header>
+      <p>Associate role open to fresh graduates. The public card says the hire works with technical experts and business stakeholders to design, develop, and implement AI solutions, with structured training, hands-on AI, cloud, and digital work, and a promotion path.</p>
+      <h4>Requirements</h4>
+      <ul><li>Fresh graduates are welcome</li><li>Design, develop, and implement AI solutions with technical and business stakeholders</li><li>Structured training and mentorship</li><li>Hands-on AI, cloud, and digital technologies</li></ul>
+      <h4>Gaps</h4>
+      <ul><li>Only the JobsDB card summary was retrieved, so cloud-stack requirements are unknown.</li><li>Degree title and graduation date are blank in the source profile.</li></ul>
+      <p><a href="https://hk.jobsdb.com/job/94705146">Open listing</a></p>
+      
+      <p class="links"><a href="../applications/ricoh-fde-associate/cv.md">CV draft</a> · <a href="../applications/ricoh-fde-associate/cover-letter.md">Cover letter</a> · <a href="../applications/ricoh-fde-associate/fit-notes.md">Fit notes</a></p>
+      <div class="actions">
+        <button type="button" data-mark="ready_for_review">Keep for review</button>
+        <button type="button" data-mark="applied">Mark submitted</button>
+        <button type="button" data-mark="skipped">Skip</button>
+      </div>
+      <p class="state" data-state></p>
+    </article>
+    
+
+    <article class="card" data-id="ricoh-fde-intern" data-kind="draft">
+      <header>
+        <h3>Part-time Forward Deployed Engineer Intern (University Students Welcome)</h3>
+        <p class="meta">Ricoh Hong Kong Limited · Kowloon Bay, Kwun Tong District</p>
+        <p class="score">Fit 69/100 · open_summary_only</p>
+      </header>
+      <p>Part-time intern seat for university students. The public card says the intern works with technical experts and business stakeholders to design, develop, and implement AI solutions, with practical exposure to AI, data, and automation and a possible path to a full-time AI and data role.</p>
+      <h4>Requirements</h4>
+      <ul><li>University students are welcome</li><li>Part-time</li><li>Work with technical experts and business stakeholders on AI solutions</li><li>Practical experience in AI, data, and automation</li></ul>
+      <h4>Gaps</h4>
+      <ul><li>JobsDB blocked the full advertisement. Only the company-list summary and three bullets were retrieved.</li><li>The profile does not say whether CHEUNG is still enrolled, and the card asks for a university student.</li></ul>
+      <p><a href="https://hk.jobsdb.com/job/94927343">Open listing</a></p>
+      
+      <p class="links"><a href="../applications/ricoh-fde-intern/cv.md">CV draft</a> · <a href="../applications/ricoh-fde-intern/cover-letter.md">Cover letter</a> · <a href="../applications/ricoh-fde-intern/fit-notes.md">Fit notes</a></p>
+      <div class="actions">
+        <button type="button" data-mark="ready_for_review">Keep for review</button>
+        <button type="button" data-mark="applied">Mark submitted</button>
+        <button type="button" data-mark="skipped">Skip</button>
+      </div>
+      <p class="state" data-state></p>
+    </article>
+    
+
+    <article class="card" data-id="smartage-swe-ai" data-kind="draft">
+      <header>
+        <h3>Software Engineer AI (Intern or Full-time)</h3>
+        <p class="meta">SmartAge Intelligence Limited · Sha Tin, Hong Kong</p>
+        <p class="score">Fit 54/100 · open_third_party</p>
+      </header>
+      <p>Intern or full-time software role in Sha Tin. The team wants HTML and Flutter mobile work, Android and iOS apps, unit tests, IoT tasks, and a Google or Azure SaaS backend. Students on an Applied AI programme are preferred. About one fifth of the time is described as training and research.</p>
+      <h4>Requirements</h4>
+      <ul><li>Mobile or website development, including Flutter, HTML, CSS, and Figma</li><li>Flutter apps for iOS and Android, plus unit testing</li><li>IoT work such as ESP32, MQTT, and Node-RED</li><li>Cloud exposure such as Azure, Firebase, or AWS</li><li>MongoDB or MySQL</li><li>English and Chinese</li><li>Students in an Applied AI programme are preferred</li></ul>
+      <h4>Gaps</h4>
+      <ul><li>Flutter, Figma, and IoT tools are required on the listing and are not in the source profile.</li><li>Cloud backends and databases are not recorded.</li><li>The only full text found was a third-party board, so the employer page should be checked before applying.</li></ul>
+      <p><a href="https://www.techjobasia.com/jobs/CTqdRMU_Q1-ODjmWUJia1w---Software-Engineer-AI-(Intern-or-Full-time)">Open listing</a></p>
+      
+      <p class="links"><a href="../applications/smartage-swe-ai/cv.md">CV draft</a> · <a href="../applications/smartage-swe-ai/cover-letter.md">Cover letter</a> · <a href="../applications/smartage-swe-ai/fit-notes.md">Fit notes</a></p>
+      <div class="actions">
+        <button type="button" data-mark="ready_for_review">Keep for review</button>
+        <button type="button" data-mark="applied">Mark submitted</button>
+        <button type="button" data-mark="skipped">Skip</button>
+      </div>
+      <p class="state" data-state></p>
+    </article>
+    
+
+    <article class="card" data-id="precision-robotics-intern" data-kind="draft">
+      <header>
+        <h3>AI Engineer Intern</h3>
+        <p class="meta">Precision Robotics (Hong Kong) Limited · Hong Kong Science Park, Tai Po District</p>
+        <p class="score">Fit 39/100 · unconfirmed_aggregator</p>
+      </header>
+      <p>Science Park internship assisting software engineers on surgical robotics. Duties include research, testing, verification, debugging, documentation, and field-trial support. The aggregator requires C++ and lists Python, Java, robotics, and real-time communication as relevant. It also says the intern should be studying a bachelor's degree in computing, electronics, or a related subject.</p>
+      <h4>Requirements</h4>
+      <ul><li>Studying a bachelor's degree in computer science, computing, electronics, or a related discipline</li><li>Good knowledge of C++</li><li>Python or Java is useful</li><li>Robotics and real-time communication are a bonus</li><li>Software testing, debugging, verification, and documentation</li><li>English and Chinese</li></ul>
+      <h4>Gaps</h4>
+      <ul><li>C++ is required and is not recorded in the profile.</li><li>Python and Java are not recorded.</li><li>The text comes from an aggregator with no posting date, so it may be stale.</li></ul>
+      <p><a href="https://jobs.weekday.works/precision-robotics-(hong-kong)-limited-ai-engineer-intern">Open listing</a></p>
+      <p class="score">不建議現在提交。職缺點名的技能尚未出現在履歷來源裡。</p>
+      <p class="links"><a href="../applications/precision-robotics-intern/cv.md">CV draft</a> · <a href="../applications/precision-robotics-intern/cover-letter.md">Cover letter</a> · <a href="../applications/precision-robotics-intern/fit-notes.md">Fit notes</a></p>
+      <div class="actions">
+        <button type="button" data-mark="ready_for_review">Keep for review</button>
+        <button type="button" data-mark="applied">Mark submitted</button>
+        <button type="button" data-mark="skipped">Skip</button>
+      </div>
+      <p class="state" data-state></p>
+    </article>
+    </section>
+    <h2>先不要投</h2>
+    <p class="lead">職位仍可能開放，但地點、入學狀態或技術條件與現有資料差太遠。</p>
+    <section id="holds">
+    <article class="card" data-id="ricoh-ai-specialist" data-kind="hold">
+      <header>
+        <h3>AI Solution Specialist</h3>
+        <p class="meta">Ricoh Hong Kong Limited · Kowloon Bay, Kwun Tong District</p>
+        <p class="score">Fit 21/100 · open_summary_only</p>
+      </header>
+      <p>Ricoh card for an AI Solution Specialist. Bullets cover building solutions with sales, finding AI application opportunities, and turning R&amp;D findings into prototypes. Years of experience are not on the card.</p>
+      <h4>Requirements</h4>
+      <ul><li>Develop solutions with sales to meet customer needs</li><li>Investigate and identify AI application opportunities</li><li>Translate technical R&amp;D findings into prototypes</li></ul>
+      <h4>Gaps</h4>
+      <ul><li>Specialist titles often expect prior commercial delivery, and the card does not say otherwise.</li><li>The full advertisement was not retrieved.</li><li>Working with sales on customer solutions is not in the trainee profile.</li></ul>
+      <p><a href="https://hk.jobsdb.com/job/94904479">Open listing</a></p>
+      
+      <p class="links"><a href="../applications/ricoh-ai-specialist/fit-notes.md">Fit notes</a></p>
+      <div class="actions">
+        <button type="button" data-mark="ready_for_review">Keep for review</button>
+        <button type="button" data-mark="applied">Mark submitted</button>
+        <button type="button" data-mark="skipped">Skip</button>
+      </div>
+      <p class="state" data-state></p>
+    </article>
+    
+
+    <article class="card" data-id="fdm-se-grad-hk" data-kind="hold">
+      <header>
+        <h3>Software Engineering Graduate Programme (International students, Hong Kong based)</h3>
+        <p class="meta">FDM Group · Hong Kong</p>
+        <p class="score">Fit 18/100 · open_conditional</p>
+      </header>
+      <p>Hong Kong graduate programme aimed at people returning from study in the UK, Australia, or Canada. Training includes SQL, Python, applied AI integrations, software fundamentals, and testing. The commitment is 2.5 years. Client work can include development, automation testing, or production support.</p>
+      <h4>Requirements</h4>
+      <ul><li>Bachelor's degree or higher, or about to finish one</li><li>Studied or studying in the UK, Australia, or Canada and returning to Hong Kong</li><li>Commit to the full 2.5-year programme</li><li>English, with Cantonese or Mandarin as a plus</li><li>Eligible to work in Hong Kong</li></ul>
+      <h4>Gaps</h4>
+      <ul><li>The page is written for students returning from the UK, Australia, or Canada. That history is not in the profile.</li><li>A 2.5-year commitment should be a conscious choice, not a default application.</li></ul>
+      <p><a href="https://careers.fdmgroup.com/vacancies/1721/software-engineering-graduate-programme--international-students-hong-kong-based.html">Open listing</a></p>
+      
+      <p class="links"><a href="../applications/fdm-se-grad-hk/fit-notes.md">Fit notes</a></p>
+      <div class="actions">
+        <button type="button" data-mark="ready_for_review">Keep for review</button>
+        <button type="button" data-mark="applied">Mark submitted</button>
+        <button type="button" data-mark="skipped">Skip</button>
+      </div>
+      <p class="state" data-state></p>
+    </article>
+    
+
+    <article class="card" data-id="dbs-map-2027-ai" data-kind="hold">
+      <header>
+        <h3>2027 Management Associate Programme (Technology and AI &amp; Data Science)</h3>
+        <p class="meta">DBS · Singapore</p>
+        <p class="score">Fit 7/100 · open_outside_preference</p>
+      </header>
+      <p>Twelve-month graduate programme. The AI and Data Science track builds LLM copilots and agents, evaluations, safety guardrails, and ML models. DBS asks for a relevant degree, Python and common data-science libraries, and knowledge of LLMs, RAG, and vector databases. LangChain or LangGraph is an advantage. Additional locations on the posting are Singapore - Central and Singapore - East. Applications were open when retrieved.</p>
+      <h4>Requirements</h4>
+      <ul><li>Bachelor's or master's degree in data science, analytics, AI, computer science, or a related discipline</li><li>Python plus Pandas, NumPy, and scikit-learn</li><li>Machine learning, LLMs, generative AI, and AI agents</li><li>Prompt engineering, RAG, and vector databases</li><li>LangChain, LangGraph, or Google ADK is an advantage</li><li>Work location is Singapore</li></ul>
+      <h4>Gaps</h4>
+      <ul><li>The posting is in Singapore. The search preference is Hong Kong.</li><li>Python, Pandas, NumPy, scikit-learn, RAG, and LangChain are not in the source profile.</li><li>Degree details are blank, and the programme asks for a transcript at application time.</li></ul>
+      <p><a href="https://dbs.wd3.myworkdayjobs.com/DBS_Careers/job/Singapore---Central/XMLNAME-2027-Management-Associate-Programme--Technology-and-AI---Data-Science-_WD88186">Open listing</a></p>
+      
+      <p class="links"><a href="../applications/dbs-map-2027-ai/fit-notes.md">Fit notes</a></p>
+      <div class="actions">
+        <button type="button" data-mark="ready_for_review">Keep for review</button>
+        <button type="button" data-mark="applied">Mark submitted</button>
+        <button type="button" data-mark="skipped">Skip</button>
+      </div>
+      <p class="state" data-state></p>
+    </article>
+    </section>
+    <h2>已排除</h2>
+    <p class="lead">僱主頁面顯示已額滿、廣告已過期，或申請已關閉。保留紀錄是為了避免重複申請。</p>
+    <section id="excluded">
+    <article class="card" data-id="hkpc-technical-officer" data-kind="excluded">
+      <header>
+        <h3>Technical Officer, Emerging Applications</h3>
+        <p class="meta">Hong Kong Productivity Council · Hong Kong</p>
+        <p class="score">Fit 0/100 · closed</p>
+      </header>
+      <p>HKPC Technical Officer role in the Centre of Advanced Power and Autonomous Systems. Fresh graduates were welcome and generative-AI experience was preferred. The careers page now says the position has been filled.</p>
+      <h4>Requirements</h4>
+      <ul><li>Do not apply. The employer page says the position has been filled.</li></ul>
+      <h4>Gaps</h4>
+      <ul><li>Closed listing. Kept so it is not drafted again.</li></ul>
+      <p><a href="https://careers.hkpc.org/job/Technical-Officer%2C-Emerging-Applications/1364935366/">Open listing</a></p>
+      
+      <p class="links"><a href="../applications/hkpc-technical-officer/fit-notes.md">Fit notes</a></p>
+      <div class="actions">
+        <button type="button" data-mark="ready_for_review">Keep for review</button>
+        <button type="button" data-mark="applied">Mark submitted</button>
+        <button type="button" data-mark="skipped">Skip</button>
+      </div>
+      <p class="state" data-state></p>
+    </article>
+    
+
+    <article class="card" data-id="macroview-solution-engineer" data-kind="excluded">
+      <header>
+        <h3>Solution Engineer - AI Automation (Fresh Graduates Welcome)</h3>
+        <p class="meta">Macroview Telecom Limited · Tsing Yi, Kwai Tsing District</p>
+        <p class="score">Fit 0/100 · expired</p>
+      </header>
+      <p>Fresh-graduate solution engineer role covering Microsoft Copilot, Azure AI, agents, and proof-of-concept demos. Joblum shows the advertisement as expired, so no materials were drafted.</p>
+      <h4>Requirements</h4>
+      <ul><li>Do not apply. The copied advertisement is expired.</li></ul>
+      <h4>Gaps</h4>
+      <ul><li>Expired listing. Kept so it is not drafted again.</li></ul>
+      <p><a href="https://hk.joblum.com/job/solution-engineer-ai-automation-fresh/4187375">Open listing</a></p>
+      
+      <p class="links"><a href="../applications/macroview-solution-engineer/fit-notes.md">Fit notes</a></p>
+      <div class="actions">
+        <button type="button" data-mark="ready_for_review">Keep for review</button>
+        <button type="button" data-mark="applied">Mark submitted</button>
+        <button type="button" data-mark="skipped">Skip</button>
+      </div>
+      <p class="state" data-state></p>
+    </article>
+    
+
+    <article class="card" data-id="pharmcare-ai-trainee" data-kind="excluded">
+      <header>
+        <h3>AI / Application Specialist Trainee</h3>
+        <p class="meta">PharmCare · Hong Kong</p>
+        <p class="score">Fit 0/100 · closed</p>
+      </header>
+      <p>Chatbot design, response review, and debugging for a pharmacy product. The public post was tied to an HKU Netjobs internship and LinkedIn no longer accepts applications. It is recorded only to avoid a duplicate attempt.</p>
+      <h4>Requirements</h4>
+      <ul><li>Do not apply through the closed LinkedIn post.</li></ul>
+      <h4>Gaps</h4>
+      <ul><li>Closed, and the scheme was advertised for HKU students.</li></ul>
+      <p><a href="https://hk.linkedin.com/jobs/view/ai-application-specialist-trainee-hku-winter-stem-internship-at-pharmcare-%E9%86%AB%E8%97%A5%E9%80%9A-4036740440">Open listing</a></p>
+      
+      <p class="links"><a href="../applications/pharmcare-ai-trainee/fit-notes.md">Fit notes</a></p>
+      <div class="actions">
+        <button type="button" data-mark="ready_for_review">Keep for review</button>
+        <button type="button" data-mark="applied">Mark submitted</button>
+        <button type="button" data-mark="skipped">Skip</button>
+      </div>
+      <p class="state" data-state></p>
+    </article>
+    </section>
+  </main>
+  <script>
+    const storageKey = "cheung-job-tracker-2026-10-06";
+    const saved = JSON.parse(localStorage.getItem(storageKey) || "{}");
+
+    function paint(card) {
+      const id = card.dataset.id;
+      const state = saved[id] || {};
+      card.querySelectorAll("button[data-mark]").forEach((button) => {
+        button.setAttribute("aria-pressed", String(button.dataset.mark === state.status));
+      });
+      const label = card.querySelector("[data-state]");
+      label.textContent = state.status ? "本機狀態：" + state.status : "本機狀態：尚未標記";
+    }
+
+    document.querySelectorAll(".card").forEach((card) => {
+      paint(card);
+      card.querySelectorAll("button[data-mark]").forEach((button) => {
+        button.addEventListener("click", () => {
+          saved[card.dataset.id] = { status: button.dataset.mark, viewed: true };
+          localStorage.setItem(storageKey, JSON.stringify(saved));
+          paint(card);
+        });
+      });
+    });
+
+    document.querySelectorAll("button[data-filter]").forEach((button) => {
+      button.addEventListener("click", () => {
+        const on = button.getAttribute("aria-pressed") !== "true";
+        button.setAttribute("aria-pressed", String(on));
+        const kind = button.dataset.filter;
+        const section = document.getElementById(kind === "draft" ? "drafts" : kind === "hold" ? "holds" : "excluded");
+        const lead = section.previousElementSibling;
+        const heading = lead.previousElementSibling;
+        const display = on ? "" : "none";
+        section.style.display = display;
+        lead.style.display = display;
+        heading.style.display = display;
+      });
+    });
+  </script>
+</body>
+</html>
