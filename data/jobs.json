@@ -1,0 +1,1527 @@
+{
+  "searchedOn": "2026-10-06",
+  "criteria": {
+    "locations": [
+      "Hong Kong"
+    ],
+    "roles": [
+      "AI application",
+      "chatbot",
+      "robotics software",
+      "junior",
+      "trainee",
+      "intern"
+    ],
+    "sources": [
+      "JobsDB",
+      "employer career sites",
+      "public aggregators"
+    ]
+  },
+  "jobs": [
+    {
+      "id": "ricoh-fde-intern",
+      "title": "Part-time Forward Deployed Engineer Intern (University Students Welcome)",
+      "company": "Ricoh Hong Kong Limited",
+      "location": "Kowloon Bay, Kwun Tong District",
+      "employmentType": "Part-time internship",
+      "url": "https://hk.jobsdb.com/job/94927343",
+      "source": "JobsDB company job list",
+      "retrievedOn": "2026-10-06",
+      "listingStatus": "open_full",
+      "listed": "7d ago",
+      "createdAt": "2026-09-28T16:47:12Z",
+      "prepareApplication": true,
+      "baseScore": 45,
+      "summary": "Part-time intern seat for university students. The public card says the intern works with technical experts and business stakeholders to design, develop, and implement AI solutions, with practical exposure to AI, data, and automation and a possible path to a full-time AI and data role.",
+      "requirements": [
+        "Ricoh Hong Kong is building the next generation of AI-enabled engineers and consultants. Join our IGNITE Forward Deployed Engineer Internship Program and gain hands-on experience in applying emerging technologies to solve real business",
+        "As a Part-time FDE Intern, you will work alongside technical experts and business stakeholders to explore, develop, and implement innovative AI and data solutions.",
+        "Collaborate with business teams and technical specialists to understand business requirements and solve real-world challenges.",
+        "Support the development of AI, Microsoft Copilot, analytics, and automation solutions."
+      ],
+      "evidence": [
+        {
+          "points": 16,
+          "note": "The card is aimed at university students and part-time work, which is the closest level match to an AI Application Trainee."
+        },
+        {
+          "points": 12,
+          "note": "Designing and implementing AI solutions lines up with building a robot chatbot and demonstrating it."
+        },
+        {
+          "points": 8,
+          "note": "Model and tunnelling tests are practical AI work, which matches the card's AI, data, and automation exposure."
+        },
+        {
+          "points": 6,
+          "note": "The workplace is in Hong Kong, the preferred location."
+        }
+      ],
+      "gaps": [
+        {
+          "points": -8,
+          "note": "The profile does not say whether CHEUNG is still enrolled, and the card asks for a university student."
+        }
+      ],
+      "cvOrder": [
+        "chatbot",
+        "models",
+        "debug",
+        "android",
+        "research"
+      ],
+      "summaryAngle": "AI Application Trainee looking for a supervised, part-time chance to implement AI solutions with engineers and business stakeholders.",
+      "letter": [
+        "I am applying for the Part-time Forward Deployed Engineer Intern (University Students Welcome) role at Ricoh Hong Kong Limited. I am an AI Application Trainee in the Department of Physics.",
+        "The full JobsDB advertisement says: \"As a Part-time FDE Intern, you will work alongside technical experts and business stakeholders to explore, develop, and implement innovative AI and data solutions.\" The closest work I can point to is this: Develop an AI chatbot for a robot and demonstrate it during the College of Science Information Day.",
+        "One part of this advertisement is not covered by my recorded work: \"Ricoh Hong Kong is building the next generation of AI-enabled engineers and consultants. Join our IGNITE Forward Deployed Engineer Internship Program and gain hands-on experience in applying emerging technologies to solve real business\"",
+        "This letter quotes the full advertisement, not the search card. Download it only after a person has checked the wording."
+      ],
+      "origin": "curated",
+      "fullText": "Ricoh Hong Kong is building the next generation of AI-enabled engineers and consultants. Join our IGNITE Forward Deployed Engineer Internship Program and gain hands-on experience in applying emerging technologies to solve real business challenges. This is an excellent opportunity for students who are passionate about AI, data analytics, automation, and digital transformation.\nYour mission\nAs a Part-time FDE Intern, you will work alongside technical experts and business stakeholders to explore, develop, and implement innovative AI and data solutions.\nAbout Your Role\nCollaborate with business teams and technical specialists to understand business requirements and solve real-world challenges.\nAssist in identifying opportunities to apply AI technologies to improve business processes and customer outcomes.\nSupport the development of AI, Microsoft Copilot, analytics, and automation solutions.\nParticipate in data analysis, dashboard development, and proof-of-concept projects.\nAssist in building trusted knowledge experiences using approved data and responsible AI practices.\nSupport project documentation, testing, and solution deployment activities.\nDoes it sound like you?\nCurrent university student, preferably Year 3 / final-year student .\nStudying Computer Science, Data Science, Artificial Intelligence, Engineering, Information Systems, Mathematics, Statistics, Business Analytics, or related disciplines.\nBasic knowledge of Python, SQL, data analytics, AI tools, machine learning, or automation technologies is an advantage.\nStrong curiosity, learning agility, and problem-solving skills.\nAble to communicate effectively and work collaboratively in a team environment.\nResponsible, self-motivated, and eager to learn new technologies.\nWorking Requirements\nAble to work at least 2 full working days per week during the semester.\nAvailable to work onsite at our Kowloon Bay office on the agreed working days.\nWhat you will gain\nHands-on experience in AI, Microsoft Copilot, data analytics, and automation projects.\nMentorship from experienced engineers, consultants, and business professionals.\nExposure to real customer and internal digital transformation initiatives.\nOpportunity to build valuable technical and consulting experience before graduation.\nPotential opportunity for future full-time employment upon graduation based on performance and business needs.\nApplication\nInterested candidates are invited to submit their CV via JobsDB.\nPlease clearly indicate your available working days and hours on your CV or application.\nInformation provided will be treated in strict confidence and only be used for recruitment related purposes. All personal data of unsuccessful candidates will be destroyed on completion of the recruitment exercise."
+    },
+    {
+      "id": "ricoh-fde-associate",
+      "title": "Forward Deployed Engineer Associate - AI & Data (Open to Fresh Graduates)",
+      "company": "Ricoh Hong Kong Limited",
+      "location": "Kowloon Bay, Kwun Tong District",
+      "employmentType": "Full-time, fresh graduates welcome",
+      "url": "https://hk.jobsdb.com/job/94705146",
+      "source": "JobsDB company job list",
+      "retrievedOn": "2026-10-06",
+      "listingStatus": "open_full",
+      "listed": "18d ago",
+      "createdAt": "2026-09-17T10:02:37Z",
+      "prepareApplication": true,
+      "baseScore": 45,
+      "summary": "Associate role open to fresh graduates. The public card says the hire works with technical experts and business stakeholders to design, develop, and implement AI solutions, with structured training, hands-on AI, cloud, and digital work, and a promotion path.",
+      "requirements": [
+        "Ricoh Hong Kong is building the next generation of Al-enabled engineers and consultants. Join our inaugural IGNITE Forward Deployed Engineer Associate Program and turn emerging technology into practical solutions that enhance the way",
+        "As a Forward Deployed Engineer Associate - AI & Data, you will work alongside technical experts and business stakeholders to design, develop, and implement innovative AI solutions.",
+        "Collaborate with business teams, customers, and sales teams to understand requirements and solve real-world challenges.",
+        "Develop technical solutions, proposals, and proof-of-concepts for customer engagements."
+      ],
+      "evidence": [
+        {
+          "points": 16,
+          "note": "Fresh-graduate wording fits a trainee moving into a first full-time AI role."
+        },
+        {
+          "points": 12,
+          "note": "The chatbot project is already an implemented AI application, not only a written summary."
+        },
+        {
+          "points": 8,
+          "note": "Repeated model and tunnelling tests are hands-on technical work of the kind the bullets describe."
+        },
+        {
+          "points": 6,
+          "note": "The workplace is in Hong Kong."
+        }
+      ],
+      "gaps": [
+        {
+          "points": -6,
+          "note": "Degree title and graduation date are blank in the source profile."
+        }
+      ],
+      "cvOrder": [
+        "chatbot",
+        "models",
+        "debug",
+        "android",
+        "research"
+      ],
+      "summaryAngle": "AI Application Trainee seeking a first full-time role that pairs structured training with delivery of AI solutions.",
+      "letter": [
+        "I am applying for the Forward Deployed Engineer Associate - AI & Data (Open to Fresh Graduates) role at Ricoh Hong Kong Limited. I am an AI Application Trainee in the Department of Physics.",
+        "The full JobsDB advertisement says: \"Ricoh Hong Kong is building the next generation of Al-enabled engineers and consultants. Join our inaugural IGNITE Forward Deployed Engineer Associate Program and turn emerging technology into practical solutions that enhance the way\" The closest work I can point to is this: Follow AI and technology updates across news, articles, and video sources, then decide which changes matter for the chatbot.",
+        "It also says: \"As a Forward Deployed Engineer Associate - AI & Data, you will work alongside technical experts and business stakeholders to design, develop, and implement innovative AI solutions.\" That lines up with this part of my work: Develop an AI chatbot for a robot and demonstrate it during the College of Science Information Day.",
+        "One part of this advertisement is not covered by my recorded work: \"Collaborate with business teams, customers, and sales teams to understand requirements and solve real-world challenges.\"",
+        "This letter quotes the full advertisement, not the search card. Download it only after a person has checked the wording."
+      ],
+      "origin": "curated",
+      "fullText": "Ricoh Hong Kong is building the next generation of Al-enabled engineers and consultants. Join our inaugural IGNITE Forward Deployed Engineer Associate Program and turn emerging technology into practical solutions that enhance the way people and organizations work.\nYour mission\nAs a Forward Deployed Engineer Associate - AI & Data, you will work alongside technical experts and business stakeholders to design, develop, and implement innovative AI solutions.\nAbout Your Role:\nCollaborate with business teams, customers, and sales teams to understand requirements and solve real-world challenges.\nIdentify opportunities to apply AI technologies to improve business processes and customer outcomes.\nDevelop technical solutions, proposals, and proof-of-concepts for customer engagements.\nDevelop and test generative AI, Microsoft Copilot, analytics, and automation solutions.\nBuild trusted knowledge experiences using approved data and responsible Al practices.\nTranslate prototypes into reusable solutions, documentation and measurable benefits.\nDoes it sound like you?\nFresh graduates or early-career candidates in Computer Science, Data Science, Al, Engineering, Information Systems, Mathematics, Statistics or related disciplines.\nFoundational experience in Python, SQL, analytics, machine learning, prompt engineering or automation.\nCuriosity, learning agility, structured problem solving and the confidence to communicate with stakeholders.\nA strong sense of responsibility for data privacy, security and quality.\nGraduates from leading universities across the Greater Bay Area who are passionate about AI innovation and digital transformation are encouraged to apply.\nWhat you will gain\nA 12-month structured journey with technical and consulting rotations.\nMentoring, certification support and access to real internal and customer projects.\nA career pathway into Al engineering, data, consulting, digital innovation or solution architecture.\nThe opportunity to join the team shaping Ricoh's Al solutions business in Hong Kong\nInterested candidates, please click \"Apply Now\" to submit your full resume, together with your current and expected salary.\nInformation provided will be treated in strict confidence and only be used for recruitment related purposes. All personal data of unsuccessful candidates will be destroyed on completion of the recruitment exercise."
+    },
+    {
+      "id": "smartage-swe-ai",
+      "title": "Software Engineer AI (Intern or Full-time)",
+      "company": "SmartAge Intelligence Limited",
+      "location": "Sha Tin, Hong Kong",
+      "employmentType": "Internship or full-time, onsite",
+      "url": "https://www.techjobasia.com/jobs/CTqdRMU_Q1-ODjmWUJia1w---Software-Engineer-AI-(Intern-or-Full-time)",
+      "source": "TechJobAsia",
+      "retrievedOn": "2026-10-06",
+      "listingStatus": "open_third_party",
+      "listed": "7 days ago on TechJobAsia at retrieval",
+      "createdAt": "",
+      "prepareApplication": true,
+      "baseScore": 40,
+      "summary": "Intern or full-time software role in Sha Tin. The team wants HTML and Flutter mobile work, Android and iOS apps, unit tests, IoT tasks, and a Google or Azure SaaS backend. Students on an Applied AI programme are preferred. About one fifth of the time is described as training and research.",
+      "requirements": [
+        "Mobile or website development, including Flutter, HTML, CSS, and Figma",
+        "Flutter apps for iOS and Android, plus unit testing",
+        "IoT work such as ESP32, MQTT, and Node-RED",
+        "Cloud exposure such as Azure, Firebase, or AWS",
+        "MongoDB or MySQL",
+        "English and Chinese",
+        "Students in an Applied AI programme are preferred"
+      ],
+      "evidence": [
+        {
+          "points": 14,
+          "note": "Intern or full-time, and a preference for Applied AI students, sits close to the trainee role."
+        },
+        {
+          "points": 10,
+          "note": "Android simulation testing is the nearest recorded skill to the mobile app work."
+        },
+        {
+          "points": 6,
+          "note": "The role reserves time for training and research, which fits someone still building a toolkit."
+        },
+        {
+          "points": 6,
+          "note": "Sha Tin is in Hong Kong."
+        }
+      ],
+      "gaps": [
+        {
+          "points": -12,
+          "note": "Flutter, Figma, and IoT tools are required on the listing and are not in the source profile."
+        },
+        {
+          "points": -6,
+          "note": "Cloud backends and databases are not recorded."
+        },
+        {
+          "points": -4,
+          "note": "The only full text found was a third-party board, so the employer page should be checked before applying."
+        }
+      ],
+      "cvOrder": [
+        "android",
+        "chatbot",
+        "debug",
+        "models",
+        "research"
+      ],
+      "summaryAngle": "AI Application Trainee with Android simulation and chatbot testing experience, applying for a mobile AI internship while learning the Flutter and IoT stack the team uses.",
+      "letter": [
+        "I am applying for the Software Engineer AI intern or full-time opening at SmartAge Intelligence in Sha Tin. I am an AI Application Trainee in a Department of Physics. I develop an AI chatbot for a robot and test the robot application in an Android simulation environment.",
+        "The listing asks for Flutter, Figma, IoT work, and a cloud backend. Those tools are not part of the work recorded in my profile, so I am not claiming them. What I can offer now is the testing side of a mobile and AI product. I run feature checks, compare AI models and tunnelling setups for accuracy and speed, and use Cursor and Claude Code when a failure is hard to trace. I also repeat the path as a user, because a demo at the College of Science Information Day shows gaps that a developer walkthrough misses. The role's unit-testing and post-launch maintenance work is the same kind of loop.",
+        "I would use the training time in the listing to learn Flutter and the IoT pieces on a real client project. Please confirm on SmartAge's own channel that this TechJobAsia posting, read on 6 October 2026, is still open. I still need to add my programme name, contact details, and any mobile coursework before this draft is sent."
+      ],
+      "origin": "curated"
+    },
+    {
+      "id": "precision-robotics-intern",
+      "title": "AI Engineer Intern",
+      "company": "Precision Robotics (Hong Kong) Limited",
+      "location": "Hong Kong Science Park, Tai Po District",
+      "employmentType": "Internship, full-time as listed on the aggregator",
+      "url": "https://jobs.weekday.works/precision-robotics-(hong-kong)-limited-ai-engineer-intern",
+      "source": "Weekday aggregator",
+      "retrievedOn": "2026-10-06",
+      "listingStatus": "unconfirmed_aggregator",
+      "listed": "No posting date on the aggregator page",
+      "createdAt": "",
+      "prepareApplication": true,
+      "baseScore": 40,
+      "summary": "Science Park internship assisting software engineers on surgical robotics. Duties include research, testing, verification, debugging, documentation, and field-trial support. The aggregator requires C++ and lists Python, Java, robotics, and real-time communication as relevant. It also says the intern should be studying a bachelor's degree in computing, electronics, or a related subject.",
+      "requirements": [
+        "Studying a bachelor's degree in computer science, computing, electronics, or a related discipline",
+        "Good knowledge of C++",
+        "Python or Java is useful",
+        "Robotics and real-time communication are a bonus",
+        "Software testing, debugging, verification, and documentation",
+        "English and Chinese"
+      ],
+      "evidence": [
+        {
+          "points": 14,
+          "note": "Daily work is already robot-application testing and debugging, which is the centre of this intern brief."
+        },
+        {
+          "points": 8,
+          "note": "A robot chatbot that has to answer accurately and quickly is adjacent to applied robotics software."
+        },
+        {
+          "points": 6,
+          "note": "Science Park is in Hong Kong."
+        }
+      ],
+      "gaps": [
+        {
+          "points": -15,
+          "note": "C++ is required and is not recorded in the profile."
+        },
+        {
+          "points": -6,
+          "note": "Python and Java are not recorded."
+        },
+        {
+          "points": -8,
+          "note": "The text comes from an aggregator with no posting date, so it may be stale."
+        }
+      ],
+      "cvOrder": [
+        "android",
+        "debug",
+        "chatbot",
+        "models",
+        "research"
+      ],
+      "summaryAngle": "AI Application Trainee who tests robot software and an on-robot chatbot, interested in a surgical-robotics internship if the C++ requirement can be met.",
+      "letter": [
+        "I am writing about the AI Engineer Intern role at Precision Robotics in Hong Kong Science Park. I am an AI Application Trainee in a Department of Physics. I test robot applications and an AI chatbot that runs with a robot, including demonstrations at the College of Science Information Day.",
+        "The duties that match my current work are testing, verification, debugging, and documentation. I spend most weekdays on the robot application and its Android simulation. I compare AI models and server-tunnelling setups so answers stay accurate and responses stay fast. Cursor and Claude Code help me find faults, and I still retest as a user because a designer can miss what a clinician or a visitor will stumble on. I can document what failed and what changed.",
+        "I should be clear about the gap. The aggregator listing requires good C++ knowledge, and C++ is not in my recorded work. Python and Java are not recorded either. I will not send this letter unless I can show coursework or a project that meets that bar, and unless Precision Robotics still has the internship open. The page I used was a third-party copy read on 6 October 2026, with no posting date."
+      ],
+      "origin": "curated"
+    },
+    {
+      "id": "ricoh-ai-specialist",
+      "title": "AI Solution Specialist",
+      "company": "Ricoh Hong Kong Limited",
+      "location": "Kowloon Bay, Kwun Tong District",
+      "employmentType": "Not stated on the public card",
+      "url": "https://hk.jobsdb.com/job/94904479",
+      "source": "JobsDB company job list",
+      "retrievedOn": "2026-10-06",
+      "listingStatus": "open_full",
+      "listed": "8d ago",
+      "createdAt": "2026-09-27T23:37:26Z",
+      "prepareApplication": false,
+      "baseScore": 35,
+      "summary": "Ricoh card for an AI Solution Specialist. Bullets cover building solutions with sales, finding AI application opportunities, and turning R&D findings into prototypes. Years of experience are not on the card.",
+      "requirements": [
+        "Develop technical solutions and collaborate with sales team to understand customer requirements",
+        "Develop and deliver technical proposals and proof of concepts (PoCs)",
+        "Develop AI agents using LLMs, focusing on prompt engineering and RAG (Retrieval-Augmented Generation) techniques",
+        "Analyze workflows to design AI-driven enhancements"
+      ],
+      "evidence": [
+        {
+          "points": 10,
+          "note": "A demonstrated chatbot is a prototype, and model tests are a form of technical investigation."
+        },
+        {
+          "points": 6,
+          "note": "The role is in Hong Kong."
+        }
+      ],
+      "gaps": [
+        {
+          "points": -12,
+          "note": "Specialist titles often expect prior commercial delivery, and the card does not say otherwise."
+        },
+        {
+          "points": -10,
+          "note": "The full advertisement was not retrieved."
+        },
+        {
+          "points": -8,
+          "note": "Working with sales on customer solutions is not in the trainee profile."
+        }
+      ],
+      "cvOrder": [
+        "chatbot",
+        "research",
+        "models",
+        "debug",
+        "android"
+      ],
+      "summaryAngle": "",
+      "letter": [
+        "I am applying for the AI Solution Specialist role at Ricoh Hong Kong Limited. I am an AI Application Trainee in the Department of Physics.",
+        "The full JobsDB advertisement says: \"Develop technical solutions and collaborate with sales team to understand customer requirements\" The closest work I can point to is this: Develop an AI chatbot for a robot and demonstrate it during the College of Science Information Day.",
+        "One part of this advertisement is not covered by my recorded work: \"Develop and deliver technical proposals and proof of concepts (PoCs)\"",
+        "This letter quotes the full advertisement, not the search card. Download it only after a person has checked the wording."
+      ],
+      "origin": "curated",
+      "fullText": "Ricoh is a leading provider of digital services and innovative solutions to support our customers’ digital transformation and business process optimization. To cope with our business expansion, we are looking a team of talent joining our Ricoh Family.\nAbout Your Role:\nDevelop technical solutions and collaborate with sales team to understand customer requirements\nDevelop and deliver technical proposals and proof of concepts (PoCs)\nConducting investigations to identify AI application opportunities\nDevelop AI agents using LLMs, focusing on prompt engineering and RAG (Retrieval-Augmented Generation) techniques\nTranslate technical R&D findings into innovative prototypes\nProvide data-driven insights to refine RAG OCR solutions\nAnalyze workflows to design AI-driven enhancements\nDoes it sound like you?\nDegree in Computer Science, AI, Engineering or related fields\n2+ years in business analysis with a tech focus\nKnowledge of LLM, RAG or chatbot\nExperience with system integration will be an advantage\nExcellent presentation and interpersonal skills\nInterested parties please forward your full resume (in Microsoft Word or PDF format) with current and expect salary by clicking \"Apply Now\".\nInformation provided will be treated in strict confidence and only be used for recruitment related purposes. All personal data of unsuccessful candidates will be destroyed on completion of the recruitment exercise."
+    },
+    {
+      "id": "dbs-map-2027-ai",
+      "title": "2027 Management Associate Programme (Technology and AI & Data Science)",
+      "company": "DBS",
+      "location": "Singapore",
+      "employmentType": "12-month graduate programme",
+      "url": "https://dbs.wd3.myworkdayjobs.com/DBS_Careers/job/Singapore---Central/XMLNAME-2027-Management-Associate-Programme--Technology-and-AI---Data-Science-_WD88186",
+      "source": "DBS Workday posting, job requisition text retrieved from the public cxs endpoint",
+      "retrievedOn": "2026-10-06",
+      "listingStatus": "open_outside_preference",
+      "listed": "Posted 10 days ago",
+      "createdAt": "2026-09-25",
+      "prepareApplication": false,
+      "baseScore": 30,
+      "summary": "Twelve-month graduate programme. The AI and Data Science track builds LLM copilots and agents, evaluations, safety guardrails, and ML models. DBS asks for a relevant degree, Python and common data-science libraries, and knowledge of LLMs, RAG, and vector databases. LangChain or LangGraph is an advantage. Additional locations on the posting are Singapore - Central and Singapore - East. Applications were open when retrieved.",
+      "requirements": [
+        "Bachelor's or master's degree in data science, analytics, AI, computer science, or a related discipline",
+        "Python plus Pandas, NumPy, and scikit-learn",
+        "Machine learning, LLMs, generative AI, and AI agents",
+        "Prompt engineering, RAG, and vector databases",
+        "LangChain, LangGraph, or Google ADK is an advantage",
+        "Work location is Singapore"
+      ],
+      "evidence": [
+        {
+          "points": 12,
+          "note": "Building and evaluating a chatbot is the same family of work as the GenAI and agent track."
+        },
+        {
+          "points": 6,
+          "note": "Comparing models for accuracy and latency is a basic form of the evaluation work the track describes."
+        }
+      ],
+      "gaps": [
+        {
+          "points": -20,
+          "note": "The posting is in Singapore. The search preference is Hong Kong."
+        },
+        {
+          "points": -15,
+          "note": "Python, Pandas, NumPy, scikit-learn, RAG, and LangChain are not in the source profile."
+        },
+        {
+          "points": -6,
+          "note": "Degree details are blank, and the programme asks for a transcript at application time."
+        }
+      ],
+      "cvOrder": [],
+      "summaryAngle": "",
+      "letter": [],
+      "origin": "curated"
+    },
+    {
+      "id": "fdm-se-grad-hk",
+      "title": "Software Engineering Graduate Programme (International students, Hong Kong based)",
+      "company": "FDM Group",
+      "location": "Hong Kong",
+      "employmentType": "2.5-year graduate programme",
+      "url": "https://careers.fdmgroup.com/vacancies/1721/software-engineering-graduate-programme--international-students-hong-kong-based.html",
+      "source": "FDM careers site",
+      "retrievedOn": "2026-10-06",
+      "listingStatus": "open_conditional",
+      "listed": "Live page on retrieval; no posting date shown",
+      "createdAt": "",
+      "prepareApplication": false,
+      "baseScore": 30,
+      "summary": "Hong Kong graduate programme aimed at people returning from study in the UK, Australia, or Canada. Training includes SQL, Python, applied AI integrations, software fundamentals, and testing. The commitment is 2.5 years. Client work can include development, automation testing, or production support.",
+      "requirements": [
+        "Bachelor's degree or higher, or about to finish one",
+        "Studied or studying in the UK, Australia, or Canada and returning to Hong Kong",
+        "Commit to the full 2.5-year programme",
+        "English, with Cantonese or Mandarin as a plus",
+        "Eligible to work in Hong Kong"
+      ],
+      "evidence": [
+        {
+          "points": 8,
+          "note": "Testing and applied AI appear in the training plan and in the current trainee work."
+        },
+        {
+          "points": 6,
+          "note": "The programme is based in Hong Kong."
+        }
+      ],
+      "gaps": [
+        {
+          "points": -18,
+          "note": "The page is written for students returning from the UK, Australia, or Canada. That history is not in the profile."
+        },
+        {
+          "points": -8,
+          "note": "A 2.5-year commitment should be a conscious choice, not a default application."
+        }
+      ],
+      "cvOrder": [],
+      "summaryAngle": "",
+      "letter": [],
+      "origin": "curated"
+    },
+    {
+      "id": "hkpc-technical-officer",
+      "title": "Technical Officer, Emerging Applications",
+      "company": "Hong Kong Productivity Council",
+      "location": "Hong Kong",
+      "employmentType": "Full-time",
+      "url": "https://careers.hkpc.org/job/Technical-Officer%2C-Emerging-Applications/1364935366/",
+      "source": "HKPC e-Recruitment",
+      "retrievedOn": "2026-10-06",
+      "listingStatus": "closed",
+      "listed": "Page said the position has been filled",
+      "createdAt": "",
+      "prepareApplication": false,
+      "baseScore": 0,
+      "summary": "HKPC Technical Officer role in the Centre of Advanced Power and Autonomous Systems. Fresh graduates were welcome and generative-AI experience was preferred. The careers page now says the position has been filled.",
+      "requirements": [
+        "Do not apply. The employer page says the position has been filled."
+      ],
+      "evidence": [],
+      "gaps": [
+        {
+          "points": 0,
+          "note": "Closed listing. Kept so it is not drafted again."
+        }
+      ],
+      "cvOrder": [],
+      "summaryAngle": "",
+      "letter": [],
+      "origin": "curated"
+    },
+    {
+      "id": "macroview-solution-engineer",
+      "title": "Solution Engineer - AI Automation (Fresh Graduates Welcome)",
+      "company": "Macroview Telecom Limited",
+      "location": "Tsing Yi, Kwai Tsing District",
+      "employmentType": "Full-time",
+      "url": "https://hk.joblum.com/job/solution-engineer-ai-automation-fresh/4187375",
+      "source": "Joblum",
+      "retrievedOn": "2026-10-06",
+      "listingStatus": "expired",
+      "listed": "Posted 30 July 2026. Joblum marked it expired.",
+      "createdAt": "2026-07-30",
+      "prepareApplication": false,
+      "baseScore": 0,
+      "summary": "Fresh-graduate solution engineer role covering Microsoft Copilot, Azure AI, agents, and proof-of-concept demos. Joblum shows the advertisement as expired, so no materials were drafted.",
+      "requirements": [
+        "Do not apply. The copied advertisement is expired."
+      ],
+      "evidence": [],
+      "gaps": [
+        {
+          "points": 0,
+          "note": "Expired listing. Kept so it is not drafted again."
+        }
+      ],
+      "cvOrder": [],
+      "summaryAngle": "",
+      "letter": [],
+      "origin": "curated"
+    },
+    {
+      "id": "pharmcare-ai-trainee",
+      "title": "AI / Application Specialist Trainee",
+      "company": "PharmCare",
+      "location": "Hong Kong",
+      "employmentType": "HKU winter STEM internship",
+      "url": "https://hk.linkedin.com/jobs/view/ai-application-specialist-trainee-hku-winter-stem-internship-at-pharmcare-%E9%86%AB%E8%97%A5%E9%80%9A-4036740440",
+      "source": "LinkedIn",
+      "retrievedOn": "2026-10-06",
+      "listingStatus": "closed",
+      "listed": "LinkedIn said it is no longer accepting applications",
+      "createdAt": "",
+      "prepareApplication": false,
+      "baseScore": 0,
+      "summary": "Chatbot design, response review, and debugging for a pharmacy product. The public post was tied to an HKU Netjobs internship and LinkedIn no longer accepts applications. It is recorded only to avoid a duplicate attempt.",
+      "requirements": [
+        "Do not apply through the closed LinkedIn post."
+      ],
+      "evidence": [],
+      "gaps": [
+        {
+          "points": 0,
+          "note": "Closed, and the scheme was advertised for HKU students."
+        }
+      ],
+      "cvOrder": [],
+      "summaryAngle": "",
+      "letter": [],
+      "origin": "curated"
+    },
+    {
+      "id": "live-linkedin-4467966959",
+      "origin": "live",
+      "title": "AI R&D Engineering Intern — AI Infrastructure, Model Routing & Applied Research",
+      "company": "A-Field Tech",
+      "location": "Hong Kong, Hong Kong SAR",
+      "employmentType": "See listing",
+      "url": "https://hk.linkedin.com/jobs/view/ai-r-d-engineering-intern-%E2%80%94-ai-infrastructure-model-routing-applied-research-at-a-field-tech-4467966959",
+      "source": "LinkedIn",
+      "retrievedOn": "2026-10-06",
+      "listingStatus": "open_full",
+      "listed": "",
+      "createdAt": "",
+      "prepareApplication": true,
+      "baseScore": 30,
+      "summary": "Help build the intelligence layer for Asia’s AI infrastructure\nA-Field Tech Limited is a Hong Kong-based AI and network infrastructure company. NexLLM is a Hong Kong-based AI infrastructure company building a stable and secure regional gateway for developers who need reliable access to leading AI models.\nOur live platform provides developers with OpenAI-compatible APIs across a growing catalogue of models, including Claude, OpenAI, Gemini, Qwen, and DeepSeek. We are now developing the next layer",
+      "requirements": [
+        "Help build the intelligence layer for Asia’s AI infrastructure",
+        "A-Field Tech Limited is a Hong Kong-based AI and network infrastructure company. NexLLM is a Hong Kong-based AI infrastructure company building a stable and secure regional gateway for developers who need reliable access to leading AI",
+        "Our live platform provides developers with OpenAI-compatible APIs across a growing catalogue of models, including Claude, OpenAI, Gemini, Qwen, and DeepSeek. We are now developing the next layer: intelligent model routing, model",
+        "We are looking for a full-time AI R&D Engineering Intern to join our engineering team. This internship is designed for a university student who wants practical experience working on real AI infrastructure, applied research, and software"
+      ],
+      "evidence": [
+        {
+          "points": 12,
+          "note": "The advertisement uses intern, trainee, graduate, junior, or student wording."
+        },
+        {
+          "points": 10,
+          "note": "The listing is in Hong Kong."
+        },
+        {
+          "points": 6,
+          "note": "The advertisement mentions AI, robotics, Android, a chatbot, or an LLM."
+        },
+        {
+          "points": 6,
+          "note": "The advertisement and the profile both mention models."
+        },
+        {
+          "points": 6,
+          "note": "The advertisement and the profile both mention debug."
+        }
+      ],
+      "gaps": [
+        {
+          "points": -8,
+          "note": "c++ appears in the advertisement and is not in the profile or uploaded CV."
+        }
+      ],
+      "cvOrder": [
+        "models",
+        "debug",
+        "research",
+        "chatbot",
+        "android"
+      ],
+      "summaryAngle": "AI Application Trainee for AI R&D Engineering Intern — AI Infrastructure, Model Routing & Applied Research at A-Field Tech.",
+      "letter": [
+        "I am applying for the AI R&D Engineering Intern — AI Infrastructure, Model Routing & Applied Research role at A-Field Tech. I am an AI Application Trainee in the Department of Physics.",
+        "The full LinkedIn advertisement says: \"Our live platform provides developers with OpenAI-compatible APIs across a growing catalogue of models, including Claude, OpenAI, Gemini, Qwen, and DeepSeek. We are now developing the next layer: intelligent model routing, model\" The closest work I can point to is this: Test combinations of AI models and server-tunnelling configurations to keep answers accurate and responses fast.",
+        "The advertisement mentions c++. That is not in my recorded work, so I am not claiming it.",
+        "This letter quotes the full advertisement, not the search card. Download it only after a person has checked the wording."
+      ],
+      "fullText": "Help build the intelligence layer for Asia’s AI infrastructure\nA-Field Tech Limited is a Hong Kong-based AI and network infrastructure company. NexLLM is a Hong Kong-based AI infrastructure company building a stable and secure regional gateway for developers who need reliable access to leading AI models.\nOur live platform provides developers with OpenAI-compatible APIs across a growing catalogue of models, including Claude, OpenAI, Gemini, Qwen, and DeepSeek. We are now developing the next layer: intelligent model routing, model evaluation, reliability tooling, and developer infrastructure that helps applications choose and operate the right model for each task.\nWe are looking for a full-time AI R&D Engineering Intern to join our engineering team. This internship is designed for a university student who wants practical experience working on real AI infrastructure, applied research, and software engineering problems.\nYou will work closely with the founder and engineering team on projects that affect a live platform. This is not a purely observational internship or a role limited to administrative tasks. You will be expected to learn quickly, build working prototypes, measure results, and contribute to production improvements with appropriate guidance.\nInternship details\nRole: AI R&D Engineering Intern\nCommitment: Full-time internship\nLocation: Hong Kong / flexible hybrid arrangement\nCompany: NexLLM\nTeam: AI infrastructure, model routing, evaluation, and platform engineering\nDuration: To be agreed based on the university programme and candidate’s availability\nStart date: Flexible, subject to mutual agreement\nWhat You May Work On\nYour projects will be selected according to your skills, learning goals, and NexLLM’s current priorities. Possible areas include:\nResearching and prototyping model-routing strategies\nComparing models across quality, cost, latency, availability, and reliability\nBuilding benchmark datasets and reproducible evaluation tools\nDeveloping fallback, retry, timeout, caching, and quota-management features\nInvestigating provider errors, rate limits, response formats, and performance changes\nIntegrating new model providers and standardising their APIs and capabilities\nBuilding scripts, dashboards, data pipelines, and internal developer tools\nReviewing relevant papers, technical documentation, and open-source projects\nTurning validated experiments into well-tested product features\nWriting clear technical notes explaining methods, results, limitations, and recommendations\nThe work may involve Python, TypeScript, JavaScript, Go, HTTP APIs, databases, asynchronous systems, cloud services, data analysis, and AI model APIs. You will not be expected to know everything before joining; we care about your ability to learn and make steady, evidence-based progress.\nWhat You Will Learn\nDuring the internship, you may gain practical experience in:\nBuilding and debugging software used by real developers\nWorking with multiple commercial and open-source AI model providers\nDesigning experiments and evaluating model behaviour\nMeasuring latency, cost, quality, failure rates, and recovery performance\nBuilding reliable API integrations and distributed services\nUnderstanding how AI gateways, routing systems, and token usage work\nTranslating research ideas into practical engineering decisions\nCommunicating technical findings clearly\nWorking in an early-stage company where priorities evolve quickly\nHow The Internship Will Work\nYou will normally work through a complete project cycle:\nUnderstand a technical problem and the user or product context.\nReview existing approaches, documentation, and relevant research.\nForm a hypothesis and define how success will be measured.\nBuild a small experiment, prototype, or test harness.\nAnalyse the results and identify limitations.\nDiscuss the findings with the engineering team.\nImprove the solution and, where appropriate, help move it into production.\nDocument what was learned and what should happen next.\nThe level of independence will increase as you become familiar with the platform. We provide direction and review, but you should be comfortable asking questions, investigating problems, and taking ownership of agreed tasks.\nWhat We Are Looking For\nWe are looking for a university student who is curious, technically capable, and motivated to build real systems.\nYou Should Have\nCurrent university enrolment in computer science, software engineering, artificial intelligence, machine learning, data science, mathematics, or a related field\nStrong interest in AI models, software engineering, or developer infrastructure\nBasic programming experience in Python, TypeScript, JavaScript, Go, Java, C++, or a similar language\nFamiliarity with APIs, Git, databases, or cloud services, through coursework or personal projects\nAbility to break an unclear problem into smaller steps\nWillingness to test assumptions and measure results rather than rely on guesses\nCare with details, reproducibility, and technical documentation\nAbility to communicate clearly and work collaboratively\nAvailability for a full-time internship during the agreed internship period\nPrior professional experience is not required. Strong coursework, personal projects, research projects, hackathon work, open-source contributions, GitHub repositories, or technical writing are welcome.\nYou do not need prior experience with AI gateways, large language model infrastructure, or distributed systems. We value learning ability and practical curiosity more than a long list of tools.\nHelpful but not required\nWhat Makes Someone a Strong Fit\nYou may be a strong fit if you:\nLike understanding how things work rather than only using them\nEnjoy both reading and building\nCan turn a question into a small experiment\nAre willing to start with an imperfect prototype and improve it\nCare about whether your results are reliable and reproducible\nTake responsibility for finishing work and communicating blockers early\nWant to see your work used i"
+    },
+    {
+      "id": "live-jobsdb-95035037",
+      "origin": "live",
+      "title": "Intern (AI-Focused at Credit Trading Desk, APAC) (6 months)",
+      "company": "Natixis CIB Hong Kong",
+      "location": "Hong Kong SAR",
+      "employmentType": "Full time",
+      "url": "https://hk.jobsdb.com/job/95035037",
+      "source": "JobsDB",
+      "retrievedOn": "2026-10-06",
+      "listingStatus": "open_full",
+      "listed": "3d ago",
+      "createdAt": "",
+      "prepareApplication": true,
+      "baseScore": 30,
+      "summary": "Company Description\nNatixis Corporate & Investment Banking is a leading global financial institution that provides advisory, investment banking, financing, corporate banking and capital markets services to corporations, financial institutions, financial sponsors and sovereign and supranational organizations worldwide.\nOur teams of experts in close to 30 countries advise clients on their strategic development, helping them to grow and transform their businesses, and maximize their positive impact",
+      "requirements": [
+        "Our teams of experts in close to 30 countries advise clients on their strategic development, helping them to grow and transform their businesses, and maximize their positive impact. Natixis CIB is committed to aligning its financing",
+        "Problem-Solving Mindset: A proactive \"builder\" mentality",
+        "Essential: AI/ML Frameworks: Practical experience working with LLM APIs and CLIs (OpenAI, Claude, etc.), prompt engineering",
+        "SQL database knowledge (writing queries, basic database design)."
+      ],
+      "evidence": [
+        {
+          "points": 12,
+          "note": "The advertisement uses intern, trainee, graduate, junior, or student wording."
+        },
+        {
+          "points": 10,
+          "note": "The listing is in Hong Kong."
+        },
+        {
+          "points": 6,
+          "note": "The advertisement mentions AI, robotics, Android, a chatbot, or an LLM."
+        }
+      ],
+      "gaps": [],
+      "cvOrder": [
+        "models",
+        "research",
+        "chatbot",
+        "android",
+        "debug"
+      ],
+      "summaryAngle": "AI Application Trainee for Intern (AI-Focused at Credit Trading Desk, APAC) (6 months) at Natixis CIB Hong Kong.",
+      "letter": [
+        "I am applying for the Intern (AI-Focused at Credit Trading Desk, APAC) (6 months) role at Natixis CIB Hong Kong. I am an AI Application Trainee in the Department of Physics.",
+        "The full JobsDB advertisement says: \"Essential: AI/ML Frameworks: Practical experience working with LLM APIs and CLIs (OpenAI, Claude, etc.), prompt engineering\" The closest work I can point to is this: Use Cursor and Claude Code while debugging, then recheck the same flow as a designer and as a first-time user.",
+        "One part of this advertisement is not covered by my recorded work: \"Our teams of experts in close to 30 countries advise clients on their strategic development, helping them to grow and transform their businesses, and maximize their positive impact. Natixis CIB is committed to aligning its financing\"",
+        "This letter quotes the full advertisement, not the search card. Download it only after a person has checked the wording."
+      ],
+      "fullText": "Company Description\nNatixis Corporate & Investment Banking is a leading global financial institution that provides advisory, investment banking, financing, corporate banking and capital markets services to corporations, financial institutions, financial sponsors and sovereign and supranational organizations worldwide.\nOur teams of experts in close to 30 countries advise clients on their strategic development, helping them to grow and transform their businesses, and maximize their positive impact. Natixis CIB is committed to aligning its financing portfolio with a carbon neutrality path by 2050 while helping its clients reduce the environmental impact of their business.\nAs part of Groupe BPCE, the second largest banking group in France through the Banque Populaire and Caisse d’Epargne retail networks, Natixis CIB benefits from the Group’s financial strength and solid financial ratings (Standard & Poor's: A+, Moody's: A2, Fitch: A+, R&I: A+).\nJob Description\nMain Responsibilities:\nPropose innovative AI-based or Python-based solutions for Trading desk automation and data analysis\nPerform trading desk support projects for senior traders\nLearn the sales & Trading environment\nCurrently pursuing or recently graduated with a Bachelor’s, Master’s, in a quantitative discipline.\nPreferred fields of study: Computer Science, Artificial Intelligence/Machine Learning, Quantitative Finance, Operations Research, or Financial Engineering.\nDuration: 6 months\nRequired Skills:\nCore Competencies\nPassion in Finance: A strong interest in financial markets, and trading mechanics.\nProblem-Solving Mindset: A proactive \"builder\" mentality\nCommunication: Ability to translate complex technical concepts into simple terms for traders and business stakeholders.\nThrive Under Pressure: Comfort working in a fast-paced, dynamic, trading floor environment.\nTechnical Skills\nEssential: AI/ML Frameworks: Practical experience working with LLM APIs and CLIs (OpenAI, Claude, etc.), prompt engineering\nSQL database knowledge (writing queries, basic database design).\nPreferred: VBA & Python: Strong proficiency in VBA & Python is mandatory (knowledge of libraries such as pandas, numpy, scipy, requests).\nExperience with Bloomberg API (B-Pipe) or other financial data feeds (Reuters, FactSet).\nFamiliarity with building quick UI wrappers (Streamlit, Gradio, or basic web frameworks).\nExperience with VBA/Excel automation (specifically interfacing Excel with Python, and via libraries like xlwings)."
+    },
+    {
+      "id": "live-jobsdb-94691097",
+      "origin": "live",
+      "title": "Internship, UX/UI & Product Design (AI/SaaS)",
+      "company": "EV Technologies Limited",
+      "location": "Hong Kong Island",
+      "employmentType": "Part time",
+      "url": "https://hk.jobsdb.com/job/94691097",
+      "source": "JobsDB",
+      "retrievedOn": "2026-10-06",
+      "listingStatus": "open_full",
+      "listed": "18d ago",
+      "createdAt": "",
+      "prepareApplication": true,
+      "baseScore": 30,
+      "summary": "About The Company\nHeadquartered in Hong Kong, Everest Global (EVG) is a Technology focused global venture building group driving mass adoption since 2018. With a global team of 100 operators, engineers and strategists, we have built and launched a diverse portfolio of products for the future of digital interaction across use cases, such as Edgen, Aspen Digital, T-Rex, Last Odessey and BlockTempo. As an early investor and lead advisor, we have contributed to unicorns and 100+ defining projects su",
+      "requirements": [
+        "Headquartered in Hong Kong, Everest Global (EVG) is a Technology focused global venture building group driving mass adoption since 2018. With a global team of 100 operators, engineers and strategists, we have built and launched a diverse",
+        "We pride ourselves on being a bridge between mainstream business leaders, cultural icons, and innovators. By bridging traditional spheres with the dynamic tech community, we're able to build impactful products for today while pushing",
+        "Complex technical backends need radical visual clarity. At EVG, you will design the interfaces, workflows, and visual language for complex AI engines and financial platforms, translating low-level system power into seamless user",
+        "Format: Hybrid (in-office design reviews at EVG Labs)."
+      ],
+      "evidence": [
+        {
+          "points": 12,
+          "note": "The advertisement uses intern, trainee, graduate, junior, or student wording."
+        },
+        {
+          "points": 10,
+          "note": "The listing is in Hong Kong."
+        },
+        {
+          "points": 6,
+          "note": "The advertisement mentions AI, robotics, Android, a chatbot, or an LLM."
+        }
+      ],
+      "gaps": [],
+      "cvOrder": [
+        "android",
+        "chatbot",
+        "models",
+        "debug",
+        "research"
+      ],
+      "summaryAngle": "AI Application Trainee for Internship, UX/UI & Product Design (AI/SaaS) at EV Technologies Limited.",
+      "letter": [
+        "I am applying for the Internship, UX/UI & Product Design (AI/SaaS) role at EV Technologies Limited. I am an AI Application Trainee in the Department of Physics.",
+        "The full JobsDB advertisement says: \"Headquartered in Hong Kong, Everest Global (EVG) is a Technology focused global venture building group driving mass adoption since 2018. With a global team of 100 operators, engineers and strategists, we have built and launched a diverse\" The closest work I can point to is this: Follow AI and technology updates across news, articles, and video sources, then decide which changes matter for the chatbot.",
+        "It also says: \"We pride ourselves on being a bridge between mainstream business leaders, cultural icons, and innovators. By bridging traditional spheres with the dynamic tech community, we're able to build impactful products for today while pushing\" That lines up with this part of my work: Use Cursor and Claude Code while debugging, then recheck the same flow as a designer and as a first-time user.",
+        "One part of this advertisement is not covered by my recorded work: \"Complex technical backends need radical visual clarity. At EVG, you will design the interfaces, workflows, and visual language for complex AI engines and financial platforms, translating low-level system power into seamless user\"",
+        "This letter quotes the full advertisement, not the search card. Download it only after a person has checked the wording."
+      ],
+      "fullText": "About The Company\nHeadquartered in Hong Kong, Everest Global (EVG) is a Technology focused global venture building group driving mass adoption since 2018. With a global team of 100 operators, engineers and strategists, we have built and launched a diverse portfolio of products for the future of digital interaction across use cases, such as Edgen, Aspen Digital, T-Rex, Last Odessey and BlockTempo. As an early investor and lead advisor, we have contributed to unicorns and 100+ defining projects such as Canton, Kraken, Upbit, The Sandbox, Animoca, Flow, Celestia, Wormhole, Berachain, Pudgy Penguins, Immutable, Infinex, Movement, Eclipse, Bored Ape and more.\nWe pride ourselves on being a bridge between mainstream business leaders, cultural icons, and innovators. By bridging traditional spheres with the dynamic tech community, we're able to build impactful products for today while pushing boundaries for tomorrow. For more information, please visit https://www.evg.co/\nThe Role\nComplex technical backends need radical visual clarity. At EVG, you will design the interfaces, workflows, and visual language for complex AI engines and financial platforms, translating low-level system power into seamless user experiences.\nThe Commitment\nTime: 15–25 hours per week (flexible around your academic schedule).\nFormat: Hybrid (in-office design reviews at EVG Labs).\nFocus: End-to-end interface design, rapid prototyping, and visual design systems.\nWhat You’ll Do\nDesign Core Interfaces: Create intuitive user flows, high-fidelity mockups, and interactive prototypes for desktop and mobile applications.\nSimplify Complex Workflows: Turn dense data streams, AI interactions, and transaction workflows into clean, effortless user journeys.\nMaintain Design Systems: Build and scale reusable UI components across the Everest Labs product suite in Figma.\nWho You Are\nPursuing a degree (Undergrad through PhD) in Design, HCI, Computer Science, or a related discipline.\nMaster of Figma, typography, grid systems, and micro-interactions.\nObsessed with product utility—you design tools that help people get real work done faster.\nReturn Offer High-performing interns will be eligible for a full-time returning offer upon graduation."
+    },
+    {
+      "id": "live-linkedin-4330148175",
+      "origin": "live",
+      "title": "AI Engineer (NLP) (Internship)",
+      "company": "FCC ANALYTICS",
+      "location": "Hong Kong, Hong Kong SAR",
+      "employmentType": "See listing",
+      "url": "https://hk.linkedin.com/jobs/view/ai-engineer-nlp-internship-at-fcc-analytics-4330148175",
+      "source": "LinkedIn",
+      "retrievedOn": "2026-10-06",
+      "listingStatus": "open_full",
+      "listed": "",
+      "createdAt": "",
+      "prepareApplication": true,
+      "baseScore": 30,
+      "summary": "Develop AI applications for tasks within the AML context\nDevelop, finetune, and evaluate AI models for NLP utilities including but not limited to knowledge extraction, token-level annotation, information standardization, and etc.\nIntegrate NLP utilities with existing AML system and pipelines",
+      "requirements": [
+        "Develop AI applications for tasks within the AML context",
+        "Develop, finetune, and evaluate AI models for NLP utilities including but not limited to knowledge extraction, token-level annotation, information standardization, and etc."
+      ],
+      "evidence": [
+        {
+          "points": 12,
+          "note": "The advertisement uses intern, trainee, graduate, junior, or student wording."
+        },
+        {
+          "points": 10,
+          "note": "The listing is in Hong Kong."
+        },
+        {
+          "points": 6,
+          "note": "The advertisement mentions AI, robotics, Android, a chatbot, or an LLM."
+        },
+        {
+          "points": 6,
+          "note": "The advertisement and the profile both mention models."
+        }
+      ],
+      "gaps": [],
+      "cvOrder": [
+        "models",
+        "chatbot",
+        "android",
+        "debug",
+        "research"
+      ],
+      "summaryAngle": "AI Application Trainee for AI Engineer (NLP) (Internship) at FCC ANALYTICS.",
+      "letter": [
+        "I am applying for the AI Engineer (NLP) (Internship) role at FCC ANALYTICS. I am an AI Application Trainee in the Department of Physics.",
+        "The full LinkedIn advertisement says: \"Develop AI applications for tasks within the AML context\" The closest work I can point to is this: Develop an AI chatbot for a robot and demonstrate it during the College of Science Information Day.",
+        "One part of this advertisement is not covered by my recorded work: \"Develop, finetune, and evaluate AI models for NLP utilities including but not limited to knowledge extraction, token-level annotation, information standardization, and etc.\"",
+        "This letter quotes the full advertisement, not the search card. Download it only after a person has checked the wording."
+      ],
+      "fullText": "Develop AI applications for tasks within the AML context\nDevelop, finetune, and evaluate AI models for NLP utilities including but not limited to knowledge extraction, token-level annotation, information standardization, and etc.\nIntegrate NLP utilities with existing AML system and pipelines"
+    },
+    {
+      "id": "live-linkedin-4464874851",
+      "origin": "live",
+      "title": "AI Engineer Intern",
+      "company": "Bybit",
+      "location": "Hong Kong, Hong Kong SAR",
+      "employmentType": "See listing",
+      "url": "https://hk.linkedin.com/jobs/view/ai-engineer-intern-at-bybit-4464874851",
+      "source": "LinkedIn",
+      "retrievedOn": "2026-10-06",
+      "listingStatus": "open_full",
+      "listed": "",
+      "createdAt": "",
+      "prepareApplication": true,
+      "baseScore": 30,
+      "summary": "About Us\nEstablished in March 2018, Bybit is one of the fastest growing cryptocurrency derivatives exchanges, with more than 70 million registered users. We offer a professional platform where crypto traders can find an ultra-fast matching engine, excellent customer service and multilingual community support. We provide innovative online spot and derivatives trading services, mining and staking products, as well as API support, to retail and institutional clients around the world, and strive to ",
+      "requirements": [
+        "Established in March 2018, Bybit is one of the fastest growing cryptocurrency derivatives exchanges, with more than 70 million registered users. We offer a professional platform where crypto traders can find an ultra-fast matching engine,",
+        "Our core values define us. We listen, care, and improve to create a faster, fairer, and more humane trading environment for our users. Our innovative, highly advanced, user-friendly platform has been designed from the ground-up using",
+        "- Build the evals that prove a prompt or retrieval change actually helped, before it reaches users.",
+        "- Prototype in days, then add the tests and logging that let it run unattended in production."
+      ],
+      "evidence": [
+        {
+          "points": 12,
+          "note": "The advertisement uses intern, trainee, graduate, junior, or student wording."
+        },
+        {
+          "points": 10,
+          "note": "The listing is in Hong Kong."
+        },
+        {
+          "points": 6,
+          "note": "The advertisement mentions AI, robotics, Android, a chatbot, or an LLM."
+        },
+        {
+          "points": 6,
+          "note": "The advertisement and the profile both mention debug."
+        }
+      ],
+      "gaps": [],
+      "cvOrder": [
+        "debug",
+        "models",
+        "chatbot",
+        "android",
+        "research"
+      ],
+      "summaryAngle": "AI Application Trainee for AI Engineer Intern at Bybit.",
+      "letter": [
+        "I am applying for the AI Engineer Intern role at Bybit. I am an AI Application Trainee in the Department of Physics.",
+        "One part of this advertisement is not covered by my recorded work: \"Established in March 2018, Bybit is one of the fastest growing cryptocurrency derivatives exchanges, with more than 70 million registered users. We offer a professional platform where crypto traders can find an ultra-fast matching engine,\"",
+        "This letter quotes the full advertisement, not the search card. Download it only after a person has checked the wording."
+      ],
+      "fullText": "About Us\nEstablished in March 2018, Bybit is one of the fastest growing cryptocurrency derivatives exchanges, with more than 70 million registered users. We offer a professional platform where crypto traders can find an ultra-fast matching engine, excellent customer service and multilingual community support. We provide innovative online spot and derivatives trading services, mining and staking products, as well as API support, to retail and institutional clients around the world, and strive to be the most reliable exchange for the emerging digital asset class.\nOur core values define us. We listen, care, and improve to create a faster, fairer, and more humane trading environment for our users. Our innovative, highly advanced, user-friendly platform has been designed from the ground-up using best-in-class infrastructure to provide our users with the industry's safest, fastest, fairest, and most transparent trading experience. Built on customer-centric values, we endeavour to provide a professional, 24/7 multi-language customer support to help in a timely manner.\nAs of today, Bybit is one of the most trusted, reliable, and transparent cryptocurrency derivatives platforms in the space.\nAbout the Oppotunity\nKey Responsibilities\n- Ship features on either side of the stack — gateway routing, MCP servers, agent workflows, knowledge base, or a user-facing AI feature.\n- Build the evals that prove a prompt or retrieval change actually helped, before it reaches users.\n- Prototype in days, then add the tests and logging that let it run unattended in production.\n- Pull adoption, cost, and quality data, and report what you find — including when it contradicts the story.\n- Talk to the people using what you build, internal or external; their complaints are the roadmap.\nRequirements\nMust have\n- Built something real with LLM APIs: prompting, streaming, tool calling, failure handling.\n- Git, tests, and debugging to root cause instead of guessing.\n- SQL and enough data sense to spot an outlier skewing an average.\nNice to have\nAgent frameworks or MCP; daily use of coding agents (Claude Code, Cursor).\nWhat We can offer:\nReal projects with a dedicated mentor\nTop performers get a full-time offer after 3-month internship\nGlobal team, fast-paced, serious career exposure"
+    },
+    {
+      "id": "live-linkedin-4464580209",
+      "origin": "live",
+      "title": "AI Developer - Internship/Co-op (Winter or Summer 2027)",
+      "company": "Intact",
+      "location": "Hong Kong, Hong Kong SAR",
+      "employmentType": "See listing",
+      "url": "https://hk.linkedin.com/jobs/view/ai-developer-internship-co-op-winter-or-summer-2027-at-intact-4464580209",
+      "source": "LinkedIn",
+      "retrievedOn": "2026-10-06",
+      "listingStatus": "open_full",
+      "listed": "",
+      "createdAt": "",
+      "prepareApplication": true,
+      "baseScore": 30,
+      "summary": "Calling all AI and machine learning experts! We have a fantastic opportunity to join our team in Hong Kong.\nArtificial intelligence is shaping the future of insurance. Our latest lab is located in the Hong Kong Science and Technology Park to turn this vision into a reality. As Canada's largest home, auto and business insurer, we're here to cultivate the next generation of technology and talent. Together, we're helping our customers protect what matters to them most through the power of data scie",
+      "requirements": [
+        "Artificial intelligence is shaping the future of insurance. Our latest lab is located in the Hong Kong Science and Technology Park to turn this vision into a reality. As Canada's largest home, auto and business insurer, we're here to",
+        "Technology is only as good as the people behind it. Every day at work, you’ll inspire and be inspired by the brilliant minds of our greater lab team: actuaries, data scientists, machine learning experts, geomathematicians, meteorologists,",
+        "Together, you will tackle challenging problems and have the freedom to imagine, research, create, test, and bring innovative solutions to life that will have a profound impact on our business and the needs of our customers.",
+        "As our company grows, your career will grow with it. There will always be an opportunity for you to develop your leadership skills, strengthen your expertise or take your work in a new direction. Whether it’s leading a new, exciting"
+      ],
+      "evidence": [
+        {
+          "points": 12,
+          "note": "The advertisement uses intern, trainee, graduate, junior, or student wording."
+        },
+        {
+          "points": 10,
+          "note": "The listing is in Hong Kong."
+        },
+        {
+          "points": 6,
+          "note": "The advertisement mentions AI, robotics, Android, a chatbot, or an LLM."
+        },
+        {
+          "points": 6,
+          "note": "The advertisement and the profile both mention models."
+        },
+        {
+          "points": 6,
+          "note": "The advertisement and the profile both mention debug."
+        }
+      ],
+      "gaps": [
+        {
+          "points": -8,
+          "note": "pytorch appears in the advertisement and is not in the profile or uploaded CV."
+        }
+      ],
+      "cvOrder": [
+        "models",
+        "debug",
+        "research",
+        "chatbot",
+        "android"
+      ],
+      "summaryAngle": "AI Application Trainee for AI Developer - Internship/Co-op (Winter or Summer 2027) at Intact.",
+      "letter": [
+        "I am applying for the AI Developer - Internship/Co-op (Winter or Summer 2027) role at Intact. I am an AI Application Trainee in the Department of Physics.",
+        "The full LinkedIn advertisement says: \"Artificial intelligence is shaping the future of insurance. Our latest lab is located in the Hong Kong Science and Technology Park to turn this vision into a reality. As Canada's largest home, auto and business insurer, we're here to\" The closest work I can point to is this: Develop an AI chatbot for a robot and demonstrate it during the College of Science Information Day.",
+        "It also says: \"Technology is only as good as the people behind it. Every day at work, you’ll inspire and be inspired by the brilliant minds of our greater lab team: actuaries, data scientists, machine learning experts, geomathematicians, meteorologists,\" That lines up with this part of my work: Follow AI and technology updates across news, articles, and video sources, then decide which changes matter for the chatbot.",
+        "The advertisement mentions pytorch. That is not in my recorded work, so I am not claiming it.",
+        "This letter quotes the full advertisement, not the search card. Download it only after a person has checked the wording."
+      ],
+      "fullText": "Calling all AI and machine learning experts! We have a fantastic opportunity to join our team in Hong Kong.\nArtificial intelligence is shaping the future of insurance. Our latest lab is located in the Hong Kong Science and Technology Park to turn this vision into a reality. As Canada's largest home, auto and business insurer, we're here to cultivate the next generation of technology and talent. Together, we're helping our customers protect what matters to them most through the power of data science, machine learning and AI.\nLife in the Lab\nTechnology is only as good as the people behind it. Every day at work, you’ll inspire and be inspired by the brilliant minds of our greater lab team: actuaries, data scientists, machine learning experts, geomathematicians, meteorologists, software engineers and designers.\nTogether, you will tackle challenging problems and have the freedom to imagine, research, create, test, and bring innovative solutions to life that will have a profound impact on our business and the needs of our customers.\nAs our company grows, your career will grow with it. There will always be an opportunity for you to develop your leadership skills, strengthen your expertise or take your work in a new direction. Whether it’s leading a new, exciting project or moving into a different A.I. product team in Canada or Hong Kong, your career will always be on the move.\nArtificial intelligence is shaping the future of insurance. Our latest lab is in the Hong Kong Science and Technology Park to turn this vision into a reality. As Canada's largest home, auto and business insurer, we're here to cultivate the next generation of technology and talent. Together, we're helping our customers protect what matters to them most through the power of data science, machine learning and AI.\nHere, your career will take off 🚀\nWe are looking for AI Developer interns who want to join our 2027 AI Developer Internship/Co-op for our Winter term, January to April or Summer 2027 term (June to August) . This position is based in Science Park, Hong Kong with the opportunity to work in a hybrid arrangement.\nAs a AI Developer I, You Will\nUse machine learning and advanced statistics to help build innovative solutions for real-life customer and business problems\nTransform complex datasets into meaningful conclusions and recommendations\nGrow alongside a diverse team of world-class experts in data science, software engineering, actuarial science, business, and design\nCollaborate with our teams in HK & Canada to share knowledge, learnings, and tools\nSkills required: Python, NLP/LLM\nFamiliar with our tech stack: scikit-learn, xgboost, pytorch, tensorflow, LightGBM, pandas, etc.,\nHere’s What You Bring To The Table\nCurrently enrolled in a post-secondary degree in a quantitative discipline such as mathematics, science, engineering, statistics, AI, computer science or a related field.\nAvailable to work with us full-time, 37.5 hours per week, for the Winter 2027 term (January to April) or Summer 2027 term (June to August)\nMust be an active student during your internship and/or returning to school following your internship.\nRelevant experience in predictive modelling, machine learning and advanced statistics solving business problems is an asset\nUnlimited curiosity and a passion to challenge the status quo\nAbility to focus on vaguely defined issues requiring the application of a creative approach\nExcellent communication, organization and a collaborative attitude\nSelf-reliant with a strong sense of responsibility;\nWhat We Offer\nWorking here means you'll be empowered to be and do your best every day. Here is some of what you can expect as a temporary member of our team:\nInspiring leaders and colleagues who will lift you up and help you grow\nAccess to tools and resources to support physical and mental health, embracing change and connecting with colleagues\nA dynamic workplace learning ecosystem complete with learning journeys, interactive online content, and inspiring programs\nInclusive employee-led networks to educate, inspire, amplify voices, build relationships and provide development opportunities.\nA Community Impact program, because what you care about is a part of what makes you different. And how you contribute to your community should be just as unique.\nWe are an equal opportunity employer\nAt Intact, we value diversity and strive to create an inclusive, accessible workplace where all individuals feel valued, respected, and heard.\nIf we can provide a specific adjustment to make the recruitment process more accessible for you, please let us know when we reach out about a job opportunity. We’ll work with you to meet your needs.\nClick here to review other important information about the hiring process, including background checks, internal candidates, and eligibility to work in Canada."
+    },
+    {
+      "id": "live-linkedin-4466503023",
+      "origin": "live",
+      "title": "AI Development Engineer Intern",
+      "company": "Bybit",
+      "location": "Hong Kong, Hong Kong SAR",
+      "employmentType": "See listing",
+      "url": "https://hk.linkedin.com/jobs/view/ai-development-engineer-intern-at-bybit-4466503023",
+      "source": "LinkedIn",
+      "retrievedOn": "2026-10-06",
+      "listingStatus": "open_full",
+      "listed": "",
+      "createdAt": "",
+      "prepareApplication": true,
+      "baseScore": 30,
+      "summary": "About Us\nEstablished in 2018, Bybit is one of the world’s leading cryptocurrency exchanges and digital financial platforms, serving over 80 million users across more than 200 countries and regions. Powered by world-class technology and a user-first mindset, Bybit delivers a seamless ecosystem across trading, payments, wealth management, custody, institutional services, and Web3 — connecting users to the future of digital finance.\nOur core values define how we build. We listen, care and improve t",
+      "requirements": [
+        "Our core values define how we build. We listen, care and improve to create products and experiences that put users first. Backed by a global team of ambitious builders, problem-solvers, and innovators, we foster a high-performance and",
+        "Today, Bybit is recognized as one of the most trusted and transparent platforms in the digital asset industry, continuing to expand its global presence while building the infrastructure for the next generation of financial services.",
+        "- Build the evals that prove a prompt or retrieval change actually helped, before it reaches users.",
+        "- Prototype in days, then add the tests and logging that let it run unattended in production."
+      ],
+      "evidence": [
+        {
+          "points": 12,
+          "note": "The advertisement uses intern, trainee, graduate, junior, or student wording."
+        },
+        {
+          "points": 10,
+          "note": "The listing is in Hong Kong."
+        },
+        {
+          "points": 6,
+          "note": "The advertisement mentions AI, robotics, Android, a chatbot, or an LLM."
+        },
+        {
+          "points": 6,
+          "note": "The advertisement and the profile both mention debug."
+        }
+      ],
+      "gaps": [],
+      "cvOrder": [
+        "debug",
+        "models",
+        "chatbot",
+        "android",
+        "research"
+      ],
+      "summaryAngle": "AI Application Trainee for AI Development Engineer Intern at Bybit.",
+      "letter": [
+        "I am applying for the AI Development Engineer Intern role at Bybit. I am an AI Application Trainee in the Department of Physics.",
+        "The full LinkedIn advertisement says: \"Our core values define how we build. We listen, care and improve to create products and experiences that put users first. Backed by a global team of ambitious builders, problem-solvers, and innovators, we foster a high-performance and\" The closest work I can point to is this: Use Cursor and Claude Code while debugging, then recheck the same flow as a designer and as a first-time user.",
+        "One part of this advertisement is not covered by my recorded work: \"Today, Bybit is recognized as one of the most trusted and transparent platforms in the digital asset industry, continuing to expand its global presence while building the infrastructure for the next generation of financial services.\"",
+        "This letter quotes the full advertisement, not the search card. Download it only after a person has checked the wording."
+      ],
+      "fullText": "About Us\nEstablished in 2018, Bybit is one of the world’s leading cryptocurrency exchanges and digital financial platforms, serving over 80 million users across more than 200 countries and regions. Powered by world-class technology and a user-first mindset, Bybit delivers a seamless ecosystem across trading, payments, wealth management, custody, institutional services, and Web3 — connecting users to the future of digital finance.\nOur core values define how we build. We listen, care and improve to create products and experiences that put users first. Backed by a global team of ambitious builders, problem-solvers, and innovators, we foster a high-performance and fast-moving environment where talent is empowered to drive real impact at the global scale. Supported by 24/7 multilingual customer service and a strong commitment to innovation, we are shaping the future of finance through technology, collaboration, and bold execution.\nToday, Bybit is recognized as one of the most trusted and transparent platforms in the digital asset industry, continuing to expand its global presence while building the infrastructure for the next generation of financial services.\nKey Responsibilities\n- Ship features on either side of the stack — gateway routing, MCP servers, agent workflows, knowledge base, or a user-facing AI feature.\n- Build the evals that prove a prompt or retrieval change actually helped, before it reaches users.\n- Prototype in days, then add the tests and logging that let it run unattended in production.\n- Pull adoption, cost, and quality data, and report what you find — including when it contradicts the story.\n- Talk to the people using what you build, internal or external; their complaints are the roadmap.\nRequirements\nMust have\n- Built something real with LLM APIs: prompting, streaming, tool calling, failure handling.\n- Git, tests, and debugging to root cause instead of guessing.\n- SQL and enough data sense to spot an outlier skewing an average.\nNice to have\n- Agent frameworks or MCP; daily use of coding agents (Claude Code, Cursor).\nWhy Join Us\nAt Bybit, we are committed to fostering a supportive and enriching work environment.\nOur benefits include:\n- Study Growth Fund: We support your professional development and continuous learning.\n- Internal Events: Participate in regular team-building activities, workshops, and events designed to promote collaboration and innovation.\n- Global Collaboration: Be part of a diverse, international team, working alongside colleagues from around the world.\n- Career Advancement: Access opportunities for growth and advancement within a rapidly expanding global company.\n- Internal Mobility: Grow with us- Your long-term development is important to us. We offer internal job opportunities to help build your career path."
+    },
+    {
+      "id": "live-linkedin-4456165750",
+      "origin": "live",
+      "title": "Data Science - Internship",
+      "company": "DBS Bank",
+      "location": "Hong Kong, Hong Kong SAR",
+      "employmentType": "See listing",
+      "url": "https://hk.linkedin.com/jobs/view/data-science-internship-at-dbs-bank-4456165750",
+      "source": "LinkedIn",
+      "retrievedOn": "2026-10-06",
+      "listingStatus": "open_full",
+      "listed": "",
+      "createdAt": "",
+      "prepareApplication": true,
+      "baseScore": 30,
+      "summary": "Business Function\nAs the leading bank in Asia, Transformation & Data (T&D) supports our management on the implementation of the Group’s agenda. Data Chapter, organized under T&D, is committed to create synergies between the data analytics functions across the bank, establish centres of excellence, shared services, and reusable data assets, as well as enhance career opportunities and the sense of community for data professionals.\nResponsibilities\nWork with senior data scientists to design, build ",
+      "requirements": [
+        "Work with senior data scientists to design, build and test machine learning, GenAI, and agentic AI solutions for business use cases.",
+        "Assist with data preparation, exploratory data analysis, model development, and evaluation.",
+        "Share the latest techniques and technologies in AI and data science, participate in a spirit of continuous learning with the team.",
+        "Knowledge of machine learning and statistics; basic knowledge of software development concepts."
+      ],
+      "evidence": [
+        {
+          "points": 12,
+          "note": "The advertisement uses intern, trainee, graduate, junior, or student wording."
+        },
+        {
+          "points": 10,
+          "note": "The listing is in Hong Kong."
+        },
+        {
+          "points": 6,
+          "note": "The advertisement mentions AI, robotics, Android, a chatbot, or an LLM."
+        },
+        {
+          "points": 6,
+          "note": "The advertisement and the profile both mention models."
+        },
+        {
+          "points": 6,
+          "note": "The advertisement and the profile both mention debug."
+        }
+      ],
+      "gaps": [],
+      "cvOrder": [
+        "models",
+        "debug",
+        "chatbot",
+        "android",
+        "research"
+      ],
+      "summaryAngle": "AI Application Trainee for Data Science - Internship at DBS Bank.",
+      "letter": [
+        "I am applying for the Data Science - Internship role at DBS Bank. I am an AI Application Trainee in the Department of Physics.",
+        "The full LinkedIn advertisement says: \"Share the latest techniques and technologies in AI and data science, participate in a spirit of continuous learning with the team.\" The closest work I can point to is this: Develop an AI chatbot for a robot and demonstrate it during the College of Science Information Day.",
+        "One part of this advertisement is not covered by my recorded work: \"Work with senior data scientists to design, build and test machine learning, GenAI, and agentic AI solutions for business use cases.\"",
+        "This letter quotes the full advertisement, not the search card. Download it only after a person has checked the wording."
+      ],
+      "fullText": "Business Function\nAs the leading bank in Asia, Transformation & Data (T&D) supports our management on the implementation of the Group’s agenda. Data Chapter, organized under T&D, is committed to create synergies between the data analytics functions across the bank, establish centres of excellence, shared services, and reusable data assets, as well as enhance career opportunities and the sense of community for data professionals.\nResponsibilities\nWork with senior data scientists to design, build and test machine learning, GenAI, and agentic AI solutions for business use cases.\nAssist with data preparation, exploratory data analysis, model development, and evaluation.\nHelp maintain project documentation, experiment notes, code repositories, and reusable assets to support good team practices.\nShare the latest techniques and technologies in AI and data science, participate in a spirit of continuous learning with the team.\nRequirements\nCurrently pursuing a Bachelor’s or Master’s degree in Computer Science, Data Science, Statistics, Engineering, Mathematics, or a related quantitative field.\nKnowledge of machine learning and statistics; basic knowledge of software development concepts.\nHands-on experience with Python and common data science libraries such as Pandas, NumPy, scikit-learn, Matplotlib, or Plotly.\nFamiliarity with SQL and working with structured datasets.\nInterest in GenAI, LLMs, prompt engineering, RAG, agentic AI, and related technologies.\nGood analytical thinking, problem-solving skills, curiosity, and willingness to learn.\nGood documentation habits and the ability to communicate findings clearly in written and verbal form.\nBasic familiarity with Git, Jira, Confluence.\nAbility to work independently, collaborate in a team environment, and take guidance from experienced data scientists and project stakeholders.\nGood to have\nExposure to tools or frameworks such as LangChain, LangGraph, Dify, Google Vertex AI, or similar platforms.\nExposure to the GCP ecosystem of tools, such as BigQuery for querying datasets or Vertex AI for ML and GenAI experimentation.\nExperience from academic projects, internships, hackathons, Kaggle competitions, or personal data science projects.\nBasic understanding of responsible AI, model evaluation, data privacy, or model risk governance concepts.\nInterest in financial services, banking, or regulated industries.\nApply Now\nWe offer a valuable internship opportunity to gain hands-on experience in a dynamic data science and AI environment.\nWe regret that only shortlisted candidates will be notified.\nLocation:\nOne Island East\nJob:\nAnalytics\nSchedule:\nRegular\nEmployee Status:"
+    },
+    {
+      "id": "live-linkedin-4467028193",
+      "origin": "live",
+      "title": "Summer 2027 | Software Engineer Intern (ML Research, Core Technology)",
+      "company": "Nex",
+      "location": "Central & Western District, Hong Kong SAR",
+      "employmentType": "See listing",
+      "url": "https://hk.linkedin.com/jobs/view/summer-2027-software-engineer-intern-ml-research-core-technology-at-nex-4467028193",
+      "source": "LinkedIn",
+      "retrievedOn": "2026-10-06",
+      "listingStatus": "open_full",
+      "listed": "",
+      "createdAt": "",
+      "prepareApplication": true,
+      "baseScore": 30,
+      "summary": "Nex is on a mission to help families rediscover the joy of movement. Created by parents for parents, Nex combines technology and play to deliver fun, social, and interactive experiences powered by natural body motion, encouraging kids and adults to move more, play more, and have fun together. Nex Playground, the company’s award-winning active play system, is purpose-built to get families moving year-round, with safety and privacy as core considerations in its intentional design. It is certified ",
+      "requirements": [
+        "Nex is on a mission to help families rediscover the joy of movement. Created by parents for parents, Nex combines technology and play to deliver fun, social, and interactive experiences powered by natural body motion, encouraging kids and",
+        "Nex Playground features a growing library of 50+ experiences, including motion and dance games, fitness and educational experiences, and Nex Originals. Content includes collaborations with partners like Hasbro, Sesame Workshop, and",
+        "Type: Full Time Internship (June 1, 2027 - August 31, 2027)",
+        "The Core Technology team develops the technologies that allow Nex Playground to use cameras, microphones, and other sensors to understand player movement and interactions in real time."
+      ],
+      "evidence": [
+        {
+          "points": 12,
+          "note": "The advertisement uses intern, trainee, graduate, junior, or student wording."
+        },
+        {
+          "points": 10,
+          "note": "The listing is in Hong Kong."
+        },
+        {
+          "points": 6,
+          "note": "The advertisement mentions AI, robotics, Android, a chatbot, or an LLM."
+        },
+        {
+          "points": 6,
+          "note": "The advertisement and the profile both mention models."
+        }
+      ],
+      "gaps": [
+        {
+          "points": -8,
+          "note": "pytorch appears in the advertisement and is not in the profile or uploaded CV."
+        }
+      ],
+      "cvOrder": [
+        "models",
+        "research",
+        "chatbot",
+        "android",
+        "debug"
+      ],
+      "summaryAngle": "AI Application Trainee for Summer 2027 | Software Engineer Intern (ML Research, Core Technology) at Nex.",
+      "letter": [
+        "I am applying for the Summer 2027 | Software Engineer Intern (ML Research, Core Technology) role at Nex. I am an AI Application Trainee in the Department of Physics.",
+        "The full LinkedIn advertisement says: \"Nex is on a mission to help families rediscover the joy of movement. Created by parents for parents, Nex combines technology and play to deliver fun, social, and interactive experiences powered by natural body motion, encouraging kids and\" The closest work I can point to is this: Follow AI and technology updates across news, articles, and video sources, then decide which changes matter for the chatbot.",
+        "It also says: \"Nex Playground features a growing library of 50+ experiences, including motion and dance games, fitness and educational experiences, and Nex Originals. Content includes collaborations with partners like Hasbro, Sesame Workshop, and\" That lines up with this part of my work: Test robot application features in Android simulation environments and trace failures that are slow to isolate by hand.",
+        "The advertisement mentions pytorch. That is not in my recorded work, so I am not claiming it.",
+        "This letter quotes the full advertisement, not the search card. Download it only after a person has checked the wording."
+      ],
+      "fullText": "Nex is on a mission to help families rediscover the joy of movement. Created by parents for parents, Nex combines technology and play to deliver fun, social, and interactive experiences powered by natural body motion, encouraging kids and adults to move more, play more, and have fun together. Nex Playground, the company’s award-winning active play system, is purpose-built to get families moving year-round, with safety and privacy as core considerations in its intentional design. It is certified kidSAFE+ COPPA compliant and built to support healthy, active play for all ages and abilities.\nNex Playground features a growing library of 50+ experiences, including motion and dance games, fitness and educational experiences, and Nex Originals. Content includes collaborations with partners like Hasbro, Sesame Workshop, and NBCUniversal. Nex has been recognized by Fast Company’s Most Innovative Companies, TIME’s Best Inventions, and Parents’ Best Entertainment System for Families, and has earned Red Dot, IDEA, and Core77 international design awards. We encourage you to explore Have Fun and Is Motion Gaming Back?, as they offer a deeper look into our culture, values, and explain how our approach to motion gaming differs from previous generations.\nTo protect yourself from recruitment scams, please note that Nex communicates through official company emails ending in @nex.inc. If you receive a suspicious email or message, please do not respond and report it immediately to us.\nLocation: Hong Kong\nType: Full Time Internship (June 1, 2027 - August 31, 2027)\nThe Role\nThe Core Technology team develops the technologies that allow Nex Playground to use cameras, microphones, and other sensors to understand player movement and interactions in real time.\nAs our Software Engineer Intern (ML Research, Core Technology) , you will explore and develop machine learning methods that expand what Nex Playground can perceive and understand. You may work on computer vision, audio, sensor fusion, or other sensing problems, taking ideas from research hypotheses through experimentation, evaluation, optimization, and working prototypes.\nYou will collaborate with ML researchers and software engineers to build datasets and experimental workflows, evaluate ideas rigorously, and demonstrate promising technologies under real-world and on-device constraints. You will receive hands-on mentorship while owning a meaningful research project that contributes to our future products and technical direction.\nWhat You Will Do\nDevelop and evaluate ML models and algorithms for computational perception and interaction.\nDesign rigorous experiments, improve datasets, compare approaches, and understand failure modes.\nBuild training and evaluation tools, and optimize promising models for real-time, on-device inference.\nCollaborate with researchers and engineers to prototype technologies on Nex Playground and communicate your findings.\nShould Have\nMust be currently enrolled in an undergraduate or graduate degree program at an accredited college or university.\nStrong interest in machine learning and enthusiasm for learning new methods and tools.\nSolid mathematical fundamentals and comfort with quantitative reasoning.\nStrong analytical and problem-solving skills.\nProgramming experience in any language.\nA curious, systematic approach to learning through experimentation.\nStrong communication and collaboration skills.\nNice To Have\nExperience with Python or familiarity with PyTorch, TensorFlow, or another ML framework.\nInterested in computer vision, audio processing, sensor fusion, or multimodal learning.\nInterested in model optimization, on-device inference, GPUs, NPUs, or resource-constrained devices.\nInterested in data curation workflows, or dataset quality analysis.\nEnthusiastic about games, interactive physical experiences, and helping people be active and healthy.\nWe Offer\nCompetitive compensation package.\nFlexible working hours and vacation policy.\nProduct-driven culture that treasures talents and individual growth.\nFront-row seat and hands-on experience with cutting edge technologies in the evolving gaming field\nNex is located in San Jose, California, USA and Hong Kong . Learn more about us at https://www.nexplayground.com/about.\nWe encourage applications even if you don’t meet more than 50% of the requirements — we believe that experience comes in many forms!\nNex is an equal opportunity employer and does not discriminate on the basis of race, color, religion, sex (including pregnancy, childbirth, gender identity, and sexual orientation), national origin, ancestry, age, physical or mental disability, medical condition, genetic information, marital status, military or veteran status, or any other characteristic protected by applicable law. This policy applies to all individuals at every stage of the employment relationship, including all current and prospective employees, and covers all employment decisions including recruitment, hiring, job assignment, promotion, compensation, benefits, training, discipline and termination.\nWe are committed to providing a workplace free from discrimination and harassment and to fostering an inclusive environment for all employees."
+    },
+    {
+      "id": "live-linkedin-4463847041",
+      "origin": "live",
+      "title": "Binance Accelerator Program - LLM Model Training & Data Processing",
+      "company": "Binance",
+      "location": "Hong Kong, Hong Kong SAR",
+      "employmentType": "See listing",
+      "url": "https://hk.linkedin.com/jobs/view/binance-accelerator-program-llm-model-training-data-processing-at-binance-4463847041",
+      "source": "LinkedIn",
+      "retrievedOn": "2026-10-06",
+      "listingStatus": "open_live",
+      "listed": "",
+      "createdAt": "",
+      "prepareApplication": false,
+      "baseScore": 30,
+      "summary": "Binance Accelerator Program - LLM Model Training & Data Processing",
+      "requirements": [
+        "Only the search-card title and summary were retrieved."
+      ],
+      "evidence": [
+        {
+          "points": 10,
+          "note": "The listing is in Hong Kong."
+        },
+        {
+          "points": 6,
+          "note": "The card mentions AI, robotics, Android, a chatbot, or an LLM."
+        },
+        {
+          "points": 6,
+          "note": "A word in the card also appears in the profile or uploaded CV."
+        }
+      ],
+      "gaps": [
+        {
+          "points": -6,
+          "note": "Only the public search card was saved. Open the listing before applying."
+        }
+      ],
+      "cvOrder": [
+        "models",
+        "chatbot",
+        "android",
+        "debug",
+        "research"
+      ],
+      "summaryAngle": "AI Application Trainee comparing this LinkedIn listing with the recorded trainee work.",
+      "letter": []
+    },
+    {
+      "id": "live-linkedin-4462188381",
+      "origin": "live",
+      "title": "Research Intern",
+      "company": "Microsoft",
+      "location": "Hong Kong, Hong Kong SAR",
+      "employmentType": "See listing",
+      "url": "https://hk.linkedin.com/jobs/view/research-intern-at-microsoft-4462188381",
+      "source": "LinkedIn",
+      "retrievedOn": "2026-10-06",
+      "listingStatus": "open_full",
+      "listed": "",
+      "createdAt": "",
+      "prepareApplication": false,
+      "baseScore": 30,
+      "summary": "Overview\nCome build community, explore your passions and do your best work at Microsoft with thousands of University interns from every corner of the world. This opportunity will allow you to bring your aspirations, talent, potential - and excitement for the journey ahead.\nAs a Research Intern, you will conduct research and leads research collaborations that yield new insights, theories, analyses, data, algorithms, and/or prototypes that advance the state-of-the-art of computer science and engin",
+      "requirements": [
+        "Come build community, explore your passions and do your best work at Microsoft with thousands of University interns from every corner of the world. This opportunity will allow you to bring your aspirations, talent, potential - and",
+        "As a Research Intern, you will conduct research and leads research collaborations that yield new insights, theories, analyses, data, algorithms, and/or prototypes that advance the state-of-the-art of computer science and engineering, as",
+        "We are seeking candidates excelling in deep thinking research aspects and fast-paced entrepreneurial execution. The ideal candidates should have the ability to work with researchers and product team colleagues at Microsoft to push forward",
+        "Microsoft's mission is to empower every person and every organization on the planet to achieve more. As employees we come together with a growth mindset, innovate to empower others, and collaborate to realize our shared goals. Each day we"
+      ],
+      "evidence": [
+        {
+          "points": 12,
+          "note": "The advertisement uses intern, trainee, graduate, junior, or student wording."
+        },
+        {
+          "points": 10,
+          "note": "The listing is in Hong Kong."
+        },
+        {
+          "points": 6,
+          "note": "The advertisement mentions AI, robotics, Android, a chatbot, or an LLM."
+        },
+        {
+          "points": 6,
+          "note": "The advertisement and the profile both mention models."
+        }
+      ],
+      "gaps": [
+        {
+          "points": -8,
+          "note": "c++ appears in the advertisement and is not in the profile or uploaded CV."
+        },
+        {
+          "points": -8,
+          "note": "pytorch appears in the advertisement and is not in the profile or uploaded CV."
+        }
+      ],
+      "cvOrder": [
+        "models",
+        "research",
+        "chatbot",
+        "android",
+        "debug"
+      ],
+      "summaryAngle": "AI Application Trainee for Research Intern at Microsoft.",
+      "letter": [],
+      "fullText": "Overview\nCome build community, explore your passions and do your best work at Microsoft with thousands of University interns from every corner of the world. This opportunity will allow you to bring your aspirations, talent, potential - and excitement for the journey ahead.\nAs a Research Intern, you will conduct research and leads research collaborations that yield new insights, theories, analyses, data, algorithms, and/or prototypes that advance the state-of-the-art of computer science and engineering, as well as general scientific knowledge. You will formulate research problems in an area of study and initiates the design, development, execution and implementation of a research agenda to further academic knowledge and close identified gaps and provide expertise to product or business groups and may create long-term business opportunities through research outcomes, but not responsible for addressing immediate product needs or demonstrating a clear path to product.\nWe are seeking candidates excelling in deep thinking research aspects and fast-paced entrepreneurial execution. The ideal candidates should have the ability to work with researchers and product team colleagues at Microsoft to push forward research agendas, being a team player in a collaborative and supportive environment with outstanding programming skills. We are seeking candidates with research skills and technical backgrounds. Applicants should demonstrate depth of knowledge in Natural Language Understanding, Computer Vision, Machine Learning, Algorithmic Foundations of Optimization, Data Mining or Machine Intelligence (Artificial Intelligence) as well as strong academia experience in data processing, experimentation, and modeling.\nMicrosoft works with the world's best researchers, moving with the current of technology as it rapidly evolves. Together we share the motivation to seek innovative solutions to the world's toughest challenges and improve the lives of people everywhere. Microsoft provides a nurturing environment to support passionate researchers and engineers in AI technology innovation.\nMicrosoft's mission is to empower every person and every organization on the planet to achieve more. As employees we come together with a growth mindset, innovate to empower others, and collaborate to realize our shared goals. Each day we build on our values of respect, integrity, and accountability to create a culture of inclusion where everyone can thrive at work and beyond.\nResponsibilities\nAnalyze and improve performance of advanced algorithms on large-scale datasets and cutting-edge research in machine intelligence and machine learning applications.\nImplement prototypes of scalable systems in AI applications.\nCollaborate closely with team members on developing systems from prototyping to production level.\nDevelop solutions for real world, large-scale problems.\nUnder instruction from others, research new tools, technologies, and methods being used in the research community and contribute your knowledge around a specialized tool/method to support planning for research projects.\nGain an understanding of their research as it relates to Microsoft products or business groups and assists in technology transfer attempts, participating on standards organizations, filing patents, authoring white papers, developing or maintaining tools/services for internal Microsoft use, or consulting for product or business groups.\nQualifications\nRequired Qualifications:\nCurrently pursuing a Bachelor/Master/PhD Degree in a relevant field\nMust have at least one additional quarter/semester of school remaining following the completion of the internship\nPreferred Qualifications\nExperience with one or more general purpose programming languages including: C/C++, Java, MATLAB or Python, ideally languages such as pyTorch, Tensorflow and other deep learning toolkits.\nExperience (classroom or work related) in one or more areas of computer science, such as Natural Language Understanding, Neural Networks, Computer Vision, Machine Learning, Deep Learning, Algorithmic Foundations of Optimization, Data Science, Privacy or other relevant research focuses.\nThis position will be open for a minimum of 5 days, with applications accepted on an ongoing basis until the position is filled.\nMicrosoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance with religious accommodations and/or a reasonable accommodation due to a disability during the application process, read more about requesting accommodations."
+    },
+    {
+      "id": "live-linkedin-4464560916",
+      "origin": "live",
+      "title": "Data Scientist - Internship/Co-op (Winter or Summer2027)",
+      "company": "Intact",
+      "location": "Hong Kong, Hong Kong SAR",
+      "employmentType": "See listing",
+      "url": "https://hk.linkedin.com/jobs/view/data-scientist-internship-co-op-winter-or-summer2027-at-intact-4464560916",
+      "source": "LinkedIn",
+      "retrievedOn": "2026-10-06",
+      "listingStatus": "open_full",
+      "listed": "",
+      "createdAt": "",
+      "prepareApplication": true,
+      "baseScore": 30,
+      "summary": "Calling all AI and machine learning experts! We have a fantastic opportunity to join our team in Hong Kong.\nArtificial intelligence is shaping the future of insurance. Our latest lab is located in the Hong Kong Science and Technology Park to turn this vision into a reality. As Canada's largest home, auto and business insurer, we're here to cultivate the next generation of technology and talent. Together, we're helping our customers protect what matters to them most through the power of data scie",
+      "requirements": [
+        "Artificial intelligence is shaping the future of insurance. Our latest lab is located in the Hong Kong Science and Technology Park to turn this vision into a reality. As Canada's largest home, auto and business insurer, we're here to",
+        "Technology is only as good as the people behind it. Every day at work, you’ll inspire and be inspired by the brilliant minds of our greater lab team: actuaries, data scientists, machine learning experts, geomathematicians, meteorologists,",
+        "Together, you will tackle challenging problems and have the freedom to imagine, research, create, test, and bring innovative solutions to life that will have a profound impact on our business and the needs of our customers.",
+        "As our company grows, your career will grow with it. There will always be an opportunity for you to develop your leadership skills, strengthen your expertise or take your work in a new direction. Whether it’s leading a new, exciting"
+      ],
+      "evidence": [
+        {
+          "points": 12,
+          "note": "The advertisement uses intern, trainee, graduate, junior, or student wording."
+        },
+        {
+          "points": 10,
+          "note": "The listing is in Hong Kong."
+        },
+        {
+          "points": 6,
+          "note": "The advertisement mentions AI, robotics, Android, a chatbot, or an LLM."
+        },
+        {
+          "points": 6,
+          "note": "The advertisement and the profile both mention models."
+        },
+        {
+          "points": 6,
+          "note": "The advertisement and the profile both mention debug."
+        }
+      ],
+      "gaps": [
+        {
+          "points": -8,
+          "note": "pytorch appears in the advertisement and is not in the profile or uploaded CV."
+        }
+      ],
+      "cvOrder": [
+        "models",
+        "debug",
+        "research",
+        "chatbot",
+        "android"
+      ],
+      "summaryAngle": "AI Application Trainee for Data Scientist - Internship/Co-op (Winter or Summer2027) at Intact.",
+      "letter": [
+        "I am applying for the Data Scientist - Internship/Co-op (Winter or Summer2027) role at Intact. I am an AI Application Trainee in the Department of Physics.",
+        "The full LinkedIn advertisement says: \"Artificial intelligence is shaping the future of insurance. Our latest lab is located in the Hong Kong Science and Technology Park to turn this vision into a reality. As Canada's largest home, auto and business insurer, we're here to\" The closest work I can point to is this: Develop an AI chatbot for a robot and demonstrate it during the College of Science Information Day.",
+        "It also says: \"Technology is only as good as the people behind it. Every day at work, you’ll inspire and be inspired by the brilliant minds of our greater lab team: actuaries, data scientists, machine learning experts, geomathematicians, meteorologists,\" That lines up with this part of my work: Follow AI and technology updates across news, articles, and video sources, then decide which changes matter for the chatbot.",
+        "The advertisement mentions pytorch. That is not in my recorded work, so I am not claiming it.",
+        "This letter quotes the full advertisement, not the search card. Download it only after a person has checked the wording."
+      ],
+      "fullText": "Calling all AI and machine learning experts! We have a fantastic opportunity to join our team in Hong Kong.\nArtificial intelligence is shaping the future of insurance. Our latest lab is located in the Hong Kong Science and Technology Park to turn this vision into a reality. As Canada's largest home, auto and business insurer, we're here to cultivate the next generation of technology and talent. Together, we're helping our customers protect what matters to them most through the power of data science, machine learning and AI.\nLife in the Lab\nTechnology is only as good as the people behind it. Every day at work, you’ll inspire and be inspired by the brilliant minds of our greater lab team: actuaries, data scientists, machine learning experts, geomathematicians, meteorologists, software engineers and designers.\nTogether, you will tackle challenging problems and have the freedom to imagine, research, create, test, and bring innovative solutions to life that will have a profound impact on our business and the needs of our customers.\nAs our company grows, your career will grow with it. There will always be an opportunity for you to develop your leadership skills, strengthen your expertise or take your work in a new direction. Whether it’s leading a new, exciting project or moving into a different A.I. product team in Canada or Hong Kong, your career will always be on the move.\nData Science and artificial intelligence is shaping the future of insurance. Our latest lab is in the Hong Kong Science and Technology Park to turn this vision into a reality. As Canada's largest home, auto and business insurer, we're here to cultivate the next generation of technology and talent. Together, we're helping our customers protect what matters to them most through the power of data science, machine learning and AI.\nHere, your career will take off 🚀\nWe are looking for Data Scientist interns who are interested in contributing to our 2027 Data Scientist Internship/Co-op for either our Winter term, January to April, or our summer term, June to August. This position is based in Science Park, Hong Kong with the opportunity to work in a hybrid arrangement.\nAs a Data Scientist I, You Will\nUse machine learning and advanced statistics to help build innovative solutions for real-life customer and business problems\nTransform complex datasets into meaningful conclusions and recommendations\nGrow alongside a diverse team of world-class experts in data science, software engineering, actuarial science, business, and design\nCollaborate with our teams in HK & Canada to share knowledge, learnings, and tools\nSkills required: Python, NLP/LLM\nFamiliar with our tech stack: scikit-learn, xgboost, pytorch, tensorflow, LightGBM, pandas, etc.,\nHere’s What You Bring To The Table\nCurrently enrolled in a post-secondary degree in a quantitative discipline such as mathematics, science, engineering, statistics, AI, computer science or a related field.\nAvailable to work with us full-time, 37.5 hours per week, for the Winter 2027 term (January to April) or Summer 2027 term (May to August)\nMust be an active student during your internship and/or returning to school following your internship.\nRelevant experience in predictive modelling, machine learning and advanced statistics solving business problems is an asset\nUnlimited curiosity and a passion to challenge the status quo\nAbility to focus on vaguely defined issues requiring the application of a creative approach\nExcellent communication, organization and a collaborative attitude\nSelf-reliant with a strong sense of responsibility;\nWhat We Offer\nWorking here means you'll be empowered to be and do your best every day. Here is some of what you can expect as a temporary member of our team:\nInspiring leaders and colleagues who will lift you up and help you grow\nAccess to tools and resources to support physical and mental health, embracing change and connecting with colleagues\nA dynamic workplace learning ecosystem complete with learning journeys, interactive online content, and inspiring programs\nInclusive employee-led networks to educate, inspire, amplify voices, build relationships and provide development opportunities.\nA Community Impact program, because what you care about is a part of what makes you different. And how you contribute to your community should be just as unique.\nWe are an equal opportunity employer\nAt Intact, we value diversity and strive to create an inclusive, accessible workplace where all individuals feel valued, respected, and heard.\nIf we can provide a specific adjustment to make the recruitment process more accessible for you, please let us know when we reach out about a job opportunity. We’ll work with you to meet your needs.\nClick here to review other important information about the hiring process, including background checks, internal candidates, and eligibility to work in Canada."
+    },
+    {
+      "id": "live-jobsdb-94834920",
+      "origin": "live",
+      "title": "Technology Research Intern – MarTech & AI (Part-time)",
+      "company": "GoGoChart Technology Limited",
+      "location": "Cheung Sha Wan, Sham Shui Po District",
+      "employmentType": "Part time",
+      "url": "https://hk.jobsdb.com/job/94834920",
+      "source": "JobsDB",
+      "retrievedOn": "2026-10-06",
+      "listingStatus": "open_live",
+      "listed": "12d ago",
+      "createdAt": "",
+      "prepareApplication": false,
+      "baseScore": 30,
+      "summary": "Technology Research Intern supporting AI-powered MarTech platform testing and research.",
+      "requirements": [
+        "Work type: Part time"
+      ],
+      "evidence": [
+        {
+          "points": 12,
+          "note": "The card uses intern, trainee, graduate, junior, or student wording."
+        },
+        {
+          "points": 6,
+          "note": "The card mentions AI, robotics, Android, a chatbot, or an LLM."
+        },
+        {
+          "points": 6,
+          "note": "A word in the card also appears in the profile or uploaded CV."
+        }
+      ],
+      "gaps": [
+        {
+          "points": -14,
+          "note": "The listing is outside Hong Kong."
+        },
+        {
+          "points": -6,
+          "note": "Only the public search card was saved. Open the listing before applying."
+        }
+      ],
+      "cvOrder": [
+        "debug",
+        "research",
+        "chatbot",
+        "models",
+        "android"
+      ],
+      "summaryAngle": "AI Application Trainee comparing this JobsDB listing with the recorded trainee work.",
+      "letter": []
+    },
+    {
+      "id": "live-jobstreet-94906278",
+      "origin": "live",
+      "title": "Data Science and AI Intern",
+      "company": "SBS Transit",
+      "location": "Sengkang, North-East Region",
+      "employmentType": "Full time",
+      "url": "https://sg.jobstreet.com/job/94906278",
+      "source": "JobStreet",
+      "retrievedOn": "2026-10-06",
+      "listingStatus": "open_live",
+      "listed": "8d ago",
+      "createdAt": "",
+      "prepareApplication": false,
+      "baseScore": 30,
+      "summary": "Train and deploy Machine Learning (ML), Artificial Intelligence (AI) and/or Data Science models on selected problems including Natural Language.",
+      "requirements": [
+        "Work type: Full time"
+      ],
+      "evidence": [
+        {
+          "points": 12,
+          "note": "The card uses intern, trainee, graduate, junior, or student wording."
+        },
+        {
+          "points": 6,
+          "note": "The card mentions AI, robotics, Android, a chatbot, or an LLM."
+        },
+        {
+          "points": 6,
+          "note": "A word in the card also appears in the profile or uploaded CV."
+        }
+      ],
+      "gaps": [
+        {
+          "points": -14,
+          "note": "The listing is outside Hong Kong."
+        },
+        {
+          "points": -6,
+          "note": "Only the public search card was saved. Open the listing before applying."
+        }
+      ],
+      "cvOrder": [
+        "models",
+        "chatbot",
+        "android",
+        "debug",
+        "research"
+      ],
+      "summaryAngle": "AI Application Trainee comparing this JobStreet listing with the recorded trainee work.",
+      "letter": []
+    },
+    {
+      "id": "live-jobsdb-94575906",
+      "origin": "live",
+      "title": "Human Resources Ai Intern",
+      "company": "Micro Connect (H.K.) Investments Limited",
+      "location": "Central and Western District",
+      "employmentType": "Part time",
+      "url": "https://hk.jobsdb.com/job/94575906",
+      "source": "JobsDB",
+      "retrievedOn": "2026-10-06",
+      "listingStatus": "open_full",
+      "listed": "24d ago",
+      "createdAt": "",
+      "prepareApplication": true,
+      "baseScore": 30,
+      "summary": "About the role\nWe are seeking a motivated and innovative HR AI Agent Intern to join our dynamic HR team in Hong Kong. You will build and ship HR AI agents that automate high-volume HR workflows, prototype internal \"HR copilots,\" and work closely with stakeholders across different teams to drive adoption through creative agent design, LLM-powered workflows, and data-driven insights. This internship offers hands-on experience in a fast-paced environment where your ideas and efforts will be appreci",
+      "requirements": [
+        "We are seeking a motivated and innovative HR AI Agent Intern to join our dynamic HR team in Hong Kong. You will build and ship HR AI agents that automate high-volume HR workflows, prototype internal \"HR copilots,\" and work closely with",
+        "Assess current HR workflows end-to-end, identify the highest-leverage opportunities to apply AI or automation, and design, develop, and deploy HR AI agents from scratch that integrate with existing HR systems and data",
+        "Create reusable agent skills, select and orchestrate the optimal LLMs and frameworks, and continuously test and iterate on agent performance",
+        "Prior hands-on experience building HR AI Agents is strongly preferred, e.g., HR chatbots, HR copilots, workflow agents, RAG-based HR assistants"
+      ],
+      "evidence": [
+        {
+          "points": 12,
+          "note": "The advertisement uses intern, trainee, graduate, junior, or student wording."
+        },
+        {
+          "points": 6,
+          "note": "The advertisement mentions AI, robotics, Android, a chatbot, or an LLM."
+        },
+        {
+          "points": 6,
+          "note": "The advertisement and the profile both mention chatbot."
+        },
+        {
+          "points": 6,
+          "note": "The advertisement and the profile both mention models."
+        },
+        {
+          "points": 6,
+          "note": "The advertisement and the profile both mention debug."
+        }
+      ],
+      "gaps": [
+        {
+          "points": -14,
+          "note": "The listing is outside Hong Kong."
+        }
+      ],
+      "cvOrder": [
+        "models",
+        "chatbot",
+        "debug",
+        "android",
+        "research"
+      ],
+      "summaryAngle": "AI Application Trainee for Human Resources Ai Intern at Micro Connect (H.K.) Investments Limited.",
+      "letter": [
+        "I am applying for the Human Resources Ai Intern role at Micro Connect (H.K.) Investments Limited. I am an AI Application Trainee in the Department of Physics.",
+        "The full JobsDB advertisement says: \"Assess current HR workflows end-to-end, identify the highest-leverage opportunities to apply AI or automation, and design, develop, and deploy HR AI agents from scratch that integrate with existing HR systems and data\" The closest work I can point to is this: Develop an AI chatbot for a robot and demonstrate it during the College of Science Information Day.",
+        "One part of this advertisement is not covered by my recorded work: \"We are seeking a motivated and innovative HR AI Agent Intern to join our dynamic HR team in Hong Kong. You will build and ship HR AI agents that automate high-volume HR workflows, prototype internal \"HR copilots,\" and work closely with\"",
+        "This letter quotes the full advertisement, not the search card. Download it only after a person has checked the wording."
+      ],
+      "fullText": "About the role\nWe are seeking a motivated and innovative HR AI Agent Intern to join our dynamic HR team in Hong Kong. You will build and ship HR AI agents that automate high-volume HR workflows, prototype internal \"HR copilots,\" and work closely with stakeholders across different teams to drive adoption through creative agent design, LLM-powered workflows, and data-driven insights. This internship offers hands-on experience in a fast-paced environment where your ideas and efforts will be appreciated, and where you will be expected to add real value to our HR AI agent/skill portfolio.\nKey responsibilities\nAssess current HR workflows end-to-end, identify the highest-leverage opportunities to apply AI or automation, and design, develop, and deploy HR AI agents from scratch that integrate with existing HR systems and data\nCreate reusable agent skills, select and orchestrate the optimal LLMs and frameworks, and continuously test and iterate on agent performance\nEnable the HR team to adopt agents in their daily work through training, documentation, and hands-on support, and feed user feedback back into agent improvements\nTrack agent usage, performance, and failure cases; optimize prompts, workflows, and model selection; and ensure data privacy, security, and compliance standards are met\nPartner with the HR team on ad hoc and strategic initiatives, lending AI expertise wherever it can accelerate outcomes\nAbout you\nUndergraduate or pursuing master's degree, preferably in Computer Science, AI, Data Science, HR Tech, Business Analytics, or a related field\nPrior hands-on experience building HR AI Agents is strongly preferred, e.g., HR chatbots, HR copilots, workflow agents, RAG-based HR assistants\nFamiliar with multiple Large Language Models (GPT, Claude, Gemini, Llama, etc.) and agent frameworks (LangChain, LlamaIndex, AutoGen, CrewAI, etc.)\nDetail-oriented and organized, with strong problem-solving skills and a builder mindset, and fast adaptability\nStrong command of written and spoken English and Mandarin Chinese; fluency in Cantonese is an advantage\nAvailable to work onsite 3+ days per week, with a preferred commitment of more than three months\nTo apply, please send your resume directly to campus@microconnect.com"
+    },
+    {
+      "id": "live-jobsdb-94731783",
+      "origin": "live",
+      "title": "AI Software Developer/Assistant/Intern",
+      "company": "Hong Kong Univisual Intelligent Technology Limited",
+      "location": "Kowloon Tong, Kowloon City District",
+      "employmentType": "Full time",
+      "url": "https://hk.jobsdb.com/job/94731783",
+      "source": "JobsDB",
+      "retrievedOn": "2026-10-06",
+      "listingStatus": "open_live",
+      "listed": "17d ago",
+      "createdAt": "",
+      "prepareApplication": false,
+      "baseScore": 30,
+      "summary": "You have the opportunity to shape the future of technology and make a lasting impact on the world. Using AI solve real-world problems.",
+      "requirements": [
+        "Work type: Full time"
+      ],
+      "evidence": [
+        {
+          "points": 12,
+          "note": "The card uses intern, trainee, graduate, junior, or student wording."
+        },
+        {
+          "points": 6,
+          "note": "The card mentions AI, robotics, Android, a chatbot, or an LLM."
+        }
+      ],
+      "gaps": [
+        {
+          "points": -14,
+          "note": "The listing is outside Hong Kong."
+        },
+        {
+          "points": -6,
+          "note": "Only the public search card was saved. Open the listing before applying."
+        }
+      ],
+      "cvOrder": [
+        "chatbot",
+        "models",
+        "android",
+        "debug",
+        "research"
+      ],
+      "summaryAngle": "AI Application Trainee comparing this JobsDB listing with the recorded trainee work.",
+      "letter": []
+    },
+    {
+      "id": "live-jobsdb-94676123",
+      "origin": "live",
+      "title": "AI Product Developer Intern",
+      "company": "VIBE TECHNOLOGY LIMITED",
+      "location": "Kowloon Tong, Kowloon City District",
+      "employmentType": "Full time",
+      "url": "https://hk.jobsdb.com/job/94676123",
+      "source": "JobsDB",
+      "retrievedOn": "2026-10-06",
+      "listingStatus": "open_live",
+      "listed": "19d ago",
+      "createdAt": "",
+      "prepareApplication": false,
+      "baseScore": 30,
+      "summary": "Help shape an AI learning platform for students while using modern tools, LLMs, and product thinking.",
+      "requirements": [
+        "Work type: Full time"
+      ],
+      "evidence": [
+        {
+          "points": 12,
+          "note": "The card uses intern, trainee, graduate, junior, or student wording."
+        },
+        {
+          "points": 6,
+          "note": "The card mentions AI, robotics, Android, a chatbot, or an LLM."
+        }
+      ],
+      "gaps": [
+        {
+          "points": -14,
+          "note": "The listing is outside Hong Kong."
+        },
+        {
+          "points": -6,
+          "note": "Only the public search card was saved. Open the listing before applying."
+        }
+      ],
+      "cvOrder": [
+        "models",
+        "chatbot",
+        "android",
+        "debug",
+        "research"
+      ],
+      "summaryAngle": "AI Application Trainee comparing this JobsDB listing with the recorded trainee work.",
+      "letter": []
+    }
+  ],
+  "lastLiveSearch": {
+    "keywords": "AI intern",
+    "at": "2026-10-06 02:48 UTC",
+    "counts": {
+      "JobsDB": 15,
+      "JobStreet": 15,
+      "LinkedIn": 10,
+      "Remotive": 4
+    },
+    "errors": [],
+    "added": 17
+  }
+}

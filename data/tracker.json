@@ -1,0 +1,194 @@
+{
+  "updatedOn": "2026-10-06",
+  "items": {
+    "ricoh-fde-intern": {
+      "status": "ready_for_review",
+      "viewed": true,
+      "applied": false,
+      "confirmed": false,
+      "notes": ""
+    },
+    "ricoh-fde-associate": {
+      "status": "ready_for_review",
+      "viewed": true,
+      "applied": false,
+      "confirmed": false,
+      "notes": ""
+    },
+    "smartage-swe-ai": {
+      "status": "hold",
+      "viewed": true,
+      "applied": false,
+      "confirmed": false,
+      "notes": ""
+    },
+    "precision-robotics-intern": {
+      "status": "hold",
+      "viewed": true,
+      "applied": false,
+      "confirmed": false,
+      "notes": ""
+    },
+    "ricoh-ai-specialist": {
+      "status": "hold",
+      "viewed": true,
+      "applied": false,
+      "confirmed": false,
+      "notes": ""
+    },
+    "dbs-map-2027-ai": {
+      "status": "hold",
+      "viewed": true,
+      "applied": false,
+      "confirmed": false,
+      "notes": ""
+    },
+    "fdm-se-grad-hk": {
+      "status": "hold",
+      "viewed": true,
+      "applied": false,
+      "confirmed": false,
+      "notes": ""
+    },
+    "hkpc-technical-officer": {
+      "status": "closed",
+      "viewed": true,
+      "applied": false,
+      "confirmed": false,
+      "notes": ""
+    },
+    "macroview-solution-engineer": {
+      "status": "closed",
+      "viewed": true,
+      "applied": false,
+      "confirmed": false,
+      "notes": ""
+    },
+    "pharmcare-ai-trainee": {
+      "status": "closed",
+      "viewed": true,
+      "applied": false,
+      "confirmed": false,
+      "notes": ""
+    },
+    "live-linkedin-4467966959": {
+      "status": "ready_for_review",
+      "viewed": true,
+      "applied": false,
+      "confirmed": false,
+      "notes": ""
+    },
+    "live-jobsdb-95035037": {
+      "status": "ready_for_review",
+      "viewed": true,
+      "applied": false,
+      "confirmed": false,
+      "notes": ""
+    },
+    "live-jobsdb-94691097": {
+      "status": "ready_for_review",
+      "viewed": true,
+      "applied": false,
+      "confirmed": false,
+      "notes": ""
+    },
+    "live-linkedin-4330148175": {
+      "status": "ready_for_review",
+      "viewed": true,
+      "applied": false,
+      "confirmed": false,
+      "notes": ""
+    },
+    "live-linkedin-4464874851": {
+      "status": "ready_for_review",
+      "viewed": true,
+      "applied": false,
+      "confirmed": false,
+      "notes": ""
+    },
+    "live-linkedin-4464580209": {
+      "status": "ready_for_review",
+      "viewed": true,
+      "applied": false,
+      "confirmed": false,
+      "notes": ""
+    },
+    "live-linkedin-4466503023": {
+      "status": "ready_for_review",
+      "viewed": true,
+      "applied": false,
+      "confirmed": false,
+      "notes": ""
+    },
+    "live-linkedin-4456165750": {
+      "status": "ready_for_review",
+      "viewed": true,
+      "applied": false,
+      "confirmed": false,
+      "notes": ""
+    },
+    "live-linkedin-4467028193": {
+      "status": "ready_for_review",
+      "viewed": true,
+      "applied": false,
+      "confirmed": false,
+      "notes": ""
+    },
+    "live-linkedin-4463847041": {
+      "status": "hold",
+      "viewed": true,
+      "applied": false,
+      "confirmed": false,
+      "notes": ""
+    },
+    "live-linkedin-4462188381": {
+      "status": "hold",
+      "viewed": true,
+      "applied": false,
+      "confirmed": false,
+      "notes": ""
+    },
+    "live-linkedin-4464560916": {
+      "status": "ready_for_review",
+      "viewed": true,
+      "applied": false,
+      "confirmed": false,
+      "notes": ""
+    },
+    "live-jobsdb-94834920": {
+      "status": "hold",
+      "viewed": true,
+      "applied": false,
+      "confirmed": false,
+      "notes": ""
+    },
+    "live-jobstreet-94906278": {
+      "status": "hold",
+      "viewed": true,
+      "applied": false,
+      "confirmed": false,
+      "notes": ""
+    },
+    "live-jobsdb-94575906": {
+      "status": "ready_for_review",
+      "viewed": true,
+      "applied": false,
+      "confirmed": false,
+      "notes": ""
+    },
+    "live-jobsdb-94731783": {
+      "status": "hold",
+      "viewed": true,
+      "applied": false,
+      "confirmed": false,
+      "notes": ""
+    },
+    "live-jobsdb-94676123": {
+      "status": "hold",
+      "viewed": true,
+      "applied": false,
+      "confirmed": false,
+      "notes": ""
+    }
+  }
+}

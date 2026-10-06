@@ -1,0 +1,57 @@
+{
+  "name": "CHEUNG Yuk Yuen",
+  "currentRole": "AI Application Trainee",
+  "organisation": "Department of Physics",
+  "locationPreference": [
+    "Hong Kong"
+  ],
+  "source": "Assignment 1 work context (CHEUNG Yuk Yuen). Facts below are limited to that document.",
+  "retrievedFromAssignmentOn": "2026-10-06",
+  "contact": {
+    "email": "",
+    "phone": "",
+    "linkedin": ""
+  },
+  "education": {
+    "institution": "",
+    "degree": "",
+    "field": "",
+    "graduation": "",
+    "currentlyEnrolled": null
+  },
+  "experience": [
+    {
+      "id": "chatbot",
+      "text": "Develop an AI chatbot for a robot and demonstrate it during the College of Science Information Day."
+    },
+    {
+      "id": "models",
+      "text": "Test combinations of AI models and server-tunnelling configurations to keep answers accurate and responses fast."
+    },
+    {
+      "id": "android",
+      "text": "Test robot application features in Android simulation environments and trace failures that are slow to isolate by hand."
+    },
+    {
+      "id": "debug",
+      "text": "Use Cursor and Claude Code while debugging, then recheck the same flow as a designer and as a first-time user."
+    },
+    {
+      "id": "research",
+      "text": "Follow AI and technology updates across news, articles, and video sources, then decide which changes matter for the chatbot."
+    }
+  ],
+  "toolsNamedInWork": [
+    "Cursor",
+    "Claude Code",
+    "Android simulation"
+  ],
+  "notStated": [
+    "university name",
+    "degree title and graduation date",
+    "whether the trainee is still enrolled",
+    "email, phone, and LinkedIn",
+    "programming languages",
+    "years of commercial employment"
+  ]
+}

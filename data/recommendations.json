@@ -1,0 +1,61 @@
+{
+  "drafts": [
+    "ricoh-fde-associate",
+    "ricoh-fde-intern",
+    "live-linkedin-4456165750",
+    "live-linkedin-4330148175",
+    "live-linkedin-4464874851",
+    "live-linkedin-4466503023",
+    "live-linkedin-4467966959",
+    "live-linkedin-4464580209",
+    "live-linkedin-4464560916",
+    "live-jobsdb-95035037",
+    "live-jobsdb-94691097",
+    "live-linkedin-4467028193",
+    "live-jobsdb-94575906"
+  ],
+  "holds": [
+    "smartage-swe-ai",
+    "live-linkedin-4462188381",
+    "live-linkedin-4463847041",
+    "precision-robotics-intern",
+    "live-jobsdb-94834920",
+    "live-jobstreet-94906278",
+    "live-jobsdb-94731783",
+    "live-jobsdb-94676123",
+    "ricoh-ai-specialist",
+    "fdm-se-grad-hk",
+    "dbs-map-2027-ai"
+  ],
+  "excluded": [
+    "hkpc-technical-officer",
+    "macroview-solution-engineer",
+    "pharmcare-ai-trainee"
+  ],
+  "scores": {
+    "ricoh-fde-associate": 81,
+    "ricoh-fde-intern": 79,
+    "live-linkedin-4456165750": 70,
+    "live-linkedin-4330148175": 64,
+    "live-linkedin-4464874851": 64,
+    "live-linkedin-4466503023": 64,
+    "live-linkedin-4467966959": 62,
+    "live-linkedin-4464580209": 62,
+    "live-linkedin-4464560916": 62,
+    "live-jobsdb-95035037": 58,
+    "live-jobsdb-94691097": 58,
+    "live-linkedin-4467028193": 56,
+    "live-jobsdb-94575906": 52,
+    "smartage-swe-ai": 54,
+    "live-linkedin-4462188381": 48,
+    "live-linkedin-4463847041": 46,
+    "precision-robotics-intern": 39,
+    "live-jobsdb-94834920": 34,
+    "live-jobstreet-94906278": 34,
+    "live-jobsdb-94731783": 28,
+    "live-jobsdb-94676123": 28,
+    "ricoh-ai-specialist": 21,
+    "fdm-se-grad-hk": 18,
+    "dbs-map-2027-ai": 7
+  }
+}
