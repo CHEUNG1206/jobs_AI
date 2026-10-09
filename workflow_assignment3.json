@@ -1,8 +1,8 @@
 {
   "id": "local-workflow-assignment3",
   "revision": 0,
-  "last_node_id": 70,
-  "last_link_id": 45,
+  "last_node_id": 99,
+  "last_link_id": 100,
   "nodes": [
     {
       "id": 12,
@@ -102,7 +102,9 @@
           "type": "MODEL",
           "links": [
             5,
-            15
+            15,
+            66,
+            77
           ],
           "slot_index": 0
         },
@@ -112,7 +114,9 @@
           "links": [
             3,
             4,
-            14
+            14,
+            62,
+            73
           ],
           "slot_index": 1
         },
@@ -122,7 +126,11 @@
           "links": [
             10,
             13,
-            20
+            20,
+            63,
+            69,
+            75,
+            81
           ],
           "slot_index": 2
         }
@@ -209,7 +217,9 @@
           "type": "CONDITIONING",
           "links": [
             7,
-            17
+            17,
+            67,
+            78
           ],
           "slot_index": 0
         }
@@ -347,9 +357,7 @@
           "name": "IMAGE",
           "type": "IMAGE",
           "links": [
-            11,
-            36,
-            45
+            11
           ],
           "slot_index": 0
         }
@@ -660,7 +668,8 @@
           "name": "MODEL",
           "type": "MODEL",
           "links": [
-            38
+            38,
+            94
           ],
           "slot_index": 0
         }
@@ -695,7 +704,8 @@
           "type": "CLIP",
           "links": [
             30,
-            31
+            31,
+            85
           ],
           "slot_index": 0
         }
@@ -731,7 +741,9 @@
           "type": "VAE",
           "links": [
             34,
-            43
+            43,
+            90,
+            96
           ],
           "slot_index": 0
         }
@@ -763,7 +775,8 @@
           "name": "CLIP_VISION",
           "type": "CLIP_VISION",
           "links": [
-            37
+            37,
+            87
           ],
           "slot_index": 0
         }
@@ -810,9 +823,9 @@
         "Node name for S&R": "CLIPTextEncode"
       },
       "widgets_values": [
-        "2D anime livehouse trailer. Animate the storyboard image. Keep the drawn characters, the stairwell, and the basement stage named STARRY. The camera moves from the stairs to the stage. A brown-haired singer performs at a microphone. A pink-haired guitarist plays beside her. They end side by side facing forward. Flat color, bold ink lines, audience glow sticks, confetti."
+        "2D anime. Yui Hirasawa and Hitori Goto stand at the top of the STARRY stairwell. The camera tilts down the stairs toward the neon sign. Flat color, bold ink lines."
       ],
-      "title": "Video prompt"
+      "title": "Outside clip prompt"
     },
     {
       "id": 70,
@@ -840,7 +853,8 @@
           "name": "CONDITIONING",
           "type": "CONDITIONING",
           "links": [
-            33
+            33,
+            89
           ],
           "slot_index": 0
         }
@@ -876,7 +890,7 @@
         {
           "name": "image",
           "type": "IMAGE",
-          "link": 45
+          "link": 71
         }
       ],
       "outputs": [
@@ -935,7 +949,7 @@
         {
           "name": "start_image",
           "type": "IMAGE",
-          "link": 36,
+          "link": 72,
           "shape": 7
         }
       ],
@@ -973,7 +987,8 @@
         480,
         33,
         1
-      ]
+      ],
+      "title": "Outside image to video"
     },
     {
       "id": 3,
@@ -1066,7 +1081,7 @@
           "name": "IMAGE",
           "type": "IMAGE",
           "links": [
-            44
+            98
           ],
           "slot_index": 0
         }
@@ -1078,37 +1093,932 @@
     },
     {
       "id": 10,
-      "type": "SaveAnimatedWEBP",
+      "type": "SaveVideo",
       "pos": [
-        2100,
-        1360
+        2740,
+        1600
       ],
       "size": [
-        360,
-        300
+        320,
+        160
       ],
       "flags": {},
       "order": 25,
       "mode": 0,
       "inputs": [
         {
-          "name": "images",
-          "type": "IMAGE",
-          "link": 44
+          "name": "video",
+          "type": "VIDEO",
+          "link": 100
         }
       ],
       "outputs": [],
       "properties": {
-        "Node name for S&R": "SaveAnimatedWEBP"
+        "Node name for S&R": "SaveVideo"
       },
       "widgets_values": [
         "video/ComfyUI",
-        16,
-        false,
-        90,
-        "default"
+        "auto",
+        "auto"
       ],
-      "title": "Save local video"
+      "title": "Save video with song"
+    },
+    {
+      "id": 80,
+      "type": "LoadImage",
+      "pos": [
+        40,
+        2100
+      ],
+      "size": [
+        320,
+        300
+      ],
+      "flags": {},
+      "order": 26,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "IMAGE",
+          "type": "IMAGE",
+          "links": [
+            60
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "MASK",
+          "type": "MASK",
+          "links": null,
+          "slot_index": 1
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "LoadImage"
+      },
+      "widgets_values": [
+        "starry_outside.png",
+        "image"
+      ],
+      "title": "STARRY outside photo"
+    },
+    {
+      "id": 81,
+      "type": "LoadImage",
+      "pos": [
+        40,
+        2460
+      ],
+      "size": [
+        320,
+        300
+      ],
+      "flags": {},
+      "order": 27,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "IMAGE",
+          "type": "IMAGE",
+          "links": [
+            61
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "MASK",
+          "type": "MASK",
+          "links": null,
+          "slot_index": 1
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "LoadImage"
+      },
+      "widgets_values": [
+        "starry_inside.png",
+        "image"
+      ],
+      "title": "STARRY inside photo"
+    },
+    {
+      "id": 82,
+      "type": "LoadAudio",
+      "pos": [
+        40,
+        2820
+      ],
+      "size": [
+        320,
+        120
+      ],
+      "flags": {},
+      "order": 28,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "AUDIO",
+          "type": "AUDIO",
+          "links": [
+            80
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "LoadAudio"
+      },
+      "widgets_values": [
+        "song.wav"
+      ],
+      "title": "Song audio"
+    },
+    {
+      "id": 83,
+      "type": "CLIPTextEncode",
+      "pos": [
+        420,
+        2100
+      ],
+      "size": [
+        420,
+        140
+      ],
+      "flags": {},
+      "order": 29,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "clip",
+          "type": "CLIP",
+          "link": 62
+        }
+      ],
+      "outputs": [
+        {
+          "name": "CONDITIONING",
+          "type": "CONDITIONING",
+          "links": [
+            64
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "CLIPTextEncode"
+      },
+      "widgets_values": [
+        "2D anime background of this exact stairwell at night, neon sign STARRY, concrete steps down to a basement door, no people, flat color, bold ink lines"
+      ],
+      "title": "Outside anime prompt"
+    },
+    {
+      "id": 84,
+      "type": "VAEEncode",
+      "pos": [
+        420,
+        2280
+      ],
+      "size": [
+        210,
+        60
+      ],
+      "flags": {},
+      "order": 30,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "pixels",
+          "type": "IMAGE",
+          "link": 60
+        },
+        {
+          "name": "vae",
+          "type": "VAE",
+          "link": 63
+        }
+      ],
+      "outputs": [
+        {
+          "name": "LATENT",
+          "type": "LATENT",
+          "links": [
+            65
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "VAEEncode"
+      },
+      "widgets_values": []
+    },
+    {
+      "id": 85,
+      "type": "KSampler",
+      "pos": [
+        900,
+        2100
+      ],
+      "size": [
+        320,
+        262
+      ],
+      "flags": {},
+      "order": 31,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 66
+        },
+        {
+          "name": "positive",
+          "type": "CONDITIONING",
+          "link": 64
+        },
+        {
+          "name": "negative",
+          "type": "CONDITIONING",
+          "link": 67
+        },
+        {
+          "name": "latent_image",
+          "type": "LATENT",
+          "link": 65
+        }
+      ],
+      "outputs": [
+        {
+          "name": "LATENT",
+          "type": "LATENT",
+          "links": [
+            68
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "KSampler"
+      },
+      "widgets_values": [
+        1930875014,
+        "randomize",
+        20,
+        6,
+        "euler",
+        "normal",
+        0.5
+      ],
+      "title": "Outside photo to anime"
+    },
+    {
+      "id": 86,
+      "type": "VAEDecode",
+      "pos": [
+        1260,
+        2100
+      ],
+      "size": [
+        210,
+        60
+      ],
+      "flags": {},
+      "order": 32,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "samples",
+          "type": "LATENT",
+          "link": 68
+        },
+        {
+          "name": "vae",
+          "type": "VAE",
+          "link": 69
+        }
+      ],
+      "outputs": [
+        {
+          "name": "IMAGE",
+          "type": "IMAGE",
+          "links": [
+            70,
+            71,
+            72
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "VAEDecode"
+      },
+      "widgets_values": []
+    },
+    {
+      "id": 87,
+      "type": "SaveImage",
+      "pos": [
+        1520,
+        2060
+      ],
+      "size": [
+        300,
+        260
+      ],
+      "flags": {},
+      "order": 33,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "IMAGE",
+          "link": 70
+        }
+      ],
+      "outputs": [],
+      "properties": {
+        "Node name for S&R": "SaveImage"
+      },
+      "widgets_values": [
+        "starry_outside_anime"
+      ],
+      "title": "Save anime outside"
+    },
+    {
+      "id": 88,
+      "type": "CLIPTextEncode",
+      "pos": [
+        420,
+        2500
+      ],
+      "size": [
+        420,
+        140
+      ],
+      "flags": {},
+      "order": 34,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "clip",
+          "type": "CLIP",
+          "link": 73
+        }
+      ],
+      "outputs": [
+        {
+          "name": "CONDITIONING",
+          "type": "CONDITIONING",
+          "links": [
+            74
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "CLIPTextEncode"
+      },
+      "widgets_values": [
+        "2D anime background of this exact basement stage, drum kit, microphone stand, stage lights, sign STARRY, no people, flat color, bold ink lines"
+      ],
+      "title": "Inside anime prompt"
+    },
+    {
+      "id": 89,
+      "type": "VAEEncode",
+      "pos": [
+        420,
+        2680
+      ],
+      "size": [
+        210,
+        60
+      ],
+      "flags": {},
+      "order": 35,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "pixels",
+          "type": "IMAGE",
+          "link": 61
+        },
+        {
+          "name": "vae",
+          "type": "VAE",
+          "link": 75
+        }
+      ],
+      "outputs": [
+        {
+          "name": "LATENT",
+          "type": "LATENT",
+          "links": [
+            76
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "VAEEncode"
+      },
+      "widgets_values": []
+    },
+    {
+      "id": 90,
+      "type": "KSampler",
+      "pos": [
+        900,
+        2480
+      ],
+      "size": [
+        320,
+        262
+      ],
+      "flags": {},
+      "order": 36,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 77
+        },
+        {
+          "name": "positive",
+          "type": "CONDITIONING",
+          "link": 74
+        },
+        {
+          "name": "negative",
+          "type": "CONDITIONING",
+          "link": 78
+        },
+        {
+          "name": "latent_image",
+          "type": "LATENT",
+          "link": 76
+        }
+      ],
+      "outputs": [
+        {
+          "name": "LATENT",
+          "type": "LATENT",
+          "links": [
+            79
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "KSampler"
+      },
+      "widgets_values": [
+        1930875014,
+        "fixed",
+        20,
+        6,
+        "euler",
+        "normal",
+        0.5
+      ],
+      "title": "Inside photo to anime"
+    },
+    {
+      "id": 91,
+      "type": "VAEDecode",
+      "pos": [
+        1260,
+        2500
+      ],
+      "size": [
+        210,
+        60
+      ],
+      "flags": {},
+      "order": 37,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "samples",
+          "type": "LATENT",
+          "link": 79
+        },
+        {
+          "name": "vae",
+          "type": "VAE",
+          "link": 81
+        }
+      ],
+      "outputs": [
+        {
+          "name": "IMAGE",
+          "type": "IMAGE",
+          "links": [
+            82,
+            83,
+            84
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "VAEDecode"
+      },
+      "widgets_values": []
+    },
+    {
+      "id": 92,
+      "type": "SaveImage",
+      "pos": [
+        1520,
+        2460
+      ],
+      "size": [
+        300,
+        260
+      ],
+      "flags": {},
+      "order": 38,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "IMAGE",
+          "link": 82
+        }
+      ],
+      "outputs": [],
+      "properties": {
+        "Node name for S&R": "SaveImage"
+      },
+      "widgets_values": [
+        "starry_inside_anime"
+      ],
+      "title": "Save anime inside"
+    },
+    {
+      "id": 93,
+      "type": "CLIPTextEncode",
+      "pos": [
+        1900,
+        2100
+      ],
+      "size": [
+        460,
+        160
+      ],
+      "flags": {},
+      "order": 39,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "clip",
+          "type": "CLIP",
+          "link": 85
+        }
+      ],
+      "outputs": [
+        {
+          "name": "CONDITIONING",
+          "type": "CONDITIONING",
+          "links": [
+            86
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "CLIPTextEncode"
+      },
+      "widgets_values": [
+        "2D anime. On the STARRY basement stage, Yui Hirasawa sings into the microphone and Hitori Goto plays guitar with pink hair over her face. Audience glow sticks and confetti. Flat color, bold ink lines."
+      ],
+      "title": "Inside clip prompt"
+    },
+    {
+      "id": 94,
+      "type": "CLIPVisionEncode",
+      "pos": [
+        1900,
+        2300
+      ],
+      "size": [
+        280,
+        80
+      ],
+      "flags": {},
+      "order": 40,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "clip_vision",
+          "type": "CLIP_VISION",
+          "link": 87
+        },
+        {
+          "name": "image",
+          "type": "IMAGE",
+          "link": 83
+        }
+      ],
+      "outputs": [
+        {
+          "name": "CLIP_VISION_OUTPUT",
+          "type": "CLIP_VISION_OUTPUT",
+          "links": [
+            88
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "CLIPVisionEncode"
+      },
+      "widgets_values": [
+        "none"
+      ]
+    },
+    {
+      "id": 95,
+      "type": "WanImageToVideo",
+      "pos": [
+        2240,
+        2100
+      ],
+      "size": [
+        360,
+        230
+      ],
+      "flags": {},
+      "order": 41,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "positive",
+          "type": "CONDITIONING",
+          "link": 86
+        },
+        {
+          "name": "negative",
+          "type": "CONDITIONING",
+          "link": 89
+        },
+        {
+          "name": "vae",
+          "type": "VAE",
+          "link": 90
+        },
+        {
+          "name": "clip_vision_output",
+          "type": "CLIP_VISION_OUTPUT",
+          "link": 88,
+          "shape": 7
+        },
+        {
+          "name": "start_image",
+          "type": "IMAGE",
+          "link": 84,
+          "shape": 7
+        }
+      ],
+      "outputs": [
+        {
+          "name": "positive",
+          "type": "CONDITIONING",
+          "links": [
+            91
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "negative",
+          "type": "CONDITIONING",
+          "links": [
+            92
+          ],
+          "slot_index": 1
+        },
+        {
+          "name": "latent",
+          "type": "LATENT",
+          "links": [
+            93
+          ],
+          "slot_index": 2
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "WanImageToVideo"
+      },
+      "widgets_values": [
+        832,
+        480,
+        33,
+        1
+      ],
+      "title": "Inside image to video"
+    },
+    {
+      "id": 96,
+      "type": "KSampler",
+      "pos": [
+        2660,
+        2100
+      ],
+      "size": [
+        320,
+        262
+      ],
+      "flags": {},
+      "order": 42,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 94
+        },
+        {
+          "name": "positive",
+          "type": "CONDITIONING",
+          "link": 91
+        },
+        {
+          "name": "negative",
+          "type": "CONDITIONING",
+          "link": 92
+        },
+        {
+          "name": "latent_image",
+          "type": "LATENT",
+          "link": 93
+        }
+      ],
+      "outputs": [
+        {
+          "name": "LATENT",
+          "type": "LATENT",
+          "links": [
+            95
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "KSampler"
+      },
+      "widgets_values": [
+        3462347311,
+        "randomize",
+        20,
+        6,
+        "uni_pc",
+        "simple",
+        1
+      ],
+      "title": "Inside video sampler"
+    },
+    {
+      "id": 97,
+      "type": "VAEDecode",
+      "pos": [
+        3020,
+        2100
+      ],
+      "size": [
+        210,
+        60
+      ],
+      "flags": {},
+      "order": 43,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "samples",
+          "type": "LATENT",
+          "link": 95
+        },
+        {
+          "name": "vae",
+          "type": "VAE",
+          "link": 96
+        }
+      ],
+      "outputs": [
+        {
+          "name": "IMAGE",
+          "type": "IMAGE",
+          "links": [
+            97
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "VAEDecode"
+      },
+      "widgets_values": []
+    },
+    {
+      "id": 98,
+      "type": "ImageBatch",
+      "pos": [
+        2100,
+        1600
+      ],
+      "size": [
+        240,
+        70
+      ],
+      "flags": {},
+      "order": 44,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "image1",
+          "type": "IMAGE",
+          "link": 98
+        },
+        {
+          "name": "image2",
+          "type": "IMAGE",
+          "link": 97
+        }
+      ],
+      "outputs": [
+        {
+          "name": "IMAGE",
+          "type": "IMAGE",
+          "links": [
+            99
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "ImageBatch"
+      },
+      "widgets_values": [],
+      "title": "Join outside then inside"
+    },
+    {
+      "id": 99,
+      "type": "CreateVideo",
+      "pos": [
+        2400,
+        1600
+      ],
+      "size": [
+        280,
+        130
+      ],
+      "flags": {},
+      "order": 45,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "IMAGE",
+          "link": 99
+        },
+        {
+          "name": "fps",
+          "type": "FLOAT",
+          "link": null,
+          "widget": {
+            "name": "fps"
+          }
+        },
+        {
+          "name": "audio",
+          "type": "AUDIO",
+          "link": 80,
+          "shape": 7
+        }
+      ],
+      "outputs": [
+        {
+          "name": "VIDEO",
+          "type": "VIDEO",
+          "links": [
+            100
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "CreateVideo"
+      },
+      "widgets_values": [
+        16.0
+      ],
+      "title": "Add the song"
     }
   ],
   "links": [
@@ -1329,14 +2239,6 @@
       "CLIP_VISION_OUTPUT"
     ],
     [
-      36,
-      25,
-      0,
-      50,
-      4,
-      "IMAGE"
-    ],
-    [
       37,
       49,
       0,
@@ -1393,20 +2295,332 @@
       "VAE"
     ],
     [
-      44,
-      8,
+      60,
+      80,
       0,
-      10,
+      84,
       0,
       "IMAGE"
     ],
     [
-      45,
-      25,
+      61,
+      81,
+      0,
+      89,
+      0,
+      "IMAGE"
+    ],
+    [
+      62,
+      20,
+      1,
+      83,
+      0,
+      "CLIP"
+    ],
+    [
+      63,
+      20,
+      2,
+      84,
+      1,
+      "VAE"
+    ],
+    [
+      64,
+      83,
+      0,
+      85,
+      1,
+      "CONDITIONING"
+    ],
+    [
+      65,
+      84,
+      0,
+      85,
+      3,
+      "LATENT"
+    ],
+    [
+      66,
+      20,
+      0,
+      85,
+      0,
+      "MODEL"
+    ],
+    [
+      67,
+      22,
+      0,
+      85,
+      2,
+      "CONDITIONING"
+    ],
+    [
+      68,
+      85,
+      0,
+      86,
+      0,
+      "LATENT"
+    ],
+    [
+      69,
+      20,
+      2,
+      86,
+      1,
+      "VAE"
+    ],
+    [
+      70,
+      86,
+      0,
+      87,
+      0,
+      "IMAGE"
+    ],
+    [
+      71,
+      86,
       0,
       51,
       1,
       "IMAGE"
+    ],
+    [
+      72,
+      86,
+      0,
+      50,
+      4,
+      "IMAGE"
+    ],
+    [
+      73,
+      20,
+      1,
+      88,
+      0,
+      "CLIP"
+    ],
+    [
+      74,
+      88,
+      0,
+      90,
+      1,
+      "CONDITIONING"
+    ],
+    [
+      75,
+      20,
+      2,
+      89,
+      1,
+      "VAE"
+    ],
+    [
+      76,
+      89,
+      0,
+      90,
+      3,
+      "LATENT"
+    ],
+    [
+      77,
+      20,
+      0,
+      90,
+      0,
+      "MODEL"
+    ],
+    [
+      78,
+      22,
+      0,
+      90,
+      2,
+      "CONDITIONING"
+    ],
+    [
+      79,
+      90,
+      0,
+      91,
+      0,
+      "LATENT"
+    ],
+    [
+      81,
+      20,
+      2,
+      91,
+      1,
+      "VAE"
+    ],
+    [
+      82,
+      91,
+      0,
+      92,
+      0,
+      "IMAGE"
+    ],
+    [
+      83,
+      91,
+      0,
+      94,
+      1,
+      "IMAGE"
+    ],
+    [
+      84,
+      91,
+      0,
+      95,
+      4,
+      "IMAGE"
+    ],
+    [
+      85,
+      38,
+      0,
+      93,
+      0,
+      "CLIP"
+    ],
+    [
+      86,
+      93,
+      0,
+      95,
+      0,
+      "CONDITIONING"
+    ],
+    [
+      87,
+      49,
+      0,
+      94,
+      0,
+      "CLIP_VISION"
+    ],
+    [
+      88,
+      94,
+      0,
+      95,
+      3,
+      "CLIP_VISION_OUTPUT"
+    ],
+    [
+      89,
+      70,
+      0,
+      95,
+      1,
+      "CONDITIONING"
+    ],
+    [
+      90,
+      39,
+      0,
+      95,
+      2,
+      "VAE"
+    ],
+    [
+      91,
+      95,
+      0,
+      96,
+      1,
+      "CONDITIONING"
+    ],
+    [
+      92,
+      95,
+      1,
+      96,
+      2,
+      "CONDITIONING"
+    ],
+    [
+      93,
+      95,
+      2,
+      96,
+      3,
+      "LATENT"
+    ],
+    [
+      94,
+      37,
+      0,
+      96,
+      0,
+      "MODEL"
+    ],
+    [
+      95,
+      96,
+      0,
+      97,
+      0,
+      "LATENT"
+    ],
+    [
+      96,
+      39,
+      0,
+      97,
+      1,
+      "VAE"
+    ],
+    [
+      97,
+      97,
+      0,
+      98,
+      1,
+      "IMAGE"
+    ],
+    [
+      98,
+      8,
+      0,
+      98,
+      0,
+      "IMAGE"
+    ],
+    [
+      99,
+      98,
+      0,
+      99,
+      0,
+      "IMAGE"
+    ],
+    [
+      80,
+      82,
+      0,
+      99,
+      2,
+      "AUDIO"
+    ],
+    [
+      100,
+      99,
+      0,
+      10,
+      0,
+      "VIDEO"
     ]
   ],
   "groups": [
@@ -1444,6 +2658,18 @@
         620
       ],
       "color": "#A63",
+      "flags": {}
+    },
+    {
+      "id": 4,
+      "title": "STARRY photos and song",
+      "bounding": [
+        20,
+        2060,
+        3200,
+        920
+      ],
+      "color": "#3a6",
       "flags": {}
     }
   ],
