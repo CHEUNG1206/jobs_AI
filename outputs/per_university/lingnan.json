@@ -1,0 +1,641 @@
+{
+  "university_code": "lingnan",
+  "university_name": "Lingnan University",
+  "scouted_at": "2026-10-13",
+  "profile_ref": "rpg-computing-mathematics-local-2027-28",
+  "sources_consulted": [
+    {
+      "url": "https://www.ln.edu.hk/rpg/admission/financial-support",
+      "title": "Financial Support | Research Postgraduate Programmes",
+      "accessed": "2026-10-13",
+      "note": "Primary page for Postgraduate Studentships, PhD Fellowship rates, LU Presidential PhD Scholarship, conference and overseas-visit support, and tuition waivers. Stipend figures are labelled 2026/27."
+    },
+    {
+      "url": "https://www.ln.edu.hk/rpg/admission",
+      "title": "Application for Admission | Research Postgraduate Programmes",
+      "accessed": "2026-10-13",
+      "note": "Direct Admissions (2027-28) periods and the same 2026-27 PGS and HKPFS stipend lines."
+    },
+    {
+      "url": "https://www.ln.edu.hk/rpg/hong-kong-phd-fellowship-scheme-hkpfs",
+      "title": "Hong Kong PhD Fellowship Scheme | Research Postgraduate Programmes",
+      "accessed": "2026-10-13",
+      "note": "Lingnan HKPFS page for the 2027-28 application type, monthly stipend, travel allowance, and 1 December 2026 deadlines."
+    },
+    {
+      "url": "https://cerg1.ugc.edu.hk/hkpfs/index.html",
+      "title": "Hong Kong PhD Fellowship Scheme | Research Grants Council",
+      "accessed": "2026-10-13",
+      "note": "RGC eligibility names Lingnan and does not restrict country of origin. Prints the 2026/27 annual stipend and states 400 fellowships for 2027/28."
+    },
+    {
+      "url": "https://www.ln.edu.hk/sgs/f/page/114775/TC_PGSs_%28website%29_updated%20in%20Mar%202026_final.pdf",
+      "title": "Terms and Conditions of Postgraduate Studentships (PGSs)",
+      "accessed": "2026-10-13",
+      "note": "March 2026 terms. Confirms 2026-27 monthly rates, partial studentships, normative duration, and that HKPFS awardees are not awarded PGS."
+    },
+    {
+      "url": "https://www.ln.edu.hk/sgs/f/page/114775/Guidelines%20on%20Conference%20and%20Field%20Trip%20Sponsorships%20%28website%29_updated%20in%20July%202026.pdf",
+      "title": "Guidelines and Procedures for the Research Postgraduate Student Conference/Field Trip Sponsorships",
+      "accessed": "2026-10-13",
+      "note": "July 2026 rules, funding caps, and four allocation closing dates."
+    },
+    {
+      "url": "https://www.ln.edu.hk/sgs/f/page/114775/Guidelines%20for%20RPg%20Scholarships%20for%20Overseas%20Research%20Visits%20%28website%29_updated%20in%20Dec%202025.pdf",
+      "title": "Guidelines and Procedures for the Research Postgraduate Scholarships for Overseas Research Visits",
+      "accessed": "2026-10-13",
+      "note": "December 2025 rules. PhD-only, after confirmation of candidature, HK$25,000 to HK$50,000, applications normally in March."
+    },
+    {
+      "url": "https://www.ln.edu.hk/sgs/for-current-students/research-postgraduate-studies/financial-support",
+      "title": "Financial Support | School of Graduate Studies",
+      "accessed": "2026-10-13",
+      "note": "Current-student index linking the HKPFS, PGS, conference, and overseas-visit documents already opened."
+    },
+    {
+      "url": "https://www.ln.edu.hk/sgs/research-postgraduate-studies/Students/guidebook-for-rpg-students",
+      "title": "Guidebook for Research Postgraduate Students",
+      "accessed": "2026-10-13",
+      "note": "School of Graduate Studies, October 2025. Names Sir Edward Youde, Sino-British Fellowship Trust, RGC conference/seminar grants, Reaching Out Award, and Talent Development Scholarship. Its stipend lines are labelled 2025-26 and were not used."
+    },
+    {
+      "url": "https://www.ln.edu.hk/sgs/for-current-students/e-handbook-for-pg-students",
+      "title": "e-Handbook for Postgraduate Students | School of Graduate Studies",
+      "accessed": "2026-10-13",
+      "note": "Lists RPG and taught-postgraduate funding names. University/Faculty/Department Scholarships/Prizes have no amounts on this page."
+    },
+    {
+      "url": "https://www.ln.edu.hk/rpg/admission/list-of-programmes",
+      "title": "List of Programmes | Research Postgraduate Programmes",
+      "accessed": "2026-10-13",
+      "note": "No MPhil/PhD in mathematics or computing mathematics. MPhil/PhD in Data Science is listed. Part-time students are self-financed from 2009-10."
+    },
+    {
+      "url": "https://www.ln.edu.hk/rpg/research-area/data-science",
+      "title": "Current Research Areas in Data Science | Research Postgraduate Programmes",
+      "accessed": "2026-10-13",
+      "note": "Data Science areas include applied mathematics and mathematical modelling, numerical and computational mathematics, numerical analysis and scientific computing, and mathematical optimisation."
+    },
+    {
+      "url": "https://www.ln.edu.hk/sds/programmes-and-courses",
+      "title": "Programmes and Courses | School of Data Science",
+      "accessed": "2026-10-13",
+      "note": "M.Phil./Ph.D. in Data Science covers data science, statistics, computer science and machine learning. Also lists taught and self-financed programmes with no studentship stated."
+    },
+    {
+      "url": "https://www.ln.edu.hk/rpg/admission/list-of-programmes/collaborative-programmes/double-phd-degree-programme-in-mathematics-and-business-with-renmin-university-of-china-ruc-china",
+      "title": "Double PhD Degree Programme in Mathematics and Business with Renmin University of China (RUC), China",
+      "accessed": "2026-10-13",
+      "note": "Candidates are selected from RUC. LU studentship while studying at LU is stated. LU deadline is To be confirmed. Admitted as self-financed at LU. No HKD studentship rate on this page."
+    },
+    {
+      "url": "https://www.ln.edu.hk/rpg/admission/list-of-programmes/collaborative-programmes/double-phd-degree-programme-in-data-science-with-shandong-university-sdu-china",
+      "title": "Double PhD Degree Programme in Data Science with Shandong University (SDU), China",
+      "accessed": "2026-10-13",
+      "note": "Candidates are selected from SCSE-SDU. LU studentship while at LU is stated. Deadlines To be confirmed. Self-financed at LU. No HKD rate on this page."
+    },
+    {
+      "url": "https://www.ln.edu.hk/rpg/admission/list-of-programmes/collaborative-programmes/double-phd-degree-programme-in-data-science-with-chongqing-university-china",
+      "title": "Double PhD Degree Programme in Data Science with Chongqing University (CQU), China",
+      "accessed": "2026-10-13",
+      "note": "Candidates are selected from CQU. LU studentship while at LU is stated. Points to the general LU admission periods. Self-financed at LU. No HKD rate on this page."
+    },
+    {
+      "url": "https://www.ugc.edu.hk/eng/rgc/funding_opport/tws.html",
+      "title": "Tuition Waiver for Local RPg Students",
+      "accessed": "2026-10-13",
+      "note": "UGC scheme page names Lingnan. Entire tuition fee waived for eligible local students in UGC-funded RPg programmes. No HKD tuition figure and no application deadline."
+    },
+    {
+      "url": "https://www.ugc.edu.hk/eng/rgc/funding_opport/pscsg/index.html",
+      "title": "Postgraduate Students Conference/Seminar Grants",
+      "accessed": "2026-10-13",
+      "note": "RGC scheme open to postgraduate students of UGC-funded universities, including via university research offices. Maximum up to HK$50,000 per application. Not a living stipend."
+    },
+    {
+      "url": "https://www.ln.edu.hk/sgs/for-prospective-students/taught-postgraduate-programmes/ftss",
+      "title": "Hong Kong Future Talents Scholarship Scheme for Advanced Studies | School of Graduate Studies",
+      "accessed": "2026-10-13",
+      "note": "Taught postgraduate scholarship for local students, 2026-27 intake, including MSc in Artificial Intelligence and Business Analytics. Not an MPhil/PhD award."
+    },
+    {
+      "url": "https://www.ln.edu.hk/osa/financial-support/scholarships-and-prizes/external-awards",
+      "title": "External Awards | Office of Student Affairs",
+      "accessed": "2026-10-13",
+      "note": "Lists Sir Edward Youde Memorial Awards (Overseas Studies) 2026/27 and the Hong Kong Scholarship for Excellence Scheme, both for study outside Hong Kong. Does not print the local RPG Youde fellowship amount."
+    },
+    {
+      "url": "https://www.ln.edu.hk/rpg/admission/prospectus",
+      "title": "Prospectus | Research Postgraduate Programmes",
+      "accessed": "2026-10-13",
+      "note": "Index is labelled 2026-27 and links a PDF. The PDF body was not used for amounts."
+    },
+    {
+      "url": "https://www.ln.edu.hk/rpg/f/upload/114843/Lingnan_MPhil_PhD%20E-Prospectus_202526.pdf",
+      "title": "Lingnan MPhil/PhD E-Prospectus",
+      "accessed": "2026-10-13",
+      "note": "Older prospectus file surfaced in search. Stipend and tuition lines in it are earlier-year figures and were not copied into opportunities."
+    },
+    {
+      "url": "https://www.ln.edu.hk/orkt/research-funds/internal-grants/conferences-and-visits",
+      "title": "unknown",
+      "accessed": "2026-10-13",
+      "note": "Fetch failed with HTTP 403. The RPG guidebook cites this page for the Sino-British Fellowship Trust Fund. Content was not read."
+    }
+  ],
+  "opportunities": [
+    {
+      "id": "lingnan-postgraduate-studentship",
+      "name": "Postgraduate Studentships (PGSs)",
+      "university": "Lingnan",
+      "university_code": "lingnan",
+      "type": "studentship",
+      "eligibility_clues": [
+        "Only full-time postgraduate students of the University are eligible",
+        "A full-time MPhil student will normally be awarded a Postgraduate Studentship",
+        "A full-time PhD student will normally be awarded either a PhD Fellowship or a Postgraduate Studentship",
+        "Awarded to support daily subsistence, tuition fee and other expenses",
+        "Normally will not exceed two academic years for MPhil, three for PhD with a relevant master's degree, and four for PhD without a relevant master's degree",
+        "No residency bar is printed in the PGS terms",
+        "MPhil/PhD in Data Science is on the programme list; published research areas include numerical and computational mathematics"
+      ],
+      "amount": "HK$19,010 for an MPhil student; HK$19,280 for a PhD student before confirmation of candidature; and HK$19,660 for a PhD student after confirmation of candidature",
+      "amount_note": "Financial-support page: monthly stipend for 2026/27. March 2026 terms repeat those monthly rates and say a partial studentship at standard rates of 25%, 50% or 75% may be awarded. No 2027/28 stipend figure is printed.",
+      "deadline": "unknown",
+      "deadline_note": "The studentship page does not print a separate closing date. Direct Admissions (2027-28) on the admission page: Main Round 1 September 2026 to 15 January 2027 (Hong Kong Time 11:59 p.m.) for September 2027; 1st Clearing Round 16 January to 30 April 2027; 2nd Clearing Round 1 May to 31 August 2027 for January 2028.",
+      "source_url": "https://www.ln.edu.hk/rpg/admission/financial-support",
+      "match_tag": "strong",
+      "match_rationale": "This is the university-wide monthly studentship for full-time MPhil and PhD students, and the open direct-admission round is labelled 2027-28. The terms do not exclude a Hong Kong permanent resident. Lingnan has no mathematics department, but MPhil/PhD in Data Science publishes research areas in numerical and computational mathematics, applied mathematics, and mathematical optimisation, so this is the living-stipend route for that field.",
+      "login_required": false,
+      "intake_relevance": "Direct Admissions (2027-28) is the round open on the admission page. Printed stipend rates are labelled 2026/27.",
+      "restrictions": [
+        "Full-time only",
+        "Programme list: the UGC no longer funds part-time students from 2009-10, and part-time students have to be self-financed",
+        "Teaching and/or research support duties of up to 12 hours per week on average; 6 hours per week on average in the final year",
+        "PGS recipients should not engage in employment except with approved exemption",
+        "HKPFS awardees are not awarded Postgraduate Studentships",
+        "Further awards depend on good performance and availability of funds"
+      ]
+    },
+    {
+      "id": "lingnan-hkpfs",
+      "name": "Hong Kong PhD Fellowship Scheme (HKPFS)",
+      "university": "Lingnan",
+      "university_code": "lingnan",
+      "type": "fellowship",
+      "eligibility_clues": [
+        "RGC: candidates seeking admission as new full-time PhD students at Lingnan, irrespective of their country of origin, prior work experience and ethnic background",
+        "Lingnan nominates applicants for the Fellowship",
+        "PhD only; MPhil is not covered",
+        "Monthly stipend for a maximum period of 3 years",
+        "For a normative study period of 4 years, Lingnan will offer the same level of fellowship and travel allowance for the fourth year",
+        "Applicants not offered the Fellowship may be considered for a Lingnan place with a Postgraduate Studentship",
+        "Financial-support page: from the 2027/28 admission intake, the full tuition fee for the whole normative study period of a PhD Fellowship awardee will be waived"
+      ],
+      "amount": "monthly stipend of HK$28,700 (subject to annual review)",
+      "amount_note": "Lingnan HKPFS page labels this the 2026-27 monthly stipend, plus a conference/research-related travel allowance of up to HK$14,400 per year (subject to annual review), for a maximum of 3 years. The RGC index page prints an annual stipend of HK$344,400 (approximately US$44,150) and a travel allowance of HK$14,400 per year for the 2026/27 academic year, and says 400 PhD Fellowships will be awarded in 2027/28. No separate 2027/28 monthly rate is printed.",
+      "deadline": "1 December 2026 (HKT 23:59)",
+      "deadline_note": "Lingnan full application by 1 December 2026 (HKT 23:59). Initial application on the RGC system during 1 September to 1 December 2026 (HKT 12:00). Select HK PhD Fellowship Scheme (2027-28). No late application will be accepted.",
+      "source_url": "https://www.ln.edu.hk/rpg/hong-kong-phd-fellowship-scheme-hkpfs",
+      "match_tag": "possible",
+      "match_rationale": "The cited Lingnan page prints a monthly stipend labelled 2026-27 and an application type labelled 2027-28. It does not itself show that local students are eligible. The scheme is PhD-only, so the row stays possible.",
+      "login_required": false,
+      "intake_relevance": "Application type on the Lingnan page is HK PhD Fellowship Scheme (2027-28). Stipend text is labelled 2026-27 and subject to annual review.",
+      "restrictions": [
+        "PhD only",
+        "Competitive nomination by Lingnan and selection by the RGC",
+        "HKPFS awardees are not awarded Postgraduate Studentships",
+        "PGS terms on teaching duties, employment restriction and annual leave are generally applied to HKPFS awardees",
+        "Local tuition-waiver page: students whose tuition fee is fully waived by any other scheme are no longer eligible for the government Tuition Waiver for Local RPg Students"
+      ]
+    },
+    {
+      "id": "lingnan-presidential-phd-scholarship",
+      "name": "LU Presidential PhD Scholarship (Top-up package for HKPFS Awardees)",
+      "university": "Lingnan",
+      "university_code": "lingnan",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "Top-up scholarship for outstanding candidates admitted through the RGC's HKPFS",
+        "Applicable to HKPFS awardees for the 2027/28 admission intake",
+        "Award of HK$40,000 per year for the entire duration of study, up to four years of the normative study period",
+        "Full waiver of tuition fees for the whole normative study period",
+        "Eligibility to apply for an additional performance-based scholarship of up to HK$60,000 per year",
+        "Guaranteed hostel accommodation place for three years"
+      ],
+      "amount": "HK$40,000 per year",
+      "amount_note": "Printed as HK$40,000 per year for up to four years of the normative study period, plus eligibility to apply for an additional performance-based scholarship of up to HK$60,000 per year. The same package includes a full tuition-fee waiver and a guaranteed hostel place for three years. This is a top-up, not the HKPFS monthly stipend.",
+      "deadline": "unknown",
+      "deadline_note": "No separate deadline is printed. It applies to HKPFS awardees for the 2027/28 admission intake. The Lingnan HKPFS full-application deadline is 1 December 2026 (HKT 23:59).",
+      "source_url": "https://www.ln.edu.hk/rpg/admission/financial-support",
+      "match_tag": "possible",
+      "match_rationale": "A local student who wins a Lingnan HKPFS place in the 2027/28 round could receive this top-up, including on a Data Science PhD. It is a scholarship and tuition waiver on top of the fellowship, not the monthly studentship itself, and it is only for HKPFS awardees.",
+      "login_required": false,
+      "intake_relevance": "Printed as applicable to HKPFS awardees for the 2027/28 admission intake.",
+      "restrictions": [
+        "Only HKPFS awardees",
+        "Performance-based portion is an eligibility to apply, of up to HK$60,000 per year",
+        "The financial-support page also states the same full tuition waiver for PhD Fellowship awardees from the 2027/28 intake under Tuition Waiver"
+      ]
+    },
+    {
+      "id": "lingnan-local-rpg-tuition-waiver",
+      "name": "Tuition Waiver for Local Research Postgraduate (RPg) Students",
+      "university": "Lingnan",
+      "university_code": "lingnan",
+      "type": "tuition_waiver",
+      "eligibility_clues": [
+        "HKSAR Government scheme from the 2018/19 academic year for eligible local students enrolled in UGC-funded RPg programmes",
+        "UGC page names Lingnan University among the universities covered",
+        "UGC page: the entire tuition fee of the eligible students will be waived",
+        "Covers the normative study period: 2 years for MPhil, 3 years for PhD with a research master's degree, and 4 years for PhD without a research master's degree",
+        "Non-means-tested; no cap on the number of recipients",
+        "Both current and new students are eligible on the UGC page"
+      ],
+      "amount": "The entire tuition fee of the eligible students will be waived",
+      "amount_note": "UGC wording. The Lingnan financial-support page says the scheme covers the tuition fees for the normative study period and does not print an HKD tuition figure. No dollar amount was copied.",
+      "deadline": "unknown",
+      "deadline_note": "Neither the Lingnan page nor the UGC page prints an application deadline. The UGC page says the scheme commenced from the 2018/19 academic year.",
+      "source_url": "https://www.ln.edu.hk/rpg/admission/financial-support",
+      "match_tag": "possible",
+      "match_rationale": "A local Hong Kong permanent resident on a UGC-funded full-time MPhil or PhD, including Data Science, is the population this waiver is written for. It removes tuition for the normative period. It is not a monthly living stipend.",
+      "login_required": false,
+      "intake_relevance": "Ongoing for eligible local students in UGC-funded RPg programmes. Not limited to a single intake year on the pages read.",
+      "restrictions": [
+        "Local RPg students admitted as self-financed are not eligible",
+        "Non-local students on a student visa, IANG visa, or specified dependent visa are not eligible",
+        "Holders of a full-time employment visa/work permit are not eligible",
+        "Students whose tuition fee is fully waived by any other scheme are no longer eligible",
+        "Students covered by this scheme will no longer be eligible for tuition fee grants under TSFS; means-tested grants and loans for academic and living expenses may still be available"
+      ]
+    },
+    {
+      "id": "lingnan-rpg-conference-field-trip-sponsorship",
+      "name": "Research Postgraduate Student Conference/Field Trip Sponsorships",
+      "university": "Lingnan",
+      "university_code": "lingnan",
+      "type": "other",
+      "eligibility_clues": [
+        "All MPhil/PhD students, full-time or part-time, who are not taking leave of absence",
+        "Supports conferences, field trips outside Hong Kong, and exceptionally other academic activities",
+        "Conference sponsorship normally supports students who have completed at least one full year of study",
+        "Competitive and subject to availability of funds; not an entitlement",
+        "For a PhD Fellowship awardee, an annual sponsorship is provided for a maximum of three years"
+      ],
+      "amount": "HK$19,000 for an MPhil student and HK$25,000 for a regular PhD student during his/her entire period of study at Lingnan",
+      "amount_note": "Those caps are the whole-study funding limit. For a PhD Fellowship awardee the rate for 2026-27 is HK$14,400 per year (subject to annual review), and Lingnan offers the same level for a fourth normative year.",
+      "deadline": "1st Exercise September; 2nd Exercise December 1; 3rd Exercise March 1; 4th Exercise June 1",
+      "deadline_note": "Four allocation exercises a year, as printed in the July 2026 guidelines. No year is printed next to those closing dates. Activity windows printed with them are October to February, January to May, April to August, and July to November.",
+      "source_url": "https://www.ln.edu.hk/sgs/f/page/114775/Guidelines%20on%20Conference%20and%20Field%20Trip%20Sponsorships%20%28website%29_updated%20in%20July%202026.pdf",
+      "match_tag": "possible",
+      "match_rationale": "Enrolled MPhil and PhD students, including Data Science, can apply, and a local student is not excluded. The money is for conferences and field trips, not a monthly living stipend, and it is for students already studying rather than an admission award.",
+      "login_required": false,
+      "intake_relevance": "For enrolled MPhil/PhD students during their study period. Not an admission scholarship for 2027/28.",
+      "restrictions": [
+        "Competitive; not an entitlement",
+        "Year 1 conference applications need a strong statement and recommendations",
+        "Priority for conference presentations of work related to the Lingnan research programme"
+      ]
+    },
+    {
+      "id": "lingnan-rpg-overseas-research-visit-scholarship",
+      "name": "Research Postgraduate Scholarships for Overseas Research Visits",
+      "university": "Lingnan",
+      "university_code": "lingnan",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "Full-time PhD students who are not on leave of absence",
+        "Visit normally lasts a term and up to 6 months",
+        "For Lingnan applicants, the visit takes place after confirmation of candidature and is completed 6 months before the end of the normal study period",
+        "A full-time PhD student will only be awarded this scholarship once",
+        "Competitive, on academic performance, and subject to availability of funds",
+        "Objectives name data science among example disciplines",
+        "Awardees who are receiving the monthly postgraduate studentship will continue to receive the stipend during the visit"
+      ],
+      "amount": "HK$25,000 to HK$50,000",
+      "amount_note": "Guidelines: the amount of each scholarship ranges from HK$25,000 to HK$50,000. The financial-support page says support ranging from HK$25,000 to HK$50,000 for a 6-month visit. No additional funding if the stay is later extended. Destination breakdown in Appendix 1 was not given as a separate table in the fetched text.",
+      "deadline": "once a year in March",
+      "deadline_note": "The OGE will normally invite applications once a year in March for a research visit in the next academic year. Another round may be invited subject to funds. A Year 1 application in March is processed only after confirmation of candidature, normally in June.",
+      "source_url": "https://www.ln.edu.hk/sgs/f/page/114775/Guidelines%20for%20RPg%20Scholarships%20for%20Overseas%20Research%20Visits%20%28website%29_updated%20in%20Dec%202025.pdf",
+      "match_tag": "possible",
+      "match_rationale": "A full-time PhD student in Data Science can apply after confirmation of candidature, and the guidelines name data science. It is a one-off visit scholarship, not a monthly studentship, and it is not an award that comes with admission.",
+      "login_required": false,
+      "intake_relevance": "For enrolled full-time PhD students after confirmation of candidature. Not an admission award for the 2027/28 intake.",
+      "restrictions": [
+        "PhD only; MPhil students are not eligible to apply",
+        "Once only during the whole period of study",
+        "Must be after confirmation of candidature",
+        "HKPFS awardees need RGC approval if the stay outside Hong Kong exceeds the residence limits stated in the guidelines"
+      ]
+    },
+    {
+      "id": "lingnan-sir-edward-youde-rpg-fellowship",
+      "name": "Sir Edward Youde Memorial Fellowships",
+      "university": "Lingnan",
+      "university_code": "lingnan",
+      "type": "fellowship",
+      "eligibility_clues": [
+        "October 2025 RPG guidebook: for full-time research postgraduate students undertaking UGC-funded programmes",
+        "Right of abode or the right to land in the HKSAR, or permitted to stay in Hong Kong without restriction",
+        "Have resided in Hong Kong for at least three years",
+        "Described as a one-off grant",
+        "Apply through the Office of Student Affairs"
+      ],
+      "amount": "unknown",
+      "amount_note": "The guidebook calls it a one-off grant and does not print an HKD amount. The OSA external-awards page does not list this local RPG fellowship or a current amount.",
+      "deadline": "unknown",
+      "deadline_note": "No deadline for this fellowship is printed in the October 2025 guidebook. The 4 September 2026 date on the OSA page belongs to Sir Edward Youde Memorial Awards (Overseas Studies), which is a different scheme.",
+      "source_url": "https://www.ln.edu.hk/sgs/research-postgraduate-studies/Students/guidebook-for-rpg-students",
+      "match_tag": "possible",
+      "match_rationale": "The residency test on the guidebook matches a Hong Kong permanent resident who has lived in Hong Kong for at least three years, and it is for full-time UGC-funded research postgraduates, which can include Data Science. It is a one-off fellowship, not a monthly studentship, and no current amount or deadline is printed.",
+      "login_required": false,
+      "intake_relevance": "Listed for research postgraduate students. No 2027/28 round is printed in the guidebook.",
+      "restrictions": [
+        "UGC-funded full-time research postgraduate programmes",
+        "Residency conditions as printed in the guidebook",
+        "Current HKD amount and deadline were not on the pages opened"
+      ]
+    },
+    {
+      "id": "lingnan-sino-british-fellowship-trust",
+      "name": "Sino-British Fellowship Trust Fund (Outgoing Visit)",
+      "university": "Lingnan",
+      "university_code": "lingnan",
+      "type": "fellowship",
+      "eligibility_clues": [
+        "October 2025 RPG guidebook: for research postgraduate students with good language skills",
+        "For research purposes to the UK",
+        "Apply through the Office of Research and Knowledge Transfer at least 2 months before the first day of the proposed visit"
+      ],
+      "amount": "equivalent of £2,000 or less for each approved visit",
+      "amount_note": "Printed in the October 2025 guidebook as equivalent of £2,000 or less, subject to the availability of fund. The ORKT page cited for details returned HTTP 403, so no newer figure was read.",
+      "deadline": "unknown",
+      "deadline_note": "No fixed calendar deadline is printed. Applications go through ORKT at least 2 months before the first day of the proposed visit.",
+      "source_url": "https://www.ln.edu.hk/sgs/research-postgraduate-studies/Students/guidebook-for-rpg-students",
+      "match_tag": "possible",
+      "match_rationale": "Research postgraduate students can apply, so a Data Science MPhil or PhD student is not excluded by the guidebook text. It is a small UK visit grant, not a monthly living stipend. The detailed ORKT page could not be opened.",
+      "login_required": false,
+      "intake_relevance": "Listed for research postgraduate students. No 2027/28 intake round is printed.",
+      "restrictions": [
+        "Visit to the UK for research purposes",
+        "Subject to availability of fund",
+        "ORKT details page was not readable"
+      ]
+    },
+    {
+      "id": "lingnan-double-phd-mathematics-business-ruc",
+      "name": "Double PhD Degree Programme in Mathematics and Business with Renmin University of China — studentships while at Lingnan",
+      "university": "Lingnan",
+      "university_code": "lingnan",
+      "type": "studentship",
+      "eligibility_clues": [
+        "Candidates will be selected from RUC",
+        "For those already pursuing a PhD at the School of Mathematics in RUC, or transitioning from a master's programme there",
+        "When studying at LU, students are eligible to receive studentships from LU in accordance with the Terms and Conditions of Postgraduate Studentships during their normal study period",
+        "When studying at RUC, studentships are from RUC and subject to academic performance",
+        "Students under this collaboration will be admitted as a self-financed student of LU",
+        "LU PhD awarded is PhD in Business, contingent on the RUC PhD in Mathematics"
+      ],
+      "amount": "unknown",
+      "amount_note": "This programme page does not print an HKD studentship rate. It refers readers to the financial-support page. University-wide 2026/27 rates are recorded only on the Postgraduate Studentships row.",
+      "deadline": "To be confirmed",
+      "deadline_note": "Printed application deadline for LU: To be confirmed. The page also says For SDU: To be confirmed, on this Renmin University programme page.",
+      "source_url": "https://www.ln.edu.hk/rpg/admission/list-of-programmes/collaborative-programmes/double-phd-degree-programme-in-mathematics-and-business-with-renmin-university-of-china-ruc-china",
+      "match_tag": "weak",
+      "match_rationale": "This is the only Lingnan programme whose title is Mathematics, and it does say a Lingnan studentship is available while the student is at Lingnan. Entry is by selection from Renmin University of China's School of Mathematics, not an open local application, and the student is admitted as self-financed at Lingnan. A Hong Kong permanent resident who is not already in that RUC route is not the applicant this page describes.",
+      "login_required": false,
+      "intake_relevance": "Programme launches from September 2026. LU application deadline is printed as To be confirmed. Not the open Direct Admissions (2027-28) route.",
+      "restrictions": [
+        "Selected from RUC",
+        "Self-financed admission at LU",
+        "Self-financed local RPg students are not eligible for the Tuition Waiver for Local RPg Students",
+        "Registered at RUC for the whole period and at LU only while studying at LU"
+      ]
+    },
+    {
+      "id": "lingnan-double-phd-data-science-sdu",
+      "name": "Double PhD Degree Programme in Data Science with Shandong University — studentships while at Lingnan",
+      "university": "Lingnan",
+      "university_code": "lingnan",
+      "type": "studentship",
+      "eligibility_clues": [
+        "Candidates will be selected from the School of Control Science and Engineering at Shandong University",
+        "Must already have completed at least one academic year of master's or doctoral studies at SCSE-SDU",
+        "Studentships will be provided by LU while studying at LU during the normal study period",
+        "Studentships will be provided by SDU while studying at SDU",
+        "Admitted as a self-financed student of LU",
+        "Study at Lingnan is under the Division of Artificial Intelligence or the Division of Industrial Data Science"
+      ],
+      "amount": "unknown",
+      "amount_note": "No HKD rate is printed on this page. It refers to the financial-support page. Those rates are not repeated here.",
+      "deadline": "To be confirmed",
+      "deadline_note": "Printed deadlines: For LU: To be confirmed. For SDU: To be confirmed.",
+      "source_url": "https://www.ln.edu.hk/rpg/admission/list-of-programmes/collaborative-programmes/double-phd-degree-programme-in-data-science-with-shandong-university-sdu-china",
+      "match_tag": "weak",
+      "match_rationale": "Data Science is the closest computing field, and a Lingnan studentship while at Lingnan is stated. Candidates are selected from Shandong University and must already be studying there, and they are self-financed at Lingnan. That is a poor fit for a local applicant using Lingnan's open 2027/28 direct admission.",
+      "login_required": false,
+      "intake_relevance": "Launched from September 2025. LU deadline printed as To be confirmed.",
+      "restrictions": [
+        "Selected from SCSE-SDU",
+        "Self-financed admission at LU",
+        "LU degree conferral is contingent on the SDU doctoral degree"
+      ]
+    },
+    {
+      "id": "lingnan-double-phd-data-science-cqu",
+      "name": "Double PhD Degree Programme in Data Science with Chongqing University — studentships while at Lingnan",
+      "university": "Lingnan",
+      "university_code": "lingnan",
+      "type": "studentship",
+      "eligibility_clues": [
+        "Candidates will be selected separately from the School of Automation and the College of Computer Science at Chongqing University",
+        "Studentships will be provided by LU while studying at LU during the normal study period",
+        "At CQU, students pay CQU fees and may apply for Chinese Mainland scholarships or exchange funding from CQU",
+        "Admitted as a self-financed student of LU",
+        "Launches from September 2026",
+        "Study at Lingnan is under the Division of Artificial Intelligence or the Division of Industrial Data Science"
+      ],
+      "amount": "unknown",
+      "amount_note": "No HKD rate is printed on this page. It refers to the financial-support page. Those rates are not repeated here.",
+      "deadline": "unknown",
+      "deadline_note": "For LU, the page says to refer to the application periods on the School of Graduate Studies admission page. For CQU: To be confirmed.",
+      "source_url": "https://www.ln.edu.hk/rpg/admission/list-of-programmes/collaborative-programmes/double-phd-degree-programme-in-data-science-with-chongqing-university-china",
+      "match_tag": "weak",
+      "match_rationale": "A Lingnan studentship during the Lingnan portion is stated for this Data Science double PhD. Entry is by selection from Chongqing University, and admission at Lingnan is self-financed. It is not the open local direct-admission route.",
+      "login_required": false,
+      "intake_relevance": "Will launch from September 2026. LU applicants are pointed at the general admission periods; CQU deadline is To be confirmed.",
+      "restrictions": [
+        "Selected from ACCU-CQU or CS-CQU",
+        "Self-financed admission at LU",
+        "Two theses must be independent, one in Chinese for CQU and one in English for LU"
+      ]
+    },
+    {
+      "id": "lingnan-rgc-pg-conference-seminar-grants",
+      "name": "RGC Postgraduate Students Conference/Seminar Grants",
+      "university": "Lingnan",
+      "university_code": "lingnan",
+      "type": "other",
+      "eligibility_clues": [
+        "Postgraduate students of UGC-funded universities, involved as organiser or a primary partner",
+        "Lingnan October 2025 guidebook tells RPg students they can apply to the RGC via the University",
+        "Conference or seminar should be non-profit making and open to all postgraduate students in the UGC-funded sector",
+        "Aimed at locally held inter-institutional and/or inter-disciplinary conferences or seminars"
+      ],
+      "amount": "a maximum funding amount of up to HK$50,000 per application",
+      "amount_note": "RGC page: up to HK$50,000 per application to cover travel and accommodation costs for guest speakers. The Lingnan guidebook also says a maximum of HK$50,000 per application.",
+      "deadline": "unknown",
+      "deadline_note": "Applications are accepted all year round and should be submitted through the university research office at least six months before the event. The page says Open for application now and refers readers to a call circular that was not opened.",
+      "source_url": "https://www.ugc.edu.hk/eng/rgc/funding_opport/pscsg/index.html",
+      "match_tag": "weak",
+      "match_rationale": "A Lingnan research postgraduate could help organise a conference and apply through the University. The grant pays guest-speaker travel, not a monthly stipend, and it is not tied to mathematics or to the 2027/28 intake.",
+      "login_required": false,
+      "intake_relevance": "Open all year for postgraduate students of UGC-funded universities. Not an admission award.",
+      "restrictions": [
+        "Funding is for guest-speaker travel and accommodation",
+        "Students must be organisers or primary partners",
+        "Event must be locally held, non-profit, and open to UGC-sector postgraduate students"
+      ]
+    },
+    {
+      "id": "lingnan-hksar-reaching-out-award",
+      "name": "HKSAR Government Scholarship Fund – Reaching Out Award (ROA)",
+      "university": "Lingnan",
+      "university_code": "lingnan",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "October 2025 RPG guidebook lists it for MPhil/PhD students",
+        "For meritorious full-time students to participate in learning, internship or service programmes, and events and competitions conducted outside Hong Kong and organised or endorsed by the University",
+        "Apply through the Office of Student Affairs"
+      ],
+      "amount": "unknown",
+      "amount_note": "The guidebook does not print an HKD amount. No dedicated OSA page for the current round was opened.",
+      "deadline": "unknown",
+      "deadline_note": "No deadline is printed in the guidebook section that was read.",
+      "source_url": "https://www.ln.edu.hk/sgs/research-postgraduate-studies/Students/guidebook-for-rpg-students",
+      "match_tag": "weak",
+      "match_rationale": "The guidebook says MPhil/PhD students can apply, so a local Data Science student is not ruled out. It funds activities outside Hong Kong, not a monthly studentship for study at Lingnan.",
+      "login_required": false,
+      "intake_relevance": "Listed for research postgraduate students. No 2027/28 round is printed in the guidebook.",
+      "restrictions": [
+        "Activities outside Hong Kong, organised or endorsed by the University",
+        "Amount and deadline not printed on the page read"
+      ]
+    },
+    {
+      "id": "lingnan-hksar-talent-development-scholarship",
+      "name": "HKSAR Government Scholarship Fund – Talent Development Scholarship (TDS)",
+      "university": "Lingnan",
+      "university_code": "lingnan",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "October 2025 RPG guidebook lists it for MPhil/PhD students",
+        "For students who have demonstrated achievements or talent in non-academic areas: sports and games; music and performing arts; culture, arts and design; or innovation, science and technology",
+        "Apply through the Office of Student Affairs"
+      ],
+      "amount": "unknown",
+      "amount_note": "The guidebook does not print an HKD amount. No dedicated current-round page was opened.",
+      "deadline": "unknown",
+      "deadline_note": "No deadline is printed in the guidebook section that was read.",
+      "source_url": "https://www.ln.edu.hk/sgs/research-postgraduate-studies/Students/guidebook-for-rpg-students",
+      "match_tag": "weak",
+      "match_rationale": "It is listed for MPhil/PhD students and includes innovation, science and technology as a talent area, so a local student is not excluded. It is a non-academic talent award, not a postgraduate studentship.",
+      "login_required": false,
+      "intake_relevance": "Listed for research postgraduate students. No 2027/28 round is printed in the guidebook.",
+      "restrictions": [
+        "Non-academic talent categories as printed",
+        "Amount and deadline not printed on the page read"
+      ]
+    },
+    {
+      "id": "lingnan-ftss",
+      "name": "Hong Kong Future Talents Scholarship Scheme for Advanced Studies (FTSS)",
+      "university": "Lingnan",
+      "university_code": "lingnan",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "For local students admitted to approved taught postgraduate programmes",
+        "UGC allocated 20 scholarship places to Lingnan for each of 2025-26 and 2026-27",
+        "Data Science programme on the approved list is Master of Science in Artificial Intelligence and Business Analytics, priority area STEM",
+        "Not an MPhil or PhD scheme",
+        "Awardees must undertake to work or start a business in Hong Kong or the Greater Bay Area after graduation"
+      ],
+      "amount": "maximum cap of HK$100,000 per student for the entire programme",
+      "amount_note": "Recipients pay a minimum tuition fee equivalent to the prevailing UGC-funded full-time degree rate: HK$44,500 for 2025–26 and HK$47,000 for 2026–27. The scholarship subsidises the tuition difference subject to a maximum cap of HK$100,000 per student for the entire programme.",
+      "deadline": "unknown",
+      "deadline_note": "No calendar deadline is printed. Local students admitted to an approved programme for the 2026-27 intake are invited by the Programme Office to apply. The page tells others to apply for the taught programmes via the online admission system as soon as possible.",
+      "source_url": "https://www.ln.edu.hk/sgs/for-prospective-students/taught-postgraduate-programmes/ftss",
+      "match_tag": "out_of_scope",
+      "match_rationale": "FTSS is a taught-master tuition scholarship. The Data Science entry is an MSc in Artificial Intelligence and Business Analytics, not the MPhil/PhD in Data Science, and the printed intake is 2026-27 rather than 2027/28.",
+      "login_required": false,
+      "intake_relevance": "Second cohort is the 2026-27 taught-postgraduate intake. Not the 2027/28 research-postgraduate round.",
+      "restrictions": [
+        "Taught postgraduate programmes only",
+        "Local students",
+        "One award only, and not if the student already received a Targeted Taught Postgraduate Programmes Fellowships Scheme award",
+        "Mandatory post-graduation return, with possible full refund of the scholarship"
+      ]
+    },
+    {
+      "id": "lingnan-seymf-overseas-studies",
+      "name": "Sir Edward Youde Memorial Awards (Overseas Studies) 2026/27",
+      "university": "Lingnan",
+      "university_code": "lingnan",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "Listed on Lingnan's OSA external-awards page",
+        "The linked scheme name is Overseas Studies",
+        "Distinct from the Sir Edward Youde Memorial Fellowships for local UGC-funded research postgraduates described in the RPG guidebook"
+      ],
+      "amount": "unknown",
+      "amount_note": "The OSA page does not print an HKD amount. The external scheme website was not opened.",
+      "deadline": "4 September 2026",
+      "deadline_note": "Printed on the OSA page as Deadline: 4 September 2026. That date is before this scout date of 2026-10-13.",
+      "source_url": "https://www.ln.edu.hk/osa/financial-support/scholarships-and-prizes/external-awards",
+      "match_tag": "out_of_scope",
+      "match_rationale": "This is an overseas-studies award listed by Lingnan's OSA, not funding for an MPhil or PhD at Lingnan. The printed deadline is 4 September 2026.",
+      "login_required": false,
+      "intake_relevance": "Labelled 2026/27 overseas studies. Deadline printed as 4 September 2026.",
+      "restrictions": [
+        "Overseas studies, not study at Lingnan",
+        "Amount not printed on the Lingnan page"
+      ]
+    },
+    {
+      "id": "lingnan-hkses",
+      "name": "Hong Kong Scholarship for Excellence Scheme (HKSES) 2026/27",
+      "university": "Lingnan",
+      "university_code": "lingnan",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "Listed on Lingnan's OSA external-awards page",
+        "For local students who intend to pursue undergraduate or postgraduate studies at world renowned universities outside Hong Kong"
+      ],
+      "amount": "unknown",
+      "amount_note": "The OSA page does not print an HKD amount. The EDB site was not opened.",
+      "deadline": "6 p.m., 31 December 2025",
+      "deadline_note": "Printed on the OSA page. That date is before this scout date of 2026-10-13.",
+      "source_url": "https://www.ln.edu.hk/osa/financial-support/scholarships-and-prizes/external-awards",
+      "match_tag": "out_of_scope",
+      "match_rationale": "HKSES, as described on the Lingnan OSA page, is for study at universities outside Hong Kong. It does not fund a research postgraduate place at Lingnan.",
+      "login_required": false,
+      "intake_relevance": "Labelled 2026/27 for study outside Hong Kong. Deadline printed as 6 p.m., 31 December 2025.",
+      "restrictions": [
+        "Study outside Hong Kong",
+        "Amount not printed on the Lingnan page"
+      ]
+    }
+  ],
+  "blockers": [
+    "Lingnan has no Department of Mathematics or Computing Mathematics and no MPhil/PhD titled mathematics or computing mathematics. The open local research programme that publishes computational-mathematics topics is MPhil/PhD in Data Science. University-wide Postgraduate Studentships and HKPFS still apply to that programme.",
+    "Data Science research areas that were read include Applied mathematics and mathematical modelling, Numerical and computational mathematics, Numerical analysis and scientific computing, and Mathematical optimisation and convex / non-convex optimisation.",
+    "The Double PhD in Mathematics and Business is not an open local intake. Candidates are selected from Renmin University of China.",
+    "Stipend figures on the live financial-support, admission, HKPFS, and March 2026 PGS terms pages are labelled 2026/27. The open admission round is Direct Admissions (2027-28) and HKPFS (2027-28). No 2027/28 monthly stipend amount is printed. The October 2025 RPG guidebook still prints 2025-26 rates, including an HKPFS monthly stipend of HK$28,400, and those guidebook rates were not used.",
+    "An older prospectus PDF at https://www.ln.edu.hk/rpg/f/upload/114843/Lingnan_MPhil_PhD%20E-Prospectus_202526.pdf was returned in search. Its earlier stipend and tuition lines were not copied into opportunities. The prospectus index page is labelled 2026-27.",
+    "https://www.ln.edu.hk/orkt/research-funds/internal-grants/conferences-and-visits returned HTTP 403. Sino-British Fellowship Trust details are taken only from the October 2025 RPG guidebook.",
+    "The financial-support page says research postgraduate students are eligible for a number of other scholarships based on academic merit, and the e-handbook names University/Faculty/Department Scholarships/Prizes, without a public list of names or amounts. No scheme was invented for that heading.",
+    "The School of Data Science programmes page lists Master of Research in Advanced Data Science and a self-financed Doctor of Artificial Intelligence Studies, and several taught MSc programmes, without stating a studentship. No award row was created for them.",
+    "The OSA external-awards page lists many further schemes (Rhodes, MEXT, and others) that are not Lingnan research-postgraduate living stipends. Only the overseas Youde award and HKSES were recorded from that list, because they are easy to confuse with the local Youde fellowship.",
+    "The online admission system at https://apply.ln.edu.hk was not opened. Recorded terms come from public pages, so login_required is false. Application forms for conference sponsorship and overseas visits are public PDFs linked from the School of Graduate Studies financial-support index."
+  ]
+}

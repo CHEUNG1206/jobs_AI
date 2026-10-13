@@ -1,0 +1,716 @@
+{
+  "university_code": "cityu",
+  "university_name": "City University of Hong Kong",
+  "scouted_at": "2026-10-13",
+  "profile_ref": "rpg-computing-mathematics-local-2027-28",
+  "sources_consulted": [
+    {
+      "url": "https://www.cityu.edu.hk/sgs/files/prospective/rpg/Admissions_Handbook.pdf",
+      "title": "Chow Yei Ching School of Graduate Studies Admissions Handbook (Research Degree Programmes)",
+      "accessed": "2026-10-13",
+      "note": "Published February 2026. University-wide Postgraduate Studentship, Research Tuition Scholarship, conference grants, Research Activities Fund, Chow Yei Ching entrance and merit scholarships, thesis awards, and the local RPg tuition waiver. Printed studentship rates are for the 2025/26 academic year. Department of Mathematics is listed under the College of Science. Local students include holders of a Hong Kong Permanent Identity Card."
+    },
+    {
+      "url": "https://www.cityu.edu.hk/sgs/files/prospective/rpg/admissionnotes3.pdf",
+      "title": "Admission Notes for Candidates Admitted to PhD/MPhil Programmes in 2025/26",
+      "accessed": "2026-10-13",
+      "note": "Last update 17 December 2025. Postgraduate Studentship terms without a printed HKD rate. Institutional-funded and externally funded studentships. Chow Yei Ching Entrance Scholarship for international applicants. Institutional Conference Grants and Institutional Research Activities Fund. 2025/26 fee table."
+    },
+    {
+      "url": "https://www.cityu.edu.hk/ma/programmes/postgraduate/master-of-philosophy-mphil",
+      "title": "Doctor of Philosophy (PhD) / Master of Philosophy (MPhil) | Department of Mathematics",
+      "accessed": "2026-10-13",
+      "note": "Mathematics MPhil and PhD study periods and entrance requirements. Points to the Admissions Handbook for 2025 entry for financial awards. No stipend amount on this page."
+    },
+    {
+      "url": "https://www.cityu.edu.hk/ma/-/media/project/cityuhk/academic/ma/system/files/2024-11/ma_phd_leaflet_2025.pdf?rev=4a431b24baf44c1f853f422b75fe8129&hash=DCCB10910427037088B9682AFDEBAA8E",
+      "title": "Applied Mathematics Doctor of Philosophy (PhD), 2025 Entry",
+      "accessed": "2026-10-13",
+      "note": "Department of Mathematics research areas include Computational Mathematics. HKPFS figures and deadlines on this leaflet are for 2025-26 entry (RGC deadline 1 December 2024) and were not used as the 2027/28 amount."
+    },
+    {
+      "url": "https://www.cityu.edu.hk/csci/academic-programmes/research-degree-programmes/hong-kong-phd-fellowship-scheme",
+      "title": "Hong Kong PhD Fellowship Scheme | College of Science",
+      "accessed": "2026-10-13",
+      "note": "Last updated September 2026. HKPFS 2027/28 monthly stipend, travel allowance, and entrance scholarship as printed for CityUHK, with Department of Mathematics listed. Used as the CityU HKPFS source_url."
+    },
+    {
+      "url": "https://www.cityu.edu.hk/cc/programmes/research-degree-programmes/hong-kong-phd-fellowship-scheme",
+      "title": "Hong Kong PhD Fellowship Scheme 2026/2027 | College of Computing",
+      "accessed": "2026-10-13",
+      "note": "Prior round. Prints a monthly stipend of HK$28,400, travel allowance of HK$14,200, a fourth-year stipend of HK$340,800, and an entrance scholarship around HK$105,800. Deadlines are 1 December 2025. Not used for the 2027/28 amount."
+    },
+    {
+      "url": "https://www.ugc.edu.hk/eng/rgc/funding_opport/hkpfs/call_letter.html",
+      "title": "Hong Kong PhD Fellowship Scheme",
+      "accessed": "2026-10-13",
+      "note": "RGC call letter. Annual stipend of HK$344,400 and travel allowance of HK$14,400 per year for three years. 400 fellowships in 2027/28. Eligibility irrespective of country of origin. Application window 1 September 2026 to 1 December 2026 (12:00 noon Hong Kong Time)."
+    },
+    {
+      "url": "https://www.ugc.edu.hk/eng/rgc/funding_opport/hkpfs/",
+      "title": "Hong Kong PhD Fellowship Scheme",
+      "accessed": "2026-10-13",
+      "note": "Overview page. The same HK$344,400 and HK$14,400 figures are introduced with 'In the 2026/27 academic year', while 400 fellowships are stated for 2027/28."
+    },
+    {
+      "url": "https://cerg1.ugc.edu.hk/hkpfs/enquiry.html",
+      "title": "Hong Kong PhD Fellowship Scheme | Research Grants Council",
+      "accessed": "2026-10-13",
+      "note": "FAQ. City University of Hong Kong is a participating university. CityU full-application deadline 1 December 2026 (11:59pm Hong Kong Time). Initial application deadline 1 December 2026 at 12:00 noon Hong Kong Time. Results by May 2027. Annual stipend of HK$344,400 stated beside the 2027/28 award year."
+    },
+    {
+      "url": "https://cerg1.ugc.edu.hk/hkpfs/institutions.html",
+      "title": "Hong Kong PhD Fellowship Scheme | Research Grants Council",
+      "accessed": "2026-10-13",
+      "note": "Participating-universities page. The extract named CityUHK among the eight universities. The CityU contact block did not come through in the fetch."
+    },
+    {
+      "url": "https://www.ugc.edu.hk/eng/rgc/funding_opport/tws.html",
+      "title": "Tuition Waiver for Local RPg Students",
+      "accessed": "2026-10-13",
+      "note": "UGC tuition waiver. City University of Hong Kong is named. Entire tuition fee waived for eligible local full-time UGC-funded RPg students. No HKD figure on this page."
+    },
+    {
+      "url": "https://www.ugc.edu.hk/eng/rgc/funding_opport/tws/faq.html",
+      "title": "Tuition Waiver for Local Research Postgraduate Students",
+      "accessed": "2026-10-13",
+      "note": "FAQ. Category I includes a Hong Kong permanent identity card. Prints a UGC-funded RPg tuition path of HK$42,100 (2024/25), HK$44,500 (2025/26), HK$47,000 (2026/27), and HK$49,500 (2027/28). Eligibility revision applies to 2027/28 and thereafter. CityU Chow Yei Ching School of Graduate Studies is listed for enquiries."
+    },
+    {
+      "url": "https://www.cityu.edu.hk/sgs/student/rpg/otherinfo/oapa_rts",
+      "title": "Application for Outstanding Academic Performance Award and Research Tuition Scholarships for Research Degree Students",
+      "accessed": "2026-10-13",
+      "note": "Continuing-student round for 2026/2027. Application period 12 Jun 2026 - 19 Jun 2026. OAPA cash prize of HK$1,000. RTS exempts tuition during the award period. Last updated 13 June 2025."
+    },
+    {
+      "url": "https://www.cityu.edu.hk/sgs/files/student/rpg/form/sgs11.pdf",
+      "title": "Application for Outstanding Academic Performance Award for Research Degree Students/ Research Tuition Scholarship (SGS11)",
+      "accessed": "2026-10-13",
+      "note": "Regulations for OAPA (cash prize of HK$1,000), Research Tuition Scholarship, and Institutional Research Tuition Scholarship (50% of full-time self-financing tuition fees) for the Institutional PhD Scholars Scheme. Form dated June 2025 for the notes to departments; OAPA regulations dated February 2013."
+    },
+    {
+      "url": "https://www.cityu.edu.hk/sds/-/media/project/cityuhk/admin-department/sds/files/slr/scholarship/hksargovernmentscholarshipfundbeltandroadscholarships.pdf?hash=D982FF41FF58F232AE7EECD5B658F0D9&rev=2e2106ff2a4041139b72621a3c8ca010",
+      "title": "HKSAR Government Scholarship Fund – Belt and Road Scholarships 2026/27",
+      "accessed": "2026-10-13",
+      "note": "Non-local international student scholarships for 2026/27, including a research-postgraduate row and undergraduate rows. Coverage is the annual tuition fee. PDF column text for durations is mixed with nomination counts, so year counts were not reconstructed."
+    },
+    {
+      "url": "https://www.cityu.edu.hk/media/press-release/2025/05/23/cityuhk-welcomes-global-talents-and-pioneers-innovation",
+      "title": "CityUHK welcomes global talents and pioneers of innovation",
+      "accessed": "2026-10-13",
+      "note": "23 May 2025 press release. CityUHK Presidential PhD Scholarship covers tuition and accommodation costs. No HKD amount, deadline, or eligibility rules. Also names faculty schemes that are not student awards."
+    },
+    {
+      "url": "https://www.cityu.edu.hk/bms/pg/rpg.htm",
+      "title": "PhD | CityUHK BMS",
+      "accessed": "2026-10-13",
+      "note": "Biomedical Sciences research-degree page, not mathematics. Prints an application deadline of 11:59 pm, 1 December 2026, and a provisional Semester A 2027/2028 start of 30 August 2027. Financial aid is referred to the SGS website with no amount. Page date 25 September 2026."
+    },
+    {
+      "url": "https://www.en.cityu.edu.hk/study/research-degree-programs",
+      "title": "Research Degree | Department of English",
+      "accessed": "2026-10-13",
+      "note": "English, not mathematics. HKPFS for 2027 entry: submit the CityUHK application by 1 December 2026, 11:59 (Hong Kong Time). Funding details are referred to the Admissions Handbook. The page also uses the label CityU PhD Studentship Scheme while linking to the RGC HKPFS site."
+    },
+    {
+      "url": "https://www.cityu.edu.hk/see/-/media/project/cityuhk/academic/see/programmes/research-degree-programme/phd-research-degree-programme-2026-27/phd-2026_27-application.pdf?hash=53695E7FBDD2EB8E68546CF533F462DF&rev=c04fba0c1ff744bfb440d196bc593607",
+      "title": "School of Energy and Environment PhD Research Degree Programme 2026/27",
+      "accessed": "2026-10-13",
+      "note": "Energy and environment, not mathematics. Programme 2026/27 deadline 1 December 2025. Prints Studentship Basic Rate HK$19,100 / month and Advanced Rate HK$19,600 / month, and an HKPFS monthly stipend of HK$28,400 with travel allowance HK$14,200. Those HKPFS figures are not the 2027/28 College of Science figures."
+    },
+    {
+      "url": "https://www.cb.cityu.edu.hk/dao/research_degree/scholarship/",
+      "title": "Scholarship | Research Degree | Department of Decision Analytics and Operations",
+      "accessed": "2026-10-13",
+      "note": "Prints older figures: HKPFS monthly stipend HK$26,600, travel allowance HK$13,300, entrance scholarship HK$81,096, and a UGC scholarship of around HK$17,000 with a tuition waiver of HK$42,000. These conflict with the February 2026 handbook and the 2027/28 RGC and College of Science pages, so they were not copied into amounts."
+    },
+    {
+      "url": "https://www.cityu.edu.hk/pg/research-degree-programmes/scholarships-financial-aid-and-fees",
+      "title": "unknown",
+      "accessed": "2026-10-13",
+      "note": "Fetch failed. WebFetch returned an empty body. Direct download received an Imperva challenge page. Headless Chrome timed out. Content was not guessed."
+    },
+    {
+      "url": "https://www.cityu.edu.hk/pg/hong-kong-phd-fellowship-scheme/about-the-scheme",
+      "title": "unknown",
+      "accessed": "2026-10-13",
+      "note": "Fetch failed. WebFetch returned an empty body. Content was not guessed. Search-index text was not used for amounts because it conflicted with fetched pages."
+    },
+    {
+      "url": "https://www.cityu.edu.hk/pg/research-degree-programmes/steps-and-procedures",
+      "title": "unknown",
+      "accessed": "2026-10-13",
+      "note": "Fetch failed. WebFetch returned an empty body. The 2027/28 regular-round deadline was not taken from this URL."
+    },
+    {
+      "url": "https://www.cityu.edu.hk/class/pg/hkpfs.aspx",
+      "title": "unknown",
+      "accessed": "2026-10-13",
+      "note": "Fetch failed with HTTP 500. Content was not guessed."
+    },
+    {
+      "url": "https://www.cityu.edu.hk/sgs/files/prospective/rpg/handbook.pdf",
+      "title": "unknown",
+      "accessed": "2026-10-13",
+      "note": "Fetch failed with HTTP 404. The mathematics leaflet links to this short path. The Admissions_Handbook.pdf path was used instead."
+    }
+  ],
+  "opportunities": [
+    {
+      "id": "cityu-postgraduate-studentship",
+      "name": "Postgraduate Studentship",
+      "university": "CityU",
+      "university_code": "cityu",
+      "type": "studentship",
+      "eligibility_clues": [
+        "Applicable to full-time UGC-allocated students only",
+        "Granted to selected full-time research students based on academic merit",
+        "All new eligible students are considered as part of admission to a research degree programme. No separate application is required",
+        "Basic Rate normally applies to all eligible full-time research students. Advance Rate is awarded to PhD students who have passed the Qualifying Examination",
+        "PhD students may be granted the studentship for a maximum of four years, and the award period should not exceed the stipulated study period",
+        "Normally renewed yearly, subject to satisfactory study progress, coursework, and assigned academic duties",
+        "Recipients are normally required to undertake not more than 10 hours per week on average of teaching and/or research support duties",
+        "Department of Mathematics offers MPhil and PhD. Research areas include Computational Mathematics",
+        "Persons holding a Hong Kong Permanent Identity Card are local students for enrolment",
+        "Self-financing students are not eligible for financial awards financed by government funds, including postgraduate studentships"
+      ],
+      "amount": "HK$19,100 per month",
+      "amount_note": "Handbook, February 2026: 'In the 2025/26 academic year, the studentship Basic Rate is HK$19,100 per month and the Advanced Rate is HK$19,600 per month. Studentship is subject to revision in September of every year, and any revision to the rate will apply to both current and new students.' The School of Energy and Environment 2026/27 leaflet prints the same two rates. A post-September 2026 rate was not confirmed because the live scholarships page could not be fetched.",
+      "deadline": "unknown",
+      "deadline_note": "No separate studentship deadline is printed. The February 2026 handbook says applications are considered mainly in one admission round, for which the deadline is normally the first week of December 2025. The live 2027/28 steps page could not be fetched. A Department of Biomedical Sciences page prints an application deadline of 11:59 pm, 1 December 2026, and a provisional Semester A 2027/2028 start of 30 August 2027. That date was not copied as the mathematics deadline.",
+      "source_url": "https://www.cityu.edu.hk/sgs/files/prospective/rpg/Admissions_Handbook.pdf",
+      "match_tag": "possible",
+      "match_rationale": "This is the university-wide monthly studentship for full-time MPhil and PhD students, including computational mathematics in the Department of Mathematics. The cited February 2026 handbook prints the basic rate as the 2025/26 figure and does not show a 2027/28 intake, so the row is possible rather than a confirmed strong match for that intake.",
+      "login_required": false,
+      "intake_relevance": "Ongoing award considered with research-degree admission. The handbook's printed main-round timing is the first week of December 2025. The 2027/28 steps page was not fetched.",
+      "restrictions": [
+        "Full-time UGC-allocated students only",
+        "Self-financing students are not eligible for government-funded postgraduate studentships",
+        "Part-time study is outside the studentship section",
+        "Renewal requires satisfactory progress; admission notes also state a minimum cumulative GPA of 2.50 in prescribed coursework",
+        "No paid employment without prior approval of SGS"
+      ]
+    },
+    {
+      "id": "cityu-hkpfs",
+      "name": "Hong Kong PhD Fellowship Scheme",
+      "university": "CityU",
+      "university_code": "cityu",
+      "type": "fellowship",
+      "eligibility_clues": [
+        "College of Science page: in HKPFS 2027/28, each Fellowship recipient receives a monthly stipend, a travel allowance for a maximum of three years, and an additional entrance scholarship",
+        "Department of Mathematics is listed, with Prof. ZHANG Shun as research coordinator",
+        "RGC call letter: new full-time PhD students in UGC-funded universities, irrespective of country of origin, prior work experience and ethnic background",
+        "Applicants should demonstrate outstanding academic performance, research ability / potential, communication and interpersonal skills, and leadership abilities",
+        "City University of Hong Kong is one of the eight participating universities",
+        "RGC: for awardees who need more than three years, additional support may be provided by the chosen universities. The fetched 2027/28 College of Science page does not print a fourth-year amount",
+        "PhD entrance on the College of Science page: a higher degree by research, a taught master's degree, or a bachelor's degree with first class honours",
+        "Candidates not selected for HKPFS may be accepted for regular PhD admission and offered a postgraduate studentship"
+      ],
+      "amount": "HK$28,700 (approximately US$3,680)",
+      "amount_note": "College of Science, last updated September 2026: 'A monthly stipend of HK$28,700 (approximately US$3,680)' and 'a conference and research-related travel allowance of HK$14,400 (approximately US$1,840) per year for a maximum of three years', plus 'an additional entrance scholarship of HK$111,300 (approximately US$14,270)' covering full-time tuition fees and university student hall accommodation in the first year. RGC call letter: 'an annual stipend of HK$344,400 (approximately US$44,150)' and 'a conference and research related travel allowance of HK$14,400 (approximately US$1,840) per year' for three years. The RGC overview page introduces those same figures with 'In the 2026/27 academic year'. The monthly figure was not converted into an annual figure.",
+      "deadline": "1 December 2026",
+      "deadline_note": "College of Science: RGC deadline 1 December 2026 (12:00 noon GMT + 8 hours); CityUHK deadline 1 December 2026 (23:59 GMT + 8 hours). RGC FAQ: City University of Hong Kong full application 1 December 2026 (11:59pm Hong Kong Time); initial application 1 December 2026 at 12:00 noon Hong Kong Time. Results of HKPFS 2027/28 announced by May 2027. Call for applications from 1 September 2026.",
+      "source_url": "https://www.cityu.edu.hk/csci/academic-programmes/research-degree-programmes/hong-kong-phd-fellowship-scheme",
+      "match_tag": "possible",
+      "match_rationale": "A local applicant can seek this 2027/28 full-time PhD fellowship, and the College of Science page includes mathematics. It is a competitive fellowship stipend rather than the baseline Postgraduate Studentship, and it does not cover MPhil.",
+      "login_required": false,
+      "intake_relevance": "Explicitly HKPFS 2027/28. RGC call runs from 1 September 2026 to 1 December 2026.",
+      "restrictions": [
+        "New full-time PhD only",
+        "MPhil is not covered",
+        "Competitive; universities nominate to the RGC",
+        "Must also meet CityUHK PhD admission requirements",
+        "The 2027/28 College of Science page does not print a fourth-year stipend"
+      ]
+    },
+    {
+      "id": "cityu-local-rpg-tuition-waiver",
+      "name": "Tuition Waiver Scheme for Local Research Postgraduate Students",
+      "university": "CityU",
+      "university_code": "cityu",
+      "type": "tuition_waiver",
+      "eligibility_clues": [
+        "CityU handbook: since 2018/19, all eligible local students enrolled in UGC-funded research postgraduate programmes receive a tuition waiver for the entire tuition fee during the normal study period",
+        "The University waives the fees upon verification of eligibility. A tuition waiver application is not required",
+        "UGC page: City University of Hong Kong is an eligible university. Non-means-tested. No cap on the number of recipients",
+        "Covers MPhil study for 2 years; PhD for 3 years with a research master's degree; PhD for 4 years without a research master's degree",
+        "Both current and new students are eligible",
+        "FAQ: a Hong Kong permanent identity card is a Category I document for the waiver. The eligibility revision applies to the 2027/28 academic year and thereafter",
+        "Part-time RPg programmes are not UGC-funded",
+        "A stipend that does not aim to cover tuition fees does not remove the waiver"
+      ],
+      "amount": "the entire tuition fee",
+      "amount_note": "CityU handbook: a tuition waiver 'to cover the entire tuition fee during their normal study period.' No HKD figure is printed in that section. UGC FAQ: 'The tuition fee for the above mentioned UGC-funded RPg programmes gradually increases from HK$42,100 in 2024/25 Academic Year (AY) to HK$44,500 in 2025/26 AY, HK$47,000 in 2026/27 AY and HK$49,500 in 2027/28 AY.' CityU's handbook prints UGC-allocated tuition of HK$44,496 for 2025/26. The College of Science page prints full-time PhD tuition of approximately HK$46,992 in the 2026-27 academic year. Those figures were not merged into a CityU 2027/28 cash amount.",
+      "deadline": "unknown",
+      "deadline_note": "No application deadline. CityU and the UGC both state that eligible local students do not need to apply.",
+      "source_url": "https://www.cityu.edu.hk/sgs/files/prospective/rpg/Admissions_Handbook.pdf",
+      "match_tag": "possible",
+      "match_rationale": "A Hong Kong permanent resident on a full-time UGC-funded MPhil or PhD, including mathematics, is in the population this waiver covers. It removes tuition and is not a monthly living stipend.",
+      "login_required": false,
+      "intake_relevance": "Applies to current and new local students for the normative study period. The UGC FAQ says the eligibility revision applies to 2027/28 and thereafter.",
+      "restrictions": [
+        "Local students in full-time UGC-funded RPg programmes",
+        "Non-local students on a student visa, IANG visa, or a dependent visa first issued at age 18 or above are not eligible on the UGC page",
+        "Not available if another scheme has already fully waived the tuition fee",
+        "Does not cover tuition beyond the normal study period"
+      ]
+    },
+    {
+      "id": "cityu-research-tuition-scholarship",
+      "name": "Research Tuition Scholarship",
+      "university": "CityU",
+      "university_code": "cityu",
+      "type": "tuition_waiver",
+      "eligibility_clues": [
+        "Recognises outstanding academic performance. Meritorious and highly competitive",
+        "Form of a tuition fees waiver. Full-time students are exempted from paying one year's tuition fees",
+        "Not a cash award. Cannot be held concurrently with other awards covering tuition fees",
+        "Only full-time research students are eligible. All eligible new UGC-allocated/UGC-related students are considered with the admission application. Separate applications are not required",
+        "SGS11: new students are considered mainly on entry qualifications, including a bachelor's first class honours or a good postgraduate degree and publication record",
+        "Award period should not exceed the stipulated study period",
+        "Current students apply on form SGS11 with the supervisor's support. The 2026/2027 application window on the SGS page was 12 Jun 2026 - 19 Jun 2026"
+      ],
+      "amount": "one year's tuition fees",
+      "amount_note": "Handbook: 'full-time students will be exempted from paying one year's tuition fees.' SGS11 also states that the equivalent exemption for part-time students will be two years' fees. No HKD cash value is printed. The SGS application page says successful students 'will be exempted from paying tuition fees during the award period.'",
+      "deadline": "unknown",
+      "deadline_note": "New students: no separate deadline; considered with the admission application. Current-student window printed for 2026/2027: 12 Jun 2026 - 19 Jun 2026. Late applications will normally not be processed. That window is not a 2027/28 entry deadline.",
+      "source_url": "https://www.cityu.edu.hk/sgs/files/prospective/rpg/Admissions_Handbook.pdf",
+      "match_tag": "possible",
+      "match_rationale": "A full-time mathematics MPhil or PhD student on a UGC place can be considered, including at admission. It waives tuition for strong academic performance and is not a monthly stipend.",
+      "login_required": false,
+      "intake_relevance": "New UGC-allocated students are considered in the admission review. The printed continuing-student round is 2026/2027, with an award period of 1 Sep 2026 - 31 Aug 2027.",
+      "restrictions": [
+        "Full-time research students for the one-year exemption described in the handbook",
+        "Competitive; around 20% of UGC-funded research students within their study period, per SGS11",
+        "Cannot be held with another award that covers tuition fees",
+        "Self-financing students are not eligible for government-funded research tuition scholarships"
+      ]
+    },
+    {
+      "id": "cityu-institutional-studentship",
+      "name": "Studentship for institutionally funded research students",
+      "university": "CityU",
+      "university_code": "cityu",
+      "type": "studentship",
+      "eligibility_clues": [
+        "Students who are institutionally funded by the University are registered as full-time self-financed research students",
+        "They will be given a studentship funded by non-UGC/external funds during the stipulated study period",
+        "The value of the studentship should normally be the same as that of the postgraduate studentship for UGC-funded research students",
+        "Admission notes group this with government-funded students for the basic and advance rates and the PhD maximum of four years",
+        "No separate HKD rate is printed for this route"
+      ],
+      "amount": "unknown",
+      "amount_note": "Admission notes: 'The value of the studentship should normally be the same as that of the postgraduate studentship for UGC-funded research students.' No HKD figure is printed on that page. The 2025/26 UGC rates were not copied onto this row.",
+      "deadline": "unknown",
+      "deadline_note": "No separate deadline is printed. Provision is tied to institutional funding at admission.",
+      "source_url": "https://www.cityu.edu.hk/sgs/files/prospective/rpg/admissionnotes3.pdf",
+      "match_tag": "possible",
+      "match_rationale": "This is a monthly studentship for full-time research students, and the notes do not exclude local students, but it applies only to the institutional-funded route and does not print its own amount. Mathematics is not singled out.",
+      "login_required": false,
+      "intake_relevance": "Described in the 2025/26 admission notes for students admitted on institutional funds. A 2027/28 quota is not stated.",
+      "restrictions": [
+        "Institutionally funded students, registered as full-time self-financed",
+        "Funded by non-UGC/external funds",
+        "Value is described as normally the same as the UGC postgraduate studentship, without a printed figure"
+      ]
+    },
+    {
+      "id": "cityu-external-fund-studentship",
+      "name": "Studentship supported by External Funds/non-UGC Funds",
+      "university": "CityU",
+      "university_code": "cityu",
+      "type": "studentship",
+      "eligibility_clues": [
+        "Comes from an external source, with examples named as industry, a scholarship fund, the Teaching Company Scheme under the Innovation and Technology Fund, donation, and the Croucher Foundation",
+        "Provision is subject to the availability of external funds",
+        "The value should normally be equivalent to that of the postgraduate studentship",
+        "The rate is subject to revision in September of every year, including for externally funded studentships unless otherwise specified",
+        "Funding period should normally be four years for a full-time 4-year PhD student and should not exceed the normal study period",
+        "Students financed by external funds are not eligible for postgraduate studentships, research tuition scholarships, conference grants, and research activities funds provided by government funds"
+      ],
+      "amount": "unknown",
+      "amount_note": "Admission notes: 'The value of the externally funded studentship should normally be equivalent to that of the postgraduate studentship.' No HKD figure is printed for this route.",
+      "deadline": "unknown",
+      "deadline_note": "No application deadline is printed. Availability depends on the external fund.",
+      "source_url": "https://www.cityu.edu.hk/sgs/files/prospective/rpg/admissionnotes3.pdf",
+      "match_tag": "possible",
+      "match_rationale": "A full-time PhD student, including in mathematics, might be supported if a supervisor has external funds. It is not a university-wide award with a printed amount, and the Croucher Foundation is named only as an example of a funding source.",
+      "login_required": false,
+      "intake_relevance": "Described for students financed by external funds. No 2027/28 call is printed.",
+      "restrictions": [
+        "Subject to availability of external funds",
+        "Not eligible for the government-funded studentship, research tuition scholarship, conference grant, or research activities fund",
+        "Normally four years for a full-time 4-year PhD"
+      ]
+    },
+    {
+      "id": "cityu-cycsgs-scholarships",
+      "name": "Chow Yei Ching School of Graduate Studies Scholarships",
+      "university": "CityU",
+      "university_code": "cityu",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "Recognises and rewards students with outstanding academic performance",
+        "Students within their normal/stipulated period of study who have undertaken their current MPhil/PhD studies for at least twelve calendar months, excluding study interruption, are eligible to apply",
+        "SGS11 notes say departments may nominate very outstanding students for this scholarship on form SGS40, and that it can be held with the Research Tuition Scholarship"
+      ],
+      "amount": "HK$30,000",
+      "amount_note": "Handbook: 'Awardees will receive a one-off cash award of HK$30,000.'",
+      "deadline": "unknown",
+      "deadline_note": "No application deadline is printed in the handbook section.",
+      "source_url": "https://www.cityu.edu.hk/sgs/files/prospective/rpg/Admissions_Handbook.pdf",
+      "match_tag": "possible",
+      "match_rationale": "A continuing MPhil or PhD student in mathematics can apply after twelve months. It is a one-off merit award, not a monthly studentship for 2027/28 entry.",
+      "login_required": false,
+      "intake_relevance": "For students who have already completed at least twelve months of the current MPhil or PhD. Not an entry award.",
+      "restrictions": [
+        "At least twelve calendar months of the current MPhil/PhD already completed",
+        "Within the normal/stipulated study period",
+        "One-off cash award"
+      ]
+    },
+    {
+      "id": "cityu-institutional-research-tuition-scholarship",
+      "name": "Institutional Research Tuition Scholarship",
+      "university": "CityU",
+      "university_code": "cityu",
+      "type": "tuition_waiver",
+      "eligibility_clues": [
+        "Applicable to students admitted under the Institutional PhD Scholars Scheme only",
+        "Institutional-funded students are eligible",
+        "Funded by the University's non-UGC funds",
+        "Meritorious and strictly competitive",
+        "New students are considered on entry qualifications at admission. No separate application is required",
+        "Not a cash award. Cannot be held concurrently with other awards covering tuition fees, except the Institutional Research Tuition Grant"
+      ],
+      "amount": "50% of the full-time self-financing tuition fees",
+      "amount_note": "SGS11 regulations: 'The scholarship covers 50% of the full-time self-financing tuition fees.' No HKD figure is printed. Granted yearly and tenable until the end of the normal study period, subject to funds.",
+      "deadline": "unknown",
+      "deadline_note": "New students: no separate application. Current students use channels described with SGS11. No 2027/28 calendar deadline is printed.",
+      "source_url": "https://www.cityu.edu.hk/sgs/files/student/rpg/form/sgs11.pdf",
+      "match_tag": "possible",
+      "match_rationale": "A student admitted under the Institutional PhD Scholars Scheme could receive a partial tuition exemption. It is not the UGC living stipend, and the public form does not say the scheme is open to mathematics in particular.",
+      "login_required": false,
+      "intake_relevance": "Tied to admission under the Institutional PhD Scholars Scheme. No 2027/28 intake date is printed.",
+      "restrictions": [
+        "Institutional PhD Scholars Scheme only",
+        "Covers 50% of full-time self-financing tuition, not a cash stipend",
+        "Subject to availability of funds",
+        "Cannot normally be held with another tuition award, except the Institutional Research Tuition Grant"
+      ]
+    },
+    {
+      "id": "cityu-conference-grants",
+      "name": "Conference Grants",
+      "university": "CityU",
+      "university_code": "cityu",
+      "type": "other",
+      "eligibility_clues": [
+        "After confirmation of candidature and within the normal study period",
+        "UGC/Institutional-funded research students can apply for grants for local and overseas conferences"
+      ],
+      "amount": "HK$10,000",
+      "amount_note": "Handbook: 'The maximum grant value is HK$10,000.'",
+      "deadline": "unknown",
+      "deadline_note": "No application deadline is printed. Available after confirmation of candidature.",
+      "source_url": "https://www.cityu.edu.hk/sgs/files/prospective/rpg/Admissions_Handbook.pdf",
+      "match_tag": "possible",
+      "match_rationale": "A UGC-funded mathematics research student can apply after candidature is confirmed. The grant pays conference costs, not a living stipend.",
+      "login_required": false,
+      "intake_relevance": "During the normal study period, after confirmation of candidature. Not an entry award.",
+      "restrictions": [
+        "UGC/Institutional-funded research students",
+        "After confirmation of candidature",
+        "Within the normal study period",
+        "Maximum grant value HK$10,000"
+      ]
+    },
+    {
+      "id": "cityu-research-activities-fund",
+      "name": "Research Activities Fund",
+      "university": "CityU",
+      "university_code": "cityu",
+      "type": "other",
+      "eligibility_clues": [
+        "After confirmation of candidature and within the normal study period",
+        "UGC-allocated and UGC-related research students can apply for research-related activities outside Hong Kong that are relevant to their MPhil/PhD studies"
+      ],
+      "amount": "HK$5,000",
+      "amount_note": "Handbook: 'The monthly allowance is HK$5,000. Depending on the university/institution to be visited and the duration of the visit, the maximum cumulative amount of funding provision during the entire candidature of study may be up to HK$60,000.'",
+      "deadline": "unknown",
+      "deadline_note": "No application deadline is printed. Available after confirmation of candidature.",
+      "source_url": "https://www.cityu.edu.hk/sgs/files/prospective/rpg/Admissions_Handbook.pdf",
+      "match_tag": "possible",
+      "match_rationale": "An MPhil or PhD student in mathematics on a UGC place can apply for support to work outside Hong Kong. The monthly allowance is for that research activity, not the baseline living studentship.",
+      "login_required": false,
+      "intake_relevance": "During candidature, after confirmation. Not an entry award.",
+      "restrictions": [
+        "UGC-allocated and UGC-related research students",
+        "Activities outside Hong Kong",
+        "After confirmation of candidature and within the normal study period",
+        "Cumulative cap may be up to HK$60,000"
+      ]
+    },
+    {
+      "id": "cityu-institutional-conference-grants",
+      "name": "Institutional Conference Grants",
+      "university": "CityU",
+      "university_code": "cityu",
+      "type": "other",
+      "eligibility_clues": [
+        "Institutional-funded students may apply, subject to availability of non-UGC/external funds",
+        "Terms are stated to be the same as conference grants supported by government funds"
+      ],
+      "amount": "HK$10,000",
+      "amount_note": "Admission notes: 'Institutional Conference Grants up to a maximum value of HK$10,000 each.'",
+      "deadline": "unknown",
+      "deadline_note": "No deadline is printed.",
+      "source_url": "https://www.cityu.edu.hk/sgs/files/prospective/rpg/admissionnotes3.pdf",
+      "match_tag": "possible",
+      "match_rationale": "Institutional-funded research students, who could include mathematics, may apply for a conference grant. It is not a living stipend and depends on non-UGC funds.",
+      "login_required": false,
+      "intake_relevance": "During candidature for institutional-funded students. No 2027/28 date is printed.",
+      "restrictions": [
+        "Institutional-funded students",
+        "Subject to availability of non-UGC/external funds",
+        "Maximum HK$10,000 each"
+      ]
+    },
+    {
+      "id": "cityu-institutional-research-activities-fund",
+      "name": "Institutional Research Activities Fund",
+      "university": "CityU",
+      "university_code": "cityu",
+      "type": "other",
+      "eligibility_clues": [
+        "Institutional-funded students may apply, subject to availability of non-UGC/external funds",
+        "Terms are stated to follow the government-funded research activities fund"
+      ],
+      "amount": "HK$30,000",
+      "amount_note": "Admission notes: 'Institutional Research Activities Fund up to a maximum cumulative value of HK$30,000 during their entire period of candidature.'",
+      "deadline": "unknown",
+      "deadline_note": "No deadline is printed.",
+      "source_url": "https://www.cityu.edu.hk/sgs/files/prospective/rpg/admissionnotes3.pdf",
+      "match_tag": "possible",
+      "match_rationale": "This is research-activity support for institutional-funded students, with a lower cumulative cap than the UGC fund in the handbook. It is not a monthly living studentship.",
+      "login_required": false,
+      "intake_relevance": "Cumulative over the candidature of institutional-funded students. No intake year is printed.",
+      "restrictions": [
+        "Institutional-funded students",
+        "Subject to availability of non-UGC/external funds",
+        "Maximum cumulative value HK$30,000"
+      ]
+    },
+    {
+      "id": "cityu-oapa",
+      "name": "Outstanding Academic Performance Award for Research Degree Students",
+      "university": "CityU",
+      "university_code": "cityu",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "Recognises research students with outstanding academic performance",
+        "Students who have completed at least twelve calendar months of study and are within the normal study period may apply",
+        "SGS page for 2026/2027: all current students are not the OAPA rule; OAPA requires the twelve-month condition",
+        "Maximum number of awards should not exceed 25% of research students within their normal study period"
+      ],
+      "amount": "HK$1,000",
+      "amount_note": "SGS application page: 'awardees will also be given a cash prize of HK$1,000'. SGS11: 'a cash prize of HK$1,000, subject to the availability of funding.' Handbook: 'a one-off cash award of up to HK$1,000.' The application page figure is used.",
+      "deadline": "12 Jun 2026 - 19 Jun 2026",
+      "deadline_note": "SGS page, Application Schedule for 2026/2027: application period 12 Jun 2026 - 19 Jun 2026. Performance assessment period 1 Jul 2025 - 30 Jun 2026. Results late Aug 2026. Payment Nov 2026. Award period 1 Sep 2026 - 31 Aug 2027. Last updated 13 June 2025.",
+      "source_url": "https://www.cityu.edu.hk/sgs/student/rpg/otherinfo/oapa_rts",
+      "match_tag": "weak",
+      "match_rationale": "This is a real MPhil/PhD prize and mathematics students who have already studied for a year can apply, but it is a HK$1,000 award for continuing students, not a 2027/28 entry stipend. The printed application window has passed.",
+      "login_required": false,
+      "intake_relevance": "Continuing-student round for award period 1 Sep 2026 - 31 Aug 2027. Not an entry award for 2027/28.",
+      "restrictions": [
+        "At least twelve calendar months of study already completed",
+        "Within the normal study period",
+        "Cash prize subject to availability of funding",
+        "Not a living stipend"
+      ]
+    },
+    {
+      "id": "cityu-outstanding-research-thesis-awards",
+      "name": "Outstanding Research Thesis Awards",
+      "university": "CityU",
+      "university_code": "cityu",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "Recognises research students who have produced a thesis of outstanding quality",
+        "SGS identifies theses that meet the award criteria and asks the Department or School to confirm suitability",
+        "Students do not apply through a public admissions round on this page"
+      ],
+      "amount": "HK$3,000",
+      "amount_note": "Handbook: 'Awardees will receive an award certificate and a one-off cash award of HK$3,000.'",
+      "deadline": "unknown",
+      "deadline_note": "No deadline is printed. SGS identifies eligible theses.",
+      "source_url": "https://www.cityu.edu.hk/sgs/files/prospective/rpg/Admissions_Handbook.pdf",
+      "match_tag": "weak",
+      "match_rationale": "This is a real research-degree prize, including for a mathematics thesis, but it is paid after the thesis is produced. It is not funding for 2027/28 entry.",
+      "login_required": false,
+      "intake_relevance": "End-of-thesis award. No intake year is printed.",
+      "restrictions": [
+        "Thesis must already satisfy the award criteria",
+        "Department or School confirmation is required",
+        "One-off prize, not a stipend"
+      ]
+    },
+    {
+      "id": "cityu-outstanding-doctoral-research-award",
+      "name": "Chow Yei Ching School of Graduate Studies Outstanding Doctoral Research Award",
+      "university": "CityU",
+      "university_code": "cityu",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "Recognises exceptional work by PhD graduates",
+        "Students who have met the Outstanding Research Thesis Award requirements and have been conferred a PhD in the same Commencement year are invited by their home department to apply"
+      ],
+      "amount": "HK$10,000",
+      "amount_note": "Handbook: 'Awardees will receive an award certificate and a one-off cash award of HK$10,000.'",
+      "deadline": "unknown",
+      "deadline_note": "No deadline is printed. The home department invites eligible PhD graduates.",
+      "source_url": "https://www.cityu.edu.hk/sgs/files/prospective/rpg/Admissions_Handbook.pdf",
+      "match_tag": "weak",
+      "match_rationale": "A mathematics PhD graduate could be invited, but the award is for completed doctorates. It does not fund a student entering in 2027/28.",
+      "login_required": false,
+      "intake_relevance": "For PhD graduates in the same Commencement year as the thesis award. Not an entry scheme.",
+      "restrictions": [
+        "PhD graduates only",
+        "Must already meet the Outstanding Research Thesis Award requirements",
+        "Department invitation",
+        "One-off prize"
+      ]
+    },
+    {
+      "id": "cityu-presidential-phd-scholarship",
+      "name": "CityUHK Presidential PhD Scholarship",
+      "university": "CityU",
+      "university_code": "cityu",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "Press release of 23 May 2025: the recently established scholarship covers tuition and accommodation costs",
+        "Described as attracting outstanding doctoral students from top universities worldwide to pursue advanced studies in Hong Kong",
+        "No application procedure, field list, residency rule, or deadline is printed"
+      ],
+      "amount": "unknown",
+      "amount_note": "Press release: the scholarship 'covers tuition and accommodation costs'. No HKD amount is printed.",
+      "deadline": "unknown",
+      "deadline_note": "No deadline is printed.",
+      "source_url": "https://www.cityu.edu.hk/media/press-release/2025/05/23/cityuhk-welcomes-global-talents-and-pioneers-innovation",
+      "match_tag": "weak",
+      "match_rationale": "The only fetched public text is a press release aimed at doctoral students from top universities worldwide. It does not show a monthly stipend, a mathematics route, or a 2027/28 application, and it does not state that local students are excluded.",
+      "login_required": false,
+      "intake_relevance": "No intake year is printed. The press release is dated 23 May 2025.",
+      "restrictions": [
+        "Public description is limited to a press release",
+        "Framed as recruitment from top universities worldwide",
+        "No printed stipend"
+      ]
+    },
+    {
+      "id": "cityu-cycsgs-entrance-scholarship",
+      "name": "Chow Yei Ching School of Graduate Studies Entrance Scholarships",
+      "university": "CityU",
+      "university_code": "cityu",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "Purpose is to encourage outstanding international students to undertake MPhil or PhD studies",
+        "Promotes academic exchange and the international mix of the student population",
+        "Admission notes: nominations are made by the Department from among all international applicants. No separate application is required",
+        "If granted, full-time tuition and university hall accommodation fees in the first year are offset",
+        "Cannot be held concurrently with any other award that covers tuition fees and accommodation expenses",
+        "Candidates are normally notified in the admission letter"
+      ],
+      "amount": "unknown",
+      "amount_note": "The handbook does not print an HKD value. It says the scholarship covers tuition and university hall accommodation fees in the first year. A dollar figure on the unfetched postgraduate scholarships page was not copied. The HK$111,300 entrance scholarship printed for HKPFS 2027/28 on the College of Science page is recorded on the HKPFS row, not here.",
+      "deadline": "unknown",
+      "deadline_note": "No separate deadline. Nominated with admission and normally notified in the admission letter.",
+      "source_url": "https://www.cityu.edu.hk/sgs/files/prospective/rpg/Admissions_Handbook.pdf",
+      "match_tag": "out_of_scope",
+      "match_rationale": "Nominations are made from international applicants. A local Hong Kong permanent resident is outside that group. It offsets first-year tuition and hall fees rather than paying a monthly stipend.",
+      "login_required": false,
+      "intake_relevance": "Considered with admission of international applicants. The handbook does not print a 2027/28 date for this scholarship.",
+      "restrictions": [
+        "International applicants only",
+        "Department nomination",
+        "Cannot be held with another award covering tuition and accommodation",
+        "First year of research studies only"
+      ]
+    },
+    {
+      "id": "cityu-belt-road-rpg",
+      "name": "HKSAR Government Scholarship Fund - Belt & Road Scholarship (Research Postgraduate)",
+      "university": "CityU",
+      "university_code": "cityu",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "First-year full-time non-local international students who shall pursue full-time UGC-funded research postgraduate programmes of CityUHK 2026/27",
+        "Designated to outstanding international students from Belt and Road countries",
+        "The scholarship will cover the annual tuition fee and is tenable for the normal duration of the programme, renewable annually subject to satisfactory academic performance",
+        "Applicants who have an admission offer, have paid the acceptance fee, and have outstanding academic performance may be invited to apply",
+        "The University nominates to the Education Bureau. The Bureau's decision is final"
+      ],
+      "amount": "the annual tuition fee",
+      "amount_note": "PDF: 'The scholarship will cover the annual tuition fee'. No HKD figure is printed. Duration and nomination-count cells are mixed in the text extraction, so a year count was not copied.",
+      "deadline": "early April 2026",
+      "deadline_note": "PDF: applicants 'may be invited to apply for the Scholarship in March 2026 by email and the deadline will close by early April 2026.' Nominations to the Education Bureau by April 2026. This is the 2026/27 sheet.",
+      "source_url": "https://www.cityu.edu.hk/sds/-/media/project/cityuhk/admin-department/sds/files/slr/scholarship/hksargovernmentscholarshipfundbeltandroadscholarships.pdf?hash=D982FF41FF58F232AE7EECD5B658F0D9&rev=2e2106ff2a4041139b72621a3c8ca010",
+      "match_tag": "out_of_scope",
+      "match_rationale": "The research-postgraduate row is limited to first-year full-time non-local international students from Belt and Road countries, for CityUHK 2026/27. A local Hong Kong permanent resident is excluded.",
+      "login_required": false,
+      "intake_relevance": "Printed for CityUHK 2026/27, with an invitation window in March 2026 and a close by early April 2026. Not the 2027/28 round.",
+      "restrictions": [
+        "Non-local international students only",
+        "Belt and Road countries",
+        "Full-time UGC-funded research postgraduate programmes",
+        "First-year students in 2026/27",
+        "Cannot also receive a CityUHK entrance scholarship covering the same year's tuition"
+      ]
+    },
+    {
+      "id": "cityu-belt-road-undergraduate",
+      "name": "HKSAR Government Scholarship Fund - Belt & Road Scholarship (Designated Countries) and Belt & Road Scholarship (Other Countries)",
+      "university": "CityU",
+      "university_code": "cityu",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "First-year full-time non-local international students who shall pursue full-time UGC-funded undergraduate programmes of CityUHK 2026/27",
+        "Designated Countries row names Indonesia, Malaysia, Thailand, Myanmar, Mongolia, and Kazakhstan",
+        "Other Countries row is for outstanding international students from other Belt and Road countries",
+        "Covers the annual tuition fee for the normal duration of the programme, renewable subject to satisfactory academic performance",
+        "Same March 2026 invitation and early April 2026 close as the rest of the sheet"
+      ],
+      "amount": "the annual tuition fee",
+      "amount_note": "PDF: 'The scholarship will cover the annual tuition fee'. No HKD figure is printed. Nomination quotas are printed in the table but the cells for the two undergraduate rows are run together, so a split quota was not copied.",
+      "deadline": "early April 2026",
+      "deadline_note": "PDF: invited applicants in March 2026, deadline closing by early April 2026, for the 2026/27 sheet.",
+      "source_url": "https://www.cityu.edu.hk/sds/-/media/project/cityuhk/admin-department/sds/files/slr/scholarship/hksargovernmentscholarshipfundbeltandroadscholarships.pdf?hash=D982FF41FF58F232AE7EECD5B658F0D9&rev=2e2106ff2a4041139b72621a3c8ca010",
+      "match_tag": "out_of_scope",
+      "match_rationale": "These rows are undergraduate scholarships for non-local international students. They are not research-postgraduate funding and they exclude a local student.",
+      "login_required": false,
+      "intake_relevance": "CityUHK undergraduate 2026/27. Not a 2027/28 PhD or MPhil award.",
+      "restrictions": [
+        "Undergraduate programmes only",
+        "Non-local international students",
+        "Belt and Road countries",
+        "2026/27 first-year students"
+      ]
+    }
+  ],
+  "blockers": [
+    "https://www.cityu.edu.hk/pg/research-degree-programmes/scholarships-financial-aid-and-fees returned an empty WebFetch body. curl received an Imperva challenge, and headless Chrome timed out. No amount or deadline was taken from that URL.",
+    "https://www.cityu.edu.hk/pg/hong-kong-phd-fellowship-scheme/about-the-scheme and https://www.cityu.edu.hk/pg/research-degree-programmes/steps-and-procedures also returned empty WebFetch bodies. Search-index text for the about page showed a monthly stipend of HK$28,400 and an entrance scholarship around HK$95,496. Those figures were not copied because the page was not fetched and they conflict with the fetched College of Science 2027/28 page and the RGC call letter.",
+    "https://www.cityu.edu.hk/class/pg/hkpfs.aspx returned HTTP 500. https://www.cityu.edu.hk/sgs/files/prospective/rpg/handbook.pdf returned HTTP 404. The Admissions_Handbook.pdf path was used instead.",
+    "The Postgraduate Studentship HKD rates on the fetched February 2026 handbook are labelled 2025/26, and the handbook says the rate is revised every September. A 2026/27 or 2027/28 rate was not confirmed from a fetched page. The live scholarships page could not be opened.",
+    "The RGC HKPFS overview page leads the HK$344,400 stipend with 'In the 2026/27 academic year', while the call letter and FAQ state that figure beside the 2027/28 award quota. The College of Science page prints HK$28,700 per month for HKPFS 2027/28. The monthly figure was not annualised.",
+    "The College of Science 2027/28 page does not print a fourth-year CityU stipend. The College of Computing page for the 2026/2027 round prints a fourth-year stipend of HK$340,800. That older figure was not copied onto the 2027/28 row.",
+    "https://www.cb.cityu.edu.hk/dao/research_degree/scholarship/ prints HK$26,600 per month, a travel allowance of HK$13,300, an entrance scholarship of HK$81,096, a monthly scholarship of around HK$17,000, and a tuition waiver of HK$42,000. Those figures were not used.",
+    "No Department of Mathematics studentship with its own HKD amount was found. Computational mathematics is a research area of the Department of Mathematics and is covered by the university-wide schemes. The mathematics programme page still points to the Admissions Handbook for 2025 entry.",
+    "Handbook section 5.6 says the Hong Kong government and the University offer grants and loans, and external awards, without naming schemes or amounts. No separate scheme was created from that sentence.",
+    "Express Admission of Research Talents for PhD Programme is named only as a group with first-year hall priority for 2025/26. No funding amount or eligibility rules were printed, so it was not listed as an award.",
+    "The 23 May 2025 press release also names the Distinguished Visiting Professors Scheme, the President's Assistant Professors Scheme, and the Global Research Assistant Professors Programme. Those are faculty schemes, not student awards, and were not listed as opportunities.",
+    "The Belt and Road PDF text extraction mixes duration wording with nomination counts. Year limits and split quotas were not reconstructed.",
+    "https://cerg1.ugc.edu.hk/hkpfs/institutions.html listed CityUHK, but the CityU contact block did not come through in the fetch."
+  ]
+}

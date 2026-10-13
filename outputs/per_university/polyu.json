@@ -1,0 +1,529 @@
+{
+  "university_code": "polyu",
+  "university_name": "The Hong Kong Polytechnic University",
+  "scouted_at": "2026-10-13",
+  "profile_ref": "rpg-computing-mathematics-local-2027-28",
+  "sources_consulted": [
+    {
+      "url": "https://www.polyu.edu.hk/gs/prospective-students/fellowship-scholarship-schemes/",
+      "title": "Fellowship and Scholarship Schemes",
+      "accessed": "2026-10-13",
+      "note": "University-wide packages for HKPFS, Kuok Group Fellowship, PPPFS, IPFS, and PRPgS. Last updated 13 July 2026. PRPgS annual stipend figures taken from this page."
+    },
+    {
+      "url": "https://www.polyu.edu.hk/gs/hkpfs/",
+      "title": "Hong Kong PhD Fellowship Scheme (HKPFS) / PolyU Presidential PhD Fellowship Scheme (PPPFS)",
+      "accessed": "2026-10-13",
+      "note": "PolyU HKPFS package explicitly labelled 2027/28, with application window and deadlines."
+    },
+    {
+      "url": "https://www.polyu.edu.hk/gs/prospective-students/fellowship-scholarship-schemes/pppfs/",
+      "title": "PolyU Presidential PhD Fellowship Scheme (PPPFS)",
+      "accessed": "2026-10-13",
+      "note": "PPPFS eligibility and package. Last update 19 August 2026. No calendar deadline printed on this page."
+    },
+    {
+      "url": "https://www.polyu.edu.hk/gs/prospective-students/fellowship-scholarship-schemes/kuok/",
+      "title": "Kuok Group Fellowship",
+      "accessed": "2026-10-13",
+      "note": "Kuok Group Fellowship for 2026/27 and 2027/28, including the environmental-research quota note. Last update 19 August 2026."
+    },
+    {
+      "url": "https://www.polyu.edu.hk/gs/prospective-students/fellowship-scholarship-schemes/ipfs/",
+      "title": "International PhD Fellowship Scheme (IPFS)",
+      "accessed": "2026-10-13",
+      "note": "IPFS limited to high-calibre foreign PhD applicants from outside the Chinese Mainland, Macau, and Taiwan. Last update 19 August 2026."
+    },
+    {
+      "url": "https://www.polyu.edu.hk/gs/prospective-students/fellowship-scholarship-schemes/prpgs/",
+      "title": "unknown",
+      "accessed": "2026-10-13",
+      "note": "Fetch failed with HTTP 404. No separate PRPgS page at this URL. Content was not guessed."
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/pg/research-postgraduate/fellowship-and-scholarship-rpg",
+      "title": "Fellowship and Scholarship (RPG)",
+      "accessed": "2026-10-13",
+      "note": "Confirms fellowships and scholarships are for full-time PhD and MPhil students. Part-time students are not eligible. No amounts printed."
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/pg/research-postgraduate/research-postgraduate-application-period",
+      "title": "Research Postgraduate - Application Period",
+      "accessed": "2026-10-13",
+      "note": "2027/28 admission windows, including HKPFS dates and the PolyU research postgraduate programme window of 1 September 2026 to 31 May 2027 for September 2027 entry."
+    },
+    {
+      "url": "https://www.polyu.edu.hk/gs/prospective-students/how-to-apply/application-deadline/",
+      "title": "Application Deadline",
+      "accessed": "2026-10-13",
+      "note": "Department of Applied Mathematics PhD and MPhil deadline for 2027/28 Semester One (Sept 2027 Entry) is 31 May 2027. Computing and Data Science and Artificial Intelligence share that date."
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/pg/research-postgraduate/find-your-programmes-rpg",
+      "title": "Find Your Programmes (RPG)",
+      "accessed": "2026-10-13",
+      "note": "September 2027 entry lists Department of Applied Mathematics PhD/MPhil areas, including Engineering and Computational Mathematics, deadline 31 May 2027."
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/pg/rpg/2027/ama",
+      "title": "AMA - Doctor of Philosophy (PhD) / Master of Philosophy (MPhil)",
+      "accessed": "2026-10-13",
+      "note": "September 2027 entry for Applied Mathematics PhD and MPhil, including Engineering and Computational Mathematics. Application deadline PhD and MPhil 31 May 2027. No stipend amount on this page."
+    },
+    {
+      "url": "https://www.polyu.edu.hk/ama/study/research-postgraduate-programme/",
+      "title": "Research Postgraduate Programme | Department of Applied Mathematics",
+      "accessed": "2026-10-13",
+      "note": "AMA describes PolyU Research Studentships for full-time PhD or MPhil students, awarded on academic merit. No HKD amount or deadline printed."
+    },
+    {
+      "url": "https://www.polyu.edu.hk/ama/experience-and-opportunities/scholarships-and-financial-aid/",
+      "title": "Scholarship and Financial Support | Department of Applied Mathematics",
+      "accessed": "2026-10-13",
+      "note": "Department awards found here are undergraduate entry and exchange support, plus a taught-postgraduate scholarship of HKD10,000. No research-postgraduate award amount."
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/fees-and-scholarships/scholarships/local-jupas-fcms-scholarship",
+      "title": "Entry Scholarship for Local Students with HKDSE Qualification (Faculty of Computer and Mathematical Sciences)",
+      "accessed": "2026-10-13",
+      "note": "2027/28 undergraduate HKDSE entry scholarship, subject to approval, including the Applied Mathematics bachelor's scheme. Amounts are undergraduate only."
+    },
+    {
+      "url": "https://www.polyu.edu.hk/gs/rpghandbook/section14-2-1/",
+      "title": "Scholarships | Research Postgraduate Student Handbook (2026/27)",
+      "accessed": "2026-10-13",
+      "note": "General terms for full-time MPhil/PhD scholarship holders, including payment of a monthly stipend. No HKD rate printed."
+    },
+    {
+      "url": "https://www.polyu.edu.hk/gs/rpghandbook/section14-2/",
+      "title": "Funding Support | Research Postgraduate Student Handbook (2026/27)",
+      "accessed": "2026-10-13",
+      "note": "Fetch returned the page title only. No scheme list or amounts were readable."
+    },
+    {
+      "url": "https://www.polyu.edu.hk/gs/rpghandbook/section14-2-2/",
+      "title": "Teaching Postgraduate Studentship (for 2021/22 intake or before)",
+      "accessed": "2026-10-13",
+      "note": "TPS assistantship limited to the 2021/22 intake or before. Amount is stated only in the appointment letter."
+    },
+    {
+      "url": "https://www.polyu.edu.hk/gs/rpghandbook/section14-3/",
+      "title": "Other Financial Assistance | Research Postgraduate Student Handbook (2026/27)",
+      "accessed": "2026-10-13",
+      "note": "Index of local RPG assistance: tuition waiver, TSFS, non-means-tested loan, and PolyU Financial Assistance Scheme. Non-local RPg students are not eligible for PolyU or HKSAR financial assistance."
+    },
+    {
+      "url": "https://www.polyu.edu.hk/gs/rpghandbook/section14-3-1/",
+      "title": "Tuition Waiver for Local Research Postgraduate Students",
+      "accessed": "2026-10-13",
+      "note": "PolyU statement of the HKSAR tuition waiver for local students in UGC-funded full-time RPg programmes. Hong Kong Permanent Identity Card is listed as a local document. No HKD figure."
+    },
+    {
+      "url": "https://www.ugc.edu.hk/eng/rgc/funding_opport/tws.html",
+      "title": "Tuition Waiver for Local RPg Students",
+      "accessed": "2026-10-13",
+      "note": "UGC scheme page naming The Hong Kong Polytechnic University among eligible universities. States that the entire tuition fee is waived for the normative study period. No HKD tuition figure."
+    },
+    {
+      "url": "https://www.polyu.edu.hk/gs/rpghandbook/section14-3-2/",
+      "title": "Government Tertiary Student Finance Scheme - Publicly-funded Programmes",
+      "accessed": "2026-10-13",
+      "note": "Means-tested grants and loans for eligible local full-time government-funded students. Amounts vary. No HKD figure printed."
+    },
+    {
+      "url": "https://www.polyu.edu.hk/gs/rpghandbook/section14-3-3/",
+      "title": "Government Non-Means-tested Loan Scheme",
+      "accessed": "2026-10-13",
+      "note": "Loans for local full-time and part-time students to cover tuition fees. No HKD amount or calendar deadline printed."
+    },
+    {
+      "url": "https://www.polyu.edu.hk/gs/rpghandbook/section14-3-4/",
+      "title": "PolyU Financial Assistance Scheme",
+      "accessed": "2026-10-13",
+      "note": "Grants and interest-free loans for full-time government-funded local students. Most funds earmarked for undergraduates; limited funds for local RPg students. No HKD figure."
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/pg/research-postgraduate/financial-assistance-rpg",
+      "title": "Financial Assistance (RPG)",
+      "accessed": "2026-10-13",
+      "note": "Points local students to the Student Affairs Office. States that non-local students are not eligible for PolyU or HKSAR financial assistance. No amounts."
+    },
+    {
+      "url": "https://www.polyu.edu.hk/comp/study/research-postgraduate-programme/hkphd-fellowship-scheme/",
+      "title": "Hong Kong PhD Fellowship Scheme | Department of Computing",
+      "accessed": "2026-10-13",
+      "note": "Department page prints an annual stipend of HK$337,200 and a yearly allowance of HK$14,000. These figures conflict with the Graduate School 2027/28 HKPFS page and were not used for the HKPFS row."
+    }
+  ],
+  "opportunities": [
+    {
+      "id": "polyu-prpgs",
+      "name": "PolyU Research Postgraduate Scholarship (PRPgS)",
+      "university": "PolyU",
+      "university_code": "polyu",
+      "type": "studentship",
+      "eligibility_clues": [
+        "Financial support for PhD and MPhil students during their normal study period",
+        "Applicants are considered once they submit an application via RPgAdmission; no separate application is required",
+        "Offered to PolyU full-time PhD and/or MPhil students only",
+        "Part-time students are not eligible for fellowships/scholarships",
+        "Mutually exclusive with the other fellowship/scholarship schemes; one scheme only",
+        "Renewal is subject to satisfactory performance and funding availability",
+        "Department of Applied Mathematics offers MPhil and PhD study in Engineering and Computational Mathematics and states that PolyU offers Research Studentships to full-time PhD or MPhil students on academic merit",
+        "The scheme page does not restrict the award to non-local students"
+      ],
+      "amount": "Annual Stipend: HK$230,640 HK$235,920 for PhD students who have confirmed registration",
+      "amount_note": "Also printed on the scheme page: Conference Grant: HK$25,000; University Accommodation: Eligible hall place for 1 year. The 2026/27 research postgraduate handbook says the scholarship package can include a monthly stipend, but it does not print a monthly HKD figure. The AMA research-studentship paragraph does not print an amount.",
+      "deadline": "unknown",
+      "deadline_note": "No separate PRPgS deadline is printed. Consideration follows the RPgAdmission application. For 2027/28 Semester One (September 2027 Entry), PolyU research postgraduate programme applications run from 1 September 2026 to 31 May 2027, and the Department of Applied Mathematics PhD and MPhil deadline is 31 May 2027.",
+      "source_url": "https://www.polyu.edu.hk/gs/prospective-students/fellowship-scholarship-schemes/",
+      "match_tag": "strong",
+      "match_rationale": "This is the university-wide full-time PhD and MPhil stipend scholarship, considered automatically in the admission round that is open for September 2027. Local residency is not excluded, and Applied Mathematics, including Engineering and Computational Mathematics, is inside that research-postgraduate route.",
+      "login_required": false,
+      "intake_relevance": "Current open round for 2027/28 Semester One (September 2027 Entry). AMA PhD and MPhil application deadline 31 May 2027.",
+      "restrictions": [
+        "Full-time PhD and/or MPhil only",
+        "Part-time students are not eligible",
+        "Mutually exclusive with HKPFS, Kuok Group Fellowship, PPPFS, and IPFS"
+      ]
+    },
+    {
+      "id": "polyu-hkpfs",
+      "name": "RGC Hong Kong PhD Fellowship Scheme (HKPFS)",
+      "university": "PolyU",
+      "university_code": "polyu",
+      "type": "fellowship",
+      "eligibility_clues": [
+        "PolyU invites applications from the best and brightest students worldwide for full-time PhD studies",
+        "Package is labelled PolyU's HKPFS Package 2027/28 and covers the entire normal study period",
+        "Candidates should show excellent academic performance, strong research ability and potential, leadership, and communication skills, in addition to admission requirements",
+        "HKPFS candidates nominated by PolyU to the RGC will automatically be offered a PhD place with the PPPFS scholarship package",
+        "Select 2027/28 Semester 1 (Sept 2027 Entry) on the PolyU application"
+      ],
+      "amount": "Annual Stipend: HK$344,400 (~US$44,154)",
+      "amount_note": "Also printed for the entire normal study period: Research Excellence Scholarship in the form of a tuition fee waiver; Annual Conference Grant: HK$14,400 (~US$1,846); Cash Award: HK$40,000 (~US$5,120) for the first year, and HK$20,000 (~US$2,560) per year from the second year to the end of the normal study period; University Accommodation: a guaranteed place for 2 years.",
+      "deadline": "RGC Application Deadline - 1 December 2026, HKT 12:00 GMT +8 hours; PolyU Application Deadline - 1 December 2026, HKT 23:59 GMT +8 hours",
+      "deadline_note": "Application period starts 1 September 2026. Initial application is to the RGC HKPFS system; full application is to PolyU RPgAdmission for 2027/28 Semester 1 (Sept 2027 Entry).",
+      "source_url": "https://www.polyu.edu.hk/gs/hkpfs/",
+      "match_tag": "possible",
+      "match_rationale": "A local applicant can apply for this 2027/28 full-time PhD fellowship, and the package includes an annual stipend plus a tuition waiver. It is a competitive fellowship rather than the baseline postgraduate studentship, and it does not cover MPhil.",
+      "login_required": false,
+      "intake_relevance": "Explicitly Academic Year 2027/28, September 2027 entry.",
+      "restrictions": [
+        "Full-time PhD only",
+        "MPhil is not covered",
+        "Competitive nomination by PolyU to the RGC"
+      ]
+    },
+    {
+      "id": "polyu-pppfs",
+      "name": "PolyU Presidential PhD Fellowship Scheme (PPPFS)",
+      "university": "PolyU",
+      "university_code": "polyu",
+      "type": "fellowship",
+      "eligibility_clues": [
+        "Designed for top candidates from around the world with exceptional academic/research achievements",
+        "Limited places each academic year; selection is competitive",
+        "Applicants must meet PhD entrance and English language requirements and show exceptional academic achievements, high-quality international publications, outstanding references, and strong communication, interpersonal, and leadership skills",
+        "Applicants applying for the HKPFS will be concurrently considered for Kuok Group Fellowship / PPPFS / IPFS",
+        "HKPFS candidates nominated by PolyU are offered a PhD place with the PPPFS package"
+      ],
+      "amount": "Annual Stipend of HK$340,800",
+      "amount_note": "Also printed for the entire normal study period: Conference Grant of HK$25,000; Research Excellence Scholarship in the form of a tuition fee waiver; Cash Award to support research and living expenses HK$40,000 in Year 1 and HK$20,000 per year in the remaining normal study period; University Accommodation: Eligible hall place for 1 year. The HKPFS page also prints this stipend as HK$340,800 (~US$43,692).",
+      "deadline": "unknown",
+      "deadline_note": "The PPPFS page does not print its own calendar deadline. It says applicants applying for the HKPFS will be concurrently considered. The HKPFS PolyU deadline printed on the HKPFS page is 1 December 2026, HKT 23:59 GMT +8 hours.",
+      "source_url": "https://www.polyu.edu.hk/gs/prospective-students/fellowship-scholarship-schemes/pppfs/",
+      "match_tag": "possible",
+      "match_rationale": "Worldwide eligibility includes a local Hong Kong applicant, and the package is a PhD stipend plus a tuition waiver. It is a competitive fellowship, not the standard studentship, and MPhil is outside it.",
+      "login_required": false,
+      "intake_relevance": "Considered with HKPFS applications for 2027/28 Semester 1 (Sept 2027 Entry). The PPPFS page itself does not print the intake year.",
+      "restrictions": [
+        "PhD programmes only",
+        "Limited competitive places",
+        "Concurrent consideration is tied to an HKPFS application"
+      ]
+    },
+    {
+      "id": "polyu-kuok-group-fellowship",
+      "name": "Kuok Group Fellowship",
+      "university": "PolyU",
+      "university_code": "polyu",
+      "type": "fellowship",
+      "eligibility_clues": [
+        "Designed for outstanding candidates worldwide with remarkable academic/research achievements",
+        "A limited number of fellowships are available on a competitive basis for the 2026/27 and 2027/28 academic years",
+        "Some quotas are reserved for candidates in environmental research areas",
+        "Applicants must meet PhD entrance and English language requirements and show exceptional academic achievements, high-quality international publications, outstanding references, and strong communication, interpersonal, and leadership skills",
+        "Applicants applying for the HKPFS will be concurrently considered for Kuok Group Fellowship / PPPFS / IPFS"
+      ],
+      "amount": "Annual Stipend of HK$340,800",
+      "amount_note": "Also printed for the entire normal study period: Conference Grant of HK$25,000; Research-related International Exchange Allowance of HK$20,000; Research Excellence Scholarship in the form of a tuition fee waiver; Cash Award HK$40,000 in Year 1 and HK$20,000 per year in the remaining normal study period; University Accommodation: Eligible hall place for 1 year.",
+      "deadline": "unknown",
+      "deadline_note": "No separate calendar deadline is printed. Consideration is concurrent with an HKPFS application. The HKPFS PolyU deadline on the HKPFS page is 1 December 2026, HKT 23:59 GMT +8 hours.",
+      "source_url": "https://www.polyu.edu.hk/gs/prospective-students/fellowship-scholarship-schemes/kuok/",
+      "match_tag": "possible",
+      "match_rationale": "The fellowship is open to candidates worldwide for the 2027/28 academic year and pays an annual stipend, so a local PhD applicant in computational mathematics is not excluded. It is a competitive fellowship, and some places are reserved for environmental research.",
+      "login_required": false,
+      "intake_relevance": "Printed as available for the 2026/27 and 2027/28 academic years.",
+      "restrictions": [
+        "PhD programmes only",
+        "Limited competitive places",
+        "Some quotas are reserved for candidates in environmental research areas"
+      ]
+    },
+    {
+      "id": "polyu-local-rpg-tuition-waiver",
+      "name": "Tuition Waiver for Local Research Postgraduate Students",
+      "university": "PolyU",
+      "university_code": "polyu",
+      "type": "tuition_waiver",
+      "eligibility_clues": [
+        "Non-means-tested tuition waiver for all local students enrolled in UGC-funded RPg programmes",
+        "The Hong Kong Polytechnic University is named as an eligible university",
+        "PolyU lists a Hong Kong Permanent Identity Card among documents that define a local student",
+        "Covers MPhil study for 2 years, PhD study for 3 years for students with a research master's degree, and PhD study for 4 years for students without a research master's degree",
+        "Both current and new students of RPg programmes are eligible",
+        "There is no cap on the number of waiver recipients"
+      ],
+      "amount": "unknown",
+      "amount_note": "The UGC page states: The entire tuition fee of the eligible students will be waived. No HKD tuition figure is printed on the UGC page or the PolyU handbook page.",
+      "deadline": "unknown",
+      "deadline_note": "No application deadline is printed. The waiver applies to eligible local students enrolled in UGC-funded RPg programmes.",
+      "source_url": "https://www.ugc.edu.hk/eng/rgc/funding_opport/tws.html",
+      "match_tag": "possible",
+      "match_rationale": "A Hong Kong permanent resident on a full-time UGC-funded PhD or MPhil, including Applied Mathematics, is in the population this waiver covers. It waives tuition and is not a monthly living stipend.",
+      "login_required": false,
+      "intake_relevance": "Applies to new as well as current students for the normative study period. Not limited to a single intake year on the page.",
+      "restrictions": [
+        "Local students in UGC-funded RPg programmes",
+        "Non-local students holding a student visa, an IANG visa, or a dependent visa issued at age 18 or above are not eligible",
+        "PolyU states that students holding a full-time employment visa are not eligible",
+        "Students are no longer eligible if the tuition fee has already been fully waived by another scheme"
+      ]
+    },
+    {
+      "id": "polyu-tps",
+      "name": "Teaching Postgraduate Studentship (for 2021/22 intake or before)",
+      "university": "PolyU",
+      "university_code": "polyu",
+      "type": "studentship",
+      "eligibility_clues": [
+        "Handbook section is titled for 2021/22 intake or before",
+        "Financial support for eligible full-time RPg students, with teaching or administrative duties",
+        "Only full-time RPg students who are not receiving a stipend are eligible for the assistantship",
+        "Recipients are appointed as part-time teaching assistants for normally nine months at 17 hours of work per week",
+        "An annual tuition fee subsidy is normally awarded after successful completion of that nine-month employment"
+      ],
+      "amount": "unknown",
+      "amount_note": "The amount of Assistantship will be stated in each appointment letter and adjusted automatically in accordance with the Postgraduate Scholarship. No HKD figure is printed.",
+      "deadline": "unknown",
+      "deadline_note": "No 2027/28 application deadline is printed. The scheme title limits it to the 2021/22 intake or before.",
+      "source_url": "https://www.polyu.edu.hk/gs/rpghandbook/section14-2-2/",
+      "match_tag": "weak",
+      "match_rationale": "This is a real full-time research-postgraduate assistantship, but the handbook limits it to students from the 2021/22 intake or before, so it is not a route for 2027/28 entry.",
+      "login_required": false,
+      "intake_relevance": "Restricted to the 2021/22 intake or before. Not the 2027/28 round.",
+      "restrictions": [
+        "For 2021/22 intake or before",
+        "Only full-time RPg students who are not receiving a stipend",
+        "Part-time teaching-assistant appointment of normally nine months"
+      ]
+    },
+    {
+      "id": "polyu-ama-taught-postgraduate-scholarship",
+      "name": "Applied Mathematics Scholarship for Outstanding Taught Postgraduates",
+      "university": "PolyU",
+      "university_code": "polyu",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "One-off scholarship for outstanding students studying AMA taught postgraduate programmes",
+        "Average GPA of the best 4 subjects should be at least 3.7 or above",
+        "The student should have completed at least two semesters",
+        "The Department identifies candidates; the panel informs awardees in around June/July every year"
+      ],
+      "amount": "HKD10,000 per scholarship (one-off)",
+      "amount_note": "Printed as HKD10,000 per scholarship (one-off).",
+      "deadline": "unknown",
+      "deadline_note": "No application deadline is printed. Awardees are informed in around June/July every year.",
+      "source_url": "https://www.polyu.edu.hk/ama/experience-and-opportunities/scholarships-and-financial-aid/",
+      "match_tag": "weak",
+      "match_rationale": "This is an Applied Mathematics award, but it is for students already on taught postgraduate programmes, not for PhD or MPhil entry.",
+      "login_required": false,
+      "intake_relevance": "Current taught postgraduate students after at least two semesters. Not a 2027/28 research-degree admission award.",
+      "restrictions": [
+        "Taught postgraduate programmes only",
+        "Not a research postgraduate studentship"
+      ]
+    },
+    {
+      "id": "polyu-fcms-hkdse-entry-scholarship",
+      "name": "Entry Scholarship for Local Students with HKDSE Qualification (Faculty of Computer and Mathematical Sciences)",
+      "university": "PolyU",
+      "university_code": "polyu",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "2027/28 entry scholarship, subject to approval",
+        "Current year Secondary Six local student taking the HKDSE at first attempt",
+        "Full-time Bachelor's Degree schemes",
+        "Department of Applied Mathematics programme listed: BSc (Hons) Scheme in Applied Mathematics and Finance Analytics (JS3220)",
+        "No application is required; eligible students are automatically considered",
+        "Local admittees are students who do not require a student visa to study in Hong Kong"
+      ],
+      "amount": "Scholarship Amount (HK$) 30,000; 20,000; 15,000; 10,000",
+      "amount_note": "AMA bachelor's scheme tiers printed under Scholarship Amount (HK$): 30,000 for an aggregate DSE score of 27 or above for the Best 5 subjects; 20,000 for Level 5** in 1 subject or an aggregate DSE score of 26 or 26.5; 15,000 for 25 or 25.5; 10,000 for 24 or 24.5. The same page says undergraduate students awarded the academic Entry Scholarship will also receive an additional HK$30,000 exchange scholarship. Subject to approval.",
+      "deadline": "unknown",
+      "deadline_note": "No application is required. Eligible students are automatically considered. No calendar deadline is printed.",
+      "source_url": "https://www.polyu.edu.hk/study/ug/fees-and-scholarships/scholarships/local-jupas-fcms-scholarship",
+      "match_tag": "weak",
+      "match_rationale": "The award is local and sits in the faculty that houses Applied Mathematics, but it is an undergraduate HKDSE entry scholarship, not research-postgraduate funding.",
+      "login_required": false,
+      "intake_relevance": "2027/28 undergraduate HKDSE entry. Not PhD or MPhil.",
+      "restrictions": [
+        "Undergraduate HKDSE entry only",
+        "Subject to approval",
+        "Current year Secondary Six local students at first attempt"
+      ]
+    },
+    {
+      "id": "polyu-ama-exchange-sponsorship",
+      "name": "AMA Exchange Sponsorship",
+      "university": "PolyU",
+      "university_code": "polyu",
+      "type": "other",
+      "eligibility_clues": [
+        "Sponsorship for AMA undergraduates who complete the Global Semester Exchange Program organized by the Global Engagement Office",
+        "Effective from Semester One of the 2024/25 academic year",
+        "The department page says to find details elsewhere and does not print an amount"
+      ],
+      "amount": "unknown",
+      "amount_note": "No HKD amount is printed on the AMA scholarship page. A separate undergraduate entry-scholarship page prints an additional HK$30,000 exchange scholarship for entry-scholarship holders; that figure is not stated as this departmental sponsorship.",
+      "deadline": "unknown",
+      "deadline_note": "No deadline is printed on the AMA scholarship page.",
+      "source_url": "https://www.polyu.edu.hk/ama/experience-and-opportunities/scholarships-and-financial-aid/",
+      "match_tag": "weak",
+      "match_rationale": "This is an Applied Mathematics award, but it supports undergraduate exchange, not a PhD or MPhil stipend.",
+      "login_required": false,
+      "intake_relevance": "Undergraduate exchange from Semester One of 2024/25. Not 2027/28 research postgraduate entry.",
+      "restrictions": [
+        "AMA undergraduates only"
+      ]
+    },
+    {
+      "id": "polyu-financial-assistance-scheme",
+      "name": "PolyU Financial Assistance Scheme",
+      "university": "PolyU",
+      "university_code": "polyu",
+      "type": "other",
+      "eligibility_clues": [
+        "Grants and interest-free loans for full-time government-funded local students with genuine financial difficulties",
+        "Most of the funds have been earmarked for undergraduate students by donors",
+        "Limited funds are available for local RPg students",
+        "The level of assistance is described as much lower than the Government schemes",
+        "Non-local RPg students are not eligible for financial assistance from PolyU or the HKSAR Government"
+      ],
+      "amount": "unknown",
+      "amount_note": "No HKD amount for an RPg student is printed on the handbook page.",
+      "deadline": "unknown",
+      "deadline_note": "No application deadline is printed on the handbook page.",
+      "source_url": "https://www.polyu.edu.hk/gs/rpghandbook/section14-3-4/",
+      "match_tag": "weak",
+      "match_rationale": "A local full-time research student can be considered, but this is a means-tested grant and loan with most funds reserved for undergraduates, not a mathematics postgraduate studentship.",
+      "login_required": false,
+      "intake_relevance": "Available to enrolled full-time government-funded local students. Intake year is not stated.",
+      "restrictions": [
+        "Local full-time government-funded students",
+        "Means-tested financial difficulty",
+        "Limited funds for local RPg students"
+      ]
+    },
+    {
+      "id": "polyu-tsfs",
+      "name": "Government Tertiary Student Finance Scheme - Publicly-funded Programmes",
+      "university": "PolyU",
+      "university_code": "polyu",
+      "type": "other",
+      "eligibility_clues": [
+        "Full-time government-funded students who have the right of abode in Hong Kong, or have resided or had their homes in Hong Kong continuously for three complete years immediately prior to starting their studies",
+        "Assistance is grants and loans",
+        "Grants are intended to cover tuition fees and academic expenses; loans are for living expenses",
+        "Applications are means-tested, with varying amounts according to Adjusted Family Income and Family Asset Level",
+        "The UGC tuition-waiver page says students covered by that waiver are no longer eligible for TSFS tuition-fee grants, but may still apply for means-tested grants and loans for academic expenses and living expenses"
+      ],
+      "amount": "unknown",
+      "amount_note": "Varying amounts offered according to the applicants' Adjusted Family Income and Family Asset Level. No HKD figure is printed.",
+      "deadline": "within one month of registration and in any case not later than the end of March for new admittees",
+      "deadline_note": "Printed rule for new admittees. No calendar date for the 2027/28 intake is printed.",
+      "source_url": "https://www.polyu.edu.hk/gs/rpghandbook/section14-3-2/",
+      "match_tag": "weak",
+      "match_rationale": "A Hong Kong permanent resident on a full-time funded programme can apply for means-tested grants and living-expense loans. It is government financial assistance, not a postgraduate studentship, and the tuition-grant part overlaps the local RPg tuition waiver.",
+      "login_required": false,
+      "intake_relevance": "New admittees apply after registration. Not tied to a named 2027/28 scholarship round.",
+      "restrictions": [
+        "Full-time government-funded students",
+        "Right of abode or three complete years of residence immediately before studies",
+        "Means-tested"
+      ]
+    },
+    {
+      "id": "polyu-nls",
+      "name": "Government Non-Means-tested Loan Scheme",
+      "university": "PolyU",
+      "university_code": "polyu",
+      "type": "other",
+      "eligibility_clues": [
+        "Loans for local full-time and part-time students to cover tuition fees",
+        "Applications are non-means-tested",
+        "An administration fee and a relatively higher interest rate are charged",
+        "Both government-funded and self-financed students can apply",
+        "Local full-time UGC-funded RPg students are separately described as receiving a tuition waiver"
+      ],
+      "amount": "unknown",
+      "amount_note": "No HKD loan cap or interest rate is printed on the PolyU handbook page.",
+      "deadline": "unknown",
+      "deadline_note": "The page says students can apply before the deadline set by the government. That date is not printed.",
+      "source_url": "https://www.polyu.edu.hk/gs/rpghandbook/section14-3-3/",
+      "match_tag": "weak",
+      "match_rationale": "This is a tuition-fee loan for local students, including research students. It is not a living stipend, and local full-time UGC-funded RPg tuition is already covered by the tuition waiver.",
+      "login_required": false,
+      "intake_relevance": "Open to local students before the government deadline. The 2027/28 date is not printed here.",
+      "restrictions": [
+        "Loan for tuition fees",
+        "Local full-time and part-time students"
+      ]
+    },
+    {
+      "id": "polyu-ipfs",
+      "name": "International PhD Fellowship Scheme (IPFS)",
+      "university": "PolyU",
+      "university_code": "polyu",
+      "type": "fellowship",
+      "eligibility_clues": [
+        "Aims to attract and recruit high-calibre foreign students for full-time PhD studies",
+        "Open to high-calibre foreign PhD applicants from outside the Chinese Mainland, Macau, and Taiwan",
+        "Applicants should contribute to the internationalisation of the University",
+        "Following the HKPFS application deadline, all foreign PhD applicants will be considered for the IPFS",
+        "No separate application is required"
+      ],
+      "amount": "Annual Stipend: HK$230,640 HK$235,920 for PhD students who have confirmed registration",
+      "amount_note": "Also printed: Conference Grant of HK$25,000; Research Excellence Scholarship in the form of a tuition fee waiver; Cash Award may be allocated to outstanding applicants HK$40,000 in Year 1 and HK$20,000 per year in the remaining normal study period; University Accommodation: Eligible hall place for 1 year.",
+      "deadline": "unknown",
+      "deadline_note": "No separate IPFS calendar deadline is printed. Foreign PhD applicants are considered after the HKPFS application deadline. The HKPFS deadline on the HKPFS page is 1 December 2026.",
+      "source_url": "https://www.polyu.edu.hk/gs/prospective-students/fellowship-scholarship-schemes/ipfs/",
+      "match_tag": "out_of_scope",
+      "match_rationale": "The scheme is restricted to foreign PhD applicants from outside the Chinese Mainland, Macau, and Taiwan. A local Hong Kong permanent resident is outside that group.",
+      "login_required": false,
+      "intake_relevance": "Considered with foreign PhD applications around the HKPFS round. The IPFS page does not print 2027/28.",
+      "restrictions": [
+        "Foreign PhD applicants from outside the Chinese Mainland, Macau, and Taiwan",
+        "Full-time PhD only",
+        "Not open to local Hong Kong permanent residents on the printed eligibility"
+      ]
+    }
+  ],
+  "blockers": [
+    "https://www.polyu.edu.hk/gs/prospective-students/fellowship-scholarship-schemes/prpgs/ returned HTTP 404. PRPgS details were taken from the Graduate School fellowship and scholarship schemes page, not from a guessed PRPgS subpage.",
+    "https://www.polyu.edu.hk/gs/rpghandbook/section14-2/ returned a title only, so the handbook funding-support index could not be read.",
+    "The Department of Computing HKPFS page prints an annual stipend of HK$337,200 and a yearly conference and research-related travel allowance of HK$14,000 for up to three years, plus an exchange sponsorship. Those figures were not used. The HKPFS row uses the Graduate School page labelled 2027/28.",
+    "The RPgAdmission system was not opened. No login-walled offer or award text was collected. login_required is false on every row because the cited pages are public."
+  ]
+}

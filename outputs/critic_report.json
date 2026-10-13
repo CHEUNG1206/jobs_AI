@@ -1,0 +1,118 @@
+{
+  "reviewed_at": "2026-10-13",
+  "verdict": "changes_required",
+  "files": [
+    {
+      "university_code": "hku",
+      "opportunity_count": 34,
+      "status": "changes_required",
+      "demands": [
+        {
+          "id": "hku-international-postgraduate-scholarship-computer-science",
+          "severity": "reject",
+          "issue": "The cited scheme page prints two conflicting award values. One paragraph says the value of each scholarship shall be at least 25% of the tuition fee. A later paragraph says the value of each scholarship shall cover the composition fee of 72 credits. The amount field keeps only the first.",
+          "demand": "Set amount to unknown. Do not choose either printed statement as the single amount."
+        }
+      ]
+    },
+    {
+      "university_code": "cuhk",
+      "opportunity_count": 26,
+      "status": "changes_required",
+      "demands": [
+        {
+          "id": "cuhk-hkpfs",
+          "severity": "fix",
+          "issue": "Tagged possible although the cited HKPFS page prints a stipend of HK$344,400 (approx. US$44,200) per year, says Join us in the 2027-28 academic year, and includes an awardee from Hong Kong, China. The stated reasons for possible are that it is a fellowship rather than the baseline studentship and that it does not cover MPhil.",
+          "demand": "Retag match_tag to strong. Keep the printed stipend. The scheme is PhD-only; leave that in restrictions. Do not keep the tag at possible because MPhil is excluded."
+        }
+      ]
+    },
+    {
+      "university_code": "hkust",
+      "opportunity_count": 19,
+      "status": "changes_required",
+      "demands": [
+        {
+          "id": "hkust-pgs",
+          "severity": "fix",
+          "issue": "deadline is 1 Jun 2027, but the cited scholarships-and-fees page does not print that date. The deadline_note says the date is on the 2027/28 Mathematics catalog.",
+          "demand": "Set deadline to unknown. Do not copy the catalog date onto this source_url."
+        },
+        {
+          "id": "hkust-hkpfs",
+          "severity": "fix",
+          "issue": "Tagged possible although the cited HKPFS page lists Hong Kong among awardee places of origin, prints Stipend: HK$ 344,400 (~US$44,130) per year for 4 years, and says the application for 2027/28 is now opened. The stated reasons for possible are that it is not the baseline studentship and that it does not cover MPhil.",
+          "demand": "Retag match_tag to strong. Keep the printed stipend. The scheme is PhD-only; leave that in restrictions. Do not keep the tag at possible because MPhil is excluded."
+        }
+      ]
+    },
+    {
+      "university_code": "cityu",
+      "opportunity_count": 19,
+      "status": "changes_required",
+      "demands": [
+        {
+          "id": "cityu-postgraduate-studentship",
+          "severity": "fix",
+          "issue": "Tagged strong for the 2027/28 profile, but the cited February 2026 handbook prints the rate as the 2025/26 academic year and sets the main admission deadline as the first week of December 2025. It says the rate is revised every September. It does not show a 2027/28 intake. The basic rate phrase itself is on the page: In the 2025/26 academic year, the studentship Basic Rate is HK$19,100 per month and the Advanced Rate is HK$19,600 per month.",
+          "demand": "Retag match_tag to possible. Keep the amount only as that printed 2025/26 basic rate. Do not treat HK$19,100 per month as a 2027/28 rate."
+        }
+      ]
+    },
+    {
+      "university_code": "polyu",
+      "opportunity_count": 13,
+      "status": "pass",
+      "demands": []
+    },
+    {
+      "university_code": "hkbu",
+      "opportunity_count": 37,
+      "status": "changes_required",
+      "demands": [
+        {
+          "id": "hkbu-hkpfs",
+          "severity": "fix",
+          "issue": "deadline is 1 December 2026 (Hong Kong Time 12:00 noon), but the cited introduction page does not print that date. The deadline_note takes it from the admission timeline page.",
+          "demand": "Set deadline to unknown while source_url stays the introduction page. The timeline page prints 1 Sep - 1 Dec 2026 (Hong Kong Time 12:00 noon) for the RGC step and 1 Sep - 1 Dec 2026 (Hong Kong Time 23:59) for the HKBU full application. Use a deadline on this row only if source_url is that timeline page and the deadline is one of those printed phrases."
+        },
+        {
+          "id": "hkbu-hkpfs-elite-scholar-award",
+          "severity": "fix",
+          "issue": "deadline is 1 December 2026 (Hong Kong Time 12:00 noon). The amount_note says no separate Elite Scholar Award deadline is printed, and the cited introduction page does not print that date.",
+          "demand": "Set deadline to unknown."
+        }
+      ]
+    },
+    {
+      "university_code": "lingnan",
+      "opportunity_count": 17,
+      "status": "changes_required",
+      "demands": [
+        {
+          "id": "lingnan-hkpfs",
+          "severity": "fix",
+          "issue": "Tagged strong, but the cited Lingnan HKPFS page does not show that local students are eligible. It prints the stipend as the 2026-27 rate: In 2026-27, each Fellowship awardee will be provided with a monthly stipend of HK$28,700 (subject to annual review). The 2027-28 label on that page is the application type, not a statement that this dollar rate is the 2027/28 rate. The irrespective-of-country sentence is on the RGC page, not this source_url.",
+          "demand": "Retag match_tag to possible. Do not change the amount. The scheme is PhD-only; say that in the rationale. Do not retag to strong unless the cited page itself shows local eligibility."
+        }
+      ]
+    },
+    {
+      "university_code": "eduhk",
+      "opportunity_count": 23,
+      "status": "pass",
+      "demands": []
+    },
+    {
+      "university_code": "hkpfs",
+      "opportunity_count": 4,
+      "status": "pass",
+      "demands": []
+    }
+  ],
+  "cross_file": [
+    "HKPFS may exist both as hkpfs-phd-fellowship and as each university row. Cited-page check: HKU, HKBU, EdUHK, and the RGC call letter show local eligibility, a printed stipend, and the 2027/28 round, so strong stands. CUHK and HKUST meet that test and are demanded up to strong. CityU and PolyU print a 2027/28 stipend but do not show local eligibility on the cited page, so possible stands. Lingnan is demanded down to possible. Every HKPFS row is PhD-only; that exclusion alone does not keep a row at possible.",
+    "The UGC Tuition Waiver for Local Research Postgraduate Students is entered in every university file and again as hkpfs-local-rpg-tuition-waiver. The FAQ prints the fee path ending HK$49,500 in 2027/28 AY. HKU's fees page prints the same 2027/28 composition fee. HKUST's scholarships page prints Tuition Waiver of HK$ 49,500 p.a. and, separately, research postgraduate tuition of HK$47,000. CUHK, PolyU, Lingnan, and EdUHK do not put an HKD waiver amount. No file lists the same award twice under two ids."
+  ]
+}

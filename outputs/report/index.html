@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Hong Kong Studentship / Scholarship Radar</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="mast">
+    <div class="radar-field" aria-hidden="true">
+      <span class="ring ring-a"></span>
+      <span class="ring ring-b"></span>
+      <span class="ring ring-c"></span>
+      <span class="sweep"></span>
+    </div>
+    <p class="kicker">Official public pages</p>
+    <h1>Hong Kong Studentship / Scholarship Radar</h1>
+
+    <section class="profile" aria-label="Profile">
+      <h2>Profile</h2>
+      <ul>
+        <li>Research postgraduate, PhD or MPhil</li>
+        <li>Computing Mathematics</li>
+        <li>2027/28 intake</li>
+        <li>Local Hong Kong permanent resident</li>
+        <li>Monthly living stipend first; fellowships and tuition waivers are a plus</li>
+      </ul>
+    </section>
+
+    <section class="totals" aria-label="Totals">
+      <article class="stat" id="stat-total">
+        <p class="stat-label">Opportunities</p>
+        <p class="stat-value" aria-hidden="true">0</p>
+      </article>
+      <article class="stat" id="stat-strong">
+        <p class="stat-label">Strong matches</p>
+        <p class="stat-value" aria-hidden="true">0</p>
+      </article>
+      <article class="stat" id="stat-universities">
+        <p class="stat-label">Universities covered</p>
+        <p class="stat-value" aria-hidden="true"><span class="stat-num">0</span><span class="stat-denom">/8</span></p>
+      </article>
+    </section>
+  </header>
+
+  <main>
+    <section class="controls" aria-label="Search and filters">
+      <div class="search-row">
+        <label for="search">Search</label>
+        <input id="search" type="search" placeholder="Name, university, or eligibility" autocomplete="off">
+      </div>
+
+      <div class="filter-block">
+        <p class="filter-label" id="match-label">Match</p>
+        <div id="tag-filters" class="filters" role="group" aria-labelledby="match-label"></div>
+      </div>
+
+      <div class="filter-block">
+        <p class="filter-label" id="university-label">University</p>
+        <div id="uni-filters" class="filters" role="group" aria-labelledby="university-label"></div>
+        <p class="filter-note">Eight UGC universities. HKPFS is an RGC/UGC hub, not a ninth university.</p>
+      </div>
+
+      <p id="shown" class="shown" aria-live="polite"></p>
+    </section>
+
+    <p id="empty" class="empty" hidden>No opportunities match.</p>
+    <div id="board" class="board"></div>
+  </main>
+
+  <div id="scrim" class="scrim" hidden></div>
+  <aside id="detail" class="detail" role="dialog" aria-modal="true" aria-labelledby="detail-title" hidden>
+    <div class="detail-bar">
+      <p id="detail-kicker" class="detail-kicker"></p>
+      <button type="button" id="detail-close">Close</button>
+    </div>
+    <h2 id="detail-title"></h2>
+    <p id="detail-type" class="detail-type"></p>
+
+    <section>
+      <h3>Eligibility clues</h3>
+      <ul id="detail-clues"></ul>
+    </section>
+
+    <dl class="facts">
+      <dt>Amount</dt>
+      <dd id="detail-amount"></dd>
+      <dt>Amount note</dt>
+      <dd id="detail-amount-note"></dd>
+      <dt>Deadline</dt>
+      <dd id="detail-deadline"></dd>
+      <dt>Deadline note</dt>
+      <dd id="detail-deadline-note"></dd>
+      <dt>Login required</dt>
+      <dd id="detail-login"></dd>
+    </dl>
+
+    <section>
+      <h3>Restrictions</h3>
+      <ul id="detail-restrictions"></ul>
+    </section>
+
+    <section>
+      <h3>Match rationale</h3>
+      <p id="detail-rationale"></p>
+    </section>
+
+    <section>
+      <h3>Source</h3>
+      <p><a id="detail-source" target="_blank" rel="noopener noreferrer">Open source page</a></p>
+      <p id="detail-url" class="source-url"></p>
+    </section>
+  </aside>
+
+  <footer class="colophon">
+    <h2>How this was built</h2>
+    <p>The Orchestrator confirmed the profile and merged the records. Nine University Scouts (eight universities plus HKPFS) read official public pages in one wave. The Critic reviewed the nine files. The Frontend Builder assembled this page.</p>
+    <p>Amounts came only from cited public pages. The critic forced eight corrections before this page was built.</p>
+    <p>The universities covered are the eight UGC universities. HKPFS is an extra RGC/UGC hub, not a ninth university.</p>
+  </footer>
+
+  <noscript>
+    <p class="noscript">JavaScript is required to list the opportunities.</p>
+  </noscript>
+  <script src="app.js" charset="utf-8"></script>
+</body>
+</html>

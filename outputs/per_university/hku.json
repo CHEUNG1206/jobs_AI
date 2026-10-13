@@ -1,0 +1,1139 @@
+{
+  "university_code": "hku",
+  "university_name": "The University of Hong Kong",
+  "scouted_at": "2026-10-13",
+  "profile_ref": "rpg-computing-mathematics-local-2027-28",
+  "sources_consulted": [
+    {
+      "url": "https://gradsch.hku.hk/prospective_students/fees_scholarships_and_financial_support/postgraduate_scholarships",
+      "title": "Postgraduate Scholarships | HKU Graduate School",
+      "accessed": "2026-10-13",
+      "note": "University-wide Postgraduate Scholarship monthly rates effective 1/9/2026 for full-time PhD and MPhil."
+    },
+    {
+      "url": "https://gradsch.hku.hk/prospective_students/fees_scholarships_and_financial_support/postgraduate_scholarships/rgps",
+      "title": "Regulations Governing Postgraduate Scholarships | HKU Graduate School",
+      "accessed": "2026-10-13",
+      "note": "PGS purpose, full-time MPhil/PhD eligibility, monthly payment, and application with admission."
+    },
+    {
+      "url": "https://gradsch.hku.hk/prospective_students/fees_scholarships_and_financial_support/hong_kong_phd_fellowship_scheme",
+      "title": "Hong Kong PhD Fellowship Scheme | HKU Graduate School",
+      "accessed": "2026-10-13",
+      "note": "HKU 2027/28 HKPFS package, nomination steps, and December 1, 2026 deadlines."
+    },
+    {
+      "url": "https://gradsch.hku.hk/prospective_students/fees_scholarships_and_financial_support/hku_presidential_phd_scholar_programme",
+      "title": "HKU Presidential PhD Scholar Programme | HKU Graduate School",
+      "accessed": "2026-10-13",
+      "note": "2027/28 HKU-PS package for full-time PhD applicants and Main Round window."
+    },
+    {
+      "url": "https://gradsch.hku.hk/prospective_students/application/application_period",
+      "title": "Application Period | HKU Graduate School",
+      "accessed": "2026-10-13",
+      "note": "2027/28 PhD and MPhil Main Round and clearing-round dates."
+    },
+    {
+      "url": "https://gradsch.hku.hk/prospective_students/application/faq_on_application",
+      "title": "FAQ on Application | HKU Graduate School",
+      "accessed": "2026-10-13",
+      "note": "PGS is indicated on the admission form; FAQ uses second class honours upper division. First fetch returned 404; a second fetch succeeded."
+    },
+    {
+      "url": "https://gradsch.hku.hk/prospective_students/fees_scholarships_and_financial_support/fees",
+      "title": "Fees | HKU Graduate School",
+      "accessed": "2026-10-13",
+      "note": "2026/27 and 2027/28 full-time composition fees and the local UGC tuition waiver."
+    },
+    {
+      "url": "https://gradsch.hku.hk/prospective_students/admitted_students",
+      "title": "Important Information for Admitted Students | HKU Graduate School",
+      "accessed": "2026-10-13",
+      "note": "Confirms composition-fee waiver for local full-time students and for HKU-PS and HKPFS awardees."
+    },
+    {
+      "url": "https://www.ugc.edu.hk/eng/rgc/funding_opport/tws.html",
+      "title": "Home > Funding Opportunities > Tuition Waiver for Local RPg Students",
+      "accessed": "2026-10-13",
+      "note": "UGC tuition waiver for local full-time UGC-funded RPg students, including The University of Hong Kong."
+    },
+    {
+      "url": "https://gradsch.hku.hk/prospective_students/fees_scholarships_and_financial_support/financial_support_and_awards",
+      "title": "Financial Support and Awards | HKU Graduate School",
+      "accessed": "2026-10-13",
+      "note": "Names further RPG awards and the non-local Belt and Road Scholarship (Research Postgraduate)."
+    },
+    {
+      "url": "https://www.scifac.hku.hk/rpg/rpf-rps",
+      "title": "Research Postgraduate Fellowship / Scholarship - Research Postgraduate Programme - Faculty of Science, HKU",
+      "accessed": "2026-10-13",
+      "note": "Faculty of Science restatement of HKU-PS, HKPFS, PGS, local tuition waiver, Robert Whyte, Hung Hing Ying, and Doris Chen."
+    },
+    {
+      "url": "https://www.scifac.hku.hk/rpg/faq",
+      "title": "FAQ - Research Postgraduate Programme - Faculty of Science, HKU",
+      "accessed": "2026-10-13",
+      "note": "Mathematics is an RPG department. HKU-PS and HKPF cannot be held with the PGS packages."
+    },
+    {
+      "url": "https://hkumath.hku.hk/web/prospective/p-pg-admission.php",
+      "title": "Department of Mathematics, HKU",
+      "accessed": "2026-10-13",
+      "note": "Mathematics applicants tick Postgraduate Studentship, HKPF, or HKU-PS. The printed application period is still 2023-24."
+    },
+    {
+      "url": "https://hkumath.hku.hk/web/teaching/postgrad_regulation.html",
+      "title": "Research Programmes (MPhil and PhD regulations)",
+      "accessed": "2026-10-13",
+      "note": "Mathematics MPhil/PhD research areas include applied mathematics, mathematical modelling, operational research, and scientific computing."
+    },
+    {
+      "url": "https://hkumath.hku.hk/web/research/cfm.php",
+      "title": "Department of Mathematics, HKU",
+      "accessed": "2026-10-13",
+      "note": "Computational Mathematics research group in the Department of Mathematics. No separate funding scheme on this page."
+    },
+    {
+      "url": "https://hkumath.hku.hk/web/prize/regulations.php",
+      "title": "Department of Mathematics, HKU",
+      "accessed": "2026-10-13",
+      "note": "Index of mathematics prizes and scholarships, including undergraduate-only awards and Doris Chen postgraduate schemes."
+    },
+    {
+      "url": "https://hkumath.hku.hk/web/prize/regulation_scholarships.pdf",
+      "title": "Regulation for the Doris Chen Postgraduate Scholarships",
+      "accessed": "2026-10-13",
+      "note": "December 2013 regulation: mathematics RPG entrance scholarship or top-up amounts."
+    },
+    {
+      "url": "https://hkumath.hku.hk/web/prize/regulations_grad_prizes.pdf",
+      "title": "Regulation for the Doris Chen Postgraduate Prizes",
+      "accessed": "2026-10-13",
+      "note": "December 2017 regulation: mathematics RPG publication or thesis prizes."
+    },
+    {
+      "url": "https://hkumath.hku.hk/web/prize/regulations-travel-grants-June23-2014.pdf",
+      "title": "Regulations Governing the Doris Chen Postgraduate Travel Grants",
+      "accessed": "2026-10-13",
+      "note": "Travel-grant caps for full-time mathematics MPhil and PhD students. Amended June 23, 2014."
+    },
+    {
+      "url": "https://scholar.aas.hku.hk/?action=showonesscheme&ss_id=386",
+      "title": "Doris Chen Memorial Fund",
+      "accessed": "2026-10-13",
+      "note": "Fund primarily benefits full-time mathematics RPG students. Value of Award on this page is blank."
+    },
+    {
+      "url": "https://scholar.aas.hku.hk/?action=showonesscheme&ss_id=261",
+      "title": "University Postgraduate Fellowships",
+      "accessed": "2026-10-13",
+      "note": "Entrance fellowships for new full-time research postgraduates. No deadline or intake year printed."
+    },
+    {
+      "url": "https://scholar.aas.hku.hk/?action=showonesscheme&ss_id=149",
+      "title": "Hung Hing Ying Scholarship",
+      "accessed": "2026-10-13",
+      "note": "Faculty of Science MPhil/PhD merit scholarship. Value HK$15,000. No calendar deadline on this page."
+    },
+    {
+      "url": "https://scholar.aas.hku.hk/?action=showonesscheme&ss_id=176",
+      "title": "Li Po Chun Charitable Trust Fund Postgraduate Scholarship",
+      "accessed": "2026-10-13",
+      "note": "Local permanent-resident full-time MPhil/PhD scholarship. Value printed as 8000."
+    },
+    {
+      "url": "https://scholar.aas.hku.hk/?action=showonesscheme&ss_id=701",
+      "title": "Dissertation Year Fellowship",
+      "accessed": "2026-10-13",
+      "note": "Additional year for outstanding final-year full-time PhD students. Monthly dollar rate not printed. Last update 2025-06-09."
+    },
+    {
+      "url": "https://scholar.aas.hku.hk/?action=showonesscheme&ss_id=611",
+      "title": "Robert Whyte Memorial Postgraduate Fellowship",
+      "accessed": "2026-10-13",
+      "note": "Applied-ecology PhD fellowship. Value of Award printed as To be determined."
+    },
+    {
+      "url": "https://aas.hku.hk/apply-scholarships/",
+      "title": "Apply for Scholarships",
+      "accessed": "2026-10-13",
+      "note": "Last updated 2026-10-07. Lists Hung Hing Ying and Li Po Chun application deadline as 12:00 noon, November 6, 2026, via HKU Portal."
+    },
+    {
+      "url": "https://gradsch.hku.hk/news_and_events/news_and_future_events/research-postgraduate-student-innovation-award-202526",
+      "title": "Research Postgraduate Student Innovation Award 2025/26 | HKU Graduate School",
+      "accessed": "2026-10-13",
+      "note": "2025/26 call: research grant for current PhD and MPhil students, deadline September 15, 2025."
+    },
+    {
+      "url": "https://gradsch.hku.hk/news_and_events/news_and_future_events/hku-foundation-publication-award-research-postgraduate-1",
+      "title": "HKU Foundation Publication Award for Research Postgraduate Students 2026 | HKU Graduate School",
+      "accessed": "2026-10-13",
+      "note": "2026 Publication Award and 2025/26 First Year Excellent PhD Award, both cash prizes, Faculty Office deadline February 28, 2026."
+    },
+    {
+      "url": "https://gradsch.hku.hk/news_and_events/news_and_future_events/hku-foundation-publication-award-research-postgraduate-0",
+      "title": "HKU Foundation Publication Award for Research Postgraduate Students 2025 | HKU Graduate School",
+      "accessed": "2026-10-13",
+      "note": "Previous 2025 / 2024/25 call for the same two HKU Foundation prizes. Not used as the current-round source."
+    },
+    {
+      "url": "https://gradsch.hku.hk/news_and_events/newsletter/hku-foundation-publication-award-research-postgraduate-students",
+      "title": "HKU Foundation Publication Award for Research Postgraduate Students | HKU Graduate School",
+      "accessed": "2026-10-13",
+      "note": "March 2024 newsletter. No cash value printed."
+    },
+    {
+      "url": "https://gradsch.hku.hk/news_and_events/newsletter/li-ka-shing-prizes-and-hku-foundation-award-outstanding-research",
+      "title": "Li Ka Shing Prizes and HKU Foundation Award for Outstanding Research Postgraduate Students | HKU Graduate School",
+      "accessed": "2026-10-13",
+      "note": "Thesis prizes for PhD and MPhil. No cash value or deadline printed."
+    },
+    {
+      "url": "https://scholar.aas.hku.hk/?action=showonesscheme&ss_id=599",
+      "title": "International Postgraduate Scholarships for Computer Science",
+      "accessed": "2026-10-13",
+      "note": "Taught MSc(CompSc) scholarship for full-time non-local students. Two different value statements appear on the page."
+    },
+    {
+      "url": "https://master.cds.hku.hk/msccs/admission/msc-in-computer-science-scholarships/",
+      "title": "MSc in Computer Science - Scholarships - HKU, School of Computing and Data Science, Taught Master Programmes",
+      "accessed": "2026-10-13",
+      "note": "Taught-master scholarships for MSc(CompSc) and related programmes, including local and non-local schemes. Also describes the Continuing Education Fund and links off-domain."
+    }
+  ],
+  "opportunities": [
+    {
+      "id": "hku-postgraduate-scholarship",
+      "name": "Postgraduate Scholarship (PGS)",
+      "university": "HKU",
+      "university_code": "hku",
+      "type": "studentship",
+      "eligibility_clues": [
+        "Full-time PhD and MPhil students, apart from HKU-PS and HKPFS awardees",
+        "Normally a first degree with second-class honours first division (or equivalent) or above; Master's results may also be considered",
+        "FAQ also says a first degree at second class honours upper division (or equivalent) or above",
+        "Subject to availability of funding, during the normative study period",
+        "Payments are made on a monthly basis",
+        "Apply by indicating Postgraduate Scholarship on the MPhil/PhD admission form; no separate form",
+        "Department of Mathematics: applicants need to check Yes for Postgraduate Studentship",
+        "Mathematics MPhil/PhD areas include scientific computing, mathematical modelling, and operational research"
+      ],
+      "amount": "HK$19,135 per month (wef 1/9/2026)",
+      "amount_note": "A PGS holder whose PhD probationary candidature has been confirmed receives a higher PGS rate (HK$19,655, wef 1/9/2026) from the following calendar month. The Faculty of Science page prints the same two rates.",
+      "deadline": "unknown",
+      "deadline_note": "The PGS page does not print a deadline. Applications are made with MPhil and PhD admission. For 2027/28 admission the Main Round is 1 September 2026 – 1 December 2026 (HKT 23:59, GMT+8); 1st Clearing Round 2 December 2026 – 30 April 2027 (HKT 23:59, GMT+8); 2nd Clearing Round 1 May 2027 – 31 August 2027 (HKT 23:59, GMT+8).",
+      "source_url": "https://gradsch.hku.hk/prospective_students/fees_scholarships_and_financial_support/postgraduate_scholarships",
+      "match_tag": "strong",
+      "match_rationale": "University-wide monthly postgraduate scholarship for full-time PhD and MPhil, with no local-student exclusion. The Department of Mathematics tells applicants to tick Postgraduate Studentship, and computational mathematics sits in that department. The printed rate takes effect 1/9/2026, during the open 2027/28 admission round.",
+      "login_required": false,
+      "intake_relevance": "Rate effective 1/9/2026. Admission applications for 2027/28 are open; PGS is requested on that application.",
+      "restrictions": [
+        "Full-time candidature only",
+        "Not the package paid to HKU-PS and HKPFS awardees",
+        "Subject to funding and satisfactory progress",
+        "Holder may be required to provide up to 100 hours of departmental training in a twelve-month period"
+      ]
+    },
+    {
+      "id": "hku-hkpfs",
+      "name": "Hong Kong PhD Fellowship Scheme (HKPFS)",
+      "university": "HKU",
+      "university_code": "hku",
+      "type": "fellowship",
+      "eligibility_clues": [
+        "New applicants to full-time PhD programmes in government-funded institutions",
+        "Irrespective of country of origin and ethnic background",
+        "Outstanding academic performance, research ability or potential, communication and interpersonal skills, and leadership abilities",
+        "Around 300 fellowships awarded by the RGC each academic year",
+        "HKU applicants must state HKU as the first choice in the RGC system",
+        "For the 2027/28 exercise, all HKPFS holders will be awarded the HKU Presidential PhD Scholarship",
+        "Department of Mathematics: check Yes for HKPF Scheme and complete the RGC initial application"
+      ],
+      "amount": "HK$28,700 per month",
+      "amount_note": "Postgraduate Scholarship of HK$28,700 per month and conference and research-related travel allowance of HK$14,400 per year for up to three years. HKU provides the same support in the fourth year of a 4-year PhD. On top, the 2027/28 HKU-PS top-up includes a cash award of HK$40,000 in Year 1 and HK$20,000 per year in the remaining normative study period, and a waiver of composition fees (i.e. HK$49,500 per year).",
+      "deadline": "December 1, 2026",
+      "deadline_note": "Step 1: RGC initial application on or before December 1, 2026 at 12:00 noon, Hong Kong Time (GMT +8 hours). Step 2: full HKU application, indicating HKPFS and quoting the HKPFS Reference Number, on or before December 1, 2026.",
+      "source_url": "https://gradsch.hku.hk/prospective_students/fees_scholarships_and_financial_support/hong_kong_phd_fellowship_scheme",
+      "match_tag": "strong",
+      "match_rationale": "Explicit 2027/28 full-time PhD fellowship that pays a monthly postgraduate scholarship. Local students are eligible because the scheme is irrespective of country of origin. Mathematics is not excluded, and the department lists HKPF on its admission page.",
+      "login_required": false,
+      "intake_relevance": "Fellowship Awards for 2027/28 Admission.",
+      "restrictions": [
+        "Full-time PhD only; not MPhil",
+        "Only one HKPFS award if successful",
+        "Choice of programmes, departments, and universities cannot be amended after the RGC deadline",
+        "Declining the first-choice institution does not transfer the offer to the second choice",
+        "Science FAQ: HKPF cannot be concurrently held with the standard PGS package"
+      ]
+    },
+    {
+      "id": "hku-presidential-phd-scholar",
+      "name": "HKU Presidential PhD Scholar Programme (HKU-PS Programme)",
+      "university": "HKU",
+      "university_code": "hku",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "Selected outstanding full-time PhD students",
+        "All applicants applying for the full-time PhD programme will be considered",
+        "The brightest candidates who are passionate about research",
+        "Shortlisted candidates may be invited to attend an interview",
+        "Main Round applicants are strongly encouraged to apply also for HKPFS",
+        "Department of Mathematics: candidates are selected by the University based on academic and/or research achievements"
+      ],
+      "amount": "HK$28,700 per month",
+      "amount_note": "Package of up to around HK$445,800 (US$57,150) in the first year and up to around HK$428,300 (US$54,920) in each subsequent year of the normative study period. Includes cash award HK$40,000 in Year 1 and HK$20,000 per year thereafter, waiver of composition fees (i.e. HK$49,500 per year), Postgraduate Scholarship of HK$28,700 per month, and conference and research-related travel allowance of HK$14,400 per year.",
+      "deadline": "1 September – 1 December",
+      "deadline_note": "The programme page prints the Main Round as 1 September – 1 December and does not put a year on that line. The application-period page states the 2027/28 Main Round as 1 September 2026 – 1 December 2026 (HKT 23:59, GMT+8). Applications are invited all year round, with clearing rounds only if vacancies remain.",
+      "source_url": "https://gradsch.hku.hk/prospective_students/fees_scholarships_and_financial_support/hku_presidential_phd_scholar_programme",
+      "match_tag": "strong",
+      "match_rationale": "The 2027/28 package includes a monthly postgraduate scholarship for full-time PhD study, and every full-time PhD applicant is considered, with no local-student bar. It is university-wide and the Department of Mathematics lists it.",
+      "login_required": false,
+      "intake_relevance": "Scholarship Package for 2027/28 Admission.",
+      "restrictions": [
+        "Full-time PhD only; not MPhil",
+        "Competitive selection; interview possible",
+        "Science FAQ: HKU-PS cannot be concurrently held with the standard PGS package",
+        "FAQ: all HKU HKPFS holders are awarded HKU-PS"
+      ]
+    },
+    {
+      "id": "hku-local-rpg-tuition-waiver",
+      "name": "Tuition Waiver Scheme for Local Research Postgraduate Students",
+      "university": "HKU",
+      "university_code": "hku",
+      "type": "tuition_waiver",
+      "eligibility_clues": [
+        "Since July 1, 2018, the UGC waives composition fees for all local students enrolled in full-time UGC-funded RPg programmes",
+        "UGC page: non-means-tested; the entire tuition fee will be waived; eligible students need not apply",
+        "The University of Hong Kong is one of the eight listed universities",
+        "Covers the normative study period: MPhil 2 years; PhD with a research master's degree 3 years; PhD without a research master's degree 4 years",
+        "Admitted-students page: the composition fee will be waived for all local full-time students under the Government’s Tuition Waiver Scheme"
+      ],
+      "amount": "HK$49,500",
+      "amount_note": "The composition fee for 2026/27 and 2027/28 will be HK$47,000 and HK$49,500 respectively for full-time studies. The 2026/27 heading also prints Full-time: HK$47,000 per year. This is the fee the waiver covers, not a cash stipend.",
+      "deadline": "unknown",
+      "deadline_note": "No application and no deadline. Eligible local students do not need to apply.",
+      "source_url": "https://gradsch.hku.hk/prospective_students/fees_scholarships_and_financial_support/fees",
+      "match_tag": "possible",
+      "match_rationale": "A local Hong Kong permanent resident on a full-time UGC-funded mathematics PhD or MPhil is in the group whose composition fee is waived. It is a tuition waiver, not a monthly living stipend.",
+      "login_required": false,
+      "intake_relevance": "In force since 2018/19. The 2027/28 full-time composition fee is printed as HK$49,500.",
+      "restrictions": [
+        "Local full-time UGC-funded RPg only",
+        "Part-time research degrees are self-funded",
+        "Not available if another scheme has already fully waived the tuition fee",
+        "Students covered by this scheme are no longer eligible for TSFS tuition fee grants"
+      ]
+    },
+    {
+      "id": "hku-university-postgraduate-fellowships",
+      "name": "University Postgraduate Fellowships",
+      "university": "HKU",
+      "university_code": "hku",
+      "type": "fellowship",
+      "eligibility_clues": [
+        "To attract high-calibre applicants from around the world for admission to various PhD programmes at HKU",
+        "Awarded to highly selected new full-time research postgraduate students who have excellent academic records",
+        "Named titles: HKU Foundation Postgraduate Fellowships; Jessie Ho Memorial Postgraduate Fellowships; Lee Shau Kee Postgraduate Fellowships; Philip K H Wong Foundation Postgraduate Fellowships",
+        "Entrance Scholarships for New Students; place of origin not specified; faculty not specified"
+      ],
+      "amount": "HK$70,000",
+      "amount_note": "Value of Award is printed as HK$70,000. The page does not say this is a monthly stipend.",
+      "deadline": "unknown",
+      "deadline_note": "No application deadline or intake year is printed on the scheme page.",
+      "source_url": "https://scholar.aas.hku.hk/?action=showonesscheme&ss_id=261",
+      "match_tag": "possible",
+      "match_rationale": "An entrance fellowship for new full-time research postgraduates, with no faculty or residency bar, so a mathematics PhD applicant could be considered. It is a lump-sum fellowship rather than the monthly postgraduate studentship, and the page does not state the 2027/28 round.",
+      "login_required": false,
+      "intake_relevance": "unknown",
+      "restrictions": [
+        "Highly selected new full-time students",
+        "Donor text refers to PhD programmes; the award line says research postgraduate students"
+      ]
+    },
+    {
+      "id": "hku-doris-chen-postgraduate-scholarships",
+      "name": "Doris Chen Postgraduate Scholarships",
+      "university": "HKU",
+      "university_code": "hku",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "Entrance scholarships or top-ups to attract top quality research postgraduate students to the Department of Mathematics",
+        "All applicants to the Research Postgraduate Program in the Department of Mathematics, including the first and second clearing rounds",
+        "DRPC nominates top candidates to the Doris Chen Memorial Fund Committee",
+        "The award cannot be simultaneously held with the HKPF or HKU Fellowship",
+        "The Doris Chen Memorial Fund shall primarily benefit full-time research postgraduate students of the Department of Mathematics"
+      ],
+      "amount": "up to HK$35,000 for an MPhil candidate and up to HK$70,000 for a PhD candidate",
+      "amount_note": "Printed in the regulation dated December 2013, which the department still links as the regulations. The number of awards depends on the pool of candidates and availability of funding. The fund index page leaves Value of Award blank.",
+      "deadline": "unknown",
+      "deadline_note": "The regulation does not print a calendar deadline. It covers main-round and clearing-round applicants. The Mathematics admission page still prints 2023-24 dates, which were not used as the 2027/28 deadline.",
+      "source_url": "https://hkumath.hku.hk/web/prize/regulation_scholarships.pdf",
+      "match_tag": "possible",
+      "match_rationale": "This is a Department of Mathematics research-postgraduate entrance scholarship or top-up, so computational mathematics in that department fits. It is not the monthly studentship, and the only amount on the linked regulation is from December 2013.",
+      "login_required": false,
+      "intake_relevance": "Regulation covers RPG applicants including clearing rounds. No 2027/28 line is printed on the regulation.",
+      "restrictions": [
+        "Department of Mathematics only",
+        "Cannot be held with the HKPF or HKU Fellowship",
+        "Regulation dated December 2013 and subject to review"
+      ]
+    },
+    {
+      "id": "hku-hung-hing-ying-scholarship",
+      "name": "Hung Hing Ying Scholarship",
+      "university": "HKU",
+      "university_code": "hku",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "The Fund aims to provide grants for research projects in physical sciences and scholarships for research postgraduate students in physical sciences",
+        "Awarded to candidates reading for the degree of MPhil or PhD in the Faculty of Science, on the basis of academic merit",
+        "Merit-based Scholarships for Current Students; place of origin not specified",
+        "Renewal conditions: satisfactory academic progress",
+        "Mathematics is a department in the Faculty of Science"
+      ],
+      "amount": "HK$15,000",
+      "amount_note": "Value of Award on the scheme page. Last update printed as 2024-08-27 15:07:39.",
+      "deadline": "unknown",
+      "deadline_note": "The scheme page says applications are usually accepted in Semester One of each academic year and results are expected in the first quarter of next year. A separate scholarships page, last updated 2026-10-07, lists the deadline as 12:00 noon, November 6, 2026, via HKU Portal > Online Applications > Application for Awards. That date is not printed on the scheme page used as source_url.",
+      "source_url": "https://scholar.aas.hku.hk/?action=showonesscheme&ss_id=149",
+      "match_tag": "possible",
+      "match_rationale": "Faculty of Science MPhil and PhD students can be considered, and Mathematics is in that faculty, but the fund text is aimed at physical sciences and the award is a current-student merit scholarship rather than a monthly studentship.",
+      "login_required": false,
+      "intake_relevance": "Current students in Semester One. Not described as an entrance award for 2027/28.",
+      "restrictions": [
+        "Faculty of Science MPhil or PhD",
+        "Physical-sciences wording on the donor statement",
+        "Application described as current-student, through HKU Portal"
+      ]
+    },
+    {
+      "id": "hku-li-po-chun-postgraduate-scholarship",
+      "name": "Li Po Chun Charitable Trust Fund Postgraduate Scholarship",
+      "university": "HKU",
+      "university_code": "hku",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "Selected full-time students reading the degree of MPhil or PhD in the University who are permanent residents of Hong Kong",
+        "Academic merit; financial need will also be taken into account",
+        "Candidates would be expected to have a well developed sense of social awareness",
+        "May be renewed up to a maximum of two years for MPhil or three years for PhD, subject to satisfactory academic progress and availability of funds",
+        "Place of origin: Local; faculty not specified"
+      ],
+      "amount": "8000",
+      "amount_note": "The scheme page prints Value of Award as 8000, with no currency unit on that line. The donor text says the number and value shall be determined by the Li Po Chun Charitable Trust Fund Committee.",
+      "deadline": "unknown",
+      "deadline_note": "The scheme page says applications are usually accepted in Semester One and results are expected around June/July 2027. The scholarships application page lists 12:00 noon, November 6, 2026, via HKU Portal. That clock time is not on the scheme page used as source_url.",
+      "source_url": "https://scholar.aas.hku.hk/?action=showonesscheme&ss_id=176",
+      "match_tag": "possible",
+      "match_rationale": "A local Hong Kong permanent resident on a full-time MPhil or PhD, including mathematics, matches the printed eligibility. It is a merit and need scholarship for current students, not a monthly postgraduate studentship.",
+      "login_required": false,
+      "intake_relevance": "Current students. Results line on the scheme page says around June/July 2027.",
+      "restrictions": [
+        "Hong Kong permanent residents",
+        "Full-time MPhil or PhD",
+        "Financial need is also considered",
+        "Application via HKU Portal"
+      ]
+    },
+    {
+      "id": "hku-dissertation-year-fellowship",
+      "name": "Dissertation Year Fellowship",
+      "university": "HKU",
+      "university_code": "hku",
+      "type": "fellowship",
+      "eligibility_clues": [
+        "Outstanding full-time PhD students who have submitted a thesis for examination",
+        "Thesis rated outstanding (top 5%) or excellent (top 10%) by the Thesis Examining Committee",
+        "Publication records and recommendations of the primary supervisor, DRPC, and FHDC",
+        "Up to 100 fellowships may be made each year",
+        "Place of origin not specified; faculty not specified",
+        "Established in 2022/23; scheme page last update 2025-06-09"
+      ],
+      "amount": "a Postgraduate Scholarships (PGS) equivalent to the HKU Presidential PhD Scholarship for up to 12 months",
+      "amount_note": "Also conference support for up to $13,500 per year, and a waiver of the continuation fee during the fellowship period. The scheme page does not print a dollar monthly rate. Normally no student may be awarded the Fellowship for more than 12 months.",
+      "deadline": "unknown",
+      "deadline_note": "No application deadline is printed on the scheme page. The start date is determined by the Graduate School.",
+      "source_url": "https://scholar.aas.hku.hk/?action=showonesscheme&ss_id=701",
+      "match_tag": "possible",
+      "match_rationale": "A university-wide fellowship that can include mathematics PhD students and pays a postgraduate scholarship for up to 12 months after thesis submission. It is not an entrance studentship for 2027/28 intake.",
+      "login_required": false,
+      "intake_relevance": "Final-year full-time PhD students after thesis submission, not new 2027/28 entrants.",
+      "restrictions": [
+        "Full-time PhD only, after thesis submission",
+        "Thesis must be rated in the top 10%",
+        "Normally no more than 12 months"
+      ]
+    },
+    {
+      "id": "hku-doris-chen-postgraduate-prizes",
+      "name": "Doris Chen Postgraduate Prizes",
+      "university": "HKU",
+      "university_code": "hku",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "To recognise excellent performance of Research Postgraduate Students in the Department of Mathematics",
+        "Excellent research publications and/or PhD/MPhil theses by full-time RPGs in the Department of Mathematics",
+        "Publication acceptance letters must fall in the award year, and the student must be a full-time MPhil or PhD candidate at that time",
+        "Thesis prizes require the thesis examination during the award year",
+        "Supervisor nomination to the Doris Chen Memorial Fund Committee"
+      ],
+      "amount": "Up to two awards each academic year of HK$10,000 each",
+      "amount_note": "Printed in the regulation dated December 2017.",
+      "deadline": "unknown",
+      "deadline_note": "The regulation says Please submit the nomination by 31 January, 2018 to Head of Department. That date is inside a December 2017 regulation and is not confirmed on the page as a current annual deadline.",
+      "source_url": "https://hkumath.hku.hk/web/prize/regulations_grad_prizes.pdf",
+      "match_tag": "possible",
+      "match_rationale": "A Department of Mathematics prize for full-time MPhil and PhD research, so computational mathematics students in the department can be nominated after they have a paper or thesis. It is not a living stipend.",
+      "login_required": false,
+      "intake_relevance": "Current full-time mathematics RPG students, not an entrance award.",
+      "restrictions": [
+        "Department of Mathematics full-time MPhil or PhD",
+        "Supervisor nomination",
+        "Regulation dated December 2017"
+      ]
+    },
+    {
+      "id": "hku-doris-chen-postgraduate-travel-grants",
+      "name": "Doris Chen Postgraduate Travel Grants",
+      "university": "HKU",
+      "university_code": "hku",
+      "type": "other",
+      "eligibility_clues": [
+        "Full-time MPhil or PhD candidature in the Department of Mathematics covering the entire period of the activity",
+        "Supports conferences and workshops, research programmes, or short- to medium-term research visits",
+        "For conferences, the applicant must be presenting a paper or poster they co-authored",
+        "Student should first seek support from the URC Conference/Travel Scheme; the grant may not top up URC support",
+        "Each student can normally receive the grant once during candidature",
+        "Application endorsed by the supervisor, submitted at least one month before departure"
+      ],
+      "amount": "The maximum amount of each Grant is HK$13,500",
+      "amount_note": "Except for longer periods for research activities or visits, for which the Grant cannot exceed HK$30,000. Regulation dated December 2013, amended April 24, 2014 and June 23, 2014.",
+      "deadline": "unknown",
+      "deadline_note": "Applications are considered on a continuous basis. The form must reach the Head of Department at least one month before the departure date. No annual closing date is printed.",
+      "source_url": "https://hkumath.hku.hk/web/prize/regulations-travel-grants-June23-2014.pdf",
+      "match_tag": "possible",
+      "match_rationale": "Travel support for full-time mathematics MPhil and PhD students, including computational mathematics. It contributes to airfare, registration, and accommodation, not a monthly living stipend.",
+      "login_required": false,
+      "intake_relevance": "Enrolled full-time mathematics RPG students.",
+      "restrictions": [
+        "Department of Mathematics full-time MPhil or PhD",
+        "Normally once per candidature",
+        "Cannot top up URC conference or travel support",
+        "Regulation last amended June 23, 2014"
+      ]
+    },
+    {
+      "id": "hku-rpg-student-innovation-award",
+      "name": "Research Postgraduate Student Innovation Award",
+      "university": "HKU",
+      "university_code": "hku",
+      "type": "other",
+      "eligibility_clues": [
+        "Addressed to all PhD and MPhil students",
+        "Up to ten awards each year to RPg students, of any disciplines, with the most exciting and innovative research ideas",
+        "Established in 2022",
+        "Funded by the Leung Kau Kui and Run Run Shaw Research and Teaching Endowment Funds",
+        "Submit the application form and a two-page CV to the Faculty Office"
+      ],
+      "amount": "HK$50,000",
+      "amount_note": "A research grant of HK$50,000. The opened call is titled 2025/26 and dated August 22, 2025.",
+      "deadline": "September 15, 2025",
+      "deadline_note": "Printed deadline for the 2025/26 call. No later call was opened.",
+      "source_url": "https://gradsch.hku.hk/news_and_events/news_and_future_events/research-postgraduate-student-innovation-award-202526",
+      "match_tag": "possible",
+      "match_rationale": "Any discipline of current PhD or MPhil student, including mathematics, can apply for a research grant. It is not a monthly studentship, and the only public call opened is the 2025/26 round.",
+      "login_required": false,
+      "intake_relevance": "2025/26 call for students already enrolled. Not an entrance award for 2027/28.",
+      "restrictions": [
+        "Current RPg students",
+        "Up to ten awards",
+        "The opened deadline is September 15, 2025"
+      ]
+    },
+    {
+      "id": "hku-foundation-publication-award",
+      "name": "HKU Foundation Publication Award for Research Postgraduate Students",
+      "university": "HKU",
+      "university_code": "hku",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "RPg students who have published a journal article of exceptional quality in a research area related to the thesis study",
+        "Up to twenty awards each year",
+        "For the 2026 awards, articles must have been published between January 1 and December 31, 2025, with an HKU affiliation by-line",
+        "Applicants must be a current PhD or MPhil student and have completed at least one year of study on February 28, 2026",
+        "Applications to the Faculty Office"
+      ],
+      "amount": "HK$5,000",
+      "amount_note": "A cash prize of HK$5,000. Up to twenty awards.",
+      "deadline": "February 28, 2026",
+      "deadline_note": "RPg students should submit applications to the Faculty Office by February 28, 2026. The call is dated November 13, 2025.",
+      "source_url": "https://gradsch.hku.hk/news_and_events/news_and_future_events/hku-foundation-publication-award-research-postgraduate-1",
+      "match_tag": "possible",
+      "match_rationale": "A university-wide cash prize for current PhD and MPhil students, so mathematics is not excluded. It recognises a published paper and is not a living stipend or an entrance award for 2027/28.",
+      "login_required": false,
+      "intake_relevance": "2026 award for students who have already completed at least one year by February 28, 2026.",
+      "restrictions": [
+        "Current PhD or MPhil with at least one year of study by February 28, 2026",
+        "Article published in calendar year 2025"
+      ]
+    },
+    {
+      "id": "hku-foundation-first-year-excellent-phd-award",
+      "name": "HKU Foundation First Year Excellent PhD Award",
+      "university": "HKU",
+      "university_code": "hku",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "PhD students who have excellent performance during the probationary period",
+        "Demonstrated by publications or other research outputs, prizes, patents, or other accomplishments",
+        "All PhD students whose probationary period has been confirmed in 2025 can apply for the 2025/26 awards",
+        "Up to fifteen awards may be made each year",
+        "Certificate and cash prize"
+      ],
+      "amount": "HK$5,000",
+      "amount_note": "A certificate and a cash prize of HK$5,000.",
+      "deadline": "February 28, 2026",
+      "deadline_note": "Applications to the Faculty Office by February 28, 2026, on the same November 13, 2025 call as the 2026 Publication Award.",
+      "source_url": "https://gradsch.hku.hk/news_and_events/news_and_future_events/hku-foundation-publication-award-research-postgraduate-1",
+      "match_tag": "possible",
+      "match_rationale": "A small university-wide prize for PhD students after probation, with no faculty bar. It is not a monthly studentship, and the opened round is for probation confirmed in 2025.",
+      "login_required": false,
+      "intake_relevance": "2025/26 awards for PhD students whose probation was confirmed in 2025.",
+      "restrictions": [
+        "PhD only",
+        "Probationary period confirmed in 2025 for this round"
+      ]
+    },
+    {
+      "id": "hku-li-ka-shing-prizes",
+      "name": "Li Ka Shing Prizes",
+      "university": "HKU",
+      "university_code": "hku",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "Awarded annually to up to six PhD / MPhil theses based on academic excellence",
+        "Established from investment income on a 1990 donation by Dr Li Ka Shing",
+        "Described as highly competitive"
+      ],
+      "amount": "unknown",
+      "amount_note": "The March 2024 newsletter does not print a cash value.",
+      "deadline": "unknown",
+      "deadline_note": "No deadline is printed on the newsletter.",
+      "source_url": "https://gradsch.hku.hk/news_and_events/newsletter/li-ka-shing-prizes-and-hku-foundation-award-outstanding-research",
+      "match_tag": "possible",
+      "match_rationale": "A university-wide prize for PhD and MPhil theses, so a mathematics thesis could be considered later. No amount is printed, and it is not entrance funding or a monthly stipend.",
+      "login_required": false,
+      "intake_relevance": "After thesis submission. Not an entrance award for 2027/28.",
+      "restrictions": [
+        "Up to six theses a year",
+        "PhD or MPhil thesis already written"
+      ]
+    },
+    {
+      "id": "hku-foundation-outstanding-rpg-award",
+      "name": "HKU Foundation Award for Outstanding Research Postgraduate Students",
+      "university": "HKU",
+      "university_code": "hku",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "Research postgraduate students who have submitted a thesis of exceptional quality and demonstrated outstanding performance in other academic aspects",
+        "Up to ten students will receive this award each year",
+        "Established by the Graduate School in 2002; supported by the University of Hong Kong Foundation for Educational Development and Research from 2022"
+      ],
+      "amount": "unknown",
+      "amount_note": "The March 2024 newsletter does not print a cash value.",
+      "deadline": "unknown",
+      "deadline_note": "No deadline is printed on the newsletter.",
+      "source_url": "https://gradsch.hku.hk/news_and_events/newsletter/li-ka-shing-prizes-and-hku-foundation-award-outstanding-research",
+      "match_tag": "possible",
+      "match_rationale": "A university-wide award for research postgraduates after an exceptional thesis, with no field bar printed. It is recognition rather than a monthly studentship, and no amount is printed.",
+      "login_required": false,
+      "intake_relevance": "After thesis submission. Not an entrance award for 2027/28.",
+      "restrictions": [
+        "Up to ten students a year",
+        "Thesis already submitted"
+      ]
+    },
+    {
+      "id": "hku-robert-whyte-memorial-fellowship",
+      "name": "Robert Whyte Memorial Postgraduate Fellowship",
+      "university": "HKU",
+      "university_code": "hku",
+      "type": "fellowship",
+      "eligibility_clues": [
+        "Full-time PhD student with a research interest related to applied ecology in monsoonal and equatorial Asia, including botany, zoology, biochemistry, physiology, and climatology",
+        "National or permanent resident of Hong Kong, Brunei, Burma, Indonesia, Laos, Kampuchea, Malaysia, the People Republic of China, Philippines, Singapore, Thailand, and Vietnam",
+        "Priority to a candidate whose first degree is from The University of Hong Kong",
+        "Awarded primarily on academic merit and research calibre",
+        "Number of awards determined by the School of Biological Sciences",
+        "Faculty of Science page: the fellowship will be available every four years and the next fellowship will be available in 2024; application details will be announced around end of 2023"
+      ],
+      "amount": "To be determined",
+      "amount_note": "Value of Award is printed as To be determined. The same page says the number of awards shall be determined under an annual budget currently set at HK$300,000, and that it is anticipated there will be one named fellow at any given time. Historical fund balances on the page were not used as the award amount.",
+      "deadline": "unknown",
+      "deadline_note": "The scheme page does not print an application date. The Faculty of Science funding page says application details will be announced around end of 2023 and the next fellowship will be available in 2024.",
+      "source_url": "https://scholar.aas.hku.hk/?action=showonesscheme&ss_id=611",
+      "match_tag": "weak",
+      "match_rationale": "A real full-time PhD fellowship for which a Hong Kong permanent resident can be eligible, but the research must be applied ecology in the School of Biological Sciences. It is not a mathematics or computational-mathematics award.",
+      "login_required": false,
+      "intake_relevance": "Scheme page does not name 2027/28. Faculty page says the next fellowship will be available in 2024.",
+      "restrictions": [
+        "Applied ecology in monsoonal and equatorial Asia",
+        "School of Biological Sciences",
+        "Full-time PhD",
+        "Listed nationalities or permanent residencies only"
+      ]
+    },
+    {
+      "id": "hku-ftss-msc-computer-science",
+      "name": "Hong Kong Future Talents Scholarship Scheme for Advanced Studies (MScCompSc)",
+      "university": "HKU",
+      "university_code": "hku",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "MSc in Computer Science has been selected by the UGC for the Hong Kong Future Talents Scholarship Scheme for Advanced Studies",
+        "Local students admitted to the MScCompSc programme, full-time or part-time, in the academic year 2026-27",
+        "Must have accepted the admission offer and paid the deposit",
+        "One-page summary on contribution to STEM priority areas of Hong Kong",
+        "Non-local students on student visas, IANG, specified dependant visas, or Top Talent Pass Scheme are not eligible"
+      ],
+      "amount": "HK$100,000",
+      "amount_note": "Successful applicants will each receive an award of HK$100,000. Refund of the full amount is required if the awardee cannot complete MSc(CompSc) or cannot obtain satisfactory results.",
+      "deadline": "unknown",
+      "deadline_note": "More application details will be released to eligible candidates by email. The taught-programme Main Round deadline printed on the same page is for 2026/27 Fall intake: 1 Dec 2025 (HKT noon).",
+      "source_url": "https://master.cds.hku.hk/msccs/admission/msc-in-computer-science-scholarships/",
+      "match_tag": "weak",
+      "match_rationale": "Local students can receive HK$100,000, but the scheme on this page is for the taught Master of Science in Computer Science in 2026-27, not a research MPhil or PhD in computing mathematics for 2027/28.",
+      "login_required": false,
+      "intake_relevance": "Academic year 2026-27 taught MScCompSc. Not 2027/28 RPG.",
+      "restrictions": [
+        "Taught MSc(CompSc) only",
+        "Local students as defined in the page notes",
+        "2026-27 intake"
+      ]
+    },
+    {
+      "id": "hku-cs-taught-postgraduate-part-time",
+      "name": "Computer Science Taught Postgraduate Scholarship for Part-time Students",
+      "university": "HKU",
+      "university_code": "hku",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "Part-time students reading for MSc in Computer Science, MSc in Electronic Commerce and Internet Computing, or MSc in Financial Technology and Data Analytics",
+        "Admitted as part-time students for 2026/27 intake",
+        "Outstanding academic performance"
+      ],
+      "amount": "at least 25% of the tuition fee",
+      "amount_note": "The value of each scholarship shall be at least 25% of the tuition fee. The same page prints 2026/27 MSc(CompSc) programme fees, which were not used as this scholarship's value.",
+      "deadline": "unknown",
+      "deadline_note": "No separate scholarship deadline is printed. The page prints 2026/27 Fall intake Main Round Deadline: 1 Dec 2025 (HKT noon) and Clearing Round Deadline: 30 Apr 2026 (HKT noon).",
+      "source_url": "https://master.cds.hku.hk/msccs/admission/msc-in-computer-science-scholarships/",
+      "match_tag": "weak",
+      "match_rationale": "A real scholarship, but it supports taught master's programmes for 2026/27 part-time students, not research MPhil or PhD study.",
+      "login_required": false,
+      "intake_relevance": "2026/27 taught postgraduate intake.",
+      "restrictions": [
+        "Taught master's programmes only",
+        "Part-time students",
+        "2026/27 intake"
+      ]
+    },
+    {
+      "id": "hku-scf-fintech-scholarship",
+      "name": "HKU-SCF Scholarship in Financial Technology",
+      "university": "HKU",
+      "university_code": "hku",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "Full-time or part-time local students reading for a Master of Science in Computer Science, Financial Computing Stream",
+        "Hong Kong permanent residents",
+        "Hold a Bachelor's degree",
+        "Outstanding academic performance",
+        "Supported by Standard Chartered Hong Kong 150th Anniversary Community Foundation"
+      ],
+      "amount": "HK$60,000",
+      "amount_note": "The value of each scholarship shall be HK$60,000.",
+      "deadline": "unknown",
+      "deadline_note": "No scholarship deadline is printed on the page.",
+      "source_url": "https://master.cds.hku.hk/msccs/admission/msc-in-computer-science-scholarships/",
+      "match_tag": "weak",
+      "match_rationale": "Hong Kong permanent residents are eligible, but the award is for the taught MSc(CompSc) Financial Computing stream, not a research postgraduate degree in computing mathematics.",
+      "login_required": false,
+      "intake_relevance": "Taught MSc page. No 2027/28 RPG intake is stated for this scholarship.",
+      "restrictions": [
+        "Taught MSc(CompSc) Financial Computing Stream",
+        "Hong Kong permanent residents"
+      ]
+    },
+    {
+      "id": "hku-tongcheng-travel-scholarship",
+      "name": "Tongcheng Travel Scholarship",
+      "university": "HKU",
+      "university_code": "hku",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "Outstanding postgraduate students pursuing Master of Data Science, MSc in Computer Science, MSc in Electronic Commerce and Internet Computing, or MSc in Artificial Intelligence",
+        "Up to three scholarships awarded annually",
+        "Based on academic merit with CGPA 3.8 or above",
+        "Funded by a donation from Tongcheng Travel Holdings Limited"
+      ],
+      "amount": "HK$100,000 each",
+      "amount_note": "Up to three scholarships, valued at HK$100,000 each. The page also says the donor pledged a donation of HK$3 million; that figure is the donation, not the student award.",
+      "deadline": "unknown",
+      "deadline_note": "No application deadline is printed for this scholarship.",
+      "source_url": "https://master.cds.hku.hk/msccs/admission/msc-in-computer-science-scholarships/",
+      "match_tag": "weak",
+      "match_rationale": "A real postgraduate scholarship that includes computing programmes, but the listed degrees are taught master's programmes, not MPhil or PhD.",
+      "login_required": false,
+      "intake_relevance": "Taught master's programmes. No 2027/28 research intake is stated.",
+      "restrictions": [
+        "Taught master's programmes named on the page",
+        "CGPA 3.8 or above",
+        "Up to three awards a year"
+      ]
+    },
+    {
+      "id": "hku-msc-compsc-hong-kong-scholarship",
+      "name": "Master of Science in Computer Science Hong Kong Scholarship",
+      "university": "HKU",
+      "university_code": "hku",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "Partially supports full-time Hong Kong students reading for a Master of Science in Computer Science",
+        "Hong Kong residents",
+        "Bachelor's degree from a university in Hong Kong",
+        "Consistently good academic results"
+      ],
+      "amount": "unknown",
+      "amount_note": "The page says the scholarship partially supports students and does not print a dollar value or a percentage.",
+      "deadline": "unknown",
+      "deadline_note": "No scholarship deadline is printed.",
+      "source_url": "https://master.cds.hku.hk/msccs/admission/msc-in-computer-science-scholarships/",
+      "match_tag": "weak",
+      "match_rationale": "Hong Kong residents can be supported, but the scheme is for the taught MSc in Computer Science, not a research postgraduate degree.",
+      "login_required": false,
+      "intake_relevance": "Taught MSc(CompSc). Intake year for this named scholarship is not printed.",
+      "restrictions": [
+        "Taught MSc in Computer Science",
+        "Full-time Hong Kong students with a Hong Kong bachelor's degree"
+      ]
+    },
+    {
+      "id": "hku-alan-john-ellis-prize",
+      "name": "Alan John Ellis Prize in Mathematics",
+      "university": "HKU",
+      "university_code": "hku",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "Not more than five undergraduates in the Faculty of Science who have just completed their 1st or 2nd year of study"
+      ],
+      "amount": "unknown",
+      "amount_note": "No value is printed on the regulations index.",
+      "deadline": "unknown",
+      "deadline_note": "No deadline is printed on the regulations index.",
+      "source_url": "https://hkumath.hku.hk/web/prize/regulations.php",
+      "match_tag": "weak",
+      "match_rationale": "A mathematics prize, but it is for undergraduates who have just completed the first or second year, not research postgraduates.",
+      "login_required": false,
+      "intake_relevance": "Undergraduate.",
+      "restrictions": [
+        "Undergraduate only"
+      ]
+    },
+    {
+      "id": "hku-liu-ming-chit-prize",
+      "name": "Liu Ming-Chit Prize in Mathematics",
+      "university": "HKU",
+      "university_code": "hku",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "A student in Mathematics who has completed his/her 2nd or 3rd year of study, on the recommendation of the Head of Mathematics"
+      ],
+      "amount": "unknown",
+      "amount_note": "No value is printed on the regulations index.",
+      "deadline": "unknown",
+      "deadline_note": "No deadline is printed on the regulations index.",
+      "source_url": "https://hkumath.hku.hk/web/prize/regulations.php",
+      "match_tag": "weak",
+      "match_rationale": "A mathematics prize for a student who has completed the second or third year, which the index lists with the undergraduate prizes.",
+      "login_required": false,
+      "intake_relevance": "Undergraduate year of study as printed.",
+      "restrictions": [
+        "Listed among undergraduate prizes",
+        "Recommendation of the Head of Mathematics"
+      ]
+    },
+    {
+      "id": "hku-tam-siu-ming-chan-nga-yee-prize",
+      "name": "Tam Siu Ming and Chan Nga Yee Prize in Mathematics",
+      "university": "HKU",
+      "university_code": "hku",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "One Prize awarded annually to a Year 2 student whose CGPA is 3.0 or above",
+        "Has demonstrated significant improvement in Mathematics assessments during Year 1 and 2",
+        "Has subsequently enrolled to major in Mathematics for their undergraduate degree"
+      ],
+      "amount": "unknown",
+      "amount_note": "No value is printed on the regulations index.",
+      "deadline": "unknown",
+      "deadline_note": "No deadline is printed. The prize is awarded annually.",
+      "source_url": "https://hkumath.hku.hk/web/prize/regulations.php",
+      "match_tag": "weak",
+      "match_rationale": "An annual mathematics prize, restricted to a Year 2 undergraduate who then majors in Mathematics.",
+      "login_required": false,
+      "intake_relevance": "Undergraduate Year 2.",
+      "restrictions": [
+        "Undergraduate Year 2",
+        "CGPA 3.0 or above"
+      ]
+    },
+    {
+      "id": "hku-walter-brown-memorial-prizes",
+      "name": "Walter Brown Memorial Prizes in Mathematics",
+      "university": "HKU",
+      "university_code": "hku",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "The best student in Mathematics, on the recommendation of the Head of Mathematics, among those completing the BSc 2nd year",
+        "The best student in Mathematics, on the recommendation of the Head of Mathematics, among those completing the BSc final year"
+      ],
+      "amount": "unknown",
+      "amount_note": "No value is printed on the regulations index.",
+      "deadline": "unknown",
+      "deadline_note": "No deadline is printed on the regulations index.",
+      "source_url": "https://hkumath.hku.hk/web/prize/regulations.php",
+      "match_tag": "weak",
+      "match_rationale": "Mathematics prizes for BSc second-year and final-year students, not research postgraduates.",
+      "login_required": false,
+      "intake_relevance": "Undergraduate BSc.",
+      "restrictions": [
+        "BSc students only"
+      ]
+    },
+    {
+      "id": "hku-wong-yung-chow-prize",
+      "name": "Wong Yung Chow Prize in Mathematics",
+      "university": "HKU",
+      "university_code": "hku",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "The best 3rd year student in Mathematics, on the recommendation of the Head of Mathematics"
+      ],
+      "amount": "unknown",
+      "amount_note": "No value is printed on the regulations index.",
+      "deadline": "unknown",
+      "deadline_note": "No deadline is printed on the regulations index.",
+      "source_url": "https://hkumath.hku.hk/web/prize/regulations.php",
+      "match_tag": "weak",
+      "match_rationale": "A prize for the best third-year mathematics student, not a research postgraduate studentship.",
+      "login_required": false,
+      "intake_relevance": "Undergraduate 3rd year.",
+      "restrictions": [
+        "3rd year student in Mathematics"
+      ]
+    },
+    {
+      "id": "hku-ym-chen-memorial-prize",
+      "name": "Y. M. Chen Memorial Prize in Mathematics",
+      "university": "HKU",
+      "university_code": "hku",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "The best student in mathematical analysis, among those completing the BSc final year, on the recommendation of the Head of Mathematics"
+      ],
+      "amount": "unknown",
+      "amount_note": "No value is printed on the regulations index.",
+      "deadline": "unknown",
+      "deadline_note": "No deadline is printed on the regulations index.",
+      "source_url": "https://hkumath.hku.hk/web/prize/regulations.php",
+      "match_tag": "weak",
+      "match_rationale": "A prize for the best BSc final-year student in mathematical analysis, not a research postgraduate award.",
+      "login_required": false,
+      "intake_relevance": "Undergraduate BSc final year.",
+      "restrictions": [
+        "BSc final year",
+        "Mathematical analysis"
+      ]
+    },
+    {
+      "id": "hku-yung-chow-wong-scholarship",
+      "name": "Professor Yung-Chow Wong Scholarship",
+      "university": "HKU",
+      "university_code": "hku",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "Up to two scholarships awarded annually to two second-year undergraduate students majoring in Mathematics",
+        "Based on their first two years academic results",
+        "Recommendation of the Head of the Department of Mathematics, the Programme Coordinator of Mathematics Major, and the Faculty of Science representative on the Board of Academic Awards"
+      ],
+      "amount": "unknown",
+      "amount_note": "No value is printed on the regulations index.",
+      "deadline": "unknown",
+      "deadline_note": "No deadline is printed. Awarded annually.",
+      "source_url": "https://hkumath.hku.hk/web/prize/regulations.php",
+      "match_tag": "weak",
+      "match_rationale": "A mathematics scholarship limited to second-year undergraduates.",
+      "login_required": false,
+      "intake_relevance": "Undergraduate second year.",
+      "restrictions": [
+        "Second-year undergraduate Mathematics majors",
+        "Up to two a year"
+      ]
+    },
+    {
+      "id": "hku-tam-siu-ming-chan-nga-yee-scholarship",
+      "name": "Tam Siu Ming and Chan Nga Yee Scholarship in Mathematics",
+      "university": "HKU",
+      "university_code": "hku",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "One Scholarship each year to a Year 3 local undergraduate student with Hong Kong Permanent Residency majoring in Mathematics",
+        "Academic merit with a CGPA of 3.0 or above",
+        "Financial need"
+      ],
+      "amount": "unknown",
+      "amount_note": "No value is printed on the regulations index.",
+      "deadline": "unknown",
+      "deadline_note": "No deadline is printed. One scholarship each year.",
+      "source_url": "https://hkumath.hku.hk/web/prize/regulations.php",
+      "match_tag": "weak",
+      "match_rationale": "Local Hong Kong permanent residents majoring in mathematics can qualify, but only as Year 3 undergraduates, not as research postgraduates.",
+      "login_required": false,
+      "intake_relevance": "Undergraduate Year 3.",
+      "restrictions": [
+        "Year 3 local undergraduate",
+        "Hong Kong Permanent Residency",
+        "CGPA 3.0 or above and financial need"
+      ]
+    },
+    {
+      "id": "hku-doris-chen-undergraduate-project-prizes",
+      "name": "Doris Chen Undergraduate Project Prizes",
+      "university": "HKU",
+      "university_code": "hku",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "Listed under the Doris Chen Memorial Fund as Doris Chen Undergraduate Project Prizes",
+        "The index links regulations and a timetable for selection for 2025-2026"
+      ],
+      "amount": "unknown",
+      "amount_note": "The regulations PDF for this undergraduate prize was not opened. No value is printed on the index.",
+      "deadline": "unknown",
+      "deadline_note": "A timetable for selection for 2025-2026 is linked. The timetable file was not opened, and no date is printed on the index.",
+      "source_url": "https://hkumath.hku.hk/web/prize/regulations.php",
+      "match_tag": "weak",
+      "match_rationale": "The index places this prize with the Doris Chen undergraduate awards, so it is not research-postgraduate funding. The regulation file itself was not opened.",
+      "login_required": false,
+      "intake_relevance": "Index labels it undergraduate and links a 2025-2026 selection timetable.",
+      "restrictions": [
+        "Named as an undergraduate project prize",
+        "Regulation file not opened"
+      ]
+    },
+    {
+      "id": "hku-belt-and-road-rpg",
+      "name": "Targeted Scholarship Scheme - Belt and Road Scholarship (Research Postgraduate)",
+      "university": "HKU",
+      "university_code": "hku",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "Outstanding first-year non-local students from all Belt and Road countries",
+        "Enrolled in full-time publicly-funded research postgraduate programmes in Hong Kong",
+        "Offered from the academic year 2019/20 under the HKSAR Government Scholarship Fund",
+        "Tenable for the normative period of study and renewable annually subject to satisfactory academic performance",
+        "Eligible PhD/MPhil students would be invited by the Faculty to apply",
+        "Selection includes academic performance, contribution, leadership and communication, and interest in integrating into Hong Kong"
+      ],
+      "amount": "full tuition fees",
+      "amount_note": "The scholarships will cover full tuition fees of the students. No separate HKD amount is printed on this page.",
+      "deadline": "unknown",
+      "deadline_note": "No deadline is printed. Eligible students are invited by the Faculty.",
+      "source_url": "https://gradsch.hku.hk/prospective_students/fees_scholarships_and_financial_support/financial_support_and_awards",
+      "match_tag": "out_of_scope",
+      "match_rationale": "This is a research postgraduate tuition scholarship, but it is restricted to first-year non-local students from Belt and Road countries. A local Hong Kong permanent resident is outside it.",
+      "login_required": false,
+      "intake_relevance": "First-year non-local RPG students. The page does not name the 2027/28 round.",
+      "restrictions": [
+        "Non-local students only",
+        "Belt and Road countries",
+        "First-year students",
+        "Cannot also receive other government scholarships under the Government Scholarship Fund, except Talent Development Scholarship, Reaching Out Award, or Endeavour Merit"
+      ]
+    },
+    {
+      "id": "hku-international-postgraduate-scholarship-computer-science",
+      "name": "International Postgraduate Scholarships for Computer Science",
+      "university": "HKU",
+      "university_code": "hku",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "Full-time non-local students holding a Bachelor’s degree from an overseas university and valid student visas in Hong Kong",
+        "Entering the Master of Science in Computer Science programme",
+        "Academic merit and personal qualities; interview possible",
+        "Up to five scholarships each year",
+        "Place of origin on the scheme record: Other places, Chinese Mainland",
+        "Cannot be held concurrently with other scholarships administered by the School of Computing and Data Science"
+      ],
+      "amount": "unknown",
+      "amount_note": "The scheme page prints two conflicting values: at least 25% of the tuition fee, and cover the composition fee of 72 credits. Neither statement was chosen as the amount.",
+      "deadline": "unknown",
+      "deadline_note": "No deadline is printed on the scheme page.",
+      "source_url": "https://scholar.aas.hku.hk/?action=showonesscheme&ss_id=599",
+      "match_tag": "out_of_scope",
+      "match_rationale": "The scheme is for full-time non-local students on the taught MSc(CompSc), not for a local research postgraduate in computing mathematics.",
+      "login_required": false,
+      "intake_relevance": "Taught MSc(CompSc) entrance scholarship. No 2027/28 RPG round is printed.",
+      "restrictions": [
+        "Non-local students with a student visa",
+        "Overseas bachelor's degree",
+        "Taught MSc in Computer Science",
+        "Up to five a year"
+      ]
+    },
+    {
+      "id": "hku-china-postgraduate-scholarships-computer-science",
+      "name": "The China Postgraduate Scholarships for Computer Science",
+      "university": "HKU",
+      "university_code": "hku",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "Partially supports full-time mainland students reading for a Master of Science in Computer Science",
+        "Residents of mainland China",
+        "Bachelor’s degree from a university in China",
+        "Consistently good academic results"
+      ],
+      "amount": "unknown",
+      "amount_note": "The page says the scholarship partially supports students and does not print a dollar value.",
+      "deadline": "unknown",
+      "deadline_note": "No scholarship deadline is printed.",
+      "source_url": "https://master.cds.hku.hk/msccs/admission/msc-in-computer-science-scholarships/",
+      "match_tag": "out_of_scope",
+      "match_rationale": "Restricted to mainland China residents on the taught MSc in Computer Science. A local Hong Kong permanent resident seeking a research postgraduate place is outside it.",
+      "login_required": false,
+      "intake_relevance": "Taught MSc(CompSc). No research 2027/28 intake is stated.",
+      "restrictions": [
+        "Residents of mainland China",
+        "Taught MSc in Computer Science",
+        "Full-time"
+      ]
+    }
+  ],
+  "blockers": [
+    "The Department of Mathematics postgraduate admission page still prints the 2023-24 application period. Those dates were not used. 2027/28 dates come from the Graduate School application-period page.",
+    "Doris Chen Postgraduate Scholarships and Travel Grants regulations are dated December 2013, and the prizes regulation is dated December 2017. The department still links them. The fund index leaves Value of Award blank. The prizes regulation prints a nomination date of 31 January, 2018, which was not treated as a current deadline.",
+    "The Doris Chen Undergraduate Project Prizes regulation file and its 2025-2026 timetable were linked but not opened, so no amount or date was copied for that prize.",
+    "Li Po Chun Charitable Trust Fund Postgraduate Scholarship prints Value of Award as 8000 with no currency unit. The deadline field is unknown because 12:00 noon, November 6, 2026 appears on https://aas.hku.hk/apply-scholarships/ and not on the scheme page.",
+    "Hung Hing Ying Scholarship likewise has its 12:00 noon, November 6, 2026 deadline on the scholarships application page, not on the scheme page used as source_url.",
+    "Dissertation Year Fellowship scheme page, last update 2025-06-09, does not print a monthly dollar rate. It says the PGS is equivalent to the HKU Presidential PhD Scholarship. Conference support is printed as up to $13,500 per year without a currency code. Older news calls with different monthly figures were not used.",
+    "University Postgraduate Fellowships prints HK$70,000 and does not print a deadline, intake year, or monthly rate.",
+    "Robert Whyte Memorial Postgraduate Fellowship prints Value of Award as To be determined. The Faculty of Science page says the next fellowship will be available in 2024 and that application details will be announced around end of 2023. Those two pages were not reconciled beyond recording both statements.",
+    "International Postgraduate Scholarships for Computer Science prints both at least 25% of the tuition fee and cover the composition fee of 72 credits.",
+    "The MSc(CompSc) scholarships page describes the Continuing Education Fund and links to wfsfaa.gov.hk. That host is outside the allowed university, UGC, and RGC hosts, so the Continuing Education Fund was not listed as an opportunity.",
+    "HKU Portal and the Online Application System require an account to submit applications. Scheme text used here is from public pages. login_required is false on those public pages.",
+    "The first fetch of https://gradsch.hku.hk/prospective_students/application/faq_on_application returned 404. A second fetch succeeded and was used."
+  ]
+}

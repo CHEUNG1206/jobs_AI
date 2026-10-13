@@ -1,0 +1,911 @@
+{
+  "university_code": "cuhk",
+  "university_name": "The Chinese University of Hong Kong",
+  "scouted_at": "2026-10-13",
+  "profile_ref": "rpg-computing-mathematics-local-2027-28",
+  "sources_consulted": [
+    {
+      "url": "https://www.gs.cuhk.edu.hk/admissions/scholarships-fees/studentships",
+      "title": "Studentships | CUHK Graduate School",
+      "accessed": "2026-10-13",
+      "note": "Postgraduate Studentships annual figure for 2026-27 and the local RPG tuition waiver description."
+    },
+    {
+      "url": "https://www.gs.cuhk.edu.hk/admissions/scholarships-fees/scholarships",
+      "title": "Overview of Scholarship Schemes | CUHK Graduate School",
+      "accessed": "2026-10-13",
+      "note": "University-wide list: HKPFS package headline, Vice-Chancellor’s PhD Scholarship, Belt and Road, PGS, local tuition waiver, FTSS, overseas academic grant, TSFS, Convocation taught scholarships, Young Scholars Thesis Award named."
+    },
+    {
+      "url": "https://www.gs.cuhk.edu.hk/admissions/scholarships-fees/VCPHD",
+      "title": "CUHK Vice-Chancellor's PhD Scholarship Scheme | CUHK Graduate School",
+      "accessed": "2026-10-13",
+      "note": "Award split, bundled annual studentship, and travel allowance for full-time PhD applicants."
+    },
+    {
+      "url": "https://www.gs.cuhk.edu.hk/admissions/scholarships-fees/hkpfs",
+      "title": "HKPFS | CUHK Graduate School",
+      "accessed": "2026-10-13",
+      "note": "2027-28 HKPFS at CUHK: stipend, travel, tuition waiver, lodging, deadlines, and fallback Vice-Chancellor PhD Scholarship for nominated applicants not selected by the RGC."
+    },
+    {
+      "url": "https://www.gs.cuhk.edu.hk/programmes/science/mphil-phd-mathematics",
+      "title": "MPhil-PhD in Mathematics | CUHK Graduate School",
+      "accessed": "2026-10-13",
+      "note": "Computational Mathematics is a listed field. 2027/28 tuition and main/clearing application deadlines, plus HKPFS deadlines."
+    },
+    {
+      "url": "https://www.math.cuhk.edu.hk/postgraduates/research-programmes",
+      "title": "Research Programmes | CUHK Mathematics",
+      "accessed": "2026-10-13",
+      "note": "Department page still prints 1 December 2025 and 31 March 2026 deadlines and lists financial aid. Not used for 2027/28 dates."
+    },
+    {
+      "url": "https://www.math.cuhk.edu.hk/postgraduates/scholarships-and-recipients",
+      "title": "Scholarships and Recipients | CUHK Mathematics",
+      "accessed": "2026-10-13",
+      "note": "Names departmental postgraduate awards and points to university PGS and the Targeted Taught Postgraduate Programmes Fellowships Scheme."
+    },
+    {
+      "url": "https://www.math.cuhk.edu.hk/postgraduates/financial-aid/hong-kong-phd-fellowship-scheme-hkpfs",
+      "title": "Hong Kong PhD Fellowship Scheme (HKPFS) | CUHK Mathematics",
+      "accessed": "2026-10-13",
+      "note": "Department HKPFS page prints an older annual stipend and travel allowance. Those figures were not copied onto the HKPFS row."
+    },
+    {
+      "url": "https://www.math.cuhk.edu.hk/postgraduates/financial-aid/professor-ka-sing-lau-scholarship-mathematics",
+      "title": "Professor Ka-sing Lau Scholarship for Mathematics",
+      "accessed": "2026-10-13",
+      "note": "HK$10,000 annual award for one mathematics postgraduate student in fractal geometry and related areas."
+    },
+    {
+      "url": "https://www.math.cuhk.edu.hk/postgraduates/financial-aid/mr-and-mrs-chan-kwok-kang-memorial-scholarship",
+      "title": "Mr. and Mrs. Chan Kwok-Kang Memorial Scholarship",
+      "accessed": "2026-10-13",
+      "note": "First-year full-time Mathematics graduate who is also a CUHK Mathematics graduate. No fixed HKD amount."
+    },
+    {
+      "url": "https://www.math.cuhk.edu.hk/student-centre/scholarships/part-time-m-phil-mathematics-studentship",
+      "title": "Part-Time M.Phil. Mathematics Studentship",
+      "accessed": "2026-10-13",
+      "note": "Up to two outside-quota part-time MPhil awards equal to programme tuition. No HKD figure on the page."
+    },
+    {
+      "url": "https://www.math.cuhk.edu.hk/postgraduates/financial-aid/m-sc-mathematics-scholarship",
+      "title": "M.Sc. Mathematics Scholarship | CUHK Mathematics",
+      "accessed": "2026-10-13",
+      "note": "Taught MSc awards, including HK$50,000 and HK$30,000 categories."
+    },
+    {
+      "url": "https://www.math.cuhk.edu.hk/student-centre/scholarships/cuhk-eth-exchange-travel-scholarship",
+      "title": "CUHK-ETH Exchange Travel Scholarship",
+      "accessed": "2026-10-13",
+      "note": "Airfare reimbursement not more than HK$10,000 for mathematics postgraduates on the ETH Zürich exchange."
+    },
+    {
+      "url": "https://www.math.cuhk.edu.hk/student-centre/scholarships/best-teaching-assistant-award",
+      "title": "Best Teaching Assistant Award | CUHK Mathematics",
+      "accessed": "2026-10-13",
+      "note": "Up to three annual teaching awards of $5,000. Page does not print HK$."
+    },
+    {
+      "url": "https://www.math.cuhk.edu.hk/student-centre/scholarships/mathematics-scholarship",
+      "title": "Mathematics Scholarship | CUHK Mathematics",
+      "accessed": "2026-10-13",
+      "note": "Undergraduate admission scholarships only."
+    },
+    {
+      "url": "https://www.gs.cuhk.edu.hk/admissions/how-to-apply",
+      "title": "How to Apply | CUHK Graduate School",
+      "accessed": "2026-10-13",
+      "note": "Applications open on 1 September 2026. Online application portal is linked but was not opened."
+    },
+    {
+      "url": "https://www.gs.cuhk.edu.hk/admissions/faqs",
+      "title": "FAQ | CUHK Graduate School",
+      "accessed": "2026-10-13",
+      "note": "Full-time RPG applicants are automatically considered for PGS. Local tuition waiver rules. This FAQ still prints an HKPFS deadline of 1 December 2025, which was not used."
+    },
+    {
+      "url": "https://www.gs.cuhk.edu.hk/academics/faq",
+      "title": "FAQ | CUHK Graduate School",
+      "accessed": "2026-10-13",
+      "note": "Local versus non-local treatment of the Tuition Waiver and the CUHK Vice-Chancellor HKPFS Scholarship."
+    },
+    {
+      "url": "https://www.gs.cuhk.edu.hk/admissions/application-deadline",
+      "title": "Application Deadlines | CUHK Graduate School",
+      "accessed": "2026-10-13",
+      "note": "Application commencement 1 September 2026 and HKPFS deadlines of 1 December 2026. Programme-name rows in the fetch were incomplete, so Mathematics dates were taken from the programme page."
+    },
+    {
+      "url": "https://www.gs.cuhk.edu.hk/download/VII-J.pdf",
+      "title": "Postgraduate Student Handbook 2026-27 (VII-J)",
+      "accessed": "2026-10-13",
+      "note": "Financial assistance table: PGS, local tuition waiver, TSFS, NLSFT, ENLS, and university bursaries and loans. No HKD amounts."
+    },
+    {
+      "url": "https://www.gs.cuhk.edu.hk/download/VII-L.pdf",
+      "title": "Postgraduate Student Handbook 2026-27 (VII-L)",
+      "accessed": "2026-10-13",
+      "note": "PGS eligibility for articulated MPhil–PhD students and PGS-1 / PGS-2 levels. No separate HKD rates."
+    },
+    {
+      "url": "https://www.gs.cuhk.edu.hk/download/CUHK_postgraduate_booklet.pdf",
+      "title": "CUHK postgraduate booklet",
+      "accessed": "2026-10-13",
+      "note": "Repeats 2026–2027 annual stipend HK$229,200 and the phrase Guaranteed throughout normative study period. Also names Reaching Out Award without an amount."
+    },
+    {
+      "url": "https://www.oal.cuhk.edu.hk/phd-impac-award/",
+      "title": "PhD International Mobility for Partnerships and Collaborations Award (PhD IMPAC Award) 2026-27",
+      "accessed": "2026-10-13",
+      "note": "2026-27 round deadline 16 March 2026. Amounts are in the linked guidelines PDF."
+    },
+    {
+      "url": "https://www.cuhk.edu.hk/oal/PhD_IMPAC_Award/Programme-Guidelines_2026-27_CU_PhD.pdf",
+      "title": "Guidelines for PhD IMPAC Award for 2026–27 Outbound Track",
+      "accessed": "2026-10-13",
+      "note": "Award range HK$17,000 to HK$50,000 for registered full-time PhD students in year 2 or above. Deadline 16 March 2026."
+    },
+    {
+      "url": "https://www.shho.cuhk.edu.hk/reaching-out-award-2025-26-deadline-26-january-2026/",
+      "title": "Reaching Out Award 2025/26 (deadline: 26 January 2026) | S.H. Ho College, The Chinese University of Hong Kong",
+      "accessed": "2026-10-13",
+      "note": "College round: HK$10,000 each, four places, deadline 26 January 2026. Preference to local students. Undergraduate and postgraduate."
+    },
+    {
+      "url": "https://www.gs.cuhk.edu.hk/programmes/engineering/mphil-phd-computer-science-and-engineering",
+      "title": "MPhil-PhD in Computer Science and Engineering | CUHK Graduate School",
+      "accessed": "2026-10-13",
+      "note": "No separate studentship. 2027/28 tuition HK$49,500 and the same December 2026 / March 2027 deadlines. Extra CSE upload portal was not opened."
+    },
+    {
+      "url": "https://spcep.cuhk.edu.hk/cef/",
+      "title": "Continuing Education Fund (CEF) | SPCEP",
+      "accessed": "2026-10-13",
+      "note": "CEF administration for self-financed reimbursable courses. No RPG stipend and no HKD amount."
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/fees-financing-your-studies/fees/",
+      "title": "Fees",
+      "accessed": "2026-10-13",
+      "note": "Undergraduate admissions fee page. Its HK$49,500 local tuition line was not used for research postgraduate awards."
+    },
+    {
+      "url": "https://www.gs.cuhk.edu.hk/scholarships/cuhk-young-scholars-thesis-award-2025-research-doctoral-graduates-2024-25",
+      "title": "You are not authorized to access this page.",
+      "accessed": "2026-10-13",
+      "note": "Dedicated Young Scholars Thesis Award page was not public on fetch."
+    },
+    {
+      "url": "https://www.gs.cuhk.edu.hk/page/FeesandFinancialAids",
+      "title": "FeesandFinancialAids",
+      "accessed": "2026-10-13",
+      "note": "Linked from the Mathematics scholarships page. Fetch returned 404."
+    },
+    {
+      "url": "https://www.uc.cuhk.edu.hk/tc/scholarships-and-financial-aid/",
+      "title": "unknown",
+      "accessed": "2026-10-13",
+      "note": "Destination of the Dr. S T Tsou scholarship link. Fetch timed out, so regulations were not read."
+    }
+  ],
+  "opportunities": [
+    {
+      "id": "cuhk-postgraduate-studentship",
+      "name": "Postgraduate Studentships (MPhil and PhD)",
+      "university": "CUHK",
+      "university_code": "cuhk",
+      "type": "studentship",
+      "eligibility_clues": [
+        "Available to qualified full-time research postgraduate students",
+        "MPhil and PhD",
+        "Payable during the normative period of study",
+        "Studentship results are announced together with admission offers",
+        "Full-time research postgraduate programme applicants are automatically considered for Postgraduate Studentships (PGS) by their programme's Graduate Division. No separate application is needed.",
+        "Handbook: full-time students within the normative study period; M.Phil. and Ph.D. (pre-candidacy) at PGS-1; Ph.D. (post-candidacy) at PGS-2",
+        "Mathematics MPhil-PhD lists Computational Mathematics among fields of specialization",
+        "Part-time students are not eligible for this studentship"
+      ],
+      "amount": "Annual studentship for 2026-27 is HK$229,200 (approx. US$29,400)",
+      "amount_note": "Printed as the 2026-27 annual studentship. The page does not print a 2027/28 figure or a monthly rate, and it does not print separate HKD amounts for PGS-1 and PGS-2. The postgraduate booklet also prints '2026–2027 annual stipend: HK$229,200' and 'Guaranteed throughout normative study period.'",
+      "deadline": "unknown",
+      "deadline_note": "Studentship results are announced together with admission offers. How to Apply prints 'Applications open on 1 September 2026.' The MPhil-PhD in Mathematics page prints Main Round: 1 December 2026 and Clearing Round: 31 March 2027.",
+      "source_url": "https://www.gs.cuhk.edu.hk/admissions/scholarships-fees/studentships",
+      "match_tag": "strong",
+      "match_rationale": "University-wide postgraduate studentship for full-time MPhil and PhD, including Mathematics and its Computational Mathematics field. Local students are not excluded. It is considered with the admission offer for the round that opened on 1 September 2026. The only printed stipend year is 2026-27.",
+      "login_required": false,
+      "intake_relevance": "Tied to admission offers for the round open from 1 September 2026. Mathematics 2027/28 main round deadline is 1 December 2026. Printed rate year is 2026-27.",
+      "restrictions": [
+        "Full-time only",
+        "Within the normative study period",
+        "Pre-candidacy PhD students who have not fulfilled candidacy within 24 months full-time equivalent can have the studentship stopped at the 25th month until candidacy is fulfilled"
+      ]
+    },
+    {
+      "id": "cuhk-hkpfs",
+      "name": "Hong Kong PhD Fellowship Scheme (HKPFS)",
+      "university": "CUHK",
+      "university_code": "cuhk",
+      "type": "fellowship",
+      "eligibility_clues": [
+        "Join us in the 2027-28 academic year",
+        "PhD programmes across eight Faculties, including Science",
+        "Applicants must meet CUHK's admissions criteria and demonstrate academic excellence, research ability and potential, communication and interpersonal skills, leadership abilities, and cultural diversity",
+        "Select up to two programmes",
+        "Starting from the 2020-21 intake, PhD candidates nominated by CUHK but not selected for HKPFS are offered a regular PhD place with the CUHK Vice-Chancellor's PhD Scholarship",
+        "Graduate School FAQ discusses local HKPFS recipients and the local tuition waiver",
+        "Mathematics is an eligible PhD programme on the MPhil-PhD in Mathematics page"
+      ],
+      "amount": "HK$344,400 (approx. US$44,200) per year",
+      "amount_note": "Printed under Stipend, up to HK$1.38 Million (approx. US$176,620) during the normative study period. Also printed: Conference and Research-related Travel Allowance HK$14,400 (approx. US$1,850) per year, up to HK$87,600; Tuition Fee Waiver up to HK$198,000; Lodging Award up to HK$100,000; financial assistance Over HK$1.81 Million (~USD$232,420). The Mathematics department HKPFS page prints a different annual stipend of HK$240,000 and travel allowance of HK$10,000; those older figures are not used.",
+      "deadline": "1 Dec 2026 at 11:59pm, Hong Kong Time",
+      "deadline_note": "CUHK Application Deadline. RGC Application Deadline on the same page: 1 Dec 2026 at 12:00nn, Hong Kong Time (GMT + 8 hours). The admissions FAQ still prints 1 December 2025; that date was not used.",
+      "source_url": "https://www.gs.cuhk.edu.hk/admissions/scholarships-fees/hkpfs",
+      "match_tag": "strong",
+      "match_rationale": "The cited page prints an annual stipend, invites applicants for the 2027-28 academic year, and includes an awardee from Hong Kong, China. A local PhD applicant in Mathematics can be considered. The scheme is PhD-only.",
+      "login_required": false,
+      "intake_relevance": "Explicitly the 2027-28 academic year.",
+      "restrictions": [
+        "PhD only",
+        "Competitive selection",
+        "Initial application must be filed with the RGC before the CUHK application"
+      ]
+    },
+    {
+      "id": "cuhk-vc-phd-scholarship",
+      "name": "CUHK Vice-Chancellor's PhD Scholarship Scheme",
+      "university": "CUHK",
+      "university_code": "cuhk",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "Targets the most brilliant candidates seeking full-time PhD admission at CUHK",
+        "Qualifying criteria may include a cumulative GPA of at least 3.5/4.0 or equivalent, academic/research awards, impactful publications, strong reference letters, or a PhD offer from a top-tier university for the same intake",
+        "Candidates applying to CUHK's full-time PhD programmes through the Online Application System by the specified deadlines are automatically considered",
+        "No separate application is required",
+        "HKPFS nominees not selected by the RGC are offered a regular PhD place with this scholarship"
+      ],
+      "amount": "An award of HK$80,000 (approx. US$10,260)",
+      "amount_note": "Distributed as HK$40,000 in the first year and HK$20,000 each in the second and third years, subject to satisfactory academic progress. The same page also prints annual studentships of HK$229,200 (approx. US$29,400) throughout the normative study period and a Conference and Research-related Travel Allowance totalling HK$30,000 (approx. US$3,846).",
+      "deadline": "unknown",
+      "deadline_note": "Automatically considered for applicants who apply to full-time PhD programmes by the specified deadlines. The page does not print a separate scholarship date. Mathematics main round on the programme page is 1 December 2026.",
+      "source_url": "https://www.gs.cuhk.edu.hk/admissions/scholarships-fees/VCPHD",
+      "match_tag": "possible",
+      "match_rationale": "Full-time PhD scholarship that bundles the annual studentship with an extra award and travel allowance. Local applicants in Mathematics can be considered automatically, but it is selective and is not the baseline studentship.",
+      "login_required": false,
+      "intake_relevance": "Considered with full-time PhD applications for the current round. No separate 2027/28 label on this page.",
+      "restrictions": [
+        "Full-time PhD only",
+        "Merit-based",
+        "Satisfactory academic progress for later instalments"
+      ]
+    },
+    {
+      "id": "cuhk-tuition-waiver-local-rpg",
+      "name": "Tuition Waiver Scheme for Local Research Postgraduate Students",
+      "university": "CUHK",
+      "university_code": "cuhk",
+      "type": "tuition_waiver",
+      "eligibility_clues": [
+        "Starting from the 2018-19 academic year, the Government fully waives tuition fees for all eligible local full-time research postgraduate (RPg) students in UGC-funded programmes throughout their normative study period",
+        "Non-mean-tested",
+        "All full-time RPg programmes are UGC-funded; part-time RPg programmes are not",
+        "Students with any Hong Kong visa type (including student, dependent, and IANG) or entry permit are ineligible",
+        "Scholarships, awards or stipends which do not aim to cover tuition fees do not affect the waiver",
+        "Local HKPFS recipients use this waiver for tuition; the waiver does not become extra cash"
+      ],
+      "amount": "unknown",
+      "amount_note": "The studentships page says the Government fully waives tuition fees and does not print an HKD amount. The MPhil-PhD in Mathematics page prints 'The tuition fee will be HK$49,500 for 2027/28, regardless of the study mode.' That fee line is not stated as the waiver amount.",
+      "deadline": "unknown",
+      "deadline_note": "No application deadline is printed. The admissions FAQ presents it as eligibility for local full-time UGC-funded RPg students during the normative study period.",
+      "source_url": "https://www.gs.cuhk.edu.hk/admissions/scholarships-fees/studentships",
+      "match_tag": "possible",
+      "match_rationale": "Fits a Hong Kong permanent resident in a full-time UGC-funded MPhil or PhD, including Mathematics. It waives tuition rather than paying a monthly living stipend.",
+      "login_required": false,
+      "intake_relevance": "In force for eligible local full-time RPg students throughout the normative study period. Not labelled as a separate 2027/28 competition.",
+      "restrictions": [
+        "Local students only, as defined against student, IANG, and dependant visas",
+        "Full-time UGC-funded RPg only",
+        "Normative study period",
+        "A full tuition waiver from another scheme disqualifies the student from this scheme"
+      ]
+    },
+    {
+      "id": "cuhk-rpg-overseas-academic-grant",
+      "name": "Research Postgraduate Student Grant for Overseas Academic Activities",
+      "university": "CUHK",
+      "university_code": "cuhk",
+      "type": "other",
+      "eligibility_clues": [
+        "Full-time Research Doctoral Student: Maximum HK$30,000 in total during the normative period of study",
+        "Full-time Research Master’s Student: Maximum HK$10,000 in total during the normative period of study",
+        "The postgraduate booklet groups this grant with support for full-time MPhil and PhD students undertaking academic activities abroad"
+      ],
+      "amount": "Maximum HK$30,000 in total during the normative period of study",
+      "amount_note": "Doctoral maximum as printed. The same list prints a research master's maximum of HK$10,000 in total during the normative period of study. Not a monthly stipend.",
+      "deadline": "unknown",
+      "deadline_note": "No deadline is printed on the scholarship overview.",
+      "source_url": "https://www.gs.cuhk.edu.hk/admissions/scholarships-fees/scholarships",
+      "match_tag": "possible",
+      "match_rationale": "Open to full-time research master's and doctoral students, so a Mathematics MPhil or PhD student could use it. It is a capped activities grant, not a living studentship.",
+      "login_required": false,
+      "intake_relevance": "For students already in the normative study period. No 2027/28 intake date is printed.",
+      "restrictions": [
+        "Full-time research postgraduate students",
+        "Cap is a total for the normative period, not an annual living stipend"
+      ]
+    },
+    {
+      "id": "cuhk-part-time-mphil-math-studentship",
+      "name": "Part-Time M.Phil. Mathematics Studentship",
+      "university": "CUHK",
+      "university_code": "cuhk",
+      "type": "studentship",
+      "eligibility_clues": [
+        "Limited to two awards per cohort",
+        "Only for students of the M.Phil. Programme in Mathematics of outside-quota",
+        "Each carries a value equivalent to the tuition fees for the programme",
+        "Candidates are preferably graduates of the M.Sc. Programme in Mathematics",
+        "If no suitable MSc candidate, candidates shall be B.Sc. Mathematics undergraduates from local universities with research potential",
+        "Selected on academic merit together with interview results",
+        "Payment in instalments by the end of each teaching term upon satisfactory academic performance"
+      ],
+      "amount": "unknown",
+      "amount_note": "The page says each award carries a value equivalent to the tuition fees for the programme and does not print an HKD amount. The MPhil-PhD in Mathematics page separately prints tuition of HK$49,500 for 2027/28.",
+      "deadline": "unknown",
+      "deadline_note": "No scholarship deadline is printed.",
+      "source_url": "https://www.math.cuhk.edu.hk/student-centre/scholarships/part-time-m-phil-mathematics-studentship",
+      "match_tag": "possible",
+      "match_rationale": "A Mathematics MPhil studentship that a local mathematics graduate may be considered for. It is part-time, outside-quota, and equal to tuition rather than a monthly living stipend.",
+      "login_required": false,
+      "intake_relevance": "Awarded per cohort. No 2027/28 date is printed on this page.",
+      "restrictions": [
+        "Part-time outside-quota MPhil in Mathematics only",
+        "Two awards per cohort",
+        "Preference for CUHK MSc Mathematics graduates"
+      ]
+    },
+    {
+      "id": "cuhk-chan-kwok-kang-memorial",
+      "name": "Mr. and Mrs. Chan Kwok-Kang Memorial Scholarship",
+      "university": "CUHK",
+      "university_code": "cuhk",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "One scholarship since 2000-01",
+        "Awarded to a first-year full-time graduate student of the Division of Mathematics, who is also a graduate of the Department of Mathematics, on the basis of academic merit",
+        "The value of the annual scholarship will vary each year depending on the annual income generated from the endowment fund"
+      ],
+      "amount": "unknown",
+      "amount_note": "The value of the annual scholarship will vary each year depending on the annual income generated from the endowment fund. No HKD figure is printed.",
+      "deadline": "unknown",
+      "deadline_note": "No deadline is printed.",
+      "source_url": "https://www.math.cuhk.edu.hk/postgraduates/financial-aid/mr-and-mrs-chan-kwok-kang-memorial-scholarship",
+      "match_tag": "possible",
+      "match_rationale": "Merit award for a first-year full-time Mathematics postgraduate who already graduated from the CUHK Department of Mathematics. It can sit alongside study in computational mathematics, but only for that alumni group, and no stipend figure is printed.",
+      "login_required": false,
+      "intake_relevance": "First-year full-time Mathematics graduate students. No intake year is printed.",
+      "restrictions": [
+        "Must be a graduate of the CUHK Department of Mathematics",
+        "First-year full-time graduate student of the Division of Mathematics",
+        "One award"
+      ]
+    },
+    {
+      "id": "cuhk-tsou-memorial",
+      "name": "Dr. S T Tsou and Madam Tsou Poon Hai Hung Memorial Postgraduate Scholarship",
+      "university": "CUHK",
+      "university_code": "cuhk",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "Listed under departmental postgraduate scholarships on the Mathematics Scholarships and Recipients page",
+        "The list links to the United College scholarships and financial aid page"
+      ],
+      "amount": "unknown",
+      "amount_note": "No amount is printed on the Mathematics list page. The linked United College page timed out, so no figure was copied.",
+      "deadline": "unknown",
+      "deadline_note": "No deadline was readable. The regulations page timed out.",
+      "source_url": "https://www.math.cuhk.edu.hk/postgraduates/scholarships-and-recipients",
+      "match_tag": "possible",
+      "match_rationale": "Named as a Mathematics departmental postgraduate scholarship, so a research postgraduate in the department might be in scope. Eligibility, amount, and deadline were not on the page that loaded.",
+      "login_required": false,
+      "intake_relevance": "unknown",
+      "restrictions": [
+        "Terms not confirmed because the linked page did not load"
+      ]
+    },
+    {
+      "id": "cuhk-tsfs",
+      "name": "Tertiary Student Finance Scheme – Publicly-funded Programmes (TSFS)",
+      "university": "CUHK",
+      "university_code": "cuhk",
+      "type": "other",
+      "eligibility_clues": [
+        "Administered by the Student Finance Office of the Hong Kong Government",
+        "For full-time local students taking up exclusively UGC-funded or publicly-funded programmes",
+        "Handbook: right of abode in Hong Kong, or the applicant or family has resided in Hong Kong continuously for three complete years prior to the programme",
+        "Does not cover non-local students holding student visas, IANG visas, or dependant visas issued at age 18 or above",
+        "Details of eligibility and the list of eligible programmes are confirmed around mid-April every year"
+      ],
+      "amount": "unknown",
+      "amount_note": "Neither the scholarship overview nor the handbook prints an HKD amount.",
+      "deadline": "unknown",
+      "deadline_note": "Handbook says eligibility and the programme list are confirmed by the Government Student Finance Office around mid-April every year. No application deadline is printed.",
+      "source_url": "https://www.gs.cuhk.edu.hk/download/VII-J.pdf",
+      "match_tag": "possible",
+      "match_rationale": "Government aid for full-time local students on UGC-funded places, which includes full-time research postgraduate programmes. Amount and whether a 2027/28 Mathematics place is on the confirmed list are not printed.",
+      "login_required": false,
+      "intake_relevance": "Annual government scheme. The handbook edition is 2026-27. No 2027/28 award figure is printed.",
+      "restrictions": [
+        "Full-time exclusively UGC-funded or publicly-funded place",
+        "Local residence test as printed in the handbook",
+        "Means-tested government scheme; assessment rules are not on the CUHK page"
+      ]
+    },
+    {
+      "id": "cuhk-university-bursaries-loans",
+      "name": "University Bursaries and Loans",
+      "university": "CUHK",
+      "university_code": "cuhk",
+      "type": "other",
+      "eligibility_clues": [
+        "Intended to supplement TSFS",
+        "Full-time financially needy students of exclusively UGC-funded or publicly-funded programmes who are Hong Kong permanent residents",
+        "Students with emergency needs arising from sudden change in financial conditions may also apply"
+      ],
+      "amount": "unknown",
+      "amount_note": "No HKD amount is printed in the handbook.",
+      "deadline": "unknown",
+      "deadline_note": "No deadline is printed. The handbook points readers to the Government Student Finance Office for updated information.",
+      "source_url": "https://www.gs.cuhk.edu.hk/download/VII-J.pdf",
+      "match_tag": "possible",
+      "match_rationale": "Open to financially needy Hong Kong permanent residents in full-time UGC-funded study, so a full-time Mathematics research postgraduate could be eligible. It supplements TSFS and is not the postgraduate studentship.",
+      "login_required": false,
+      "intake_relevance": "Listed in the 2026-27 handbook. No 2027/28 round is named.",
+      "restrictions": [
+        "Hong Kong permanent residents",
+        "Full-time UGC-funded or publicly-funded programmes",
+        "Financial need, or emergency need"
+      ]
+    },
+    {
+      "id": "cuhk-ka-sing-lau",
+      "name": "Professor Ka-sing Lau Scholarship for Mathematics",
+      "university": "CUHK",
+      "university_code": "cuhk",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "One award each academic year",
+        "Awarded to one postgraduate student of the Department of Mathematics on the basis of academic merit",
+        "The awardee needs to work in fractal geometry and related areas",
+        "Open to local or non-local students",
+        "In effect from the academic year 2022/23"
+      ],
+      "amount": "HK$10,000",
+      "amount_note": "The amount of each scholarship will be HK$10,000. One award per academic year.",
+      "deadline": "unknown",
+      "deadline_note": "No application deadline is printed. Awarded on an annual basis.",
+      "source_url": "https://www.math.cuhk.edu.hk/postgraduates/financial-aid/professor-ka-sing-lau-scholarship-mathematics",
+      "match_tag": "weak",
+      "match_rationale": "A real Mathematics postgraduate award that locals may hold, but it is a single HK$10,000 merit prize for fractal geometry and related areas, not a living stipend for computing mathematics generally.",
+      "login_required": false,
+      "intake_relevance": "Annual from 2022/23. No 2027/28 deadline is printed.",
+      "restrictions": [
+        "One postgraduate student per year",
+        "Work in fractal geometry and related areas"
+      ]
+    },
+    {
+      "id": "cuhk-eth-exchange-travel",
+      "name": "CUHK-ETH Exchange Travel Scholarship",
+      "university": "CUHK",
+      "university_code": "cuhk",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "Meant to cover the economy-class airfare for a return flight from Hong Kong to Zürich",
+        "Awarded to postgraduate students in Mathematics who spend at least one term at ETH Zürich under the CUHK–ETH Zürich exchange agreement",
+        "Application must be endorsed by at least two professors, one from CUHK Mathematics and one from ETH Zürich",
+        "Awarded since 2008-09"
+      ],
+      "amount": "not more than HK$10,000",
+      "amount_note": "Payable as reimbursement upon presentation of official receipt. The individual scholarship is meant to cover economy-class return airfare.",
+      "deadline": "unknown",
+      "deadline_note": "No deadline is printed.",
+      "source_url": "https://www.math.cuhk.edu.hk/student-centre/scholarships/cuhk-eth-exchange-travel-scholarship",
+      "match_tag": "weak",
+      "match_rationale": "Mathematics postgraduates, including locals, can be reimbursed for an ETH exchange flight. It is travel support capped on the page, not a stipend for the 2027/28 intake.",
+      "login_required": false,
+      "intake_relevance": "For students already taking the ETH exchange. No intake year is printed.",
+      "restrictions": [
+        "Must spend at least one term at ETH Zürich under the exchange agreement",
+        "Two faculty endorsements required"
+      ]
+    },
+    {
+      "id": "cuhk-best-teaching-assistant-award",
+      "name": "Best Teaching Assistant Award",
+      "university": "CUHK",
+      "university_code": "cuhk",
+      "type": "other",
+      "eligibility_clues": [
+        "Department of Mathematics award established in 2010-11",
+        "Every year up to three awards",
+        "Based on class feedback and nomination by the instructor",
+        "Announced in June, with a ceremony in August/September"
+      ],
+      "amount": "$5,000",
+      "amount_note": "The page prints 'a monetary award of $5,000' and does not print HK$. Certificate included. Up to three awards.",
+      "deadline": "unknown",
+      "deadline_note": "Instructors can nominate teaching assistants all year round. The award is announced in June.",
+      "source_url": "https://www.math.cuhk.edu.hk/student-centre/scholarships/best-teaching-assistant-award",
+      "match_tag": "weak",
+      "match_rationale": "A Mathematics department teaching prize that a postgraduate teaching assistant might receive. It is not admission funding or a living stipend.",
+      "login_required": false,
+      "intake_relevance": "Annual prize for current teaching assistants. Not an intake award.",
+      "restrictions": [
+        "Teaching assistants nominated by instructors",
+        "Up to three awards a year"
+      ]
+    },
+    {
+      "id": "cuhk-phd-impac",
+      "name": "PhD International Mobility for Partnerships and Collaborations Award (PhD IMPAC Award)",
+      "university": "CUHK",
+      "university_code": "cuhk",
+      "type": "fellowship",
+      "eligibility_clues": [
+        "2026–27 outbound track",
+        "Applications are made by CUHK supervisors",
+        "Nominated PhD students must be registered full-time PhD students at the time of application and during the visit",
+        "Cumulative GPA of 3.30 or above",
+        "In their 2nd year of study or above when they undertake the visit",
+        "Visit of three to six months, carried out and completed between 1 August 2026 and 31 July 2027",
+        "All disciplines; priority strategic areas include Information and Automation Technology"
+      ],
+      "amount": "HK$17,000 to HK$50,000",
+      "amount_note": "The value of the award will range from HK$17,000 to HK$50,000 based on the duration and destination of the visit. The guidelines table prints 17,000 to 32,000 for Africa, Asia and Middle East and 28,000 to 50,000 for Europe, Americas and Oceania, by visit length.",
+      "deadline": "16 March 2026, Monday",
+      "deadline_note": "Printed deadline for the 2026–27 round. That date is before this scout date. No later round is printed on the pages fetched.",
+      "source_url": "https://www.cuhk.edu.hk/oal/PhD_IMPAC_Award/Programme-Guidelines_2026-27_CU_PhD.pdf",
+      "match_tag": "weak",
+      "match_rationale": "A real award a Mathematics or computational PhD student could later be nominated for, but the fetched round closed on 16 March 2026 and requires a registered PhD student in year 2 or above. It is not a 2027/28 admission stipend.",
+      "login_required": false,
+      "intake_relevance": "2026–27 visit window for students already enrolled. Not an award for new 2027/28 entrants.",
+      "restrictions": [
+        "Supervisor-nominated",
+        "Full-time PhD, year 2 or above, GPA 3.30 or above",
+        "Visit must finish by 31 July 2027"
+      ]
+    },
+    {
+      "id": "cuhk-reaching-out-shho",
+      "name": "Reaching Out Award 2025/26",
+      "university": "CUHK",
+      "university_code": "cuhk",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "S.H. Ho College notice",
+        "HK$10,000 each",
+        "4 quota for S.H. Ho College students",
+        "Full-time undergraduate and postgraduate students studying in UGC-funded programmes",
+        "Self-financed student places are not eligible",
+        "Preference is given to local students",
+        "Outreach activities outside Hong Kong during 1 September 2025 to 31 August 2026",
+        "Students can only receive the award once throughout the entire study programme",
+        "The postgraduate booklet names the Reaching Out Award for full-time MPhil and PhD students' academic activities abroad and does not print an amount"
+      ],
+      "amount": "HK$10,000 each",
+      "amount_note": "Printed on the S.H. Ho College 2025/26 notice. College quota is 4. The Graduate School booklet names the award without an amount.",
+      "deadline": "26 January 2026",
+      "deadline_note": "Submit to the S.H. Ho College Dean of Students’ Office on or before 26 January 2026 (Mon). That date is before this scout date. No 2026/27 or 2027/28 college round was fetched.",
+      "source_url": "https://www.shho.cuhk.edu.hk/reaching-out-award-2025-26-deadline-26-january-2026/",
+      "match_tag": "weak",
+      "match_rationale": "A local-preference outreach award that full-time UGC-funded postgraduates may hold, but this fetched round is a four-place S.H. Ho College exercise with a January 2026 deadline, not a Mathematics living stipend for 2027/28.",
+      "login_required": false,
+      "intake_relevance": "2025/26 outreach period ending 31 August 2026. Deadline already passed on the scout date.",
+      "restrictions": [
+        "S.H. Ho College quota of 4 on this notice",
+        "Once per study programme",
+        "Activity must be outside Hong Kong and not online",
+        "UGC-funded full-time place"
+      ]
+    },
+    {
+      "id": "cuhk-nlsft",
+      "name": "Hong Kong Government Non-means-tested Loan Scheme for Full-time Tertiary Students (NLSFT)",
+      "university": "CUHK",
+      "university_code": "cuhk",
+      "type": "other",
+      "eligibility_clues": [
+        "Handbook eligibility: same as TSFS",
+        "Full-time students on an exclusively UGC-funded or publicly-funded place",
+        "Right of abode in Hong Kong, or three complete years of continuous residence by the applicant or family",
+        "Excludes holders of student, IANG, and specified dependant visas"
+      ],
+      "amount": "unknown",
+      "amount_note": "No HKD amount is printed in the handbook.",
+      "deadline": "unknown",
+      "deadline_note": "No deadline is printed. Eligibility details are confirmed around mid-April every year for the government schemes in this handbook section.",
+      "source_url": "https://www.gs.cuhk.edu.hk/download/VII-J.pdf",
+      "match_tag": "weak",
+      "match_rationale": "A local full-time UGC student, including a research postgraduate, can fall under the same residence test as TSFS. It is a loan scheme, not a studentship or scholarship.",
+      "login_required": false,
+      "intake_relevance": "Listed in the 2026-27 handbook. No 2027/28 loan figure is printed.",
+      "restrictions": [
+        "Loan, not a stipend",
+        "Same local full-time publicly funded test as TSFS"
+      ]
+    },
+    {
+      "id": "cuhk-enls",
+      "name": "Hong Kong Government Extended Non means-tested Loan Scheme (ENLS)",
+      "university": "CUHK",
+      "university_code": "cuhk",
+      "type": "other",
+      "eligibility_clues": [
+        "Students pursuing a self-financed local award-bearing programme, full-time or part-time, or a part-time exclusively UGC-funded or publicly-funded programme",
+        "Right of abode in Hong Kong, or three complete years of continuous residence by the applicant or family",
+        "Excludes holders of student, IANG, and specified dependant visas",
+        "Handbook states part-time RPg programmes are not UGC-funded"
+      ],
+      "amount": "unknown",
+      "amount_note": "No HKD amount is printed.",
+      "deadline": "unknown",
+      "deadline_note": "No deadline is printed.",
+      "source_url": "https://www.gs.cuhk.edu.hk/download/VII-J.pdf",
+      "match_tag": "weak",
+      "match_rationale": "A local student on a part-time or self-financed place might use this loan. Full-time UGC-funded research postgraduate study is outside the case the handbook describes, and it is not a living stipend.",
+      "login_required": false,
+      "intake_relevance": "Listed in the 2026-27 handbook.",
+      "restrictions": [
+        "Self-financed or part-time publicly funded study",
+        "Loan, not a stipend"
+      ]
+    },
+    {
+      "id": "cuhk-msc-mathematics-scholarship",
+      "name": "M.Sc. Mathematics Scholarship",
+      "university": "CUHK",
+      "university_code": "cuhk",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "Recipient must be a full-time or part-time student studying an MSc degree in mathematics",
+        "Category A: half-tuition fee, full-time student, minimum 3.8 cumulative GPA and graduate requirement fulfilled",
+        "Category B: minimum 3.7 cumulative GPA and graduate requirement fulfilled",
+        "Category C: minimum 3.5 cumulative GPA and graduate requirement fulfilled",
+        "Applications are not required. The Department informs recipients at the end of the academic year"
+      ],
+      "amount": "Scholarships of HK$50,000 each",
+      "amount_note": "Category B as printed. Category C is scholarships of HK$30,000 each. Category A is half-tuition fee of the awardee’s admission year, with no HKD tuition figure on this page.",
+      "deadline": "unknown",
+      "deadline_note": "No application. Recipients are informed at the end of the academic year.",
+      "source_url": "https://www.math.cuhk.edu.hk/postgraduates/financial-aid/m-sc-mathematics-scholarship",
+      "match_tag": "weak",
+      "match_rationale": "A Mathematics award, but only for the taught MSc, not for MPhil or PhD.",
+      "login_required": false,
+      "intake_relevance": "Awarded on performance during the MSc. No 2027/28 research intake date.",
+      "restrictions": [
+        "Taught MSc in Mathematics only",
+        "GPA and graduation-requirement thresholds",
+        "Limited quota"
+      ]
+    },
+    {
+      "id": "cuhk-ftss",
+      "name": "Hong Kong Future Talents Scholarship Scheme for Advanced Studies",
+      "university": "CUHK",
+      "university_code": "cuhk",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "Established by the UGC in 2025-26",
+        "Scholarships for local students to pursue designated taught postgraduate programmes in areas of strategic priority for the development of Hong Kong"
+      ],
+      "amount": "a cap of HK$100,000 per student for the entire programme",
+      "amount_note": "The awardees will pay a minimum tuition fee of HK$49,500 for the programme, and the difference will be subsidised by the scholarship subject to a cap of HK$100,000 per student for the entire programme.",
+      "deadline": "unknown",
+      "deadline_note": "No deadline is printed on the CUHK scholarship overview.",
+      "source_url": "https://www.gs.cuhk.edu.hk/admissions/scholarships-fees/scholarships",
+      "match_tag": "weak",
+      "match_rationale": "Local students are the target, but the scheme is for designated taught postgraduate programmes, not research MPhil or PhD in mathematics.",
+      "login_required": false,
+      "intake_relevance": "Described as established in 2025-26. No 2027/28 research-postgraduate round is printed.",
+      "restrictions": [
+        "Taught postgraduate programmes only",
+        "Designated programmes in strategic priority areas",
+        "Local students"
+      ]
+    },
+    {
+      "id": "cuhk-targeted-tpg-fellowships",
+      "name": "Targeted Taught Postgraduate Programmes Fellowships Scheme",
+      "university": "CUHK",
+      "university_code": "cuhk",
+      "type": "fellowship",
+      "eligibility_clues": [
+        "Named on the Mathematics Scholarships and Recipients page",
+        "The page says to see the UGC site for this scheme and does not print eligibility or an amount"
+      ],
+      "amount": "unknown",
+      "amount_note": "No amount is printed on the CUHK Mathematics page. The UGC page linked from that list was not opened.",
+      "deadline": "unknown",
+      "deadline_note": "No deadline is printed on the CUHK page.",
+      "source_url": "https://www.math.cuhk.edu.hk/postgraduates/scholarships-and-recipients",
+      "match_tag": "weak",
+      "match_rationale": "The name is a taught postgraduate fellowship scheme, listed from the Mathematics postgraduate scholarships page. It is not research MPhil or PhD funding, and the CUHK page gives no further terms.",
+      "login_required": false,
+      "intake_relevance": "unknown",
+      "restrictions": [
+        "Taught postgraduate programmes, as indicated by the scheme name",
+        "Terms not printed on the CUHK page"
+      ]
+    },
+    {
+      "id": "cuhk-undergraduate-mathematics-scholarship",
+      "name": "Mathematics Scholarship",
+      "university": "CUHK",
+      "university_code": "cuhk",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "First-year undergraduate students admitted to the Enrichment Mathematics Programme (JS4682) who attended a Department admission interview",
+        "Amount ranging from $5,000 to $100,000 (and at least $20,000 for obtaining 5** in M1/M2)",
+        "At most 8 scholarships, ranging from $5,000 to $20,000, for first-year Broad-Based Science students who declared MATH as their major in Phase I"
+      ],
+      "amount": "ranging from $5,000 to $100,000",
+      "amount_note": "The page prints dollar signs without HK$. Enrichment Mathematics range is $5,000 to $100,000, with at least $20,000 for 5** in M1/M2. Broad-Based Science awards range from $5,000 to $20,000.",
+      "deadline": "unknown",
+      "deadline_note": "No deadline is printed. Payment is arranged at the end of the first term.",
+      "source_url": "https://www.math.cuhk.edu.hk/student-centre/scholarships/mathematics-scholarship",
+      "match_tag": "weak",
+      "match_rationale": "A Mathematics department award, but only for first-year undergraduates, not for MPhil or PhD.",
+      "login_required": false,
+      "intake_relevance": "Undergraduate admission. Not the 2027/28 research postgraduate round.",
+      "restrictions": [
+        "Undergraduate only",
+        "Enrichment Mathematics or Broad-Based Science students declaring MATH"
+      ]
+    },
+    {
+      "id": "cuhk-belt-and-road-rpg",
+      "name": "Belt & Road Scholarship (Research Postgraduate)",
+      "university": "CUHK",
+      "university_code": "cuhk",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "Offered by the HKSAR government for outstanding first-year students from Belt and Road countries",
+        "Full-time research postgraduate programmes in Hong Kong",
+        "Covers full tuition fees and is tenable for the normative study period",
+        "Renewed annually subject to satisfactory academic performance"
+      ],
+      "amount": "unknown",
+      "amount_note": "The page says it covers full tuition fees and does not print an HKD amount.",
+      "deadline": "unknown",
+      "deadline_note": "The CUHK page says to refer to the Education Bureau and does not print a deadline.",
+      "source_url": "https://www.gs.cuhk.edu.hk/admissions/scholarships-fees/scholarships",
+      "match_tag": "out_of_scope",
+      "match_rationale": "Research postgraduate tuition support, but only for outstanding first-year students from Belt and Road countries. A local Hong Kong permanent resident is outside that group.",
+      "login_required": false,
+      "intake_relevance": "First-year research postgraduate students. No 2027/28 date is printed on the CUHK page.",
+      "restrictions": [
+        "Students from Belt and Road countries",
+        "First-year full-time research postgraduate",
+        "Tuition coverage, renewed on satisfactory performance"
+      ]
+    },
+    {
+      "id": "cuhk-convocation-pg-admission",
+      "name": "CUHK Convocation Postgraduate Admission Scholarships",
+      "university": "CUHK",
+      "university_code": "cuhk",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "Two scholarships to award outstanding non-local students to pursue taught postgraduate studies",
+        "One award each for non-local students admitted to full-time and part-time taught postgraduate programmes with effect from the 2022-23 intake",
+        "Only applicants who have received and accepted the offer, and completed the deposit payment, will be considered"
+      ],
+      "amount": "HK$10,000 each",
+      "amount_note": "The CUHK Convocation has set up two scholarships of HK$10,000 each.",
+      "deadline": "unknown",
+      "deadline_note": "No deadline is printed.",
+      "source_url": "https://www.gs.cuhk.edu.hk/admissions/scholarships-fees/scholarships",
+      "match_tag": "out_of_scope",
+      "match_rationale": "Restricted to non-local students on taught postgraduate programmes. It is neither local nor research MPhil/PhD.",
+      "login_required": false,
+      "intake_relevance": "Taught postgraduate admissions from the 2022-23 intake onward. No 2027/28 research round.",
+      "restrictions": [
+        "Non-local students only",
+        "Taught postgraduate programmes only",
+        "Offer accepted and deposit paid"
+      ]
+    },
+    {
+      "id": "cuhk-vc-hkpfs-scholarship-nonlocal",
+      "name": "CUHK Vice-Chancellor HKPFS Scholarship",
+      "university": "CUHK",
+      "university_code": "cuhk",
+      "type": "tuition_waiver",
+      "eligibility_clues": [
+        "Includes a tuition fee waiver for the recipient’s normative study period",
+        "Non-local recipients of the Hong Kong PhD Fellowship Scheme receive this scholarship to cover tuition for the normative study period, applicable from the 2019-20 intake",
+        "Local HKPFS recipients are granted the Tuition Waiver Scheme for Local Research Postgraduate Students instead",
+        "Waived tuition fees will not translate into additional sums for the local HKPFS awardee to collect"
+      ],
+      "amount": "unknown",
+      "amount_note": "The FAQ describes tuition coverage and does not print an HKD amount. The HKPFS page separately prints a Tuition Fee Waiver up to HK$198,000 for the HKPFS package.",
+      "deadline": "unknown",
+      "deadline_note": "No separate deadline. It follows HKPFS selection.",
+      "source_url": "https://www.gs.cuhk.edu.hk/academics/faq",
+      "match_tag": "out_of_scope",
+      "match_rationale": "The FAQ assigns this tuition scholarship to non-local HKPFS recipients. A local Hong Kong permanent resident who holds HKPFS is directed to the local tuition waiver instead and does not collect this as extra cash.",
+      "login_required": false,
+      "intake_relevance": "Applicable from the 2019-20 intake for non-local HKPFS recipients.",
+      "restrictions": [
+        "Non-local HKPFS recipients",
+        "Tuition coverage only",
+        "Does not pay an additional sum to local HKPFS awardees"
+      ]
+    },
+    {
+      "id": "cuhk-cef",
+      "name": "Continuing Education Fund (CEF)",
+      "university": "CUHK",
+      "university_code": "cuhk",
+      "type": "other",
+      "eligibility_clues": [
+        "Linked from the Graduate School scholarship overview",
+        "CUHK page describes CEF for self-financed programmes and reimbursable courses registered on the Qualifications Register",
+        "Administration sits with the Academic and Quality Section for the Senate Committee on SPCEP"
+      ],
+      "amount": "unknown",
+      "amount_note": "The CUHK page does not print an HKD reimbursement cap.",
+      "deadline": "unknown",
+      "deadline_note": "No student application deadline is printed.",
+      "source_url": "https://spcep.cuhk.edu.hk/cef/",
+      "match_tag": "out_of_scope",
+      "match_rationale": "A continuing-education reimbursement route for self-financed courses, not a research postgraduate studentship or scholarship for Mathematics MPhil or PhD.",
+      "login_required": false,
+      "intake_relevance": "Not an RPG intake award. Some provider submissions require CUHK login; student course details are referred off-site.",
+      "restrictions": [
+        "Self-financed reimbursable courses",
+        "Not described as MPhil or PhD funding"
+      ]
+    },
+    {
+      "id": "cuhk-young-scholars-thesis-award",
+      "name": "Young Scholars Thesis Award",
+      "university": "CUHK",
+      "university_code": "cuhk",
+      "type": "other",
+      "eligibility_clues": [
+        "Named on the Graduate School scholarship overview among awards for postgraduate students",
+        "The dedicated page returned: You are not authorized to access this page."
+      ],
+      "amount": "unknown",
+      "amount_note": "No amount is printed on the public scholarship overview. The dedicated page was not readable.",
+      "deadline": "unknown",
+      "deadline_note": "No deadline was readable on the public overview. The dedicated page was not authorized, so no date was copied.",
+      "source_url": "https://www.gs.cuhk.edu.hk/admissions/scholarships-fees/scholarships",
+      "match_tag": "out_of_scope",
+      "match_rationale": "Named as a thesis award rather than an admission studentship. Public terms, amount, and deadline could not be read, and the dedicated page was not authorized.",
+      "login_required": true,
+      "intake_relevance": "unknown",
+      "restrictions": [
+        "Dedicated page not publicly readable",
+        "Not described on the public overview as an intake stipend"
+      ]
+    }
+  ],
+  "blockers": [
+    "The Mathematics department research programmes page still prints application deadlines of 1 December 2025 and 31 March 2026, and HKPFS deadlines of 1 December 2025. The Graduate School MPhil-PhD in Mathematics page prints Main Round 1 December 2026, Clearing Round 31 March 2027, and HKPFS deadlines of 1 December 2026. The 2026/2027 dates were used for the open 2027/28 round.",
+    "The Mathematics department HKPFS page prints an annual stipend of HK$240,000 and a conference travel allowance of HK$10,000 per year. The Graduate School HKPFS page for 2027-28 prints a stipend of HK$344,400 per year and travel allowance of HK$14,400 per year. The department figures were not used.",
+    "The admissions FAQ still prints an HKPFS deadline of 1 December 2025 at 11:59pm. The HKPFS page and the application-deadline page print 1 December 2026. The 2025 FAQ date was not used.",
+    "No 2027/28 postgraduate studentship amount is printed. The figure copied is the 2026-27 annual studentship of HK$229,200. The handbook names PGS-1 and PGS-2 but does not print separate HKD rates, and no official monthly rate was printed on the Graduate School pages.",
+    "https://www.gs.cuhk.edu.hk/page/FeesandFinancialAids , linked from the Mathematics scholarships page, returned 404.",
+    "The Dr. S T Tsou and Madam Tsou Poon Hai Hung Memorial Postgraduate Scholarship link to https://www.uc.cuhk.edu.hk/tc/scholarships-and-financial-aid/ timed out, so amount, deadline, and eligibility were not confirmed.",
+    "The Young Scholars Thesis Award page https://www.gs.cuhk.edu.hk/scholarships/cuhk-young-scholars-thesis-award-2025-research-doctoral-graduates-2024-25 returned 'You are not authorized to access this page.' Amount and deadline were not copied.",
+    "The application-deadline page fetch dropped many programme names, so Mathematics dates were taken from the MPhil-PhD in Mathematics programme page rather than from that list.",
+    "Computer Science and Engineering asks for a second upload at https://dept-eappsrv.cse.cuhk.edu.hk/pgas2027/ . That portal was not opened. The public CSE programme page states no separate studentship. Computational Mathematics is a field inside MPhil-PhD in Mathematics, not a separate funded programme.",
+    "The online application system at https://www.gradsch.cuhk.edu.hk/OnlineApp/login_email.aspx was not opened. Scheme rows use public pages only.",
+    "https://admission.cuhk.edu.hk/fees-financing-your-studies/fees/ is an undergraduate fees page. Its local tuition line was not used as a research postgraduate award amount."
+  ]
+}

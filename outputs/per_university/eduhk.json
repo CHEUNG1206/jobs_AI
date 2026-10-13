@@ -1,0 +1,802 @@
+{
+  "university_code": "eduhk",
+  "university_name": "The Education University of Hong Kong",
+  "scouted_at": "2026-10-13",
+  "profile_ref": "rpg-computing-mathematics-local-2027-28",
+  "sources_consulted": [
+    {
+      "url": "https://gs.eduhk.hk/prospective/rpg/scholarship-and-financial-assistance/",
+      "title": "Scholarship and Financial Assistance – Graduate School, The Education University of Hong Kong",
+      "accessed": "2026-10-13",
+      "note": "University RPg list: HKPFS pointer, Research Postgraduate Studentship with 2026/27 monthly rates, local tuition waiver, selected-institutions PhD scholarship, international self-financed RPg scholarships, Belt and Road Scholarship, other named schemes, and research/conference support without HKD caps."
+    },
+    {
+      "url": "https://gs.eduhk.hk/scholarships/hong-kong-phd-fellowship-scheme/",
+      "title": "Hong Kong PhD Fellowship Scheme – Graduate School, The Education University of Hong Kong",
+      "accessed": "2026-10-13",
+      "note": "EdUHK HKPFS monthly stipend and travel allowance, year-4 support without a HKD figure, fourth-year tuition waiver, and named research areas including Mathematics Education. Links an HKPFS (2027/28) poster."
+    },
+    {
+      "url": "https://gs.eduhk.hk/prospective/rpg/",
+      "title": "Doctor of Philosophy (PhD) & Master of Philosophy (MPhil) – Graduate School, The Education University of Hong Kong",
+      "accessed": "2026-10-13",
+      "note": "September 2027 intake deadline 1 December 2026; January 2027 intake deadline 11 September 2026. Full-time PhD/MPhil, science among fields, 2026/27 tuition table, local tuition-waiver pointer, and Research Students' Attachment Scheme amounts."
+    },
+    {
+      "url": "https://gs.eduhk.hk/prospective/rpg/application-process/",
+      "title": "Application Process – Graduate School, The Education University of Hong Kong",
+      "accessed": "2026-10-13",
+      "note": "September 2027 intake 1 September 2026 to 1 December 2026. HKPFS initial application 1 September 2026 at 12:00 noon to 1 December 2026 at 12:00 noon Hong Kong Time."
+    },
+    {
+      "url": "https://gs.eduhk.hk/prospective/rpg/finding-your-supervisors/",
+      "title": "Finding Your Supervisor(s) – Graduate School, The Education University of Hong Kong",
+      "accessed": "2026-10-13",
+      "note": "Lists Department of Mathematics and Information Technology under Faculty of Liberal Arts and Social Sciences as a research supervision home."
+    },
+    {
+      "url": "https://www.eduhk.hk/mit/en/phd",
+      "title": "Doctor of Philosophy - Department of Mathematics and Information Technology",
+      "accessed": "2026-10-13",
+      "note": "MIT PhD area of focus printed as Mathematics and Computer Science. No separate funding amounts."
+    },
+    {
+      "url": "https://www.eduhk.hk/mit/en/mphil",
+      "title": "Master of Philosophy - Department of Mathematics and Information Technology",
+      "accessed": "2026-10-13",
+      "note": "MIT MPhil area of focus printed as Mathematics and Computer Science. No separate funding amounts."
+    },
+    {
+      "url": "https://www.eduhk.hk/mit/en/research-expertise",
+      "title": "Research Expertise and Research Clusters - Department of Mathematics and Information Technology",
+      "accessed": "2026-10-13",
+      "note": "Clusters include Mathematics Education and Data Science and Analytics. Staff interests include applied analysis, partial differential equations, mathematical modelling and optimization, harmonic analysis, discrete mathematics, and mathematical finance."
+    },
+    {
+      "url": "https://www.ugc.edu.hk/eng/rgc/funding_opport/tws/",
+      "title": "Tuition Waiver for Local Research Postgraduate Students",
+      "accessed": "2026-10-13",
+      "note": "UGC page names The Education University of Hong Kong. Waiver covers normative MPhil and PhD periods. 2027/28 eligibility revision is printed, including Hong Kong permanent identity card holders. No HKD waiver amount."
+    },
+    {
+      "url": "https://cerg1.ugc.edu.hk/hkpfs/index.html",
+      "title": "Hong Kong PhD Fellowship Scheme | Research Grants Council",
+      "accessed": "2026-10-13",
+      "note": "Eligibility irrespective of country of origin, EdUHK listed. Prints an annual stipend of HK$344,400 for the 2026/27 academic year and states 400 PhD Fellowships will be awarded in the 2027/28 academic year. Not converted to a monthly figure."
+    },
+    {
+      "url": "https://cerg1.ugc.edu.hk/hkpfs/apply.html",
+      "title": "Hong Kong PhD Fellowship Scheme | Research Grants Council",
+      "accessed": "2026-10-13",
+      "note": "HKPFS 2027/28 initial application by 1 December 2026 at Hong Kong Time 12:00:00. Prints The Education University of Hong Kong Application Deadline: 1 December 2026 (11:59pm Hong Kong Time)."
+    },
+    {
+      "url": "https://cerg1.ugc.edu.hk/hkpfs/institutions.html",
+      "title": "Hong Kong PhD Fellowship Scheme | Research Grants Council",
+      "accessed": "2026-10-13",
+      "note": "EdUHK participating-university block with Graduate School contact rpg@eduhk.hk and a link to the EdUHK HKPFS page."
+    },
+    {
+      "url": "https://www.eduhk.hk/fehd/en/rp_students.php?s=rps_support",
+      "title": "Research Students Support - Research Postgraduate Students - Faculty of Education and Human Development",
+      "accessed": "2026-10-13",
+      "note": "Repeats the 2026-27 RPGS rates and prints research support up to HKD$10,000 per year. Also names the Postgraduate Students Publication Awards Scheme and the Reaching Out Award without a HKD figure on this page."
+    },
+    {
+      "url": "https://www.eduhk.hk/re/eduhk_calendar/Fees-Scholarships-And-Financial-Assistance.html",
+      "title": "Fees, Scholarships and Financial Assistance | Calendar | EdUHK Registry",
+      "accessed": "2026-10-13",
+      "note": "Prints Sir Edward Youde Memorial Fellowships for postgraduate research students, HKAUW postgraduate amount, HKIIEL amount, Reaching Out Award, Belt and Road up to annual tuition for non-local research postgraduate students, Thomas Yeung Scholarship, and TSFS description. Many other rows are undergraduate or sub-degree."
+    },
+    {
+      "url": "https://gs.eduhk.hk/scholarships/hong-kong-future-talents-scholarship-scheme-for-advanced-studies-ftssfor-local-students/",
+      "title": "Hong Kong Future Talents Scholarship Scheme for Advanced Studies (FTSS) – Graduate School, The Education University of Hong Kong",
+      "accessed": "2026-10-13",
+      "note": "Local taught-postgraduate tuition subsidy up to HK$100,000. 2026/27 list includes Master of Science in Artificial Intelligence and Educational Technology and Master of Arts in Mathematics and Pedagogy. Not a PhD or MPhil scheme."
+    },
+    {
+      "url": "https://www.eduhk.hk/mit/en/ftss",
+      "title": "Hong Kong Future Talents Scholarship Scheme for Advanced Studies (FTSS) (from 2025/26 for local students) - Department of Mathematics and Information Technology",
+      "accessed": "2026-10-13",
+      "note": "MIT page for FTSS. Local students only. Same up to HK$100,000 tuition-subsidy wording. No 2027/28 programme list on this page."
+    },
+    {
+      "url": "https://gs.eduhk.hk/prospective/edd/",
+      "title": "Doctor of Education (EdD) – Graduate School, The Education University of Hong Kong",
+      "accessed": "2026-10-13",
+      "note": "Self-financed professional doctorate. STEM Education cluster can affiliate with MIT. Entrance scholarship is for full-time non-local applicants. 2026/27 tuition and living-allowance figures are printed. Conference Award has no HKD amount."
+    },
+    {
+      "url": "https://gs.eduhk.hk/wp-content/uploads/2025/07/FAQs_RPg-Applicants.pdf",
+      "title": "Research Postgraduate Programmes – Doctor of Philosophy & Master of Philosophy Frequently Asked Questions",
+      "accessed": "2026-10-13",
+      "note": "Confirms automatic RPGS with no separate application, research and conference support after the qualifying examination, and possible part-time assistantships. Footer reads July 2024. No current HKD stipend is printed in the PDF."
+    },
+    {
+      "url": "https://gs.eduhk.hk/current/student-support/",
+      "title": "Login – Graduate School, The Education University of Hong Kong",
+      "accessed": "2026-10-13",
+      "note": "Login wall. Public text is the heading Login and the sentence This is restricted access. Guideline documents were not read."
+    },
+    {
+      "url": "https://gs.eduhk.hk/policies/for-supervisors/financial-support-for-research-and-conference-for-rpg/",
+      "title": "Financial Support for Research and Conference (For RPg) – Graduate School, The Education University of Hong Kong",
+      "accessed": "2026-10-13",
+      "note": "Page title and contact block only. No award amounts or eligibility text."
+    },
+    {
+      "url": "https://gs.eduhk.hk/prospective/rpg/research-environment/",
+      "title": "Page not found – Graduate School, The Education University of Hong Kong",
+      "accessed": "2026-10-13",
+      "note": "HTTP 404. Department subject-field list was not readable."
+    },
+    {
+      "url": "https://uedhk-my.sharepoint.com/:b:/g/personal/rpg_eduhk_hk/IQC0PIHpBVNpTLS4ePCC-Y06AR5cYDPV-l4fdRfEDp8taGs?e=PjGGmI",
+      "title": "Sign in to your account",
+      "accessed": "2026-10-13",
+      "note": "Link labelled HKPFS (2027/28) poster on the EdUHK HKPFS page. Redirects to Microsoft sign-in for HKPFS -A4-2027-28.pdf. Poster text was not read."
+    },
+    {
+      "url": "https://uedhk-my.sharepoint.com/:b:/r/personal/rpg_eduhk_hk/Documents/website%20link/Scholarship/EdUHK%20PhD%20Scholarship%20for%20Outstanding%20Graduates%20from%20Selected%20Institutions.pdf?d=w2ecaf92c531443078ee95ba",
+      "title": "EdUHK PhD Scholarship for Outstanding Graduates from Selected Institutions.pdf",
+      "accessed": "2026-10-13",
+      "note": "SharePoint file linked from the Graduate School scholarship page. Redirects to Authenticate.aspx. Institution list was not read."
+    },
+    {
+      "url": "https://aapsef.eduhk.hk/f/programme_landing/9/PG_Prospectus_2024_Entry.pdf",
+      "title": "POSTGRADUATE",
+      "accessed": "2026-10-13",
+      "note": "2024-entry prospectus. Stipend figures in it belong to an earlier cycle and were not copied into opportunities."
+    }
+  ],
+  "opportunities": [
+    {
+      "id": "eduhk-rpgs",
+      "name": "EdUHK Research Postgraduate Studentship",
+      "university": "EdUHK",
+      "university_code": "eduhk",
+      "type": "studentship",
+      "eligibility_clues": [
+        "All full-time students admitted to the UGC-funded Research Postgraduate (RPg) Programmes are automatically considered",
+        "No separate application is required",
+        "Given based on academic merit; the award is not taxable income",
+        "Tenable on an annual basis; later years depend on satisfactory performance",
+        "Holders may also receive government loans and grants and other scholarships if the other awards allow it",
+        "Duties assigned by the University shall not exceed, on average, 10 working hours per week",
+        "PhD and MPhil are full-time; the PhD is described as covering fields such as education, humanities, social sciences, cultural and creative arts, and science",
+        "Department of Mathematics and Information Technology offers PhD and MPhil with Area of Focus: Mathematics and Computer Science"
+      ],
+      "amount": "HK$19,100 (approximately US$2,440) for all MPhil and PhD students and HK$19,600 (approximately US$2,450) for post-candidacy PhD students",
+      "amount_note": "The monthly stipend for the 2026/27 academic year is HK$19,100 (approximately US$2,440) for all MPhil and PhD students and HK$19,600 (approximately US$2,450) for post-candidacy PhD students. The page does not print a 2027/28 rate.",
+      "deadline": "unknown",
+      "deadline_note": "The studentship page prints no application deadline. The September 2027 Intake (Semester 1, 2027/28) application deadline on the Graduate School pages is 1 December 2026. The January 2027 intake deadline printed as 11 September 2026 is earlier than this scout date.",
+      "source_url": "https://gs.eduhk.hk/prospective/rpg/scholarship-and-financial-assistance/",
+      "match_tag": "strong",
+      "match_rationale": "This is the university monthly studentship for full-time UGC-funded PhD and MPhil students, so a local applicant is in the eligible population, and MIT's Mathematics and Computer Science area sits inside that RPg route. The printed stipend year is 2026/27 while the open admission round on the same Graduate School site is September 2027.",
+      "login_required": false,
+      "intake_relevance": "Automatic on admission to full-time UGC-funded RPg. Open programme round is September 2027 (2027/28), deadline 1 December 2026. Printed stipend year is 2026/27.",
+      "restrictions": [
+        "Full-time UGC-funded RPg admission only",
+        "Academic merit; later years reviewed",
+        "Assigned duties up to an average of 10 working hours per week"
+      ]
+    },
+    {
+      "id": "eduhk-hkpfs",
+      "name": "Hong Kong PhD Fellowship Scheme",
+      "university": "EdUHK",
+      "university_code": "eduhk",
+      "type": "fellowship",
+      "eligibility_clues": [
+        "EdUHK PhD applicants submit an initial HKPFS application and a full EdUHK application quoting the HKPFS reference number",
+        "RGC eligibility: new full-time PhD students in the eight listed universities, including The Education University of Hong Kong, irrespective of their country of origin, prior work experience and ethnic background",
+        "Applicants should demonstrate academic performance, research ability or potential, communication and interpersonal skills, and leadership abilities",
+        "EdUHK named areas include Mathematics Education under Education; the page also says for other research areas see the EdUHK repository",
+        "MIT is listed as a PhD supervision department and states Area of Focus: Mathematics and Computer Science",
+        "Additional monthly stipend from the Graduate School for the normative 4-year PhD is subject to approval of the individual application",
+        "One-year tuition fee waiver for the 4th year of a 4-year PhD does not apply if tuition is already fully waived, including by the Tuition Waiver for Local Research Postgraduate Students",
+        "RGC index: 400 PhD Fellowships will be awarded in the 2027/28 academic year"
+      ],
+      "amount": "monthly stipend of HK$28,700 (approx. US$3,660) and a conference travel allowance of HK$14,400 (approx. US$1,840) per year for up to three years",
+      "amount_note": "EdUHK page: Provides a monthly stipend of HK$28,700 (approx. US$3,660) and a conference travel allowance of HK$14,400 (approx. US$1,840) per year for up to three years. That page does not label the academic year of this monthly figure. The RGC index page prints a different presentation for the 2026/27 academic year: an annual stipend of HK$344,400 (approximately US$44,150) and a conference and research-related travel allowance of HK$14,400 (approximately US$1,840) per year. The additional Graduate School monthly stipend has no printed HKD amount. The 2027/28 poster was behind a sign-in page and was not used.",
+      "deadline": "unknown",
+      "deadline_note": "The EdUHK HKPFS page does not print a date. The RGC apply page prints The Education University of Hong Kong Application Deadline: 1 December 2026 (11:59pm Hong Kong Time), and an initial-application deadline of 1 December 2026 at Hong Kong Time 12:00:00. The EdUHK application-process page prints HKPFS Application Deadline: 1 December 2026 at 12:00 noon (Hong Kong Time) for the initial RGC application, and September 2027 Intake application deadline 1 December 2026.",
+      "source_url": "https://gs.eduhk.hk/scholarships/hong-kong-phd-fellowship-scheme/",
+      "match_tag": "strong",
+      "match_rationale": "HKPFS is a PhD fellowship with a monthly stipend, EdUHK is a participating university, and local students are not excluded because eligibility is irrespective of country of origin. The 2027/28 round is open. Mathematics Education is the named education area; computational mathematics is not named there, but MIT's PhD area of focus is Mathematics and Computer Science and staff research includes applied and computational mathematics.",
+      "login_required": false,
+      "intake_relevance": "HKPFS 2027/28. EdUHK full-application deadline printed by RGC as 1 December 2026 (11:59pm Hong Kong Time). Stipend year is not labelled 2027/28 on the EdUHK page; the RGC annual figure is labelled 2026/27.",
+      "restrictions": [
+        "PhD only, new full-time admission",
+        "Competitive selection on academic excellence, research ability and potential, communication and interpersonal skills, and leadership",
+        "Fourth-year tuition waiver is unavailable if another scheme already waives tuition in full",
+        "Year-4 Graduate School stipend is subject to approval and has no printed amount",
+        "On-campus accommodation is subject to hall policy and availability"
+      ]
+    },
+    {
+      "id": "eduhk-tuition-waiver-local-rpg",
+      "name": "Tuition Waiver for Local Research Postgraduate Students",
+      "university": "EdUHK",
+      "university_code": "eduhk",
+      "type": "tuition_waiver",
+      "eligibility_clues": [
+        "Starting from the 2018/19 academic year, local students enrolled in UGC-funded RPg programmes",
+        "UGC page: non-means-tested tuition waiver for all eligible local full-time students; unlimited number of recipients",
+        "Covers the normative study period: MPhil 2 years; PhD with a research master's degree 3 years; PhD without a research master's degree 4 years",
+        "The Education University of Hong Kong is one of the eight named universities",
+        "Both current and new RPg students are eligible",
+        "From the 2027/28 academic year, Category I subsidised fees include a person holding a Hong Kong permanent identity card, other documents issued by the ImmD showing the right to land or right of abode in Hong Kong, and a visa label for unconditional stay",
+        "A one-year transitional residency requirement applies for the 2027/28 academic year; the two-year residency requirement starts in 2028/29",
+        "Students whose tuition is fully waived by another scheme cannot also take this waiver"
+      ],
+      "amount": "waived tuition fees",
+      "amount_note": "The UGC page says waived tuition fees for eligible students and that the scheme covers the tuition fees for the normative study period. It does not print a HKD amount. The EdUHK PhD/MPhil fees table prints Tuition Fee HK$47,000/annum for UGC-funded students for 2026/27, provisional and subject to adjustment. That fee line is not stated as the waiver amount.",
+      "deadline": "unknown",
+      "deadline_note": "No application deadline is printed. The UGC page says eligible local students need not apply for the waiver in the related HKPFS enquiry material; the waiver page itself says students covered by the scheme no longer qualify for TSFS tuition-fee grants.",
+      "source_url": "https://www.ugc.edu.hk/eng/rgc/funding_opport/tws/",
+      "match_tag": "possible",
+      "match_rationale": "A Hong Kong permanent resident on a full-time UGC-funded PhD or MPhil, including through MIT, is in the population this waiver names, and the 2027/28 eligibility revision is already printed. It waives tuition rather than paying a monthly living stipend.",
+      "login_required": false,
+      "intake_relevance": "In force for UGC-funded RPg, with a printed eligibility revision for the 2027/28 academic year and thereafter. Application cycle for 2027/28 is described as commencing in October 2026.",
+      "restrictions": [
+        "Local full-time UGC-funded RPg only",
+        "Normative study period only",
+        "No double benefit with another full tuition waiver",
+        "Part-time RPg programmes are not UGC-funded"
+      ]
+    },
+    {
+      "id": "eduhk-seymf-postgraduate-research",
+      "name": "Sir Edward Youde Memorial Fellowships (for Postgraduate Research Students)",
+      "university": "EdUHK",
+      "university_code": "eduhk",
+      "type": "fellowship",
+      "eligibility_clues": [
+        "The fellowships ($50,000 each) are available to full-time postgraduate research students undertaking UGC-funded/ publicly-funded programmes who have registered for a master's degree or a doctorate degree",
+        "Applicants must be HK permanent residents and have resided in HK for at least three years",
+        "Normally open for application in September and subject to selection",
+        "The Graduate School also lists the Sir Edward Youde Memorial Fellowship among other scholarship schemes for research postgraduate students"
+      ],
+      "amount": "$50,000 each",
+      "amount_note": "The fellowships ($50,000 each) are available to full-time postgraduate research students. The calendar does not say per month or per year.",
+      "deadline": "Normally open for application in September",
+      "deadline_note": "Normally open for application in September and subject to selection. No calendar year or day is printed.",
+      "source_url": "https://www.eduhk.hk/re/eduhk_calendar/Fees-Scholarships-And-Financial-Assistance.html",
+      "match_tag": "possible",
+      "match_rationale": "A local Hong Kong permanent resident already registered on a full-time UGC-funded MPhil or PhD can be considered, and the field is not restricted. It is a fellowship of $50,000 each, not the monthly postgraduate studentship.",
+      "login_required": false,
+      "intake_relevance": "For students who have registered. The September application window is not tied to a printed year, so it is not labelled as the 2027/28 admission round.",
+      "restrictions": [
+        "Must already be registered",
+        "HK permanent resident with at least three years' residence in Hong Kong",
+        "Full-time UGC-funded or publicly-funded research master's or doctorate",
+        "Subject to selection"
+      ]
+    },
+    {
+      "id": "eduhk-rsas",
+      "name": "Research Students' Attachment Scheme (RSAS)",
+      "university": "EdUHK",
+      "university_code": "eduhk",
+      "type": "other",
+      "eligibility_clues": [
+        "Offers PhD students a research attachment of up to three months at an overseas host university",
+        "Eligible full-time UGC-funded PhD students who have successfully passed the qualifying examination may apply",
+        "Students who have completed the Scheme are required to submit a post-visit report and fulfill the publication requirements"
+      ],
+      "amount": "Monthly Sponsorship for Living Expenses: Up to HK$7,500; Travel Allowance: Up to HK$10,000",
+      "amount_note": "Successful applicants will be provided with Monthly Sponsorship for Living Expenses: Up to HK$7,500 and Travel Allowance: Up to HK$10,000. The page does not print how many months the monthly sponsorship lasts beyond the attachment of up to three months.",
+      "deadline": "unknown",
+      "deadline_note": "No application deadline is printed on the programme page. Guidelines and the application form are linked but were not opened as separate fetched documents.",
+      "source_url": "https://gs.eduhk.hk/prospective/rpg/",
+      "match_tag": "possible",
+      "match_rationale": "A local full-time UGC-funded PhD student, including one supervised in MIT, may apply after the qualifying examination. The support is a short overseas attachment grant, not the monthly studentship for the degree.",
+      "login_required": false,
+      "intake_relevance": "For enrolled PhD students after the qualifying examination, not an admission award for the September 2027 intake.",
+      "restrictions": [
+        "PhD only",
+        "Full-time UGC-funded and qualifying examination passed",
+        "Attachment of up to three months",
+        "Post-visit report and publication requirements"
+      ]
+    },
+    {
+      "id": "eduhk-rpg-research-support",
+      "name": "Research Support",
+      "university": "EdUHK",
+      "university_code": "eduhk",
+      "type": "other",
+      "eligibility_clues": [
+        "Graduate School: PhD and MPhil students who have passed the Qualifying Presentation and confirmed their candidature are eligible to apply",
+        "Faculty of Education and Human Development page: research support such as equipment, general expenses, hiring of student helper and research/fieldwork-related expenses",
+        "Current-student guidelines on the Graduate School student-support page are behind login"
+      ],
+      "amount": "HKD$10,000 per year",
+      "amount_note": "FEHD page: up to an amount of HKD$10,000 per year (maximum 2 years for PhD candidate and 1 year for MPhil). The Graduate School scholarship page describes the same support and does not print a HKD figure. The cap is printed on a Faculty of Education and Human Development page; MIT is listed under FLASS.",
+      "deadline": "unknown",
+      "deadline_note": "No deadline is printed.",
+      "source_url": "https://www.eduhk.hk/fehd/en/rp_students.php?s=rps_support",
+      "match_tag": "possible",
+      "match_rationale": "This is research-expense support after confirmation of candidature, not a living stipend. The HKD cap is printed on the FEHD research-students page, while a computing-mathematics supervisor would sit in MIT under FLASS, so the page does not state that this cap applies to MIT.",
+      "login_required": false,
+      "intake_relevance": "After the Qualifying Presentation and confirmation of candidature. Not an intake award.",
+      "restrictions": [
+        "Candidature must be confirmed",
+        "Printed cap is on the FEHD page",
+        "Maximum 2 years for a PhD candidate and 1 year for MPhil",
+        "Current-student guidelines were not readable"
+      ]
+    },
+    {
+      "id": "eduhk-rpg-conference-support",
+      "name": "Conference, Workshop or Immersion Visit Support",
+      "university": "EdUHK",
+      "university_code": "eduhk",
+      "type": "other",
+      "eligibility_clues": [
+        "Financial support would be provided to RPg students to attend international, national, or local conferences or workshops and immersion visits relevant to their research and thesis",
+        "FAQ: PhD and MPhil students who have passed the qualifying examination and confirmed their candidature are eligible to apply for research support and conference support"
+      ],
+      "amount": "unknown",
+      "amount_note": "Neither the Graduate School page nor the FEHD research-students page prints a HKD amount for conference, workshop, or immersion-visit support. The supervisor financial-support page has no amounts.",
+      "deadline": "unknown",
+      "deadline_note": "No deadline is printed. Current-student application guidelines are on a login page.",
+      "source_url": "https://gs.eduhk.hk/prospective/rpg/scholarship-and-financial-assistance/",
+      "match_tag": "possible",
+      "match_rationale": "Enrolled PhD and MPhil students can apply for conference or visit support after confirmation of candidature. No stipend figure is printed, and this is not the monthly studentship.",
+      "login_required": false,
+      "intake_relevance": "For enrolled RPg students after the qualifying examination. Not an admission award for 2027/28.",
+      "restrictions": [
+        "Activity must be relevant to the thesis",
+        "Candidature confirmed",
+        "Amount and deadline not printed"
+      ]
+    },
+    {
+      "id": "eduhk-rpg-assistantships",
+      "name": "Part-time research or teaching assistantships",
+      "university": "EdUHK",
+      "university_code": "eduhk",
+      "type": "other",
+      "eligibility_clues": [
+        "FAQ: contingent on satisfactory progress and availability of funding, research centres or academic units may offer part-time assistantships (research assistantships or teaching assistantships) to research students",
+        "Applicants are advised to discuss this with the department or research centre"
+      ],
+      "amount": "unknown",
+      "amount_note": "The FAQ does not print a HKD rate.",
+      "deadline": "unknown",
+      "deadline_note": "No deadline is printed.",
+      "source_url": "https://gs.eduhk.hk/wp-content/uploads/2025/07/FAQs_RPg-Applicants.pdf",
+      "match_tag": "possible",
+      "match_rationale": "A research student in MIT or another unit might be offered a part-time assistantship, but the FAQ states it depends on funding and does not give an amount or a 2027/28 round.",
+      "login_required": false,
+      "intake_relevance": "Not an advertised 2027/28 admission award. The FAQ footer reads July 2024.",
+      "restrictions": [
+        "Subject to satisfactory progress and availability of funding",
+        "Arranged with the department or research centre",
+        "No printed amount"
+      ]
+    },
+    {
+      "id": "eduhk-hkauw-postgraduate",
+      "name": "Hong Kong Association of University Women Undergraduate and Postgraduate Scholarships",
+      "university": "EdUHK",
+      "university_code": "eduhk",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "Calendar: Scholarships ($5,000 each for undergraduates and $20,000 each for postgraduates) are offered by the Hong Kong Association of University Women. The number of recipients varies each year",
+        "Normally open for application around September and subject to selection by the donor",
+        "Graduate School: HKAUW gives scholarships to women university students at local tertiary institutions who excelled in their academic performance and take part in community services"
+      ],
+      "amount": "$20,000 each for postgraduates",
+      "amount_note": "Scholarships ($5,000 each for undergraduates and $20,000 each for postgraduates). The calendar does not say per month.",
+      "deadline": "Normally open for application around September",
+      "deadline_note": "Normally open for application around September and subject to selection by the donor. No year is printed.",
+      "source_url": "https://www.eduhk.hk/re/eduhk_calendar/Fees-Scholarships-And-Financial-Assistance.html",
+      "match_tag": "possible",
+      "match_rationale": "The Graduate School lists this among schemes for research postgraduate students, and the calendar prints a postgraduate amount. It is a donor scholarship for women university students, not a monthly studentship, and it is not limited to mathematics.",
+      "login_required": false,
+      "intake_relevance": "September application window with no printed year. Not labelled 2027/28.",
+      "restrictions": [
+        "Women university students, as described on the Graduate School page",
+        "Academic performance and community service",
+        "Selection by the donor",
+        "Number of recipients varies"
+      ]
+    },
+    {
+      "id": "eduhk-reaching-out-award",
+      "name": "Reaching Out Award",
+      "university": "EdUHK",
+      "university_code": "eduhk",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "HKSAR Government Scholarship Scheme scholarships are offered to full-time UGC-funded students with outstanding academic results and non-academic achievements",
+        "Reaching Out Award – $10,000 each for local/ non-local students to participate in activities outside Hong Kong",
+        "Scholarships (a) to (d) are normally open for application from September",
+        "FEHD research-students page: the Reaching Out Award is provided by the HKSAR Government Fund to eligible students who participate in outreaching activities, such as the International Outreach Study Programme"
+      ],
+      "amount": "$10,000 each",
+      "amount_note": "Reaching Out Award – $10,000 each for local/ non-local students to participate in activities outside Hong Kong.",
+      "deadline": "normally open for application from September",
+      "deadline_note": "The scholarships (a) to (d) above are normally open for application from September. No year or day is printed.",
+      "source_url": "https://www.eduhk.hk/re/eduhk_calendar/Fees-Scholarships-And-Financial-Assistance.html",
+      "match_tag": "possible",
+      "match_rationale": "Local full-time UGC-funded students can be considered, and the FEHD research-students page ties the award to outreach such as IOSP. It is a one-off activity award of $10,000 each, not a monthly studentship.",
+      "login_required": false,
+      "intake_relevance": "September application window with no printed year. Not an admission stipend for 2027/28.",
+      "restrictions": [
+        "For participation in activities outside Hong Kong",
+        "Full-time UGC-funded students",
+        "Outstanding academic results and non-academic achievements"
+      ]
+    },
+    {
+      "id": "eduhk-cross-institutional-course-waiver",
+      "name": "Cross-institutional Course/Subject Enrolment Scheme tuition waiver",
+      "university": "EdUHK",
+      "university_code": "eduhk",
+      "type": "tuition_waiver",
+      "eligibility_clues": [
+        "Research Postgraduate (RPg) students are eligible to apply for enrolment in the courses listed for the Cross-institutional Course/Subject Enrolment Scheme",
+        "The scheme is between eight UGC-funded institutions",
+        "Waivers of tuition fees will be granted to eligible students",
+        "Grades are given with an official transcript from the host university"
+      ],
+      "amount": "Waivers of tuition fees",
+      "amount_note": "Waivers of tuition fees will be granted to eligible students. No HKD amount is printed.",
+      "deadline": "unknown",
+      "deadline_note": "No deadline is printed on the FEHD page.",
+      "source_url": "https://www.eduhk.hk/fehd/en/rp_students.php?s=rps_support",
+      "match_tag": "possible",
+      "match_rationale": "An enrolled RPg student can have tuition waived for a listed course at another UGC university. This is a course-fee waiver, not a living stipend, and the text is on the FEHD research-students page.",
+      "login_required": false,
+      "intake_relevance": "For enrolled RPg students. Not an admission award.",
+      "restrictions": [
+        "Listed cross-institutional courses only",
+        "No printed HKD value"
+      ]
+    },
+    {
+      "id": "eduhk-phd-scholarship-selected-institutions",
+      "name": "EdUHK PhD Scholarship for Outstanding Graduates from Selected Institutions",
+      "university": "EdUHK",
+      "university_code": "eduhk",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "Awarded to outstanding graduates from selected institutions who demonstrate exceptional potential for PhD studies at EdUHK",
+        "Two categories: graduates from top-ranked universities worldwide, and graduates from EdUHK's strategic partner institutions, with priority given to candidates from Belt and Road countries",
+        "EdUHK academic staff make internal nominations; the detailed PDF is behind a Microsoft sign-in",
+        "The public page does not say the scheme is closed to Hong Kong permanent residents"
+      ],
+      "amount": "Monthly Stipend: HK$19,100 # * (for up to three years)",
+      "amount_note": "Monthly Stipend: HK$19,100 # * (for up to three years). The monthly stipend for post-candidacy PhD students will be increased to HK$19,600*. Conference and Research-related Travel Allowance: HK$31,000* (for the entire period of study). The asterisk is defined as in the 2026/27 academic year. The institution list was not readable.",
+      "deadline": "unknown",
+      "deadline_note": "No application deadline is printed on the public page. Nominations are described as internal.",
+      "source_url": "https://gs.eduhk.hk/prospective/rpg/scholarship-and-financial-assistance/",
+      "match_tag": "weak",
+      "match_rationale": "The award is a PhD monthly stipend, but it is limited to graduates of selected institutions and gives priority to Belt and Road candidates. A local student is not clearly included unless they graduated from one of those institutions, and that list is behind a login wall.",
+      "login_required": true,
+      "intake_relevance": "PhD scholarship with rates marked for the 2026/27 academic year. No 2027/28 deadline is printed. Detailed terms were not public.",
+      "restrictions": [
+        "Selected institutions only",
+        "Priority to candidates from Belt and Road countries",
+        "Internal staff nomination",
+        "Detailed PDF requires sign-in",
+        "PhD only",
+        "Stipend wording is for up to three years"
+      ]
+    },
+    {
+      "id": "eduhk-ftss",
+      "name": "Hong Kong Future Talents Scholarship Scheme for Advanced Studies (FTSS)",
+      "university": "EdUHK",
+      "university_code": "eduhk",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "Aims to attract outstanding local students to pursue postgraduate studies in priority areas",
+        "In 2026/27, 21 EdUHK taught postgraduate programmes are listed, including Master of Science in Artificial Intelligence and Educational Technology and Master of Arts in Mathematics and Pedagogy",
+        "MIT page: applicants must have local student status only",
+        "Eligible students will be invited by the programme to submit applications",
+        "Awardees submit a personal statement on contribution to priority areas and commitment to stay in Hong Kong or the Greater Bay Area",
+        "Students awarded other government scholarships, including the Continuing Education Fund, will not be considered, except the Extended Non-means-tested Loan Scheme"
+      ],
+      "amount": "tuition subsidies for up to HK$100,000",
+      "amount_note": "FTSS awardees can receive tuition subsidies for up to HK$100,000 for designated taught postgraduate programmes, regardless of the actual study period and mode of study.",
+      "deadline": "unknown",
+      "deadline_note": "No date is printed. Eligible students will be invited by the programme to submit applications.",
+      "source_url": "https://gs.eduhk.hk/scholarships/hong-kong-future-talents-scholarship-scheme-for-advanced-studies-ftssfor-local-students/",
+      "match_tag": "weak",
+      "match_rationale": "Local students in mathematics-related and AI taught master's programmes at MIT can be invited, but FTSS is for designated taught postgraduate programmes, not PhD or MPhil, and the printed programme list is for 2026/27.",
+      "login_required": false,
+      "intake_relevance": "Taught postgraduate list is printed for 2026/27. A 2027/28 FTSS list is not on this page.",
+      "restrictions": [
+        "Taught postgraduate programmes only",
+        "Local student status",
+        "Invitation by the programme",
+        "Not combined with other government scholarships for the same programme, except ENLS",
+        "Must not simultaneously register for another qualification"
+      ]
+    },
+    {
+      "id": "eduhk-seymf-disabled",
+      "name": "Sir Edward Youde Memorial Fellowships/ Scholarships for Disabled Students",
+      "university": "EdUHK",
+      "university_code": "eduhk",
+      "type": "fellowship",
+      "eligibility_clues": [
+        "Available to full-time disabled students pursuing postgraduate studies by research and/or undergraduate and diploma programmes at post-secondary and tertiary levels in Hong Kong",
+        "Fellowships ($50,000 each) and scholarships ($40,000 each) are offered",
+        "Normally open for application in September and subject to selection"
+      ],
+      "amount": "Fellowships ($50,000 each) and scholarships ($40,000 each)",
+      "amount_note": "Fellowships ($50,000 each) and scholarships ($40,000 each) are offered. The calendar does not say which of the two applies to research postgraduate students.",
+      "deadline": "Normally open for application in September",
+      "deadline_note": "Normally open for application in September and subject to selection. No year is printed.",
+      "source_url": "https://www.eduhk.hk/re/eduhk_calendar/Fees-Scholarships-And-Financial-Assistance.html",
+      "match_tag": "weak",
+      "match_rationale": "Postgraduate study by research is named, so a registered research student could be eligible, but only if they are a full-time disabled student. It is not a general monthly studentship.",
+      "login_required": false,
+      "intake_relevance": "September application window with no printed year. For students already pursuing the programme.",
+      "restrictions": [
+        "Full-time disabled students",
+        "Subject to selection"
+      ]
+    },
+    {
+      "id": "eduhk-hkiiel",
+      "name": "Hong Kong International Institute of Educational Leadership Scholarship",
+      "university": "EdUHK",
+      "university_code": "eduhk",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "Graduate School lists it under other scholarship schemes for research postgraduate students and says scholarships are given annually to teacher students of tertiary institutions in Hong Kong to participate in HKIIEL courses and programmes",
+        "Calendar: around 12 scholarships (worth $4,500 each) as full sponsorship to attend a certificate course on values education",
+        "Students attending full-time or part-time programmes with a duration of one year or above are eligible"
+      ],
+      "amount": "$4,500 each",
+      "amount_note": "Around 12 scholarships (worth $4,500 each) are donated by the Hong Kong International Institute of Educational Leadership as full sponsorship to attend a certificate course on values education.",
+      "deadline": "unknown",
+      "deadline_note": "The HKIIEL calendar entry does not print its own deadline. A September line on the page belongs to the next scholarship heading.",
+      "source_url": "https://www.eduhk.hk/re/eduhk_calendar/Fees-Scholarships-And-Financial-Assistance.html",
+      "match_tag": "weak",
+      "match_rationale": "The Graduate School lists this beside research-postgraduate schemes, but the award is sponsorship of a values-education certificate course for teacher students, not a PhD or MPhil living stipend.",
+      "login_required": false,
+      "intake_relevance": "Annual course sponsorship. No 2027/28 research-postgraduate round is printed.",
+      "restrictions": [
+        "Sponsorship for an HKIIEL certificate course",
+        "Programmes of one year or above",
+        "About 12 awards"
+      ]
+    },
+    {
+      "id": "eduhk-pspas",
+      "name": "Postgraduate Students Publication Awards Scheme (PSPAS)",
+      "university": "EdUHK",
+      "university_code": "eduhk",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "Set up to reward students who produce quality research output in the format of journal articles",
+        "Details about nominations for the PSPAS will be announced in the Event Section of the Graduate School's webpage"
+      ],
+      "amount": "unknown",
+      "amount_note": "No HKD amount is printed.",
+      "deadline": "unknown",
+      "deadline_note": "Nominations are to be announced later. No date is printed.",
+      "source_url": "https://www.eduhk.hk/fehd/en/rp_students.php?s=rps_support",
+      "match_tag": "weak",
+      "match_rationale": "This is a publication prize for postgraduate research output, described on the FEHD research-students page. It is not a monthly studentship, and no amount, field rule, or 2027/28 deadline is printed.",
+      "login_required": false,
+      "intake_relevance": "Nomination details are not yet printed. Not an admission stipend.",
+      "restrictions": [
+        "Journal-article output",
+        "Nomination details not published on this page",
+        "Page is the FEHD research-students page"
+      ]
+    },
+    {
+      "id": "eduhk-tsfs",
+      "name": "Tertiary Student Finance Scheme - Publicly-funded Programmes (TSFS)",
+      "university": "EdUHK",
+      "university_code": "eduhk",
+      "type": "other",
+      "eligibility_clues": [
+        "UGC-funded full-time students can apply for TSFS",
+        "Assistance is a grant and/or loan. The grant is to cover tuition fees and academic expenses. The loan is for living expenses",
+        "The level of grant and/or loan is determined by adjusted family income and net asset value per household member",
+        "UGC tuition-waiver page: students covered by the local RPg tuition waiver will no longer qualify for tuition fee grants under TSFS, but eligible students may still apply for means-tested grants and loans under TSFS to cover academic and living expenses respectively"
+      ],
+      "amount": "unknown",
+      "amount_note": "No fixed HKD award is printed. The calendar says the loan is interest-bearing at the rate of 1.0% per annum and repayable in 180 monthly instalments within 15 years. That interest rate is not an award amount.",
+      "deadline": "unknown",
+      "deadline_note": "The calendar does not print a TSFS application date. It does print an Extended Non-means-tested Loan Scheme deadline of 31 July 2027 for the 2026/27 academic year, which is a different scheme.",
+      "source_url": "https://www.eduhk.hk/re/eduhk_calendar/Fees-Scholarships-And-Financial-Assistance.html",
+      "match_tag": "weak",
+      "match_rationale": "A local full-time UGC-funded student may still seek means-tested help with academic and living expenses, but the RPg tuition waiver removes the TSFS tuition-fee grant, and TSFS is a means-tested grant and loan rather than a postgraduate studentship.",
+      "login_required": false,
+      "intake_relevance": "Means-tested aid for UGC-funded full-time study. Not labelled as a 2027/28 stipend.",
+      "restrictions": [
+        "Means-tested",
+        "Tuition-fee grant is not available when the local RPg tuition waiver applies",
+        "Living-expense support is a loan",
+        "No fixed amount printed"
+      ]
+    },
+    {
+      "id": "eduhk-self-financed-international-rpg",
+      "name": "EdUHK Scholarship Scheme for Outstanding International Students of the Self-financed Research Postgraduate Programmes",
+      "university": "EdUHK",
+      "university_code": "eduhk",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "Awarded to outstanding students from around the world who are enrolled in self-financed research postgraduate programmes (PhD & MPhil) at EdUHK",
+        "The scheme name is Outstanding International Students",
+        "Type C rate is marked in the 2026/27 academic year"
+      ],
+      "amount": "Type A: Entrance Scholarship of HK$100,000; Type B: Monthly Scholarship of HK$14,000 per month for up to 3 years; Type C: Monthly Scholarship of HK$19,100* per month for up to 3 years",
+      "amount_note": "Successful applicants will receive one of the following scholarships: Type A: Entrance Scholarship of HK$100,000; Type B: Monthly Scholarship of HK$14,000 per month for up to 3 years; Type C: Monthly Scholarship of HK$19,100* per month for up to 3 years. *in the 2026/27 academic year.",
+      "deadline": "unknown",
+      "deadline_note": "No deadline is printed on the scholarship page.",
+      "source_url": "https://gs.eduhk.hk/prospective/rpg/scholarship-and-financial-assistance/",
+      "match_tag": "out_of_scope",
+      "match_rationale": "The scheme is for outstanding international students on self-financed PhD and MPhil places. That is outside a local student's UGC-funded route.",
+      "login_required": false,
+      "intake_relevance": "Self-financed RPg. Type C is marked for the 2026/27 academic year. No 2027/28 deadline is printed.",
+      "restrictions": [
+        "International students",
+        "Self-financed research postgraduate programmes",
+        "One of Type A, Type B, or Type C"
+      ]
+    },
+    {
+      "id": "eduhk-belt-and-road-rpg",
+      "name": "Belt and Road Scholarship (Research Postgraduate)",
+      "university": "EdUHK",
+      "university_code": "eduhk",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "Aimed at outstanding students from countries/regions along the Belt and Road",
+        "Expanded in 2019/20 to cover research postgraduate students",
+        "Up to 25 scholarships for students from countries along the Belt and Road to study first-year full-time publicly-funded research postgraduate programmes in Hong Kong",
+        "Funding source: HKSAR Government Scholarship Fund",
+        "Calendar: Targeted Scholarship Scheme: Belt and Road Scholarship – Up to annual tuition for undergraduate and research postgraduate non-local students from designated countries",
+        "Calendar: tenable for the normative duration and renewable annually subject to satisfactory performance; application is by invitation to the new cohort, normally in March"
+      ],
+      "amount": "a scholarship to cover their tuition fees",
+      "amount_note": "Graduate School page: All awardees would receive a scholarship to cover their tuition fees. The Registry calendar prints a separate phrase: Up to annual tuition for undergraduate and research postgraduate non-local students from designated countries. Neither page prints a HKD tuition figure for this scholarship.",
+      "deadline": "unknown",
+      "deadline_note": "The Graduate School page does not print a deadline. The Registry calendar says application for the Targeted Scholarship Scheme is by invitation to the new cohort of students before their admission to the University, normally in March. No year is printed.",
+      "source_url": "https://gs.eduhk.hk/prospective/rpg/scholarship-and-financial-assistance/",
+      "match_tag": "out_of_scope",
+      "match_rationale": "This research-postgraduate scholarship is for non-local students from designated Belt and Road countries and covers tuition. A local Hong Kong permanent resident is outside that group.",
+      "login_required": false,
+      "intake_relevance": "First-year full-time publicly-funded RPg, by invitation normally in March. Not labelled 2027/28 on the page.",
+      "restrictions": [
+        "Non-local students from designated Belt and Road countries",
+        "Up to 25 scholarships",
+        "First-year entry",
+        "Tuition coverage rather than a printed living stipend",
+        "By invitation"
+      ]
+    },
+    {
+      "id": "eduhk-edd-entrance-non-local",
+      "name": "Doctor of Education (EdD) Entrance Scholarship for Outstanding Non-local Students",
+      "university": "EdUHK",
+      "university_code": "eduhk",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "Established to attract outstanding non-local candidates to the EdD programme",
+        "The applicant must be a full-time non-local applicant admitted to the EdD programme",
+        "Master's GPA of 3.3 out of 4 or 3.5 out of 4.3 or above, or equivalent, plus personal development, community service, and contribution to internationalisation",
+        "Eligible applicants will be invited to apply",
+        "FAQ: the EdD is a self-financed professional doctorate, distinct from the UGC-funded PhD",
+        "STEM Education is an EdD cluster that can affiliate with the Department of Mathematics and Information Technology"
+      ],
+      "amount": "a living allowance of HK$40,000 per year (up to three years)",
+      "amount_note": "The Scholarship covers the 72-cp programme tuition fees and a living allowance of HK$40,000 per year (up to three years) to cover partial living expenses. Separately, the tuition fee for the 2026/27 academic year is HK$5,500 per credit, i.e. HK$396,000 for the 72-credit point of EdD programme, provisional and subject to adjustment. The scholarship sentence does not restate that fee as the award amount.",
+      "deadline": "unknown",
+      "deadline_note": "Invited applicants submit by a stipulated deadline. No date is printed.",
+      "source_url": "https://gs.eduhk.hk/prospective/edd/",
+      "match_tag": "out_of_scope",
+      "match_rationale": "The scholarship is restricted to full-time non-local EdD applicants. The EdD is a self-financed professional doctorate, not the UGC-funded PhD or MPhil, even though a STEM cluster can sit in MIT.",
+      "login_required": false,
+      "intake_relevance": "EdD entrance award. Tuition figures are for the 2026/27 academic year. No 2027/28 deadline is printed.",
+      "restrictions": [
+        "Full-time non-local EdD applicants only",
+        "Invitation to apply",
+        "Master's GPA threshold",
+        "Not the UGC-funded PhD or MPhil"
+      ]
+    },
+    {
+      "id": "eduhk-edd-conference-award",
+      "name": "Doctor of Education Conference Award",
+      "university": "EdUHK",
+      "university_code": "eduhk",
+      "type": "other",
+      "eligibility_clues": [
+        "On the EdD page: the Conference Award is to reward students who present their work at an international, national, or local conference",
+        "The EdD is a self-financed professional doctorate"
+      ],
+      "amount": "unknown",
+      "amount_note": "No HKD amount is printed.",
+      "deadline": "unknown",
+      "deadline_note": "No deadline is printed.",
+      "source_url": "https://gs.eduhk.hk/prospective/edd/",
+      "match_tag": "out_of_scope",
+      "match_rationale": "This award sits on the professional-doctorate page and has no printed amount. It is not funding for the UGC-funded PhD or MPhil.",
+      "login_required": false,
+      "intake_relevance": "EdD student award. No intake year is printed.",
+      "restrictions": [
+        "EdD students presenting at a conference",
+        "No printed amount"
+      ]
+    },
+    {
+      "id": "eduhk-united-board",
+      "name": "United Board Faculty Scholarship Program",
+      "university": "EdUHK",
+      "university_code": "eduhk",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "Listed by the Graduate School under other scholarship schemes for research postgraduate students",
+        "Promising young faculty from selected United Board network institutions in Asia pursue an advanced degree, taught in English, within the Asia-Pacific region but located outside of one's home country",
+        "Aimed at faculty enrichment for developing colleges and universities in that network"
+      ],
+      "amount": "unknown",
+      "amount_note": "The EdUHK page does not print a HKD amount. The linked United Board site was not opened.",
+      "deadline": "unknown",
+      "deadline_note": "No deadline is printed on the EdUHK page.",
+      "source_url": "https://gs.eduhk.hk/prospective/rpg/scholarship-and-financial-assistance/",
+      "match_tag": "out_of_scope",
+      "match_rationale": "This is a faculty-development scholarship for staff of selected Asian network institutions who study outside their home country. It is not a local Hong Kong permanent resident's EdUHK studentship.",
+      "login_required": false,
+      "intake_relevance": "No EdUHK intake year is printed.",
+      "restrictions": [
+        "Faculty of selected United Board network institutions",
+        "Study must be outside the home country",
+        "Amount not printed on the EdUHK page"
+      ]
+    },
+    {
+      "id": "eduhk-thomas-yeung",
+      "name": "Thomas Yeung Scholarship",
+      "university": "EdUHK",
+      "university_code": "eduhk",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "One scholarship ($50,000) is donated by Mr Thomas Yeung",
+        "Chinese Mainland students studying full-time taught master's programmes are eligible",
+        "Preference will be given to those with household registration in Guizhou province"
+      ],
+      "amount": "$50,000",
+      "amount_note": "One scholarship ($50,000) is donated by Mr Thomas Yeung.",
+      "deadline": "unknown",
+      "deadline_note": "No deadline is printed on this scholarship's calendar entry.",
+      "source_url": "https://www.eduhk.hk/re/eduhk_calendar/Fees-Scholarships-And-Financial-Assistance.html",
+      "match_tag": "out_of_scope",
+      "match_rationale": "The scholarship is for Chinese Mainland students on full-time taught master's programmes, with a preference for Guizhou household registration. It is not a local research-postgraduate studentship.",
+      "login_required": false,
+      "intake_relevance": "Taught master's award. No 2027/28 research intake is printed.",
+      "restrictions": [
+        "Chinese Mainland students",
+        "Full-time taught master's programmes",
+        "Preference for Guizhou household registration"
+      ]
+    }
+  ],
+  "blockers": [
+    "https://gs.eduhk.hk/prospective/rpg/research-environment/ returned HTTP 404 on 2026-10-13, so a department subject-field list was not readable. MIT's PhD and MPhil pages were used instead and both print Area of Focus: Mathematics and Computer Science.",
+    "The HKPFS (2027/28) poster linked from the EdUHK HKPFS page redirects to a Microsoft sign-in for HKPFS -A4-2027-28.pdf. Poster text was not read. login_required for that file.",
+    "The detailed PDF for the EdUHK PhD Scholarship for Outstanding Graduates from Selected Institutions redirects to SharePoint Authenticate.aspx. The selected-institution list was not read. Only the public Graduate School paragraph was used.",
+    "https://gs.eduhk.hk/current/student-support/ is a login wall. Public text is Login and This is restricted access. Research-support and conference-support guidelines for current students were not read.",
+    "https://gs.eduhk.hk/policies/for-supervisors/financial-support-for-research-and-conference-for-rpg/ shows a title and contact block only, with no amounts.",
+    "Where a stipend year is printed, it is 2026/27. The open PhD/MPhil admission round on the Graduate School pages is September 2027 (deadline 1 December 2026). No 2027/28 stipend rate was printed, and none was inferred. The EdUHK HKPFS page prints a monthly stipend of HK$28,700; the RGC index prints an annual stipend of HK$344,400 for the 2026/27 academic year. Those figures were not converted or equated.",
+    "The RPg applicant FAQ PDF footer reads July 2024 and does not print current stipend rates. It was used only for eligibility clues that point back to the Graduate School pages.",
+    "The Registry calendar contains many undergraduate, higher diploma, and exchange scholarships. Those were not itemised. Research-postgraduate or mathematics-related rows that were actually read are included.",
+    "Pages on studyinhongkong.edu.hk, wfsfaa.gov.hk, hkauw.org, unitedboard.org, and edb.gov.hk are linked from EdUHK but were not opened, because the scout is limited to eduhk.hk, ugc.edu.hk, and rgc.edu.hk.",
+    "A 2024-entry postgraduate prospectus on aapsef.eduhk.hk prints earlier stipend figures. Those figures were not copied into opportunities."
+  ]
+}
