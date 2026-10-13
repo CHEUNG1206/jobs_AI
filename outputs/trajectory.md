@@ -34,8 +34,7 @@ Each scout was briefed with one code, one official host family, and search seeds
 4. Parent checked each JSON file as it arrived.
 5. Critic pass on the nine files.
 6. Parent applied the critic demands and merged.
-
-The HTML dashboard is the next step after this merge.
+7. Frontend Builder wrote `outputs/report/index.html` with local CSS and JS. The page loads 192 rows from `../opportunities.json` when a server is available, and from the embedded array when the file is opened directly. A browser check covered the strong filter (14), the CityU-plus-strong empty state, a search with no hits, a detail panel whose source link is the cited HKU postgraduate scholarship page, and a 390px-wide layout.
 
 ## Critique loop
 
