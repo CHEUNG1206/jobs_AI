@@ -1,0 +1,1099 @@
+{
+  "university_code": "hkbu",
+  "university_name": "Hong Kong Baptist University",
+  "scouted_at": "2026-10-13",
+  "profile_ref": "rpg-computing-mathematics-local-2027-28",
+  "sources_consulted": [
+    {
+      "url": "https://gs.hkbu.edu.hk/fees-scholarships-and-financial-aid",
+      "title": "RPg Programmes Fees, Scholarships & Financial Aid | HKBU Graduate School",
+      "accessed": "2026-10-13",
+      "note": "Tuition schedule for 2026/27 and 2027/28, AY2026/27 research studentship rate, local tuition-waiver statement, and names of further PhD awards."
+    },
+    {
+      "url": "https://gs.hkbu.edu.hk/fees-scholarships-and-financial-aid/scholarship-for-admission",
+      "title": "Current Students - Scholarship & Financial Aid | HKBU Graduate School",
+      "accessed": "2026-10-13",
+      "note": "Repeats the studentship with AY2025/26 and AY2026/27 rates, effective 1 September 2026 for the later rate. Same local tuition-waiver wording."
+    },
+    {
+      "url": "https://gs.hkbu.edu.hk/admission",
+      "title": "Admission | HKBU Graduate School",
+      "accessed": "2026-10-13",
+      "note": "Comparison of HKPFS, regular research postgraduate, and ITS Transdisciplinary PhD funding: stipend, travel support, Global Research Fellowship, and Elite Scholar Award."
+    },
+    {
+      "url": "https://gs.hkbu.edu.hk/admission/hong-kong-phd-fellowship-scheme",
+      "title": "Hong Kong PhD Fellowship Scheme (HKPFS) - Introduction | HKBU Graduate School",
+      "accessed": "2026-10-13",
+      "note": "AY2027/28 HKPFS glance: Elite Scholar Award, monthly stipend, tuition waiver, travel allowance, and accommodation."
+    },
+    {
+      "url": "https://gs.hkbu.edu.hk/admission/hong-kong-phd-fellowship-scheme/application/admission-timeline",
+      "title": "Hong Kong PhD Fellowship Scheme (HKPFS) - Admission Timeline | HKBU Graduate School",
+      "accessed": "2026-10-13",
+      "note": "2027/28 HKPFS steps: RGC initial application to 1 December 2026 at 12:00 noon, HKBU full application to 1 December 2026 at 23:59, results in May 2027."
+    },
+    {
+      "url": "https://gs.hkbu.edu.hk/prospective-students/hong-kong-phd-fellowship-scheme/application/documents-required",
+      "title": "Hong Kong PhD Fellowship Scheme (HKPFS) - Documents Required | HKBU Graduate School",
+      "accessed": "2026-10-13",
+      "note": "Local applicants submit an HKID card. Application fee HK$450. Online application system is used for submission."
+    },
+    {
+      "url": "https://gs.hkbu.edu.hk/programmes/doctor-of-philosophy-master-of-philosophy-department-of-mathematics",
+      "title": "MPhil / PhD in Mathematics | HKBU Graduate School",
+      "accessed": "2026-10-13",
+      "note": "Department of Mathematics PhD and MPhil, year of entry 2027 September, UGC-funded, research areas include scientific computing and optimisation. 2027/28 application dates and HKPFS invitation."
+    },
+    {
+      "url": "https://gs.hkbu.edu.hk/admission/research-postgraduate-programmes/application",
+      "title": "RPg Programmes Application Procedures | HKBU Graduate School",
+      "accessed": "2026-10-13",
+      "note": "Index of regular research-postgraduate application pages. No stipend figure on this index."
+    },
+    {
+      "url": "https://gs.hkbu.edu.hk/admission/research-postgraduate-programmes/application/admission-timeline",
+      "title": "RPg Programmes Admission Timeline | HKBU Graduate School",
+      "accessed": "2026-10-13",
+      "note": "PhD and MPhil applications for academic year 2027/28 open from 1 September 2026. Deadlines 1 December 2026 and 15 April 2027."
+    },
+    {
+      "url": "https://gs.hkbu.edu.hk/sc/current-students/student-support/research-support-fund",
+      "title": "Current Students - Research Support Fund | HKBU Graduate School",
+      "accessed": "2026-10-13",
+      "note": "Research Support Fund caps for studentship recipients, and Global Research Fellowship Scheme rules and the HK$60,000 cap."
+    },
+    {
+      "url": "https://www.math.hkbu.edu.hk/programmes/rpg",
+      "title": "Research Postgraduate | HKBU Department of Mathematics",
+      "accessed": "2026-10-13",
+      "note": "WebFetch returned an empty JavaScript shell. The page loads published CMS blocks, including a Scholarships and Awards section."
+    },
+    {
+      "url": "https://www.math.hkbu.edu.hk/programmes/rpg/admission/application-fee",
+      "title": "Fees, Scholarships & Financial Aid | HKBU Department of Mathematics",
+      "accessed": "2026-10-13",
+      "note": "Public route for the department fees view. Content was read from the CMS blocks that view requests: admission-rpg-application-fee and admission-rpg-scholarships-and-awards."
+    },
+    {
+      "url": "https://cms.math.hkbu.edu.hk/api/webpage-contents",
+      "title": "HKBU Department of Mathematics webpage-contents API",
+      "accessed": "2026-10-13",
+      "note": "Published CMS text behind the department pages. Studentship block still labelled 2024/25. MATH Elite PhD Scholarship and MATH RPg Performance Award amounts are in the scholarships blocks."
+    },
+    {
+      "url": "https://cmsdev.sci.hkbu.edu.hk/uploads/R_Pg_Scholarship_Summary_89eafe9521.pdf",
+      "title": "Scholarships for Research Postgraduate (RPg) Students (2026/27)",
+      "accessed": "2026-10-13",
+      "note": "Faculty PDF, last update printed 11 August 2026. Mathematics, Computer Science, and Physics departmental awards, plus university RPG prizes and the Madam Kwok award range."
+    },
+    {
+      "url": "https://sa.hkbu.edu.hk/en/sfa/scholarships/academic-scholarships/for-postgraduate-students.html",
+      "title": "Scholarships / Awards for Postgraduate Students",
+      "accessed": "2026-10-13",
+      "note": "Office of Student Affairs list. University-wide RPG prizes, Computer Science RPG awards, taught-programme awards, and non-local schemes."
+    },
+    {
+      "url": "https://gs.hkbu.edu.hk/page/detail/4202",
+      "title": "Madam Kwok Chung Bo Fun PhD Student Research Excellence Awards 2026/27",
+      "accessed": "2026-10-13",
+      "note": "2026/27 ceremony on 8 October 2026 for six PhD nominees, including Faculty of Science and Technology. No cash amount on this page."
+    },
+    {
+      "url": "https://www.ugc.edu.hk/eng/rgc/funding_opport/tws/",
+      "title": "Tuition Waiver for Local Research Postgraduate Students",
+      "accessed": "2026-10-13",
+      "note": "UGC scheme page. Names Hong Kong Baptist University. Local full-time UGC-funded RPg students, including the 2027/28 eligibility revision."
+    },
+    {
+      "url": "https://www.ugc.edu.hk/eng/rgc/funding_opport/tws.html",
+      "title": "Tuition Waiver for Local RPg Students",
+      "accessed": "2026-10-13",
+      "note": "States that the entire tuition fee of eligible students will be waived and names Hong Kong Baptist University. No HKD figure on this page."
+    },
+    {
+      "url": "https://www.ugc.edu.hk/eng/rgc/funding_opport/tws/faq.html",
+      "title": "Tuition Waiver for Local Research Postgraduate Students - FAQ",
+      "accessed": "2026-10-13",
+      "note": "Prints the UGC-funded RPg tuition schedule through HK$49,500 in 2027/28 AY and lists Hong Kong Baptist University Graduate School. Also describes TSFS means-tested grants and loans for living expenses."
+    }
+  ],
+  "opportunities": [
+    {
+      "id": "hkbu-research-studentship",
+      "name": "Research Studentships",
+      "university": "HKBU",
+      "university_code": "hkbu",
+      "type": "studentship",
+      "eligibility_clues": [
+        "The studentship supports full-time research students. Applicants are not required to apply separately. It is awarded on academic merit, subject to the academic department's decision, and indicated on the offer letter.",
+        "Part-time and self-funded students are not eligible.",
+        "Recipients need satisfactory academic progress and perform duties assigned by departments.",
+        "The admission comparison applies the same studentship line to the regular Research Postgraduate Programme (PhD and MPhil) and the ITS Transdisciplinary PhD Programme.",
+        "Department of Mathematics offers UGC-funded PhD and MPhil, year of entry 2027 September. Research areas on the programme page include scientific computing and optimisation.",
+        "The department CMS says offering of studentships is subject to the department's decision. That CMS block still labels an older year; the rate below is the Graduate School figure."
+      ],
+      "amount": "HK$19,310 (post-candidacy HK$19,660 for PhD)",
+      "amount_note": "Fees page: 'For AY2026/27, the monthly studentship rate will be HK$19,310 (post-candidacy HK$19,660 for PhD).' The current-students page adds 'with effect from 1 September 2026'. No AY2027/28 studentship rate is printed on the Graduate School pages opened.",
+      "deadline": "unknown",
+      "deadline_note": "No separate studentship deadline is printed. Regular PhD and MPhil applications for academic year 2027/28 open from 1 September 2026, with deadlines 1 December 2026 and 15 April 2027. The Mathematics programme page lists the same dates and a cut-off of 15 Apr 2027.",
+      "source_url": "https://gs.hkbu.edu.hk/fees-scholarships-and-financial-aid",
+      "match_tag": "strong",
+      "match_rationale": "This is the university monthly studentship for full-time PhD and MPhil students. Local students are not excluded, the Department of Mathematics programme covers computational mathematics, and the 2027/28 admission round is open. The printed monthly rate is labelled AY2026/27.",
+      "login_required": false,
+      "intake_relevance": "2027/28 PhD and MPhil applications are open. The printed studentship rate is the AY2026/27 rate.",
+      "restrictions": [
+        "Full-time studentship recipients only",
+        "Part-time students are not eligible",
+        "Self-funded students are not eligible",
+        "Award is a departmental decision shown on the offer letter",
+        "Satisfactory academic progress and assigned departmental duties"
+      ]
+    },
+    {
+      "id": "hkbu-hkpfs",
+      "name": "Hong Kong PhD Fellowship Scheme",
+      "university": "HKBU",
+      "university_code": "hkbu",
+      "type": "fellowship",
+      "eligibility_clues": [
+        "HKBU invites candidates from all cultural and ethnic backgrounds for full-time PhD study under HKPFS.",
+        "Local applicants submit an HKID card. Non-local applicants submit a passport or other identity document.",
+        "Applicants for HKBU PhD programmes via HKPFS are concurrently considered for the regular postgraduate studentship.",
+        "The Department of Mathematics programme page invites HKPFS applications and lists scientific computing among its research areas.",
+        "HKPFS at a Glance (AY2027/28) also states tuition waived annually for 4 years, a conference and research-related travel allowance, and university-arranged shared-room accommodation in the first two years.",
+        "Subject to satisfactory academic progress."
+      ],
+      "amount": "HK$28,700 (approx. US$3,680) monthly",
+      "amount_note": "HKPFS introduction, under HKPFS at a Glance (AY2027/28): 'HK$28,700 (approx. US$3,680) monthly' and 'HK$344,400 (approx. US$44,200) annually for 4 years'. The same glance lists the travel allowance as 'HK$14,400 (approx. US$1,850) per year for a maximum of 3 years' plus the University's Research Support Fund of HK$25,000 for the 4-year study period.",
+      "deadline": "1 December 2026 (Hong Kong Time 12:00 noon)",
+      "deadline_note": "Timeline: initial application to RGC is 1 Sep - 1 Dec 2026 (Hong Kong Time 12:00 noon). Full application to HKBU is 1 Sep - 1 Dec 2026 (Hong Kong Time 23:59). Result announcement is May 2027. The Mathematics programme page lists the HKPFS regular round deadline as 1 December 2026.",
+      "source_url": "https://gs.hkbu.edu.hk/admission/hong-kong-phd-fellowship-scheme",
+      "match_tag": "strong",
+      "match_rationale": "The AY2027/28 round pays a monthly stipend for full-time PhD study. Local applicants are included through the HKID requirement, and the Mathematics PhD page invites HKPFS applications in areas that include scientific computing. MPhil is outside this scheme.",
+      "login_required": false,
+      "intake_relevance": "AY2027/28. Applications run from 1 September 2026 to 1 December 2026.",
+      "restrictions": [
+        "Full-time PhD only",
+        "Initial application is made to the RGC, then a full application to HKBU quoting the HKPFS reference number",
+        "Satisfactory academic progress",
+        "The University may review the types of incentives depending on funding and strategic planning"
+      ]
+    },
+    {
+      "id": "hkbu-local-rpg-tuition-waiver",
+      "name": "Tuition Waiver for Local Research Postgraduate (RPg) Students",
+      "university": "HKBU",
+      "university_code": "hkbu",
+      "type": "tuition_waiver",
+      "eligibility_clues": [
+        "HKBU Graduate School: starting from 2018/19, the Government provides a tuition waiver for all local students enrolled in UGC-funded RPg programmes.",
+        "UGC page: non-means-tested waiver for local full-time students in UGC-funded RPg programmes at Hong Kong Baptist University and the other UGC-funded universities.",
+        "FAQ: UGC-funded RPg programmes mainly include all full-time MPhil and PhD programmes. Part-time RPg programmes are not funded by UGC.",
+        "Category I includes a person holding a Hong Kong permanent identity card. Category II, including non-local students, cannot qualify.",
+        "The eligibility revision applies to the 2027/28 academic year and thereafter. The FAQ sets a one-year transitional residency requirement for 2027/28 and two years from 2028/29 for the dependant-visa category.",
+        "Eligible local students need not apply. The university waives the tuition fees.",
+        "FAQ: an HKPFS stipend or other scholarship that does not aim to cover tuition fees leaves the waiver in place."
+      ],
+      "amount": "HK$49,500 in 2027/28 AY",
+      "amount_note": "FAQ: 'The tuition fee for the above mentioned UGC-funded RPg programmes gradually increases from HK$42,100 in 2024/25 Academic Year (AY) to HK$44,500 in 2025/26 AY, HK$47,000 in 2026/27 AY and HK$49,500 in 2027/28 AY.' The scheme page states that the entire tuition fee of eligible students will be waived. HKBU's fees page lists the same UGC-funded full-time figures, $47,000 for 2026/27 and $49,500 for 2027/28. This is a fee waiver, not a living stipend.",
+      "deadline": "unknown",
+      "deadline_note": "FAQ: 'The university will waive the tuition fees of eligible local students enrolled in the UGC-funded RPg programmes. They need not apply for the scheme.' No application deadline is printed.",
+      "source_url": "https://www.ugc.edu.hk/eng/rgc/funding_opport/tws/faq.html",
+      "match_tag": "possible",
+      "match_rationale": "A local Hong Kong permanent resident in a full-time UGC-funded Mathematics PhD or MPhil is in the group whose tuition the scheme waives, and the FAQ prints the 2027/28 tuition fee. It is a tuition waiver alongside the studentship, rather than the monthly living stipend.",
+      "login_required": false,
+      "intake_relevance": "The revised eligibility applies to the 2027/28 academic year and thereafter. The application cycle for 2027/28 commences in October 2026.",
+      "restrictions": [
+        "Local Category I students only",
+        "Full-time UGC-funded RPg programmes",
+        "Normative study period only",
+        "A student whose tuition is already fully waived by another scheme is not waived again under this scheme",
+        "No separate application"
+      ]
+    },
+    {
+      "id": "hkbu-hkpfs-elite-scholar-award",
+      "name": "Elite Scholar Award",
+      "university": "HKBU",
+      "university_code": "hkbu",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "Listed under HKPFS at a Glance (AY2027/28) on the HKBU HKPFS page.",
+        "Renewable annually based on satisfactory performance.",
+        "The admission comparison marks the Elite Scholar Award as applicable to HKPFS and not applicable to the regular research postgraduate programme or the ITS Transdisciplinary PhD Programme."
+      ],
+      "amount": "HK$40,000 (approx. US$5,130) per annum for the first three years of study",
+      "amount_note": "HKPFS introduction, AY2027/28 glance: 'HK$40,000 (approx. US$5,130) per annum for the first three years of study, renewable annually based on satisfactory performance.' The admission table states 'AY2027/28 cohort: HK$120,000 in total for the first three years of study period.'",
+      "deadline": "1 December 2026 (Hong Kong Time 12:00 noon)",
+      "deadline_note": "The award is shown as part of the HKPFS package. The HKPFS initial-application window closes on 1 December 2026 at 12:00 noon Hong Kong Time. No separate Elite Scholar Award deadline is printed.",
+      "source_url": "https://gs.hkbu.edu.hk/admission/hong-kong-phd-fellowship-scheme",
+      "match_tag": "possible",
+      "match_rationale": "A local student who wins an HKBU HKPFS place in Mathematics would receive this award on top of the monthly stipend. It is a yearly scholar award for HKPFS awardees, so it is tagged with the fellowship package rather than as the studentship itself.",
+      "login_required": false,
+      "intake_relevance": "AY2027/28 HKPFS cohort.",
+      "restrictions": [
+        "Shown for HKPFS awardees",
+        "The admission table marks it not applicable to the regular research postgraduate programme",
+        "Renewable annually based on satisfactory performance"
+      ]
+    },
+    {
+      "id": "hkbu-math-elite-phd-scholarship",
+      "name": "MATH Elite PhD Scholarship",
+      "university": "HKBU",
+      "university_code": "hkbu",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "Department of Mathematics incentive, starting from the round of 2025/26, for students applying for HKPFS.",
+        "Each successful HKPFS awardee is offered the departmental amount on top of the award given by HKBU and UGC during the 4-year PhD study.",
+        "The 2026/27 faculty PDF targets awardees of the Hong Kong PhD Fellowship Scheme in Mathematics and repeats the same yearly amount."
+      ],
+      "amount": "HK$25,000 per year",
+      "amount_note": "Department CMS block: 'Each successful HKPFS awardee would be offered HK$25,000 per year by the Department on top of the award given by HKBU and UGC during the 4-year PhD study.' The faculty PDF prints 'HK$25,000 per year during the 4-year PhD study'.",
+      "deadline": "unknown",
+      "deadline_note": "No separate departmental deadline is printed. It follows a successful HKPFS award. The Mathematics HKPFS application window on the Graduate School programme page closes on 1 December 2026.",
+      "source_url": "https://www.math.hkbu.edu.hk/programmes/rpg/admission/application-fee",
+      "match_tag": "possible",
+      "match_rationale": "A local student admitted to the Mathematics PhD through HKPFS is in the group offered this yearly departmental top-up. It is an added scholarship during the 4-year PhD, not the monthly studentship.",
+      "login_required": false,
+      "intake_relevance": "Starts from the 2025/26 round and is tied to HKPFS. The current HKPFS round on HKBU pages is AY2027/28.",
+      "restrictions": [
+        "Successful HKPFS awardees in the Department of Mathematics",
+        "Paid during the 4-year PhD study",
+        "On top of the HKBU and UGC award"
+      ]
+    },
+    {
+      "id": "hkbu-global-research-fellowship",
+      "name": "Global Research Fellowship Scheme",
+      "university": "HKBU",
+      "university_code": "hkbu",
+      "type": "fellowship",
+      "eligibility_clues": [
+        "Supports eligible PhD students undertaking an in-person non-local research attachment or research internship at a designated institution for at least one month.",
+        "The student must be enrolled in a full-time PhD programme and be a studentship recipient with satisfactory academic progress.",
+        "Faculties and schools nominate within quotas. Retrospective nominations are not considered.",
+        "The admission table lists a maximum of HK$60,000 for HKPFS, regular PhD students, and the ITS pathway, by faculty or school nomination."
+      ],
+      "amount": "Up to HK$60,000 per student.",
+      "amount_note": "Research Support Fund page: 'Up to HK$60,000 per student.' Funding covers basic economy-class return airfare and a subsistence allowance, normally on a 2:1 matching basis. Each student may receive support for one attachment or internship only.",
+      "deadline": "unknown",
+      "deadline_note": "Students contact their Faculty or School for nomination details. No calendar deadline is printed. The attachment should be completed during the normal study period and normally no later than the end of the academic year following the application year.",
+      "source_url": "https://gs.hkbu.edu.hk/sc/current-students/student-support/research-support-fund",
+      "match_tag": "possible",
+      "match_rationale": "A full-time Mathematics PhD student who holds the studentship can be nominated for this attachment fellowship, including a local student. It funds one overseas attachment rather than the monthly living stipend, and MPhil students are outside the eligibility list.",
+      "login_required": false,
+      "intake_relevance": "For enrolled full-time PhD studentship recipients during the normal study period. No 2027/28 nomination date is printed.",
+      "restrictions": [
+        "Full-time PhD studentship recipients",
+        "Faculty or school nomination and quota",
+        "Designated institutions only",
+        "One attachment or internship per student",
+        "In-person duration of at least one month"
+      ]
+    },
+    {
+      "id": "hkbu-research-support-fund",
+      "name": "Research Support Fund",
+      "university": "HKBU",
+      "university_code": "hkbu",
+      "type": "other",
+      "eligibility_clues": [
+        "Full-time PhD or MPhil students receiving a full studentship during their normal study period may apply for reimbursement.",
+        "BNBU and self-funded students are not eligible.",
+        "Supported items include international conference or seminar, non-local international attachment, field trip or study tour, thesis editing, and an incentive for an oral presentation at a reputable non-local international conference.",
+        "The admission table lists maximum HK$25,000 for PhD students and maximum HK$15,000 for MPhil students on the regular route."
+      ],
+      "amount": "PhD students : Max. HK$25,000",
+      "amount_note": "Research Support Fund table: 'PhD students : Max. HK$25,000' and 'MPhil students: Max. HK$15,000' for items A to E together. Thesis editing is 'up to HK$6,000'. The oral-presentation incentive is 'one-off HK$3,000'. A footnote says the entitlement applies to newly admitted studentship recipients from the 2026/27 cohort onwards, as well as existing recipients after deducting earlier claims.",
+      "deadline": "unknown",
+      "deadline_note": "Budget approval is submitted to the Graduate School at least three weeks before the event. Reimbursement is submitted within one week of returning to Hong Kong. No annual competition date is printed.",
+      "source_url": "https://gs.hkbu.edu.hk/sc/current-students/student-support/research-support-fund",
+      "match_tag": "possible",
+      "match_rationale": "A local full-time Mathematics PhD or MPhil student who receives the full studentship can claim this research-expense fund. It reimburses conference and related costs up to a capped total, rather than paying the monthly living stipend.",
+      "login_required": false,
+      "intake_relevance": "The printed entitlement applies to newly admitted studentship recipients from the 2026/27 cohort onwards. No separate 2027/28 cap is printed.",
+      "restrictions": [
+        "Full studentship during the normal study period",
+        "Self-funded students are not eligible",
+        "Claims are limited to the remaining balance",
+        "Thesis editing and the oral-presentation incentive may be claimed only once each"
+      ]
+    },
+    {
+      "id": "hkbu-math-rpg-performance-award",
+      "name": "MATH RPg Performance Award",
+      "university": "HKBU",
+      "university_code": "hkbu",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "Recognises MATH research postgraduate students who have published research papers in esteemed journals.",
+        "Open to all MATH RPg students with a qualifying publication record.",
+        "A dedicated selection panel selects awardees.",
+        "The faculty PDF repeats the award for RPg students of the Department of Mathematics."
+      ],
+      "amount": "up to HK$10,000",
+      "amount_note": "Department CMS: 'Successful candidates will receive a cash prize of up to HK$10,000, based on the committee's assessment of the submitted work.' The faculty PDF prints 'Up to HK$10,000 per prize'.",
+      "deadline": "unknown",
+      "deadline_note": "No application deadline is printed on the department block or the faculty PDF.",
+      "source_url": "https://www.math.hkbu.edu.hk/programmes/rpg/admission/application-fee",
+      "match_tag": "possible",
+      "match_rationale": "Enrolled research postgraduate students in the Department of Mathematics, which covers computational mathematics, can be selected for this publication prize. It is a cash prize for published work, not a monthly studentship for admission.",
+      "login_required": false,
+      "intake_relevance": "For MATH RPg students with a qualifying publication. No intake year is printed.",
+      "restrictions": [
+        "Department of Mathematics research postgraduate students",
+        "Qualifying publication record",
+        "Selection panel assessment"
+      ]
+    },
+    {
+      "id": "hkbu-madam-kwok-phd-research-excellence",
+      "name": "Madam Kwok Chung Bo Fun PhD Student Research Excellence Awards",
+      "university": "HKBU",
+      "university_code": "hkbu",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "Set up since 2022/23 to recognise research excellence and important research achievements of HKBU PhD students.",
+        "The 2026/27 faculty PDF assesses research outputs, research impact, awards, and an in-person presentation to a non-specialist audience.",
+        "The 2026/27 ceremony page lists six PhD nominees, including one from the Faculty of Science and Technology. The ceremony date printed is 8 October 2026."
+      ],
+      "amount": "HK$5,000 – HK$20,000",
+      "amount_note": "Faculty PDF, university scholarships section: amount 'HK$5,000 – HK$20,000' for Kwok Chung Bo Fun PhD Student Research Excellence Awards, target 'PhD students'. The ceremony page does not print a cash amount.",
+      "deadline": "unknown",
+      "deadline_note": "The ceremony page gives 8 October 2026 as the ceremony date, which is before this scout date. No nomination deadline for a later round is printed.",
+      "source_url": "https://cmsdev.sci.hkbu.edu.hk/uploads/R_Pg_Scholarship_Summary_89eafe9521.pdf",
+      "match_tag": "possible",
+      "match_rationale": "HKBU PhD students, including those in the Faculty of Science and Technology, are the group this research-excellence award recognises. A local Mathematics PhD student could be nominated after enrolment. It is a prize for research achievement, not the monthly studentship.",
+      "login_required": false,
+      "intake_relevance": "The opened ceremony page is the 2026/27 round. The PDF is titled 2026/27. No 2027/28 nomination round is printed.",
+      "restrictions": [
+        "PhD students",
+        "In-person presentation; the PDF says no virtual presentation is allowed",
+        "Assessment of research record and presentation"
+      ]
+    },
+    {
+      "id": "hkbu-wu-yee-sun-memorial",
+      "name": "Dr. Wu Yee Sun Memorial Scholarship Fund",
+      "university": "HKBU",
+      "university_code": "hkbu",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "Office of Student Affairs: local RPG students with outstanding academic performance and financial needs.",
+        "Three recipients. Department nomination.",
+        "The faculty PDF says local full-time research students with outstanding academic achievements and financial needs, and prints HK$45,000."
+      ],
+      "amount": "Around HK$45,000",
+      "amount_note": "Office of Student Affairs table: 'Around HK$45,000'. The faculty PDF prints 'HK$45,000' without the word Around. The opportunity uses the Student Affairs phrase.",
+      "deadline": "unknown",
+      "deadline_note": "Application method on the Student Affairs page is department nomination. No date is printed.",
+      "source_url": "https://sa.hkbu.edu.hk/en/sfa/scholarships/academic-scholarships/for-postgraduate-students.html",
+      "match_tag": "possible",
+      "match_rationale": "Local research postgraduate students with financial need can be nominated, which includes a local Mathematics PhD or MPhil student. The award is a nominated sum around the printed figure, not a monthly studentship.",
+      "login_required": false,
+      "intake_relevance": "No intake year is printed.",
+      "restrictions": [
+        "Local RPG students",
+        "Outstanding academic performance and financial needs",
+        "Department nomination",
+        "Three recipients on the Student Affairs table"
+      ]
+    },
+    {
+      "id": "hkbu-li-po-chun-rpg",
+      "name": "Li Po Chun Charitable Trust Fund Postgraduate Scholarship",
+      "university": "HKBU",
+      "university_code": "hkbu",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "Local full-time RPG student who has made good progress in research studies in the previous academic year.",
+        "Financial needs will also be considered.",
+        "One recipient. Department nomination.",
+        "The faculty PDF adds that the student should not hold any other scholarships concurrently in the same academic year."
+      ],
+      "amount": "HK$8,000",
+      "amount_note": "Office of Student Affairs table: 'HK$8,000'. The faculty PDF prints the same figure.",
+      "deadline": "unknown",
+      "deadline_note": "Department nomination. No date is printed.",
+      "source_url": "https://sa.hkbu.edu.hk/en/sfa/scholarships/academic-scholarships/for-postgraduate-students.html",
+      "match_tag": "possible",
+      "match_rationale": "A local full-time research postgraduate student in Mathematics can be nominated after a year of research progress. The prize is HK$8,000 and looks at the previous academic year, so it is support after enrolment rather than the admission studentship.",
+      "login_required": false,
+      "intake_relevance": "Requires progress in the previous academic year. No 2027/28 date is printed.",
+      "restrictions": [
+        "Local full-time RPG student",
+        "Progress in the previous academic year",
+        "Financial needs are considered",
+        "One recipient",
+        "Faculty PDF: should not hold another scholarship concurrently in the same academic year"
+      ]
+    },
+    {
+      "id": "hkbu-hui-tang-shing-yan-fellowship",
+      "name": "Madam Hui Tang Shing Yan Fellowship",
+      "university": "HKBU",
+      "university_code": "hkbu",
+      "type": "fellowship",
+      "eligibility_clues": [
+        "Office of Student Affairs: RPG students with good academic performance and good conduct.",
+        "Department nomination.",
+        "The faculty PDF says full-time research students with good academic performance or good research progress, good conduct, and financial needs."
+      ],
+      "amount": "Around HK$10,000",
+      "amount_note": "Office of Student Affairs table: 'Around HK$10,000'. The faculty PDF prints 'Around HK$10,000' as well.",
+      "deadline": "unknown",
+      "deadline_note": "Department nomination. No date is printed.",
+      "source_url": "https://sa.hkbu.edu.hk/en/sfa/scholarships/academic-scholarships/for-postgraduate-students.html",
+      "match_tag": "possible",
+      "match_rationale": "Research postgraduate students, including a local Mathematics student, can be nominated for this fellowship. The printed amount is a sum around HK$10,000, not a monthly living stipend.",
+      "login_required": false,
+      "intake_relevance": "No intake year is printed.",
+      "restrictions": [
+        "RPG students on the Student Affairs page",
+        "Good academic performance and good conduct",
+        "Faculty PDF also states financial needs and full-time study",
+        "Department nomination"
+      ]
+    },
+    {
+      "id": "hkbu-sir-edward-youde-fellowship",
+      "name": "Sir Edward Youde Memorial Fellowship",
+      "university": "HKBU",
+      "university_code": "hkbu",
+      "type": "fellowship",
+      "eligibility_clues": [
+        "Research postgraduate students who are Hong Kong permanent residents, with at least 7 years of education in Hong Kong.",
+        "High academic and intellectual standards, leadership in extracurricular activities or community services, and research important to the development of Hong Kong.",
+        "Recipients need to work in Hong Kong SAR for a period of time after graduation.",
+        "Competition with students from other tertiary institutions. Maximum 1 recipient on the HKBU table. Individual application needed. Open application in September."
+      ],
+      "amount": "HK$50,000",
+      "amount_note": "Office of Student Affairs table: 'HK$50,000'.",
+      "deadline": "open application in September",
+      "deadline_note": "The Student Affairs table says 'open application in September' and that an individual application is needed. No calendar day or year is printed.",
+      "source_url": "https://sa.hkbu.edu.hk/en/sfa/scholarships/academic-scholarships/for-postgraduate-students.html",
+      "match_tag": "possible",
+      "match_rationale": "A local Hong Kong permanent resident in a research postgraduate programme can apply, and Mathematics is not excluded. The fellowship is a HK$50,000 award with a post-graduation work condition, not the monthly studentship.",
+      "login_required": false,
+      "intake_relevance": "Open application in September. No year is printed on the table.",
+      "restrictions": [
+        "Hong Kong permanent residents with at least 7 years of education in Hong Kong",
+        "Research important to the development of Hong Kong",
+        "Work in Hong Kong SAR for a period after graduation",
+        "External competition",
+        "Maximum 1 on the HKBU table"
+      ]
+    },
+    {
+      "id": "hkbu-john-yuen-memorial",
+      "name": "University of Shanghai John Yuen Memorial Scholarship",
+      "university": "HKBU",
+      "university_code": "hkbu",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "RPG students with good academic performance, good conduct, and financial needs.",
+        "Department nomination.",
+        "The faculty PDF says full-time research students with the same conditions and prints Around HK$10,000."
+      ],
+      "amount": "Around HK$10,000",
+      "amount_note": "Office of Student Affairs table: 'Around HK$10,000'.",
+      "deadline": "unknown",
+      "deadline_note": "Department nomination. No date is printed.",
+      "source_url": "https://sa.hkbu.edu.hk/en/sfa/scholarships/academic-scholarships/for-postgraduate-students.html",
+      "match_tag": "possible",
+      "match_rationale": "Research postgraduate students with financial need can be nominated, so a local Mathematics student is in the stated group. The award is around HK$10,000, not a monthly stipend.",
+      "login_required": false,
+      "intake_relevance": "No intake year is printed.",
+      "restrictions": [
+        "RPG students",
+        "Good academic performance, good conduct, and financial needs",
+        "Department nomination"
+      ]
+    },
+    {
+      "id": "hkbu-wai-tak-research-scholarship",
+      "name": "Wai Tak Land Investment & Loan Co., Ltd. Research Scholarship",
+      "university": "HKBU",
+      "university_code": "hkbu",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "RPG students with outstanding academic performance.",
+        "Department nomination.",
+        "The faculty PDF says full-time research students who have outstanding academic achievements."
+      ],
+      "amount": "Around HK$10,000",
+      "amount_note": "Office of Student Affairs table: 'Around HK$10,000'. The faculty PDF prints 'Around HK$10,000'.",
+      "deadline": "unknown",
+      "deadline_note": "Department nomination. No date is printed.",
+      "source_url": "https://sa.hkbu.edu.hk/en/sfa/scholarships/academic-scholarships/for-postgraduate-students.html",
+      "match_tag": "possible",
+      "match_rationale": "Outstanding research postgraduate students can be nominated, which includes a Mathematics PhD or MPhil student. The printed award is around HK$10,000 rather than a monthly studentship.",
+      "login_required": false,
+      "intake_relevance": "No intake year is printed.",
+      "restrictions": [
+        "RPG students with outstanding academic performance",
+        "Department nomination"
+      ]
+    },
+    {
+      "id": "hkbu-tsfs-grants-loans",
+      "name": "Tertiary Student Finance Scheme – Publicly-funded Programme",
+      "university": "HKBU",
+      "university_code": "hkbu",
+      "type": "other",
+      "eligibility_clues": [
+        "UGC tuition-waiver FAQ: local students covered by the tuition waiver no longer apply for TSFS tuition-fee grants.",
+        "Eligible applicants may still apply for means-tested grants and loans under TSFS to cover academic expenses and living expenses.",
+        "The HKBU fees page names Government Grants and Loans as financial aid for postgraduate students and does not print amounts."
+      ],
+      "amount": "unknown",
+      "amount_note": "The FAQ says means-tested grants and loans can cover academic expenses and living expenses. No HKD amount is printed on the pages opened.",
+      "deadline": "unknown",
+      "deadline_note": "No application deadline is printed on the UGC FAQ or the HKBU fees page.",
+      "source_url": "https://www.ugc.edu.hk/eng/rgc/funding_opport/tws/faq.html",
+      "match_tag": "possible",
+      "match_rationale": "A local student whose UGC-funded Mathematics tuition is waived may still apply for means-tested TSFS grants and loans toward living expenses. No amount or 2027/28 deadline is printed, so this stays a possible supplement to the studentship.",
+      "login_required": false,
+      "intake_relevance": "Described alongside the local RPg tuition waiver. No 2027/28 TSFS date is printed on the pages opened.",
+      "restrictions": [
+        "Means-tested",
+        "Tuition-fee grant under TSFS is not available to students already covered by the tuition waiver",
+        "Living-expense and academic-expense grants and loans remain available to eligible applicants"
+      ]
+    },
+    {
+      "id": "hkbu-every-author-first-publication",
+      "name": "Every Author First Publication Scholarship",
+      "university": "HKBU",
+      "university_code": "hkbu",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "Named on the Graduate School fees page under Scholarships and Awards, with the Madam Kwok awards and the Outstanding PhD Thesis Award.",
+        "The page points readers to the Office of Student Affairs scholarships page. That table, as fetched, does not include this scholarship name."
+      ],
+      "amount": "unknown",
+      "amount_note": "No HKD amount is printed on the Graduate School fees page. No scheme rules page with an amount was found.",
+      "deadline": "unknown",
+      "deadline_note": "No deadline is printed on the Graduate School fees page.",
+      "source_url": "https://gs.hkbu.edu.hk/fees-scholarships-and-financial-aid",
+      "match_tag": "possible",
+      "match_rationale": "The Graduate School lists this scholarship with other postgraduate awards, so a research student could be in scope, but the opened pages do not state field, amount, or deadline.",
+      "login_required": false,
+      "intake_relevance": "unknown",
+      "restrictions": [
+        "Eligibility rules were not printed on the pages opened"
+      ]
+    },
+    {
+      "id": "hkbu-outstanding-phd-thesis-award",
+      "name": "Outstanding PhD Thesis Award",
+      "university": "HKBU",
+      "university_code": "hkbu",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "Named on the Graduate School fees page under Scholarships and Awards.",
+        "The Mathematics faculty PDF says the department will nominate its thesis awardee to compete for the Outstanding Thesis Award at the Faculty and University levels.",
+        "The Office of Student Affairs table fetched does not print a university-wide Outstanding PhD Thesis Award row with an amount."
+      ],
+      "amount": "unknown",
+      "amount_note": "No HKD amount for the university Outstanding PhD Thesis Award is printed on the Graduate School fees page.",
+      "deadline": "unknown",
+      "deadline_note": "No deadline is printed on the Graduate School fees page.",
+      "source_url": "https://gs.hkbu.edu.hk/fees-scholarships-and-financial-aid",
+      "match_tag": "weak",
+      "match_rationale": "This is a university thesis prize named for PhD students. It rewards a completed thesis rather than providing a monthly stipend for 2027/28 admission. The Mathematics department says it nominates into the faculty and university rounds.",
+      "login_required": false,
+      "intake_relevance": "End-of-study prize. No intake year is printed.",
+      "restrictions": [
+        "PhD thesis recognition",
+        "Amount and deadline were not printed on the pages opened"
+      ]
+    },
+    {
+      "id": "hkbu-math-outstanding-thesis",
+      "name": "Outstanding Thesis Award",
+      "university": "HKBU",
+      "university_code": "hkbu",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "Department of Mathematics award for a PhD student whose thesis is selected among the best of the cohort.",
+        "The department will also nominate the awardee for the Outstanding Thesis Award at Faculty and University levels.",
+        "The department CMS describes the award and does not print a cash amount. The faculty PDF prints the prize."
+      ],
+      "amount": "A one-off prize of HK$4,000",
+      "amount_note": "Faculty PDF, Mathematics section: 'A one-off prize of HK$4,000'. The department CMS block describes the award without an HKD figure.",
+      "deadline": "unknown",
+      "deadline_note": "No deadline is printed in the department block or the faculty PDF.",
+      "source_url": "https://cmsdev.sci.hkbu.edu.hk/uploads/R_Pg_Scholarship_Summary_89eafe9521.pdf",
+      "match_tag": "weak",
+      "match_rationale": "This is a one-off prize for a selected Mathematics PhD thesis. It is real departmental funding for a computing-mathematics student after the thesis is written, and it is not a living stipend for entry.",
+      "login_required": false,
+      "intake_relevance": "Awarded for a completed thesis. The PDF is titled 2026/27.",
+      "restrictions": [
+        "Department of Mathematics",
+        "PhD thesis selected among the best of the cohort",
+        "One-off prize"
+      ]
+    },
+    {
+      "id": "hkbu-math-outstanding-teaching-assistant",
+      "name": "Outstanding Teaching Assistant Award",
+      "university": "HKBU",
+      "university_code": "hkbu",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "Department of Mathematics award for teaching assistants who support student learning.",
+        "The department CMS describes the award and does not print a cash amount. The faculty PDF prints the prize for RPg students of the Department of Mathematics."
+      ],
+      "amount": "A one-off prize of HK$1,000",
+      "amount_note": "Faculty PDF: 'A one-off prize of HK$1,000' for the Outstanding Teaching Assistant Award in Mathematics.",
+      "deadline": "unknown",
+      "deadline_note": "No deadline is printed.",
+      "source_url": "https://cmsdev.sci.hkbu.edu.hk/uploads/R_Pg_Scholarship_Summary_89eafe9521.pdf",
+      "match_tag": "weak",
+      "match_rationale": "This is a one-off teaching prize for Mathematics research postgraduate students. It recognises teaching assistance rather than paying a monthly stipend.",
+      "login_required": false,
+      "intake_relevance": "For enrolled Mathematics RPg teaching assistants. The PDF is titled 2026/27.",
+      "restrictions": [
+        "Department of Mathematics research postgraduate students",
+        "Teaching-assistant performance",
+        "One-off prize"
+      ]
+    },
+    {
+      "id": "hkbu-cs-rpg-entrance-scholarship",
+      "name": "Entrance Scholarship (for RPG of the Department of Computer Science)",
+      "university": "HKBU",
+      "university_code": "hkbu",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "Students with excellent academic records in their undergraduate studies.",
+        "Office of Student Affairs places it under Faculty of Science and limits the title to RPG of the Department of Computer Science.",
+        "No fixed quota. Department nomination.",
+        "The faculty PDF says freshmen of the Department of Computer Science and 'Up to HK$6,000 per month in the normal study period'."
+      ],
+      "amount": "up to HK$6,000 per month",
+      "amount_note": "Office of Student Affairs table: 'up to HK$6,000 per month'. The faculty PDF prints 'Up to HK$6,000 per month in the normal study period'.",
+      "deadline": "unknown",
+      "deadline_note": "Department nomination. No date is printed.",
+      "source_url": "https://sa.hkbu.edu.hk/en/sfa/scholarships/academic-scholarships/for-postgraduate-students.html",
+      "match_tag": "weak",
+      "match_rationale": "This is a monthly entrance scholarship for research postgraduates of the Department of Computer Science. The confirmed profile is Computing Mathematics in a mathematics department, and this row is limited to Computer Science.",
+      "login_required": false,
+      "intake_relevance": "Entrance award for Computer Science RPG freshmen on the faculty PDF. No 2027/28 date is printed.",
+      "restrictions": [
+        "Department of Computer Science research postgraduate students",
+        "Excellent undergraduate academic records",
+        "Department nomination"
+      ]
+    },
+    {
+      "id": "hkbu-cs-departmental-postgraduate-research",
+      "name": "Departmental Postgraduate Research Scholarship (for RPG of the Department of Computer Science)",
+      "university": "HKBU",
+      "university_code": "hkbu",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "Students who have excellent performance in research.",
+        "Limited by its title to RPG of the Department of Computer Science.",
+        "Department nomination.",
+        "The faculty PDF calls the same award a one-off prize of HK$5,000."
+      ],
+      "amount": "HK$5,000",
+      "amount_note": "Office of Student Affairs table: 'HK$5,000'. The faculty PDF prints 'A one-off prize of HK$5,000'.",
+      "deadline": "unknown",
+      "deadline_note": "Department nomination. No date is printed.",
+      "source_url": "https://sa.hkbu.edu.hk/en/sfa/scholarships/academic-scholarships/for-postgraduate-students.html",
+      "match_tag": "weak",
+      "match_rationale": "This is a one-off research prize for Computer Science research postgraduates. It does not cover the Department of Mathematics route for computing mathematics.",
+      "login_required": false,
+      "intake_relevance": "For enrolled Computer Science RPG students. No intake year is printed.",
+      "restrictions": [
+        "Department of Computer Science",
+        "Excellent research performance",
+        "Department nomination"
+      ]
+    },
+    {
+      "id": "hkbu-cs-hkpfs-awardee-scholarship",
+      "name": "Scholarship for Awardees of Hong Kong PhD Fellowship Scheme (HKPFS)",
+      "university": "HKBU",
+      "university_code": "hkbu",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "Office of Student Affairs: research postgraduate students of the Department of Computer Science who have been successfully admitted to a 4-year PhD programme via HKPFS.",
+        "The faculty PDF uses the same Computer Science target and prints a higher monthly cap. See blockers."
+      ],
+      "amount": "up to HK$15,000 per month",
+      "amount_note": "Office of Student Affairs table: 'up to HK$15,000 per month'. The 11 August 2026 faculty PDF prints 'Up to HK$22,000 per month for a maximum of four years' for 'Scholarship for awardees of Hong Kong PhD Fellowship Scheme' in Computer Science. The amount field keeps the Student Affairs phrase because that is the public scholarship list.",
+      "deadline": "unknown",
+      "deadline_note": "No separate deadline is printed. It follows Computer Science admission via HKPFS.",
+      "source_url": "https://sa.hkbu.edu.hk/en/sfa/scholarships/academic-scholarships/for-postgraduate-students.html",
+      "match_tag": "weak",
+      "match_rationale": "This monthly top-up is for Computer Science students admitted through HKPFS. A computing-mathematics applicant in the Department of Mathematics is outside that department restriction. The Mathematics HKPFS top-up is the separate MATH Elite PhD Scholarship.",
+      "login_required": false,
+      "intake_relevance": "Follows a 4-year Computer Science PhD admission via HKPFS. No separate year is printed on the Student Affairs row.",
+      "restrictions": [
+        "Department of Computer Science",
+        "Admitted to a 4-year PhD via HKPFS"
+      ]
+    },
+    {
+      "id": "hkbu-cs-hkpfs-nominee-scholarship",
+      "name": "Scholarship for Nominees of Hong Kong PhD Fellowship Scheme (HKPFS)",
+      "university": "HKBU",
+      "university_code": "hkbu",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "Research postgraduate students of the Department of Computer Science who are successfully nominated by the University under HKPFS and admitted to a 4-year PhD programme without the RGC fellowship."
+      ],
+      "amount": "up to HK$4,000 per month",
+      "amount_note": "Office of Student Affairs table: 'up to HK$4,000 per month'.",
+      "deadline": "unknown",
+      "deadline_note": "No date is printed.",
+      "source_url": "https://sa.hkbu.edu.hk/en/sfa/scholarships/academic-scholarships/for-postgraduate-students.html",
+      "match_tag": "weak",
+      "match_rationale": "This monthly amount is for Computer Science PhD students nominated for HKPFS who do not receive the RGC fellowship. It is limited to that department.",
+      "login_required": false,
+      "intake_relevance": "Tied to Computer Science HKPFS nomination and admission. No year is printed.",
+      "restrictions": [
+        "Department of Computer Science",
+        "University HKPFS nominee admitted without the RGC fellowship",
+        "4-year PhD"
+      ]
+    },
+    {
+      "id": "hkbu-cs-rpg-performance-award",
+      "name": "RPg Performance Award Scheme",
+      "university": "HKBU",
+      "university_code": "hkbu",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "Faculty PDF: RPg students of the Department of Computer Science.",
+        "Requires a first-authored full-length paper in an A-Class journal or conference, or a Best Paper or Best Student Paper Award from a B-Class international journal or conference within the past 12 months (October to September)."
+      ],
+      "amount": "A one-off prize of HK$10,000",
+      "amount_note": "Faculty PDF: 'A one-off prize of HK$10,000'. This row was not found on the Office of Student Affairs table that was fetched.",
+      "deadline": "unknown",
+      "deadline_note": "The PDF describes a 12-month publication window from October to September. No application date is printed.",
+      "source_url": "https://cmsdev.sci.hkbu.edu.hk/uploads/R_Pg_Scholarship_Summary_89eafe9521.pdf",
+      "match_tag": "weak",
+      "match_rationale": "This is a one-off publication prize for Computer Science research postgraduates. It does not cover the Department of Mathematics.",
+      "login_required": false,
+      "intake_relevance": "The PDF is titled 2026/27. The publication window is the past 12 months from October to September.",
+      "restrictions": [
+        "Department of Computer Science",
+        "Specified A-Class publication or B-Class best-paper award"
+      ]
+    },
+    {
+      "id": "hkbu-for-our-future",
+      "name": "‘For Our Future’ Scholarship",
+      "university": "HKBU",
+      "university_code": "hkbu",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "Local full-time master students (excluding PhD) with good academic achievements.",
+        "Open application in October. Individual application needed.",
+        "Amount column is HK$50,000."
+      ],
+      "amount": "HK$50,000",
+      "amount_note": "Office of Student Affairs table: 'HK$50,000'.",
+      "deadline": "open application in October",
+      "deadline_note": "The table says 'open application in October' and that an individual application is needed. No day or year is printed.",
+      "source_url": "https://sa.hkbu.edu.hk/en/sfa/scholarships/academic-scholarships/for-postgraduate-students.html",
+      "match_tag": "weak",
+      "match_rationale": "The scheme is for local full-time master students and the table excludes PhD. It is a HK$50,000 award for that master group, not the research studentship for a PhD in computing mathematics.",
+      "login_required": false,
+      "intake_relevance": "Open application in October. No year is printed.",
+      "restrictions": [
+        "Local full-time master students",
+        "PhD is excluded on the table",
+        "Individual application in October"
+      ]
+    },
+    {
+      "id": "hkbu-future-talents-advanced-studies",
+      "name": "Hong Kong Future Talents Scholarship Scheme for Advanced Studies",
+      "university": "HKBU",
+      "university_code": "hkbu",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "Local students pursuing designated taught postgraduate programmes.",
+        "The table says to refer to the AR website for details.",
+        "100 for each of the 2025/26 and 2026/27 intakes. University nomination."
+      ],
+      "amount": "Up to HK$100,000",
+      "amount_note": "Office of Student Affairs table: 'Up to HK$100,000'.",
+      "deadline": "unknown",
+      "deadline_note": "University nomination. No calendar deadline is printed on this table. The intakes named are 2025/26 and 2026/27.",
+      "source_url": "https://sa.hkbu.edu.hk/en/sfa/scholarships/academic-scholarships/for-postgraduate-students.html",
+      "match_tag": "weak",
+      "match_rationale": "This is a local taught-postgraduate scholarship, with intakes named as 2025/26 and 2026/27. It is not funding for a research PhD or MPhil in computing mathematics.",
+      "login_required": false,
+      "intake_relevance": "100 places for each of the 2025/26 and 2026/27 intakes. The table does not name 2027/28.",
+      "restrictions": [
+        "Designated taught postgraduate programmes",
+        "Local students",
+        "University nomination"
+      ]
+    },
+    {
+      "id": "hkbu-msc-mathematical-finance-merit",
+      "name": "Merit Scholarship of MSc in Mathematical Finance Programme",
+      "university": "HKBU",
+      "university_code": "hkbu",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "Full-time students of MSc in Mathematical Finance programmes who have achieved good and excellent academic results during their studies.",
+        "Six recipients on the table. Department nomination. Amount column is no fixed amount."
+      ],
+      "amount": "no fixed amount",
+      "amount_note": "Office of Student Affairs table prints 'no fixed amount'.",
+      "deadline": "unknown",
+      "deadline_note": "Department nomination. No date is printed.",
+      "source_url": "https://sa.hkbu.edu.hk/en/sfa/scholarships/academic-scholarships/for-postgraduate-students.html",
+      "match_tag": "weak",
+      "match_rationale": "The programme name is mathematical, and the award is for full-time students of the taught MSc in Mathematical Finance. It is not a research PhD or MPhil studentship.",
+      "login_required": false,
+      "intake_relevance": "For students during the MSc. No intake year is printed.",
+      "restrictions": [
+        "Taught MSc in Mathematical Finance",
+        "Full-time students",
+        "Department nomination",
+        "Six recipients"
+      ]
+    },
+    {
+      "id": "hkbu-msc-operational-research-business-statistics-merit",
+      "name": "Merit Scholarship of MSc in Operational Research & Business Statistics Programme",
+      "university": "HKBU",
+      "university_code": "hkbu",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "Full-time students of MSc in Operational Research and Business Statistics programmes who have achieved good and excellent academic results during their studies.",
+        "No fixed quota. Department nomination."
+      ],
+      "amount": "up to HK$50,000",
+      "amount_note": "Office of Student Affairs table: 'up to HK$50,000'.",
+      "deadline": "unknown",
+      "deadline_note": "Department nomination. No date is printed.",
+      "source_url": "https://sa.hkbu.edu.hk/en/sfa/scholarships/academic-scholarships/for-postgraduate-students.html",
+      "match_tag": "weak",
+      "match_rationale": "This merit scholarship is for the taught MSc in Operational Research and Business Statistics. It is mathematics-adjacent coursework funding, not a research postgraduate studentship.",
+      "login_required": false,
+      "intake_relevance": "For full-time students during that MSc. No intake year is printed.",
+      "restrictions": [
+        "Taught MSc in Operational Research and Business Statistics",
+        "Full-time students",
+        "Department nomination"
+      ]
+    },
+    {
+      "id": "hkbu-hkauw-postgraduate",
+      "name": "Hong Kong Association of University Women Postgraduate Scholarship",
+      "university": "HKBU",
+      "university_code": "hkbu",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "Full-time female students who have achieved outstanding academic results.",
+        "Competition with students from other tertiary institutions is required.",
+        "No fixed quota. Open application in October. Individual application needed."
+      ],
+      "amount": "HK$20,000",
+      "amount_note": "Office of Student Affairs table: 'HK$20,000'.",
+      "deadline": "open application in October",
+      "deadline_note": "The table says 'open application in October'. No day or year is printed.",
+      "source_url": "https://sa.hkbu.edu.hk/en/sfa/scholarships/academic-scholarships/for-postgraduate-students.html",
+      "match_tag": "weak",
+      "match_rationale": "The scholarship is for full-time female students with outstanding results and requires external competition. It does not state a research-mathematics path or a monthly stipend.",
+      "login_required": false,
+      "intake_relevance": "Open application in October. No year is printed.",
+      "restrictions": [
+        "Full-time female students",
+        "External competition",
+        "Individual application"
+      ]
+    },
+    {
+      "id": "hkbu-zubin-ethnic-minorities",
+      "name": "The Zubin Foundation Postgraduate Scholarships for Ethnic Minorities",
+      "university": "HKBU",
+      "university_code": "hkbu",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "Local ethnic minority students admitted to the first year of a taught postgraduate programme in a Hong Kong SAR university, with commitment to community service.",
+        "5-7 recipients. Open application in July. Individual application needed."
+      ],
+      "amount": "Cover full tuition fees and provide annual stipend & mentoring",
+      "amount_note": "Office of Student Affairs table: 'Cover full tuition fees and provide annual stipend & mentoring'. No separate HKD stipend figure is printed on this row.",
+      "deadline": "Open application in July",
+      "deadline_note": "The table says 'Open application in July'. No day or year is printed on this row.",
+      "source_url": "https://sa.hkbu.edu.hk/en/sfa/scholarships/academic-scholarships/for-postgraduate-students.html",
+      "match_tag": "weak",
+      "match_rationale": "The row is for local ethnic minority students starting a taught postgraduate programme. It includes an annual stipend, and it is a taught-programme scheme rather than research PhD or MPhil funding in mathematics.",
+      "login_required": false,
+      "intake_relevance": "First year of a taught postgraduate programme. Open application in July. No year is printed on this row.",
+      "restrictions": [
+        "Local ethnic minority students",
+        "First year of a taught postgraduate programme",
+        "Community service",
+        "Individual application"
+      ]
+    },
+    {
+      "id": "hkbu-physics-best-presentation",
+      "name": "Best Presentation Award",
+      "university": "HKBU",
+      "university_code": "hkbu",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "Faculty PDF: RPg students of the Department of Physics, for the annual One-day Research Postgraduate Workshop."
+      ],
+      "amount": "A one-off prize of HK$ 5,000 for the best Oral Presentation",
+      "amount_note": "Faculty PDF also prints 'A one-off prize of HK$ 5,000 for the best Poster Presentation'. The spacing before 5,000 is as extracted from the PDF.",
+      "deadline": "unknown",
+      "deadline_note": "No date is printed.",
+      "source_url": "https://cmsdev.sci.hkbu.edu.hk/uploads/R_Pg_Scholarship_Summary_89eafe9521.pdf",
+      "match_tag": "weak",
+      "match_rationale": "This presentation prize is for research postgraduates in the Department of Physics. It is another department, not the Mathematics route for computing mathematics.",
+      "login_required": false,
+      "intake_relevance": "Annual departmental workshop. The PDF is titled 2026/27.",
+      "restrictions": [
+        "Department of Physics research postgraduate students"
+      ]
+    },
+    {
+      "id": "hkbu-physics-outstanding-rpg-student",
+      "name": "Outstanding Research Postgraduate Student Award in Physics",
+      "university": "HKBU",
+      "university_code": "hkbu",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "Faculty PDF: the top five students in the Department of Physics are nominated for faculty and university outstanding research postgraduate student awards. A student who does not receive those awards receives the departmental award."
+      ],
+      "amount": "Up to HK$10,000 per prize",
+      "amount_note": "Faculty PDF: 'Up to HK$10,000 per prize'.",
+      "deadline": "unknown",
+      "deadline_note": "No date is printed.",
+      "source_url": "https://cmsdev.sci.hkbu.edu.hk/uploads/R_Pg_Scholarship_Summary_89eafe9521.pdf",
+      "match_tag": "weak",
+      "match_rationale": "This prize is for research postgraduates in Physics. It is not a Mathematics or computing-mathematics studentship.",
+      "login_required": false,
+      "intake_relevance": "Departmental award for enrolled Physics RPg students. The PDF is titled 2026/27.",
+      "restrictions": [
+        "Department of Physics"
+      ]
+    },
+    {
+      "id": "hkbu-physics-outstanding-thesis",
+      "name": "Outstanding Thesis Award in Physics",
+      "university": "HKBU",
+      "university_code": "hkbu",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "Faculty PDF: PhD students of the Department of Physics who have successfully defended and officially submitted their final thesis to the Graduate School through BUniPort within the final year of study."
+      ],
+      "amount": "A one-off prize of HK$4,000",
+      "amount_note": "Faculty PDF: 'A one-off prize of HK$4,000'.",
+      "deadline": "unknown",
+      "deadline_note": "No date is printed. The PDF ties the award to the final year of study.",
+      "source_url": "https://cmsdev.sci.hkbu.edu.hk/uploads/R_Pg_Scholarship_Summary_89eafe9521.pdf",
+      "match_tag": "weak",
+      "match_rationale": "This is a one-off thesis prize for Physics PhD students. It is not funding for a Mathematics PhD or MPhil.",
+      "login_required": false,
+      "intake_relevance": "Final year of a Physics PhD. The PDF is titled 2026/27.",
+      "restrictions": [
+        "Department of Physics PhD students who have submitted the final thesis"
+      ]
+    },
+    {
+      "id": "hkbu-belt-and-road-rpg",
+      "name": "Belt and Road Scholarship (Research Postgraduate)",
+      "university": "HKBU",
+      "university_code": "hkbu",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "Outstanding first-year non-local students from any Belt and Road countries enrolled in full-time publicly-funded research postgraduate degree programmes in Hong Kong SAR.",
+        "Tenable for the normal duration and renewable annually subject to satisfactory academic performance.",
+        "Up to 25 in Hong Kong SAR. University nomination and external competition."
+      ],
+      "amount": "Cover full tuition fee",
+      "amount_note": "Office of Student Affairs table: 'Cover full tuition fee'. No separate HKD amount is printed.",
+      "deadline": "unknown",
+      "deadline_note": "University nomination requiring external competition. No date is printed on this row.",
+      "source_url": "https://sa.hkbu.edu.hk/en/sfa/scholarships/academic-scholarships/for-postgraduate-students.html",
+      "match_tag": "out_of_scope",
+      "match_rationale": "The scholarship is for outstanding first-year non-local students from Belt and Road countries. A local Hong Kong permanent resident is outside that group.",
+      "login_required": false,
+      "intake_relevance": "First-year non-local research postgraduate students. No year is printed on this row.",
+      "restrictions": [
+        "Non-local students from Belt and Road countries",
+        "First-year full-time publicly-funded research postgraduate programmes",
+        "University nomination and external competition"
+      ]
+    },
+    {
+      "id": "hkbu-yakun-mainland",
+      "name": "Yakun Scholarship Scheme for Mainland Postgraduate Students",
+      "university": "HKBU",
+      "university_code": "hkbu",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "Office of Student Affairs: Chinese Mainland students with outstanding academic and leadership performance.",
+        "No fixed quota. Department nomination. Amount column is no fixed amount.",
+        "The faculty PDF narrows a Yakun row to mainland postgraduate students of the Faculty of Science and prints HK$10,000."
+      ],
+      "amount": "no fixed amount",
+      "amount_note": "Office of Student Affairs table: 'no fixed amount'. The faculty PDF prints 'HK$10,000' for Yakun Scholarship Scheme for Mainland Postgraduate Students targeted at 'RPg students of Faculty of Science from Chinese Mainland'. The public list is the source for this row, so the amount stays the list's phrase.",
+      "deadline": "unknown",
+      "deadline_note": "Department nomination. No date is printed.",
+      "source_url": "https://sa.hkbu.edu.hk/en/sfa/scholarships/academic-scholarships/for-postgraduate-students.html",
+      "match_tag": "out_of_scope",
+      "match_rationale": "The scheme is for Chinese Mainland postgraduate students. A local Hong Kong permanent resident is outside that group.",
+      "login_required": false,
+      "intake_relevance": "No intake year is printed.",
+      "restrictions": [
+        "Chinese Mainland students",
+        "Outstanding academic and leadership performance",
+        "Department nomination"
+      ]
+    },
+    {
+      "id": "hkbu-international-postgraduate-scholarships",
+      "name": "International Postgraduate Scholarships",
+      "university": "HKBU",
+      "university_code": "hkbu",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "Outstanding international students who applied for designated full-time one-year taught postgraduate programmes in the School of Business, including MSc in Business Management, MSc in Applied Accounting and Finance, MSc in Applied Economics, MSc in Corporate Governance and Directorship, or Master of Accountancy.",
+        "No fixed quota. School nomination."
+      ],
+      "amount": "Full tuition waiver and HK$100,000 living allowance",
+      "amount_note": "Office of Student Affairs table: 'Full tuition waiver and HK$100,000 living allowance'.",
+      "deadline": "unknown",
+      "deadline_note": "School nomination. No date is printed on this row.",
+      "source_url": "https://sa.hkbu.edu.hk/en/sfa/scholarships/academic-scholarships/for-postgraduate-students.html",
+      "match_tag": "out_of_scope",
+      "match_rationale": "The scholarship is for outstanding international students on designated one-year taught business programmes. It is outside both the local residency and the research mathematics profile.",
+      "login_required": false,
+      "intake_relevance": "Taught one-year business programmes. No year is printed on this row.",
+      "restrictions": [
+        "International students",
+        "Designated School of Business taught postgraduate programmes",
+        "School nomination"
+      ]
+    }
+  ],
+  "blockers": [
+    "WebFetch of https://www.math.hkbu.edu.hk/programmes/rpg returned an empty JavaScript shell. The department text used here was read from the published CMS at https://cms.math.hkbu.edu.hk/api/webpage-contents, which the fees route https://www.math.hkbu.edu.hk/programmes/rpg/admission/application-fee loads. That CMS studentship block, updated in 2024, still prints a 2024/25 monthly stipend of HK$18,550 (HK$19,070 after PhD candidacy) and UGC tuition of HK$42,100. Those older figures were not used as the current studentship. The Graduate School fees page prints the AY2026/27 rate and does not print an AY2027/28 studentship rate.",
+    "The Computer Science HKPFS awardee scholarship is 'up to HK$15,000 per month' on the Office of Student Affairs list and 'Up to HK$22,000 per month for a maximum of four years' on the faculty PDF last updated 11 August 2026. The opportunity keeps the Student Affairs figure. The PDF figure was not substituted.",
+    "The faculty PDF prints HK$10,000 for the Yakun scheme limited to Faculty of Science mainland research postgraduates. The Office of Student Affairs row prints 'no fixed amount' for Chinese Mainland students. The Yakun opportunity uses the Student Affairs phrase.",
+    "Every Author First Publication Scholarship and the university Outstanding PhD Thesis Award are named on the Graduate School fees page. No opened page printed an amount, a deadline, or full eligibility rules for those two university awards.",
+    "The Office of Student Affairs postgraduate table also lists many taught-programme and other-faculty awards in Business, Communication, Chinese Medicine, Creative Arts, Translation, History, Social Work, and Education. Those rows were read. Separate opportunities were written for university-wide research awards, Mathematics, Computer Science, Physics, taught mathematical programmes, and the clearest non-local or taught schemes. The remaining taught awards on that page are not each repeated.",
+    "Search results pointed to an AY2026/27 leaflet at https://gs.hkbu.edu.hk/f/page/1313/RPg%20Leaflet%20(AY2627)_for_website.pdf. That PDF was not opened, and its figures were not used."
+  ]
+}

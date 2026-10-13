@@ -1,0 +1,234 @@
+{
+  "university_code": "hkpfs",
+  "university_name": "Hong Kong PhD Fellowship Scheme (RGC / UGC)",
+  "scouted_at": "2026-10-13",
+  "profile_ref": "rpg-computing-mathematics-local-2027-28",
+  "sources_consulted": [
+    {
+      "url": "https://cerg1.ugc.edu.hk/hkpfs/index.html",
+      "title": "Hong Kong PhD Fellowship Scheme | Research Grants Council",
+      "accessed": "2026-10-13",
+      "note": "Scheme homepage. Eligibility for new full-time PhD students at the eight UGC-funded universities, irrespective of country of origin. Stipend sentence is introduced with 'In the 2026/27 academic year' and states an annual stipend of HK$344,400 and a travel allowance of HK$14,400 per year for up to three years. 400 PhD Fellowships will be awarded in the 2027/28 academic year. Sciences and humanities selection panels."
+    },
+    {
+      "url": "https://www.ugc.edu.hk/eng/rgc/funding_opport/hkpfs/",
+      "title": "Hong Kong PhD Fellowship Scheme",
+      "accessed": "2026-10-13",
+      "note": "UGC funding-opportunity page. Same stipend figures, again led by 'In the 2026/27 academic year'. Applicants from all over seeking admission as a new full-time PhD student. HKPFS 2027/28 calls for applications from 1 September 2026 to 1 December 2026 (12:00 noon, Hong Kong Time). Points to http://www.rgc.edu.hk/hkphd for procedures."
+    },
+    {
+      "url": "https://www.ugc.edu.hk/eng/rgc/funding_opport/hkpfs/call_letter.html",
+      "title": "Hong Kong PhD Fellowship Scheme",
+      "accessed": "2026-10-13",
+      "note": "Call letter used as the HKPFS source_url. States the annual stipend and travel allowance without the 2026/27 lead-in, and states that 400 PhD Fellowships will be awarded in the 2027/28 academic year. Application window 1 September 2026 to 1 December 2026 (12:00 noon Hong Kong Time)."
+    },
+    {
+      "url": "https://cerg1.ugc.edu.hk/hkpfs/apply.html",
+      "title": "Hong Kong PhD Fellowship Scheme | Research Grants Council",
+      "accessed": "2026-10-13",
+      "note": "How to apply for HKPFS 2027/28. Initial application opens 1 September 2026 at 12:00 noon Hong Kong Time. HKPFS Reference Number required by 1 December 2026 at Hong Kong Time 12:00:00. Each of the eight universities lists a full-application deadline of 1 December 2026 (11:59pm Hong Kong Time)."
+    },
+    {
+      "url": "https://cerg1.ugc.edu.hk/hkpfs/enquiry.html",
+      "title": "Hong Kong PhD Fellowship Scheme | Research Grants Council",
+      "accessed": "2026-10-13",
+      "note": "FAQ. Q2 repeats the HK$344,400 stipend and HK$14,400 travel allowance for up to three years and the 400 fellowships in 2027/28. Q4 eligibility irrespective of country of origin. Q23 initial-application deadline 1 December 2026 at 12:00 noon Hong Kong Time. Q27 results by May 2027. Q29 registration normally July to September 2027, latest 31 January 2028 with RGC approval. Q32 tuition waiver for local students in UGC-funded RPg programmes; they need not apply."
+    },
+    {
+      "url": "https://cerg1.ugc.edu.hk/hkpfs/news.html",
+      "title": "Hong Kong PhD Fellowship Scheme | Research Grants Council",
+      "accessed": "2026-10-13",
+      "note": "August 2026 notice that HKPFS 2027/28 is open from 1 September 2026 at 12:00 noon Hong Kong Time, with initial applications due 1 December 2026 at 12:00 noon Hong Kong Time."
+    },
+    {
+      "url": "https://cerg1.ugc.edu.hk/hkpfs/institutions.html",
+      "title": "Hong Kong PhD Fellowship Scheme | Research Grants Council",
+      "accessed": "2026-10-13",
+      "note": "Lists the eight participating research degree-awarding universities and links to their own sites. Those university pages were not opened."
+    },
+    {
+      "url": "https://cerg1.ugc.edu.hk/hkpfs/GuidanceNote.pdf",
+      "title": "Hong Kong PhD Fellowship Scheme 2027/28 Guidance Note for Applicants",
+      "accessed": "2026-10-13",
+      "note": "Guidance Note, Research Grants Council, August 2026. Initial-application deadline 1 December 2026 at 12:00 noon Hong Kong time. One initial application only. Universities nominate. Results announced in May 2027. No stipend amount in this note. No MPhil route."
+    },
+    {
+      "url": "https://cerg1.ugc.edu.hk/hkpfs/InitApplication.jsp",
+      "title": "Initial Application for Hong Kong PhD Fellowship Scheme 2027/28",
+      "accessed": "2026-10-13",
+      "note": "Public initial-application page. Window: 1 September 2026 at 12:00 noon Hong Kong Time to 1 December 2026 at 12:00 noon Hong Kong Time. Last revision date August 2026. The form itself was not submitted."
+    },
+    {
+      "url": "https://www.ugc.edu.hk/eng/rgc/funding_opport/",
+      "title": "Funding Opportunities",
+      "accessed": "2026-10-13",
+      "note": "RGC funding index. Fellowship section heading plus joint research schemes, postgraduate conference/seminar grants, and the tuition waiver for local research postgraduate students. No separate Belt and Road PhD fellowship link on this page."
+    },
+    {
+      "url": "https://www.ugc.edu.hk/eng/rgc/funding_opport/tws/",
+      "title": "Tuition Waiver for Local Research Postgraduate Students",
+      "accessed": "2026-10-13",
+      "note": "Local full-time UGC-funded RPg tuition waiver from 2018/19. Covers MPhil (2 years) and PhD (3 or 4 years). Non-means-tested. Eight universities. Category I includes a Hong Kong permanent identity card. Revision applies to 2027/28 and thereafter. No HKD tuition figure on this page. Stipends that do not cover tuition do not affect the waiver."
+    },
+    {
+      "url": "https://www.ugc.edu.hk/eng/rgc/funding_opport/tws/faq.html",
+      "title": "Tuition Waiver for Local Research Postgraduate Students",
+      "accessed": "2026-10-13",
+      "note": "FAQ used as the tuition-waiver source_url. Prints the UGC-funded RPg tuition fee path: HK$42,100 in 2024/25, HK$44,500 in 2025/26, HK$47,000 in 2026/27, and HK$49,500 in 2027/28. Eligible local students need not apply. HKPFS stipends do not remove waiver eligibility when the stipend does not cover tuition. Part-time programmes are not UGC-funded."
+    },
+    {
+      "url": "https://www.ugc.edu.hk/eng/rgc/funding_opport/jrfs/",
+      "title": "RGC Junior Research Fellow Scheme",
+      "accessed": "2026-10-13",
+      "note": "Postdoctoral fellowship, formerly the RGC Postdoctoral Fellowship Scheme. Local and non-local postdoctoral researchers. Prevailing annual stipend around HK$430,000. JRFS (2027/28) nomination deadline 30 October 2026, 5:00 p.m., submitted by universities."
+    },
+    {
+      "url": "https://www.ugc.edu.hk/eng/rgc/funding_opport/pscsg/",
+      "title": "Postgraduate Students Conference/Seminar Grants",
+      "accessed": "2026-10-13",
+      "note": "Event grant, not a student stipend. Up to HK$50,000 per application for guest-speaker travel and accommodation. Applications accepted all year round through university research offices, at least six months before the event. Page says open for application now."
+    },
+    {
+      "url": "http://www.rgc.edu.hk/hkphd",
+      "title": "unknown",
+      "accessed": "2026-10-13",
+      "note": "Fetch failed with HTTP 500. The UGC HKPFS pages link here for application procedures. Content was not guessed."
+    },
+    {
+      "url": "https://www.rgc.edu.hk/hkphd",
+      "title": "unknown",
+      "accessed": "2026-10-13",
+      "note": "Fetch failed with HTTP 500. Content was not guessed."
+    }
+  ],
+  "opportunities": [
+    {
+      "id": "hkpfs-phd-fellowship",
+      "name": "Hong Kong PhD Fellowship Scheme",
+      "university": "HKPFS",
+      "university_code": "hkpfs",
+      "type": "fellowship",
+      "eligibility_clues": [
+        "Call letter: those seeking admission as new full-time PhD students in UGC-funded Hong Kong universities, irrespective of country of origin, prior work experience and ethnic background, should be eligible to apply.",
+        "MPhil is excluded. The call letter, homepage, and FAQ limit eligibility to new full-time PhD admission and do not list MPhil.",
+        "Applicants should demonstrate outstanding academic performance, research ability / potential, communication and interpersonal skills, and leadership abilities.",
+        "Shortlisted applications are reviewed by a Sciences, Medicine, Engineering and Technology panel or a Humanities, Social Sciences and Business Studies panel. No field exclusion of mathematics is printed.",
+        "Applicants may choose up to two programmes in one or two of the eight UGC-funded universities. Universities nominate selected candidates to the RGC.",
+        "400 PhD Fellowships will be awarded in the 2027/28 academic year, for a period of three years. Additional support beyond three years may be provided by the chosen universities.",
+        "FAQ Q32: starting from the 2018/19 academic year, a tuition waiver is provided for all local students enrolled in UGC-funded RPg programmes. The university waives the tuition fees of eligible local students. They need not apply."
+      ],
+      "amount": "an annual stipend of HK$344,400 (approximately US$44,150)",
+      "amount_note": "Call letter: 'The Fellowship provides an annual stipend of HK$344,400 (approximately US$44,150) and a conference and research related travel allowance of HK$14,400 (approximately US$1,840) per year for the awardees for a period of three years. 400 PhD Fellowships will be awarded in the 2027/28 academic year.' The homepage and the UGC funding page introduce the same stipend and travel figures with the words 'In the 2026/27 academic year'. No monthly amount is printed.",
+      "deadline": "1 December 2026 (12:00 noon Hong Kong Time)",
+      "deadline_note": "Call letter: 'The HKPFS 2027/28 calls for applications from 1 September 2026 to 1 December 2026 (12:00 noon Hong Kong Time).' Guidance note: the initial-application deadline is 1 December 2026 at 12:00 noon Hong Kong time, and late submissions will not be considered. apply.html lists each of the eight universities' full-application deadlines as 1 December 2026 (11:59pm Hong Kong Time). Guidance note: results will be announced in May 2027. FAQ Q29: a successful candidate is normally required to register in July to September 2027, and this may be deferred to 31 January 2028 the latest with RGC approval.",
+      "source_url": "https://www.ugc.edu.hk/eng/rgc/funding_opport/hkpfs/call_letter.html",
+      "match_tag": "strong",
+      "match_rationale": "The 2027/28 round is open to applicants from all over, including a local Hong Kong permanent resident, who seek admission as a new full-time PhD student. The award is an annual fellowship stipend, the sciences selection panel does not exclude mathematics, and the HKPFS FAQ adds a tuition waiver for eligible local RPg students. MPhil is not an eligible route.",
+      "login_required": false,
+      "intake_relevance": "2027/28 round is open. Initial applications run from 1 September 2026 at 12:00 noon Hong Kong Time to 1 December 2026 at 12:00 noon Hong Kong Time.",
+      "restrictions": [
+        "New full-time PhD admission only; MPhil is not eligible on these pages",
+        "Each applicant may submit only one initial application",
+        "If two universities nominate the same applicant, the RGC processes the nomination of the university indicated as the priority choice",
+        "The applicant must also meet the selected university's PhD admission requirements",
+        "Competitive selection; academic excellence is the prime consideration"
+      ]
+    },
+    {
+      "id": "hkpfs-local-rpg-tuition-waiver",
+      "name": "Tuition Waiver for Local Research Postgraduate Students",
+      "university": "HKPFS",
+      "university_code": "hkpfs",
+      "type": "tuition_waiver",
+      "eligibility_clues": [
+        "Non-means-tested tuition waiver for eligible local full-time students enrolled in UGC-funded RPg programmes at the eight UGC-funded universities.",
+        "Covers MPhil study (2 years) and PhD study (3 years with a research master's degree, or 4 years without one).",
+        "FAQ: UGC-funded RPg programmes mainly include all full-time MPhil and PhD programmes. Part-time RPg programmes are not funded by UGC.",
+        "Category I (subsidised fees) includes a person holding a Hong Kong permanent identity card. Category II, including non-local students, cannot qualify for the tuition waiver.",
+        "The eligibility revision applies to the 2027/28 academic year and thereafter, with the application cycle for 2027/28 commencing in October 2026. The printed transitional residency requirement for 2027/28 is one year, and two years from 2028/29; that residency wording is attached to the dependant-visa category on the page.",
+        "Eligible local students need not apply. The university waives the tuition fees.",
+        "FAQ Q7: an HKPFS stipend or other scholarship does not remove waiver eligibility when it does not aim to cover tuition fees."
+      ],
+      "amount": "HK$49,500 in 2027/28 AY",
+      "amount_note": "FAQ: 'The tuition fee for the above mentioned UGC-funded RPg programmes gradually increases from HK$42,100 in 2024/25 Academic Year (AY) to HK$44,500 in 2025/26 AY, HK$47,000 in 2026/27 AY and HK$49,500 in 2027/28 AY.' The scheme waives those tuition fees. It does not state a living stipend.",
+      "deadline": "unknown",
+      "deadline_note": "FAQ Q3: 'The university will waive the tuition fees of eligible local students enrolled in the UGC-funded RPg programmes. They need not apply for the scheme.' No application deadline is printed.",
+      "source_url": "https://www.ugc.edu.hk/eng/rgc/funding_opport/tws/faq.html",
+      "match_tag": "possible",
+      "match_rationale": "A local Hong Kong permanent resident in a full-time UGC-funded PhD, including computing mathematics, is in the population this waiver covers, and the page states the 2027/28 tuition fee. It is a tuition waiver rather than a monthly living stipend, so it is not tagged strong. It can sit alongside an HKPFS stipend when that stipend does not cover tuition.",
+      "login_required": false,
+      "intake_relevance": "The revised eligibility applies to the 2027/28 academic year and thereafter. The application cycle for 2027/28 commences in October 2026.",
+      "restrictions": [
+        "Local Category I students only; non-local students and other Category II persons cannot qualify",
+        "Full-time UGC-funded RPg programmes only",
+        "Waiver covers the normative study period only",
+        "A student whose tuition is already fully waived by another scheme cannot also take this waiver",
+        "No separate application; the university applies the waiver"
+      ]
+    },
+    {
+      "id": "hkpfs-junior-research-fellow",
+      "name": "RGC Junior Research Fellow Scheme",
+      "university": "HKPFS",
+      "university_code": "hkpfs",
+      "type": "fellowship",
+      "eligibility_clues": [
+        "Formerly the RGC Postdoctoral Fellowship Scheme. Supports local and non-local postdoctoral researchers at UGC-funded universities.",
+        "The nominee must have obtained a PhD or equivalent on or after 1 January 2023, or will complete the PhD requirements by 31 August 2027.",
+        "The nominee must have a legal right to work and reside in Hong Kong during the fellowship and be supported by a UGC-funded university.",
+        "Universities nominate. Each university may nominate up to 15 candidates. 60 awardees in each yearly round.",
+        "All academic disciplines, in two streams: Humanities, Social Sciences and Business Studies; and Sciences, Medicine, Engineering and Technology.",
+        "Fellowship period of 24 months of full-time postdoctoral research, with an optional extension of up to 12 months."
+      ],
+      "amount": "around HK$430,000",
+      "amount_note": "Page: 'The prevailing annual stipend is around HK$430,000 (inclusive of the travel allowance at around HK$13,600).' The stipend is adjusted after every 12 months with reference to the Composite Consumer Price Index. If the awardee advances to Assistant Professor or Research Assistant Professor, the university receives research support funding at HK$140,000 per annum instead of the stipend.",
+      "deadline": "30 October 2026 (Friday)",
+      "deadline_note": "Page: 'The nomination deadline for the JRFS (2027/28) is 30 October 2026 (Friday). Nominations must be submitted to the UGC Secretariat by 5:00 p.m. on that day.' Nominations are submitted by universities.",
+      "source_url": "https://www.ugc.edu.hk/eng/rgc/funding_opport/jrfs/",
+      "match_tag": "out_of_scope",
+      "match_rationale": "This is a postdoctoral fellowship for researchers who already hold a PhD or will complete one by 31 August 2027. It is not funding for a student entering a 2027/28 PhD or MPhil. Local and non-local postdoctoral researchers are both in scope for the scheme itself.",
+      "login_required": false,
+      "intake_relevance": "JRFS (2027/28) nomination round closes 30 October 2026. It is not a PhD admission award.",
+      "restrictions": [
+        "Postdoctoral appointment, not PhD or MPhil study funding",
+        "University nomination only",
+        "PhD must be conferred on or after 1 January 2023, or requirements completed by 31 August 2027",
+        "Legal right to work and reside in Hong Kong is required during the fellowship"
+      ]
+    },
+    {
+      "id": "hkpfs-postgraduate-conference-grants",
+      "name": "Postgraduate Students Conference/Seminar Grants",
+      "university": "HKPFS",
+      "university_code": "hkpfs",
+      "type": "other",
+      "eligibility_clues": [
+        "Supports locally held inter-institutional and/or inter-disciplinary conferences or seminars targeted at postgraduate students of the UGC-funded universities.",
+        "Postgraduate students should be the organiser or a primary partner in planning the event.",
+        "The conference or seminar should be non-profit making and open to all postgraduate students in the UGC-funded sector.",
+        "Funding covers travel and accommodation costs for guest speakers, not a student living stipend."
+      ],
+      "amount": "up to HK$50,000 per application",
+      "amount_note": "Page: 'a maximum funding amount of up to HK$50,000 per application will be provided to cover the travel and accommodation costs for guest speakers who attend and speak at the conferences/seminars.'",
+      "deadline": "unknown",
+      "deadline_note": "Page: 'Applications for the Postgraduate Students Conference/Seminar Grants are accepted all year round and should be submitted through the Research Offices (ROs) of the respective universities to the RGC at least six months prior to the commencement of the events.' The page also says 'Open for application now.' No calendar date is printed.",
+      "source_url": "https://www.ugc.edu.hk/eng/rgc/funding_opport/pscsg/",
+      "match_tag": "out_of_scope",
+      "match_rationale": "This is a grant for organising a postgraduate conference and for guest-speaker travel, not a fellowship, studentship, or tuition waiver for a PhD in computing mathematics.",
+      "login_required": false,
+      "intake_relevance": "Open for application now, year-round. No 2027/28 PhD intake is stated.",
+      "restrictions": [
+        "Funds guest-speaker travel and accommodation for an event",
+        "Submitted through the university research office",
+        "Not a monthly stipend or PhD fellowship"
+      ]
+    }
+  ],
+  "blockers": [
+    "http://www.rgc.edu.hk/hkphd and https://www.rgc.edu.hk/hkphd returned HTTP 500. The UGC HKPFS pages link to that address for application procedures. Procedure text was taken from https://cerg1.ugc.edu.hk/hkpfs/apply.html and the 2027/28 Guidance Note instead. Content of the failed URL was not guessed.",
+    "A site:rgc.edu.hk search for the PhD fellowship returned no results. Official scheme pages that opened are on ugc.edu.hk and cerg1.ugc.edu.hk.",
+    "No dedicated Belt and Road PhD fellowship, or other targeted PhD fellowship, page was found on ugc.edu.hk or rgc.edu.hk. A search mentioned a UGC pamphlet filename; that PDF was not opened, so no Belt and Road opportunity was created and no pamphlet figure was used.",
+    "The HKPFS homepage and the UGC funding page lead the HK$344,400 stipend sentence with 'In the 2026/27 academic year', while the call letter and FAQ state the same figures beside the 2027/28 award quota without that lead-in. The figure is copied as printed. It was not converted to a monthly amount.",
+    "HKPFS pages say candidates not selected for the fellowship may be offered a postgraduate studentship by the universities. Amounts and rules for those university studentships are not on the RGC/UGC pages opened here and were left to the university scouts."
+  ]
+}

@@ -1,0 +1,712 @@
+{
+  "university_code": "hkust",
+  "university_name": "The Hong Kong University of Science and Technology",
+  "scouted_at": "2026-10-13",
+  "profile_ref": "rpg-computing-mathematics-local-2027-28",
+  "sources_consulted": [
+    {
+      "url": "https://fytgs.hkust.edu.hk/admissions/Admission-to-Hong-Kong-Campus/submitting-an-application/scholarships-and-fees",
+      "title": "Scholarships and Fees | HKUST Fok Ying Tung Graduate School",
+      "accessed": "2026-10-13",
+      "note": "Current admissions page for PGS, HKPFS, RedBird, AFLSP, local tuition waiver, Global Research Award, and RPG tuition. Used for amounts that this page prints."
+    },
+    {
+      "url": "https://fytgs.hkust.edu.hk/scholarships/hong-kong-phd-fellowship-scheme",
+      "title": "Hong Kong PhD Fellowship Scheme | HKUST Fok Ying Tung Graduate School",
+      "accessed": "2026-10-13",
+      "note": "HKUST HKPFS page for the open 2027/28 round, stipend package, and 1 December 2026 deadlines."
+    },
+    {
+      "url": "https://fytgs.hkust.edu.hk/hkpfs",
+      "title": "HKUST HKPFS short URL",
+      "accessed": "2026-10-13",
+      "note": "Fetch returned only an image and a news fragment. No award text was taken from this URL."
+    },
+    {
+      "url": "https://fytgs.hkust.edu.hk/admissions/Admission-to-Hong-Kong-Campus/submitting-an-application/admission-timeline",
+      "title": "Admissions Timeline | HKUST Fok Ying Tung Graduate School",
+      "accessed": "2026-10-13",
+      "note": "2027/28 Fall applications opened 1 September 2026. HKPFS deadlines and term start 1 September 2027."
+    },
+    {
+      "url": "https://prog-crs.hkust.edu.hk/pgprog/2027-28/mphil-phd-math",
+      "title": "Program & Course Catalog: MPhil and PhD in Mathematics 2027-28",
+      "accessed": "2026-10-13",
+      "note": "Mathematics programme, Applied and Computational Mathematics, Scientific Computation concentration, and local full-time deadline 1 Jun 2027."
+    },
+    {
+      "url": "https://science.hkust.edu.hk/academic_programs/postgrad_prog/research_postgraduate/admissions",
+      "title": "RPG Admissions | School of Science",
+      "accessed": "2026-10-13",
+      "note": "School of Science page for 2026/27 Spring and 2027/28 Fall. Repeats the current PGS, HKPFS, RedBird, AFLSP, and tuition-waiver figures, and describes the International Visiting Internship Student Program."
+    },
+    {
+      "url": "https://www.math.hkust.edu.hk/pg/",
+      "title": "PG | Department of Mathematics",
+      "accessed": "2026-10-13",
+      "note": "Department overview. Applied and Computational Mathematics is a research area. Financial support named as Postgraduate Scholarship, HKPFS, and AFLSP, with no dollar amounts."
+    },
+    {
+      "url": "https://www.math.hkust.edu.hk/pg/?menu=1",
+      "title": "PG | Department of Mathematics — Programs",
+      "accessed": "2026-10-13",
+      "note": "PhD options include Applied Mathematics. MPhil students may take the Scientific Computation concentration. Taught MSc programmes are listed separately."
+    },
+    {
+      "url": "https://www.math.hkust.edu.hk/pg/?menu=2",
+      "title": "PG | Department of Mathematics — How to Apply",
+      "accessed": "2026-10-13",
+      "note": "Application materials and the undergraduate Summer Research Program. No 2027/28 deadline and no stipend figure."
+    },
+    {
+      "url": "https://www.math.hkust.edu.hk/pg/?menu=3",
+      "title": "PG | Department of Mathematics — Financial Support",
+      "accessed": "2026-10-13",
+      "note": "States that current PhD and MPhil students have had full financial support and a living stipend. Describes a four-year postgraduate scholarship, HKPFS, AFLSP, and the UGC Research Travel Grant. No dollar amounts."
+    },
+    {
+      "url": "https://www.math.hkust.edu.hk/pg/?menu=5",
+      "title": "PG | Department of Mathematics — Awards",
+      "accessed": "2026-10-13",
+      "note": "RedBird PhD Scholarships, Epsilon Fund Award, Din-Yu Hsieh Teaching Award, Overseas Research Award, George K Lee Award, and Zonta International Amelia Earhart Fellowship. No dollar amounts."
+    },
+    {
+      "url": "https://www.math.hkust.edu.hk/intranet/pg/?menu=7",
+      "title": "PG_INTRANET | Department of Mathematics — Postgraduate Studentships",
+      "accessed": "2026-10-13",
+      "note": "Public fetch returned the page title only. The 2026/27 studentship terms were not readable."
+    },
+    {
+      "url": "https://fytgs.hkust.edu.hk/academics/Academic-Regulations-and-Requirements/Handbook-for-Research-Postgraduate-Studies/scholarships-awards-and-financial-assistance",
+      "title": "Handbook for Research Postgraduate Studies — Scholarships, Awards and Financial Assistance",
+      "accessed": "2026-10-13",
+      "note": "PGS purpose, merit basis, GTA condition, and post-qualifying top-up without a rate. Points to PGS terms, donor scholarships, government aid for right-of-abode students, and university loans and bursaries."
+    },
+    {
+      "url": "https://fytgs.hkust.edu.hk/academics/Academic-Regulations-and-Requirements/Handbook-for-Research-Postgraduate-Studies/study-commitment",
+      "title": "Handbook for Research Postgraduate Studies — Study Commitment",
+      "accessed": "2026-10-13",
+      "note": "Full-time RPg students, local and non-local, are provided with PGS. PGS is suspended during approved employment. No rate."
+    },
+    {
+      "url": "https://fytgs.hkust.edu.hk/academics/Academic-Regulations-and-Requirements/Handbook-for-Research-Postgraduate-Studies/fees",
+      "title": "Handbook for Research Postgraduate Studies — Fees",
+      "accessed": "2026-10-13",
+      "note": "Fetch did not return the handbook text. No fee or waiver figure was taken from this URL."
+    },
+    {
+      "url": "https://fytgs.hkust.edu.hk/scholarships/tuition-waiver-scheme-local-research-postgraduate-students",
+      "title": "Tuition Waiver Scheme for Local Research Postgraduate Students",
+      "accessed": "2026-10-13",
+      "note": "Category I rules, including Hong Kong permanent identity card, the 2027/28 one-year residency transition, normative periods, and automatic waiver. This page does not print a dollar amount."
+    },
+    {
+      "url": "https://fytgs.hkust.edu.hk/scholarships/other-funding-and-scholarships",
+      "title": "Other Funding and Scholarships | HKUST Fok Ying Tung Graduate School",
+      "accessed": "2026-10-13",
+      "note": "PGS description without a rate, UGC Research Travel Grant deadlines, Croucher Studentships amounts, and an HKPFS conference travel allowance of HK$14,200."
+    },
+    {
+      "url": "https://fytgs.hkust.edu.hk/scholarships/asian-future-leaders-scholarship-program",
+      "title": "Asian Future Leaders Scholarship Program | HKUST Fok Ying Tung Graduate School",
+      "accessed": "2026-10-13",
+      "note": "AFLSP 2027/28 package, non-local Asia eligibility, MPhil and taught-master tracks, and deadline 24 January 2027."
+    },
+    {
+      "url": "https://fytgs.hkust.edu.hk/hong-kong-future-talents-scholarship-scheme-advanced-studies",
+      "title": "Hong Kong Future Talents Scholarship Scheme for Advanced Studies",
+      "accessed": "2026-10-13",
+      "note": "Taught-master scholarship for local students. 2027/28 details to be announced in early 2027. Cap and programme table are printed for 2025/26 and 2026/27."
+    },
+    {
+      "url": "https://fytgs.hkust.edu.hk/scholarship/scholarship-admission",
+      "title": "Scholarship for Admission | HKUST Fok Ying Tung Graduate School",
+      "accessed": "2026-10-13",
+      "note": "Stale page. It says the 2022/23 HKPFS application is closed and prints older PGS, HKPFS, tuition-waiver, and Targeted Taught Postgraduate Programmes Fellowships Scheme figures. Those figures were not used as current amounts."
+    },
+    {
+      "url": "https://fytgs.hkust.edu.hk/admissions/forms/pgs_tnc1920.pdf",
+      "title": "Terms and Conditions of Postgraduate Studentships PDF",
+      "accessed": "2026-10-13",
+      "note": "Fetch failed with HTTP 500. Monthly rate and post-qualifying cap were not read and were not copied."
+    },
+    {
+      "url": "https://www.ugc.edu.hk/eng/rgc/funding_opport/hkpfs/",
+      "title": "Hong Kong PhD Fellowship Scheme | Research Grants Council",
+      "accessed": "2026-10-13",
+      "note": "RGC scheme page. 400 fellowships in 2027/28. Stipend and travel figures are printed as 2026/27 amounts for up to three years. Open to applicants from all over, including study at Hong Kong universities. Not an HKUST-only page."
+    },
+    {
+      "url": "https://cerg1.ugc.edu.hk/hkpfs/institutions.html",
+      "title": "Hong Kong PhD Fellowship Scheme | Participating Universities",
+      "accessed": "2026-10-13",
+      "note": "Lists HKUST among eight participating universities. The fetched text has no HKUST award amounts."
+    },
+    {
+      "url": "https://sfao.hkust.edu.hk/page.php?i=127",
+      "title": "Scholarships Administered by HKUST | Scholarships & Financial Aid Office",
+      "accessed": "2026-10-13",
+      "note": "Says a current list of postgraduate scholarships exists for 2026-2027. The list is loaded by a script and did not render."
+    },
+    {
+      "url": "https://sfao.hkust.edu.hk/ajax/ISO/pageScholarships/?token=fd549f815d3691a55fe1352aa10e8233&year[]=2026-2027&scholarship_type[]=PG&level_of_study[]=",
+      "title": "SFAO postgraduate scholarship list feed",
+      "accessed": "2026-10-13",
+      "note": "Returned: The server is currently under maintenance. Named-donor rows were not collected."
+    },
+    {
+      "url": "https://sfao.hkust.edu.hk/scholarship_search.php?level=PG",
+      "title": "Scholarships Search | HKUST Scholarships & Financial Aid Office",
+      "accessed": "2026-10-13",
+      "note": "Postgraduate scholarship search page. No scheme rows rendered."
+    },
+    {
+      "url": "https://sfao.hkust.edu.hk/page.php?i=128",
+      "title": "Scholarships and Funding Supports provided by the Fok Ying Tung Graduate School",
+      "accessed": "2026-10-13",
+      "note": "Names HKPFS and PGS for full-time research postgraduate students and points elsewhere for details. No amounts."
+    },
+    {
+      "url": "https://sfao.hkust.edu.hk/page.php?i=129",
+      "title": "Scholarships Administered by External Organizations",
+      "accessed": "2026-10-13",
+      "note": "General pointer to external awards for study at other institutions. No scheme list rendered."
+    },
+    {
+      "url": "https://sfao.hkust.edu.hk/page.php?i=51",
+      "title": "University's Supported Financial Assistance",
+      "accessed": "2026-10-13",
+      "note": "Local bursaries and loans for 2026/27, emergency aid, and the off-campus housing loan that names research postgraduate students. No dollar amounts."
+    }
+  ],
+  "opportunities": [
+    {
+      "id": "hkust-pgs",
+      "name": "Postgraduate Studentship (PGS)",
+      "university": "HKUST",
+      "university_code": "hkust",
+      "type": "studentship",
+      "eligibility_clues": [
+        "Financial support for full-time research postgraduate MPhil and PhD students",
+        "Up to 2 years for full-time MPhil students and up to 4 years for full-time PhD students",
+        "No separate application; suitability is considered with the research postgraduate application",
+        "Based on academic merit, including English language proficiency, and suitability for the programme",
+        "Recipients act as Graduate Teaching Assistants; the award is not described as taxable employment income",
+        "Local and non-local full-time research postgraduate students are both in the studentship rules",
+        "Department of Mathematics says current PhD and MPhil students have been on full financial support covering a living stipend",
+        "Mathematics PhD research areas include Applied Mathematics; MPhil students may take the Scientific Computation concentration",
+        "A higher rate after the PhD qualifying examination is possible, subject to department or supervisor top-up; that higher rate is not printed"
+      ],
+      "amount": "HK$ 229,620 per year",
+      "amount_note": "Printed on the FYTGS scholarships and fees page as HK$ 229,620 per year (~US$29,420/ year). The School of Science admissions page for this intake prints HK$229,620 per year (~US$29,420 per year). Neither page prints a monthly rate. The Mathematics financial-support page does not print a dollar amount.",
+      "deadline": "1 Jun 2027",
+      "deadline_note": "No separate PGS deadline is printed. The 2027/28 Mathematics catalog prints, for local applicants, full-time: 1 Jun 2027, and says admissions is on rolling basis. Applications for 2027/28 Fall opened on 1 September 2026.",
+      "source_url": "https://fytgs.hkust.edu.hk/admissions/Admission-to-Hong-Kong-Campus/submitting-an-application/scholarships-and-fees",
+      "match_tag": "strong",
+      "match_rationale": "This is the university postgraduate studentship for full-time MPhil and PhD study, and Mathematics includes applied and computational mathematics. Local students are eligible, and the 2027/28 round is open. The printed value is an annual figure; a monthly rate was not on the pages that loaded.",
+      "login_required": false,
+      "intake_relevance": "2027/28 Fall applications are open. Mathematics local full-time deadline printed as 1 Jun 2027, rolling.",
+      "restrictions": [
+        "Full-time research postgraduate registration",
+        "Merit and programme suitability",
+        "Graduate Teaching Assistant engagement",
+        "PGS is suspended during university-approved employment"
+      ]
+    },
+    {
+      "id": "hkust-hkpfs",
+      "name": "Hong Kong PhD Fellowship Scheme (HKPFS)",
+      "university": "HKUST",
+      "university_code": "hkust",
+      "type": "fellowship",
+      "eligibility_clues": [
+        "HKUST is inviting applications for 2027/28",
+        "PhD studies only",
+        "Applicants are expected to show outstanding academic records, research ability, international exposure, communication skills, and leadership",
+        "HKUST lists Hong Kong among the places of origin of awardees",
+        "RGC page says applicants from all over who seek admission as a new full-time PhD student in a Hong Kong university may apply",
+        "RGC shortlisting includes a Sciences, Medicine, Engineering, and Technology panel",
+        "Package on the HKUST page also includes a tuition waiver for 4 years, HKUST RedBird PhD Award, and conference travel allowance",
+        "Candidates who are not selected may be considered for PhD admission with Postgraduate Studentship, HKUST Redbird PhD Award, and a waiver of tuition fee in the first year"
+      ],
+      "amount": "HK$ 344,400 (~US$44,130) per year for 4 years",
+      "amount_note": "HKUST HKPFS page also prints a waiver of tuition fees for 4 years, Recruitment Award of HK$ 40,000 (~US$5,130) in the first year, Academic Excellence Award of HK$ 20,000 (~US$2,560) per year in the following years, and Conference Travel Allowance of HK$ 14,400 (~US$1,850) per year for 4 years. The RGC page prints HK$344,400 and HK$14,400 as 2026/27 figures for up to three years, and says universities may provide additional support after three years. The FYTGS other-funding page prints an HKPFS conference travel allowance of HK$14,200.",
+      "deadline": "1 Dec 2026",
+      "deadline_note": "RGC initial application: 1 Dec 2026 (12noon, GMT+8). HKUST full application: 1 Dec 2026 (11:59pm, GMT+8). The HKUST page says successful candidates will be notified by RGC via email in May 2027.",
+      "source_url": "https://fytgs.hkust.edu.hk/scholarships/hong-kong-phd-fellowship-scheme",
+      "match_tag": "possible",
+      "match_rationale": "Local applicants can seek this PhD fellowship for 2027/28, and mathematics falls under the sciences panel. It is a fellowship with an annual stipend printed on the page, not the baseline postgraduate studentship, and it does not cover MPhil.",
+      "login_required": false,
+      "intake_relevance": "2027/28 round is open, with HKUST and RGC deadlines on 1 December 2026.",
+      "restrictions": [
+        "New full-time PhD admission",
+        "MPhil is not covered",
+        "Renewal conditions and RGC regulations"
+      ]
+    },
+    {
+      "id": "hkust-local-rpg-tuition-waiver",
+      "name": "Tuition Waiver Scheme for Local Research Postgraduate Students",
+      "university": "HKUST",
+      "university_code": "hkust",
+      "type": "tuition_waiver",
+      "eligibility_clues": [
+        "Full-time UGC-funded MPhil or PhD",
+        "Category I, including a Hong Kong permanent identity card",
+        "Also covers right to land, right of abode, unconditional stay, a one-way permit, or a qualifying dependent visa with a residency test",
+        "For 2027/28 the residency requirement is set at one year; two years applies from 2028/29",
+        "Normative period: MPhil 2 years; PhD with a research master's degree 3 years; PhD without a research master's degree 4 years",
+        "No separate application",
+        "Students receiving PGS or HKPFS are eligible",
+        "Students whose tuition is fully waived by another scheme are not eligible"
+      ],
+      "amount": "HK$ 49,500 p.a.",
+      "amount_note": "The scholarships and fees page prints Tuition Waiver of HK$ 49,500 p.a. and says tuition fees are subject to annual review. The same page lists research postgraduate tuition as HK$47,000 (full-time/part-time). The dedicated waiver page says eligible students are not required to pay the tuition and does not print a dollar amount. The School of Science page also prints Tuition Waiver of HK$49,500 p.a.",
+      "deadline": "unknown",
+      "deadline_note": "No separate application is required. No application deadline is printed.",
+      "source_url": "https://fytgs.hkust.edu.hk/admissions/Admission-to-Hong-Kong-Campus/submitting-an-application/scholarships-and-fees",
+      "match_tag": "possible",
+      "match_rationale": "A Hong Kong permanent resident in full-time Mathematics MPhil or PhD study is in the eligible local group for 2027/28. This waives tuition and is not a monthly living stipend.",
+      "login_required": false,
+      "intake_relevance": "The page states a one-year residency transition for the 2027/28 academic year. Waiver applies during the normative study period after enrolment.",
+      "restrictions": [
+        "Full-time UGC-funded MPhil or PhD only",
+        "Category I eligibility",
+        "Normative study period only",
+        "Not available when another scheme already waives tuition in full"
+      ]
+    },
+    {
+      "id": "hkust-math-epsilon-fund-award",
+      "name": "Epsilon Fund Award",
+      "university": "HKUST",
+      "university_code": "hkust",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "Department of Mathematics award",
+        "Honours mathematics students, including undergraduates, postgraduates, and post-doctoral researchers, who excel in mathematical scholarship and research",
+        "Awardees are listed through 2024/25"
+      ],
+      "amount": "unknown",
+      "amount_note": "The Mathematics awards page does not print a value.",
+      "deadline": "unknown",
+      "deadline_note": "No deadline is printed.",
+      "source_url": "https://www.math.hkust.edu.hk/pg/?menu=5",
+      "match_tag": "possible",
+      "match_rationale": "Postgraduates in the Department of Mathematics can receive this award, so applied and computational mathematics students are in the population. It is a recognition award, not a monthly studentship, and the page also includes undergraduates and postdoctoral researchers.",
+      "login_required": false,
+      "intake_relevance": "Current mathematics students. No 2027/28 admission round is stated.",
+      "restrictions": [
+        "Department of Mathematics",
+        "Also open to undergraduates and postdoctoral researchers"
+      ]
+    },
+    {
+      "id": "hkust-math-din-yu-hsieh-teaching-award",
+      "name": "Din-Yu Hsieh Teaching Award",
+      "university": "HKUST",
+      "university_code": "hkust",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "Department of Mathematics",
+        "For research postgraduate students in recognition of outstanding teaching performance",
+        "Best TA awardees are listed for 2021/22 through 2024/25"
+      ],
+      "amount": "unknown",
+      "amount_note": "The Mathematics awards page does not print a value.",
+      "deadline": "unknown",
+      "deadline_note": "No deadline is printed.",
+      "source_url": "https://www.math.hkust.edu.hk/pg/?menu=5",
+      "match_tag": "possible",
+      "match_rationale": "This is a mathematics research-postgraduate teaching award, so the field fits. It is not a living stipend, and no amount or 2027/28 deadline is printed.",
+      "login_required": false,
+      "intake_relevance": "Current mathematics research postgraduate students. No admission round is stated.",
+      "restrictions": [
+        "Research postgraduate students in Mathematics",
+        "Teaching performance"
+      ]
+    },
+    {
+      "id": "hkust-math-overseas-research-award",
+      "name": "Overseas Research Award",
+      "university": "HKUST",
+      "university_code": "hkust",
+      "type": "other",
+      "eligibility_clues": [
+        "Department of Mathematics",
+        "Supports PhD students to study aboard for 2-6 months with subsidy",
+        "Awardees are listed through 2024/25"
+      ],
+      "amount": "unknown",
+      "amount_note": "The Mathematics awards page says subsidy and does not print a figure. This may overlap with the university Global Research Award; the pages do not say they are the same scheme.",
+      "deadline": "unknown",
+      "deadline_note": "No deadline is printed.",
+      "source_url": "https://www.math.hkust.edu.hk/pg/?menu=5",
+      "match_tag": "possible",
+      "match_rationale": "Mathematics PhD students, including applied and computational mathematics, are the group named. The support is a 2-6 month overseas subsidy, not the admission studentship.",
+      "login_required": false,
+      "intake_relevance": "Current Mathematics PhD students. No 2027/28 window is printed.",
+      "restrictions": [
+        "Mathematics PhD students",
+        "Overseas study of 2-6 months"
+      ]
+    },
+    {
+      "id": "hkust-george-k-lee-award",
+      "name": "George K Lee Award",
+      "university": "HKUST",
+      "university_code": "hkust",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "Listed by the Department of Mathematics",
+        "For full-time postgraduate students who perform a high standard of academic excellence in the area of science and intellectual qualities"
+      ],
+      "amount": "unknown",
+      "amount_note": "The Mathematics awards page does not print a value.",
+      "deadline": "unknown",
+      "deadline_note": "No deadline is printed.",
+      "source_url": "https://www.math.hkust.edu.hk/pg/?menu=5",
+      "match_tag": "possible",
+      "match_rationale": "Full-time science postgraduates are eligible, and the Mathematics department lists the award. No amount, deadline, or intake year is printed, and it is not described as a monthly studentship.",
+      "login_required": false,
+      "intake_relevance": "Current full-time postgraduate students. No 2027/28 round is stated.",
+      "restrictions": [
+        "Full-time postgraduate students",
+        "Science"
+      ]
+    },
+    {
+      "id": "hkust-global-research-award",
+      "name": "Global Research Award",
+      "university": "HKUST",
+      "university_code": "hkust",
+      "type": "other",
+      "eligibility_clues": [
+        "For current PhD students",
+        "Overseas research exposure for a maximum of 6 months",
+        "Monthly subsidy depends on the location of the host unit",
+        "No field limit is printed"
+      ],
+      "amount": "HK$3,000; HK$6,000; HK$10,000",
+      "amount_note": "Monthly subsidy for a maximum of 6 months: Chinese Mainland; Taiwan, China; and Macau, China HK$3,000; Asia HK$6,000; Outside Asia HK$10,000.",
+      "deadline": "unknown",
+      "deadline_note": "The scholarships page does not print an application deadline. The other-funding page says details are in terms and conditions that were not fetched.",
+      "source_url": "https://fytgs.hkust.edu.hk/admissions/Admission-to-Hong-Kong-Campus/submitting-an-application/scholarships-and-fees",
+      "match_tag": "possible",
+      "match_rationale": "A Mathematics PhD student could use this short overseas subsidy. It is not the admission living studentship, and it is for students already enrolled.",
+      "login_required": false,
+      "intake_relevance": "Current PhD students. No 2027/28 admission link is printed.",
+      "restrictions": [
+        "Current PhD students",
+        "Maximum of 6 months",
+        "Rate depends on host location"
+      ]
+    },
+    {
+      "id": "hkust-ugc-research-travel-grant",
+      "name": "UGC Research Travel Grant",
+      "university": "HKUST",
+      "university_code": "hkust",
+      "type": "other",
+      "eligibility_clues": [
+        "Supports travel for postdoctoral students, research graduate students, and undergraduate students who present research papers at conferences and professional meetings",
+        "Full-time research postgraduate students must be enrolled at the application deadline and at the conference",
+        "The research being presented must have been conducted at HKUST",
+        "Up to two authors of a multi-author paper may apply",
+        "Four deadlines a year, normally the 1st of September, December, March and June"
+      ],
+      "amount": "unknown",
+      "amount_note": "The FYTGS other-funding page does not print a grant amount.",
+      "deadline": "normally the 1st of September, December, March and June",
+      "deadline_note": "Printed as four deadlines per year, normally the 1st of September, December, March and June.",
+      "source_url": "https://fytgs.hkust.edu.hk/scholarships/other-funding-and-scholarships",
+      "match_tag": "possible",
+      "match_rationale": "Full-time Mathematics research postgraduates who present HKUST research can apply. The grant is conference travel support, not a living stipend.",
+      "login_required": false,
+      "intake_relevance": "Recurring deadlines for current students. Not an admission award.",
+      "restrictions": [
+        "Must present research conducted at HKUST",
+        "Full-time at the deadline and at the conference",
+        "Also open to undergraduates and postdoctoral students"
+      ]
+    },
+    {
+      "id": "hkust-croucher-studentships",
+      "name": "Croucher Studentships",
+      "university": "HKUST",
+      "university_code": "hkust",
+      "type": "studentship",
+      "eligibility_clues": [
+        "Listed by FYTGS for research postgraduate students",
+        "Permanent residents of Hong Kong",
+        "Full-time study or research in natural sciences, medicine or technology at approved academic institutions in Hong Kong",
+        "May be held concurrently with a university postgraduate studentship or another award",
+        "Application details are on the Croucher Foundation website, which was not opened"
+      ],
+      "amount": "HK$80,000 per annum",
+      "amount_note": "The FYTGS page prints an annual cash award currently at HK$80,000 per annum, and an academic development allowance of up to HK$15,600 per annum.",
+      "deadline": "unknown",
+      "deadline_note": "No deadline is printed on the HKUST page.",
+      "source_url": "https://fytgs.hkust.edu.hk/scholarships/other-funding-and-scholarships",
+      "match_tag": "possible",
+      "match_rationale": "Hong Kong permanent residents can hold this with a university studentship, and natural sciences or technology may include computational mathematics. The page does not name mathematics, and the printed award is annual rather than the HKUST monthly studentship.",
+      "login_required": false,
+      "intake_relevance": "Not tied on the HKUST page to the 2027/28 intake.",
+      "restrictions": [
+        "Hong Kong permanent residents",
+        "Natural sciences, medicine or technology",
+        "Approved institutions in Hong Kong"
+      ]
+    },
+    {
+      "id": "hkust-government-student-financial-assistance",
+      "name": "Government Student Financial Assistance",
+      "university": "HKUST",
+      "university_code": "hkust",
+      "type": "other",
+      "eligibility_clues": [
+        "Students who have the right of abode in Hong Kong may apply to the Student Finance Office of the Working Family and Student Financial Assistance Agency",
+        "Holders of student visas are not eligible, irrespective of years of residence",
+        "Students with financial difficulties are urged to apply as soon as the application opens"
+      ],
+      "amount": "unknown",
+      "amount_note": "The handbook does not print an amount.",
+      "deadline": "unknown",
+      "deadline_note": "The handbook says to apply as soon as it is open. No date is printed.",
+      "source_url": "https://fytgs.hkust.edu.hk/academics/Academic-Regulations-and-Requirements/Handbook-for-Research-Postgraduate-Studies/scholarships-awards-and-financial-assistance",
+      "match_tag": "possible",
+      "match_rationale": "A local student with the right of abode can apply for government aid during research postgraduate study. The handbook does not state the amount, the scheme name beyond government financial assistance, or a 2027/28 date.",
+      "login_required": false,
+      "intake_relevance": "Available to eligible students in study. No 2027/28 round is printed.",
+      "restrictions": [
+        "Right of abode in Hong Kong",
+        "Student-visa holders are excluded"
+      ]
+    },
+    {
+      "id": "hkust-university-bursaries-loans",
+      "name": "University Bursaries and Loans",
+      "university": "HKUST",
+      "university_code": "hkust",
+      "type": "other",
+      "eligibility_clues": [
+        "Supplementary to government financial assistance",
+        "Local students who cannot obtain adequate government assistance",
+        "Means-tested bursary and/or interest-free loan",
+        "Normally covers only a partial amount of study expenses",
+        "Handbook says university loans and bursaries supplement, and do not substitute for, government assistance"
+      ],
+      "amount": "unknown",
+      "amount_note": "The SFAO page says the amount depends on family financial condition and is normally a partial amount of study expenses. No figure is printed.",
+      "deadline": "24 August - 21 September 2026",
+      "deadline_note": "Printed as the 2026/27 Fall Semester application period. Spring Semester is to be announced. Results around 2 months after the application period closes.",
+      "source_url": "https://sfao.hkust.edu.hk/page.php?i=51",
+      "match_tag": "possible",
+      "match_rationale": "Local students, including those who may enrol in research postgraduate study, can apply for means-tested help. It is not a mathematics studentship, and the printed window is the 2026/27 fall period.",
+      "login_required": false,
+      "intake_relevance": "Application period printed for 2026/27. No 2027/28 window is printed.",
+      "restrictions": [
+        "Local students",
+        "Means test",
+        "Supplementary to government aid"
+      ]
+    },
+    {
+      "id": "hkust-off-campus-housing-loan",
+      "name": "Loan Scheme for Searching Off-campus Housing",
+      "university": "HKUST",
+      "university_code": "hkust",
+      "type": "other",
+      "eligibility_clues": [
+        "Undergraduate and research postgraduate students",
+        "After the university housing commitment, when the student must arrange off-campus housing",
+        "For upfront costs such as rental deposit and agency commission",
+        "Students with financial hardships may approach SFAO during the year"
+      ],
+      "amount": "unknown",
+      "amount_note": "No loan amount is printed.",
+      "deadline": "unknown",
+      "deadline_note": "Students may approach SFAO any time during the year. No fixed deadline is printed.",
+      "source_url": "https://sfao.hkust.edu.hk/page.php?i=51",
+      "match_tag": "possible",
+      "match_rationale": "Research postgraduate students are named, so a Mathematics MPhil or PhD student could use it for housing cash flow. It is a loan for deposits and commission, not a living stipend.",
+      "login_required": false,
+      "intake_relevance": "Any time during the year for enrolled students. Not an admission award.",
+      "restrictions": [
+        "After the university housing commitment",
+        "Financial hardship",
+        "Off-campus housing upfront costs"
+      ]
+    },
+    {
+      "id": "hkust-redbird-phd-award",
+      "name": "HKUST RedBird PhD Award (for International Students)",
+      "university": "HKUST",
+      "university_code": "hkust",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "The current scholarships page headings it for international students and says it is an award for international PhD candidates",
+        "Recruitment award for new PhD students plus a first-year tuition waiver",
+        "The same page says local PhD students will receive a tuition fee waiver from the HKSAR Government instead",
+        "Academic Excellence Award in following years, subject to renewal conditions",
+        "The HKPFS section says candidates not selected for the fellowship may be considered for RedBird with PGS and a first-year tuition waiver",
+        "The Mathematics awards page calls RedBird PhD Scholarships an award for excellent PhD students and does not repeat the international limit"
+      ],
+      "amount": "HK$ 40,000 (~US$5,130)",
+      "amount_note": "Recruitment Award of HK$ 40,000 (~US$5,130) for new PhD students, plus a first-year tuition waiver on the international award. Academic Excellence Award of HK$ 20,000 (~US$2,560) per year in the following years. The School of Science page prints the same HK dollar amounts with a different US conversion (~US$5,120) for the recruitment award.",
+      "deadline": "unknown",
+      "deadline_note": "No separate RedBird deadline is printed. Consideration is described with PhD admission.",
+      "source_url": "https://fytgs.hkust.edu.hk/admissions/Admission-to-Hong-Kong-Campus/submitting-an-application/scholarships-and-fees",
+      "match_tag": "weak",
+      "match_rationale": "The current admissions heading limits this named award to international PhD candidates, which is a poor fit for a local permanent resident. The same site still mentions local students in the tuition footnote and in the HKPFS fallback, and the Mathematics page does not state an international limit, so locals are not clearly shut out of every RedBird payment.",
+      "login_required": false,
+      "intake_relevance": "Described with current PhD admission. The page does not print a separate 2027/28 RedBird deadline.",
+      "restrictions": [
+        "Current admissions heading: international PhD candidates",
+        "PhD only",
+        "Renewal conditions for later years",
+        "Local students are pointed to the government tuition waiver for the tuition component"
+      ]
+    },
+    {
+      "id": "hkust-ftss",
+      "name": "Hong Kong Future Talents Scholarship Scheme for Advanced Studies (FTSS)",
+      "university": "HKUST",
+      "university_code": "hkust",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "Local students admitted to approved taught master's programmes",
+        "Merit, including academic achievements, professional qualifications, experience, and a commitment to stay in Hong Kong or the Greater Bay Area",
+        "Science programmes on the 2025/26 and 2026/27 list include MSc in Data-Driven Modeling and MSc in Financial Mathematics",
+        "Not for MPhil or PhD",
+        "Past awardees of TPgFS or FTSS for another programme are not considered",
+        "Details of the FTSS for the 2027/28 academic year will be announced in early 2027"
+      ],
+      "amount": "cap of HK$100,000",
+      "amount_note": "Printed as a cap of HK$100,000 for each student for the settlement of tuition fee. Awardees pay at least the prevailing UGC full-time degree tuition, printed as HK$44,500 for 2025/26 and HK$47,000 for 2026/27. The programme subsidy table is for 2025/26 and 2026/27. 2027/28 details are not yet printed.",
+      "deadline": "unknown",
+      "deadline_note": "2027/28 details will be announced in early 2027. The page prints Application Deadline for 2026/27 academic year: 28 February 2026.",
+      "source_url": "https://fytgs.hkust.edu.hk/hong-kong-future-talents-scholarship-scheme-advanced-studies",
+      "match_tag": "weak",
+      "match_rationale": "Local students are eligible, and two listed science programmes are mathematics-related, but the scheme is only for taught master's study. It does not fund the MPhil or PhD path, and the 2027/28 round is not yet published.",
+      "login_required": false,
+      "intake_relevance": "2027/28 details are to be announced in early 2027. Printed rules and the deadline are for 2025/26 and 2026/27.",
+      "restrictions": [
+        "Taught master's programmes only",
+        "Local students",
+        "No second FTSS or TPgFS award for another programme"
+      ]
+    },
+    {
+      "id": "hkust-zonta-amelia-earhart",
+      "name": "Zonta International Amelia Earhart Fellowship",
+      "university": "HKUST",
+      "university_code": "hkust",
+      "type": "fellowship",
+      "eligibility_clues": [
+        "Listed on the Department of Mathematics awards page",
+        "For female PhD students with a good academic record",
+        "Research applied to aerospace engineering or space sciences"
+      ],
+      "amount": "unknown",
+      "amount_note": "The Mathematics page does not print a value.",
+      "deadline": "unknown",
+      "deadline_note": "No deadline is printed on the Mathematics page.",
+      "source_url": "https://www.math.hkust.edu.hk/pg/?menu=5",
+      "match_tag": "weak",
+      "match_rationale": "It is a real PhD fellowship listed by Mathematics, but the printed field is aerospace engineering or space sciences, and it is limited to women. Computing mathematics is not the stated field.",
+      "login_required": false,
+      "intake_relevance": "Not stated.",
+      "restrictions": [
+        "Female PhD students",
+        "Research applied to aerospace engineering or space sciences"
+      ]
+    },
+    {
+      "id": "hkust-math-summer-research-program",
+      "name": "Summer Research Program",
+      "university": "HKUST",
+      "university_code": "hkust",
+      "type": "other",
+      "eligibility_clues": [
+        "Department of Mathematics how-to-apply page",
+        "Targets outstanding end of year 3 undergraduate students interested in MPhil or PhD programmes in the School of Science, including mathematics",
+        "Financial support will be provided"
+      ],
+      "amount": "unknown",
+      "amount_note": "The page says financial support will be provided and does not print a figure.",
+      "deadline": "unknown",
+      "deadline_note": "No deadline is printed.",
+      "source_url": "https://www.math.hkust.edu.hk/pg/?menu=2",
+      "match_tag": "weak",
+      "match_rationale": "The programme is a route toward later mathematics research postgraduate study, but the funded place itself is for third-year undergraduates, not for a 2027/28 MPhil or PhD enrolment.",
+      "login_required": false,
+      "intake_relevance": "Undergraduate summer research. No 2027/28 postgraduate intake is stated.",
+      "restrictions": [
+        "End of year 3 undergraduates"
+      ]
+    },
+    {
+      "id": "hkust-aflsp",
+      "name": "Asian Future Leaders Scholarship Program (AFLSP)",
+      "university": "HKUST",
+      "university_code": "hkust",
+      "type": "scholarship",
+      "eligibility_clues": [
+        "Non-local student from Asia",
+        "Full-time master's programme: MPhil, or MA, MEng, MPM, MPP, or MSc",
+        "2027/28 MPhil package covers tuition, lodging, and daily subsistence and includes the postgraduate studentship",
+        "About 10 Bai Xian Scholars a year",
+        "Mathematics department lists AFLSP among financial support for master's study"
+      ],
+      "amount": "up to ~HK$ 279,120 (US$35,900) per year",
+      "amount_note": "2027/28 MPhil scholarship of up to ~HK$ 279,120 (US$35,900) per year, tenable for 2 years. The page splits it as from HKUST ~HK132,430 (US$17,030) per year and from BXAI ~HK$146,690 (US$18,530) per year, including the prevailing tuition fee and Postgraduate Studentship. Taught-master track on the same page: tuition waiver ~HK$ 97,190 (US$12,500) per year and stipend ~HK$ 97,190 (US$12,500) per year.",
+      "deadline": "24 January 2027",
+      "deadline_note": "AFLSP Application Deadline for 2027/28 Intake: 24 January 2027 (Sunday). Successful candidates notified by late April 2027.",
+      "source_url": "https://fytgs.hkust.edu.hk/scholarships/asian-future-leaders-scholarship-program",
+      "match_tag": "out_of_scope",
+      "match_rationale": "The MPhil track includes a living package and could sit in mathematics, but the scheme is restricted to non-local students from Asia. A Hong Kong permanent resident is outside that rule.",
+      "login_required": false,
+      "intake_relevance": "2027/28 intake amounts and deadline are printed.",
+      "restrictions": [
+        "Non-local students from Asia only",
+        "Master's programmes only",
+        "Renewal conditions"
+      ]
+    },
+    {
+      "id": "hkust-international-visiting-internship",
+      "name": "International Visiting Internship Student Program",
+      "university": "HKUST",
+      "university_code": "hkust",
+      "type": "other",
+      "eligibility_clues": [
+        "Selected international students from overseas universities",
+        "Research visit of 2-6 months",
+        "Not an admission award for an HKUST MPhil or PhD place"
+      ],
+      "amount": "HK$10,000-HK$12,000 (~US$1,280 – US$1,530) per month",
+      "amount_note": "Printed on the School of Science admissions page as an allowance of HK$10,000-HK$12,000 (~US$1,280 – US$1,530) per month for 2-6 months.",
+      "deadline": "unknown",
+      "deadline_note": "No deadline is printed on the School of Science page.",
+      "source_url": "https://science.hkust.edu.hk/academic_programs/postgrad_prog/research_postgraduate/admissions",
+      "match_tag": "out_of_scope",
+      "match_rationale": "This pays a monthly allowance, but it is a short visit for international students from overseas universities. It is not funding for a local student enrolling in an HKUST research postgraduate degree.",
+      "login_required": false,
+      "intake_relevance": "Visiting internship. Not the 2027/28 degree intake.",
+      "restrictions": [
+        "International students from overseas universities",
+        "Visit of 2-6 months"
+      ]
+    }
+  ],
+  "blockers": [
+    "https://fytgs.hkust.edu.hk/admissions/forms/pgs_tnc1920.pdf returned HTTP 500. The monthly PGS rate and any post-qualifying cap were not read and were not copied.",
+    "https://www.math.hkust.edu.hk/intranet/pg/?menu=7 did not return the Postgraduate Studentships 2026/27 terms. A search snippet showed a key marker beside that document. No rate was taken from it.",
+    "https://fytgs.hkust.edu.hk/academics/Academic-Regulations-and-Requirements/Handbook-for-Research-Postgraduate-Studies/fees and https://fytgs.hkust.edu.hk/hkpfs did not return usable page text.",
+    "The SFAO named postgraduate scholarship list for 2026-2027 did not render. The feed at https://sfao.hkust.edu.hk/ajax/ISO/pageScholarships/ said the server is currently under maintenance. Individual named-donor schemes were not collected.",
+    "https://fytgs.hkust.edu.hk/scholarship/scholarship-admission is a stale page: it says the 2022/23 HKPFS application is closed. It prints PGS HK$ 216,360 per year, HKPFS stipend HK$ 322,800 per year, conference travel HK$ 13,500 per year, tuition waiver HK$ 42,100 p.a., and Targeted Taught Postgraduate Programmes Fellowships Scheme tuition waiver up to HK$ 120,000. Those figures were not used as current amounts.",
+    "Current pages disagree on some figures. Scholarships and fees prints PGS HK$ 229,620 per year, HKPFS conference travel HK$ 14,400 per year, tuition waiver HK$ 49,500 p.a., and RPG tuition HK$47,000. The other-funding page prints HKPFS conference travel of HK$14,200. The RGC HKPFS page prints the HK$344,400 stipend and HK$14,400 travel allowance as 2026/27 figures for up to three years, while the HKUST HKPFS page states 4 years for the 2027/28 call. No figure was chosen to reconcile those differences.",
+    "The Mathematics Overseas Research Award and the university Global Research Award both concern overseas PhD time of up to about six months. The pages do not say whether they are the same scheme, so both are listed."
+  ]
+}
