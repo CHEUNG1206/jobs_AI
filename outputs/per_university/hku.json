@@ -1078,8 +1078,8 @@
         "Place of origin on the scheme record: Other places, Chinese Mainland",
         "Cannot be held concurrently with other scholarships administered by the School of Computing and Data Science"
       ],
-      "amount": "at least 25% of the tuition fee",
-      "amount_note": "One paragraph says the value of each scholarship shall be at least 25% of the tuition fee. A later paragraph says the value of each scholarship shall cover the composition fee of 72 credits. Both statements are on the scheme page.",
+      "amount": "unknown",
+      "amount_note": "The scheme page prints two conflicting values: at least 25% of the tuition fee, and cover the composition fee of 72 credits. Neither statement was chosen as the amount.",
       "deadline": "unknown",
       "deadline_note": "No deadline is printed on the scheme page.",
       "source_url": "https://scholar.aas.hku.hk/?action=showonesscheme&ss_id=599",

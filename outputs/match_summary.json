@@ -1,0 +1,181 @@
+{
+  "profile_ref": "rpg-computing-mathematics-local-2027-28",
+  "profile": {
+    "degree": "Research postgraduate, PhD or MPhil",
+    "field": "Computing Mathematics",
+    "intake": "2027/28",
+    "residency": "Local, Hong Kong permanent resident",
+    "funding_priority": "Monthly living stipend first; fellowships and tuition waivers are a plus"
+  },
+  "generated_at": "2026-10-13",
+  "universities_covered": "8/8",
+  "counts": {
+    "strong": 14,
+    "possible": 80,
+    "weak": 70,
+    "out_of_scope": 28
+  },
+  "opportunity_count": 192,
+  "top_matches": [
+    {
+      "id": "cuhk-hkpfs",
+      "name": "Hong Kong PhD Fellowship Scheme (HKPFS)",
+      "university": "CUHK",
+      "university_code": "cuhk",
+      "type": "fellowship",
+      "amount": "HK$344,400 (approx. US$44,200) per year",
+      "deadline": "1 Dec 2026 at 11:59pm, Hong Kong Time",
+      "source_url": "https://www.gs.cuhk.edu.hk/admissions/scholarships-fees/hkpfs",
+      "rationale": "The cited page prints an annual stipend, invites applicants for the 2027-28 academic year, and includes an awardee from Hong Kong, China. A local PhD applicant in Mathematics can be considered. The scheme is PhD-only."
+    },
+    {
+      "id": "cuhk-postgraduate-studentship",
+      "name": "Postgraduate Studentships (MPhil and PhD)",
+      "university": "CUHK",
+      "university_code": "cuhk",
+      "type": "studentship",
+      "amount": "Annual studentship for 2026-27 is HK$229,200 (approx. US$29,400)",
+      "deadline": "unknown",
+      "source_url": "https://www.gs.cuhk.edu.hk/admissions/scholarships-fees/studentships",
+      "rationale": "University-wide postgraduate studentship for full-time MPhil and PhD, including Mathematics and its Computational Mathematics field. Local students are not excluded. It is considered with the admission offer for the round that opened on 1 September 2026. The only printed stipend year is 2026-27."
+    },
+    {
+      "id": "eduhk-hkpfs",
+      "name": "Hong Kong PhD Fellowship Scheme",
+      "university": "EdUHK",
+      "university_code": "eduhk",
+      "type": "fellowship",
+      "amount": "monthly stipend of HK$28,700 (approx. US$3,660) and a conference travel allowance of HK$14,400 (approx. US$1,840) per year for up to three years",
+      "deadline": "unknown",
+      "source_url": "https://gs.eduhk.hk/scholarships/hong-kong-phd-fellowship-scheme/",
+      "rationale": "HKPFS is a PhD fellowship with a monthly stipend, EdUHK is a participating university, and local students are not excluded because eligibility is irrespective of country of origin. The 2027/28 round is open. Mathematics Education is the named education area; computational mathematics is not named there, but MIT's PhD area of focus is Mathematics and Computer Science and staff research includes applied and computational mathematics."
+    },
+    {
+      "id": "eduhk-rpgs",
+      "name": "EdUHK Research Postgraduate Studentship",
+      "university": "EdUHK",
+      "university_code": "eduhk",
+      "type": "studentship",
+      "amount": "HK$19,100 (approximately US$2,440) for all MPhil and PhD students and HK$19,600 (approximately US$2,450) for post-candidacy PhD students",
+      "deadline": "unknown",
+      "source_url": "https://gs.eduhk.hk/prospective/rpg/scholarship-and-financial-assistance/",
+      "rationale": "This is the university monthly studentship for full-time UGC-funded PhD and MPhil students, so a local applicant is in the eligible population, and MIT's Mathematics and Computer Science area sits inside that RPg route. The printed stipend year is 2026/27 while the open admission round on the same Graduate School site is September 2027."
+    },
+    {
+      "id": "hkbu-hkpfs",
+      "name": "Hong Kong PhD Fellowship Scheme",
+      "university": "HKBU",
+      "university_code": "hkbu",
+      "type": "fellowship",
+      "amount": "HK$28,700 (approx. US$3,680) monthly",
+      "deadline": "unknown",
+      "source_url": "https://gs.hkbu.edu.hk/admission/hong-kong-phd-fellowship-scheme",
+      "rationale": "The AY2027/28 round pays a monthly stipend for full-time PhD study. Local applicants are included through the HKID requirement, and the Mathematics PhD page invites HKPFS applications in areas that include scientific computing. MPhil is outside this scheme."
+    },
+    {
+      "id": "hkbu-research-studentship",
+      "name": "Research Studentships",
+      "university": "HKBU",
+      "university_code": "hkbu",
+      "type": "studentship",
+      "amount": "HK$19,310 (post-candidacy HK$19,660 for PhD)",
+      "deadline": "unknown",
+      "source_url": "https://gs.hkbu.edu.hk/fees-scholarships-and-financial-aid",
+      "rationale": "This is the university monthly studentship for full-time PhD and MPhil students. Local students are not excluded, the Department of Mathematics programme covers computational mathematics, and the 2027/28 admission round is open. The printed monthly rate is labelled AY2026/27."
+    },
+    {
+      "id": "hkpfs-phd-fellowship",
+      "name": "Hong Kong PhD Fellowship Scheme",
+      "university": "HKPFS",
+      "university_code": "hkpfs",
+      "type": "fellowship",
+      "amount": "an annual stipend of HK$344,400 (approximately US$44,150)",
+      "deadline": "1 December 2026 (12:00 noon Hong Kong Time)",
+      "source_url": "https://www.ugc.edu.hk/eng/rgc/funding_opport/hkpfs/call_letter.html",
+      "rationale": "The 2027/28 round is open to applicants from all over, including a local Hong Kong permanent resident, who seek admission as a new full-time PhD student. The award is an annual fellowship stipend, the sciences selection panel does not exclude mathematics, and the HKPFS FAQ adds a tuition waiver for eligible local RPg students. MPhil is not an eligible route."
+    },
+    {
+      "id": "hku-hkpfs",
+      "name": "Hong Kong PhD Fellowship Scheme (HKPFS)",
+      "university": "HKU",
+      "university_code": "hku",
+      "type": "fellowship",
+      "amount": "HK$28,700 per month",
+      "deadline": "December 1, 2026",
+      "source_url": "https://gradsch.hku.hk/prospective_students/fees_scholarships_and_financial_support/hong_kong_phd_fellowship_scheme",
+      "rationale": "Explicit 2027/28 full-time PhD fellowship that pays a monthly postgraduate scholarship. Local students are eligible because the scheme is irrespective of country of origin. Mathematics is not excluded, and the department lists HKPF on its admission page."
+    },
+    {
+      "id": "hku-postgraduate-scholarship",
+      "name": "Postgraduate Scholarship (PGS)",
+      "university": "HKU",
+      "university_code": "hku",
+      "type": "studentship",
+      "amount": "HK$19,135 per month (wef 1/9/2026)",
+      "deadline": "unknown",
+      "source_url": "https://gradsch.hku.hk/prospective_students/fees_scholarships_and_financial_support/postgraduate_scholarships",
+      "rationale": "University-wide monthly postgraduate scholarship for full-time PhD and MPhil, with no local-student exclusion. The Department of Mathematics tells applicants to tick Postgraduate Studentship, and computational mathematics sits in that department. The printed rate takes effect 1/9/2026, during the open 2027/28 admission round."
+    },
+    {
+      "id": "hku-presidential-phd-scholar",
+      "name": "HKU Presidential PhD Scholar Programme (HKU-PS Programme)",
+      "university": "HKU",
+      "university_code": "hku",
+      "type": "scholarship",
+      "amount": "HK$28,700 per month",
+      "deadline": "1 September – 1 December",
+      "source_url": "https://gradsch.hku.hk/prospective_students/fees_scholarships_and_financial_support/hku_presidential_phd_scholar_programme",
+      "rationale": "The 2027/28 package includes a monthly postgraduate scholarship for full-time PhD study, and every full-time PhD applicant is considered, with no local-student bar. It is university-wide and the Department of Mathematics lists it."
+    },
+    {
+      "id": "hkust-hkpfs",
+      "name": "Hong Kong PhD Fellowship Scheme (HKPFS)",
+      "university": "HKUST",
+      "university_code": "hkust",
+      "type": "fellowship",
+      "amount": "HK$ 344,400 (~US$44,130) per year for 4 years",
+      "deadline": "1 Dec 2026",
+      "source_url": "https://fytgs.hkust.edu.hk/scholarships/hong-kong-phd-fellowship-scheme",
+      "rationale": "The cited page lists Hong Kong among awardee places of origin, prints an annual stipend, and says the 2027/28 application is open. A local PhD applicant can be considered. The scheme is PhD-only."
+    },
+    {
+      "id": "hkust-pgs",
+      "name": "Postgraduate Studentship (PGS)",
+      "university": "HKUST",
+      "university_code": "hkust",
+      "type": "studentship",
+      "amount": "HK$ 229,620 per year",
+      "deadline": "unknown",
+      "source_url": "https://fytgs.hkust.edu.hk/admissions/Admission-to-Hong-Kong-Campus/submitting-an-application/scholarships-and-fees",
+      "rationale": "This is the university postgraduate studentship for full-time MPhil and PhD study, and Mathematics includes applied and computational mathematics. Local students are eligible, and the 2027/28 round is open. The printed value is an annual figure; a monthly rate was not on the pages that loaded."
+    },
+    {
+      "id": "lingnan-postgraduate-studentship",
+      "name": "Postgraduate Studentships (PGSs)",
+      "university": "Lingnan",
+      "university_code": "lingnan",
+      "type": "studentship",
+      "amount": "HK$19,010 for an MPhil student; HK$19,280 for a PhD student before confirmation of candidature; and HK$19,660 for a PhD student after confirmation of candidature",
+      "deadline": "unknown",
+      "source_url": "https://www.ln.edu.hk/rpg/admission/financial-support",
+      "rationale": "This is the university-wide monthly studentship for full-time MPhil and PhD students, and the open direct-admission round is labelled 2027-28. The terms do not exclude a Hong Kong permanent resident. Lingnan has no mathematics department, but MPhil/PhD in Data Science publishes research areas in numerical and computational mathematics, applied mathematics, and mathematical optimisation, so this is the living-stipend route for that field."
+    },
+    {
+      "id": "polyu-prpgs",
+      "name": "PolyU Research Postgraduate Scholarship (PRPgS)",
+      "university": "PolyU",
+      "university_code": "polyu",
+      "type": "studentship",
+      "amount": "Annual Stipend: HK$230,640 HK$235,920 for PhD students who have confirmed registration",
+      "deadline": "unknown",
+      "source_url": "https://www.polyu.edu.hk/gs/prospective-students/fellowship-scholarship-schemes/",
+      "rationale": "This is the university-wide full-time PhD and MPhil stipend scholarship, considered automatically in the admission round that is open for September 2027. Local residency is not excluded, and Applied Mathematics, including Engineering and Computational Mathematics, is inside that research-postgraduate route."
+    }
+  ],
+  "notes": [
+    "Strong means the cited page shows a stipend, local eligibility, and the current open round or an explicit 2027/28 intake.",
+    "CityU postgraduate studentship stays possible because the cited handbook rate is labelled 2025/26.",
+    "Lingnan HKPFS stays possible because the cited Lingnan page does not show local eligibility.",
+    "Amounts left unknown were not filled in during the merge."
+  ]
+}

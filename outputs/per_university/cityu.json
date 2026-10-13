@@ -179,8 +179,8 @@
       "deadline": "unknown",
       "deadline_note": "No separate studentship deadline is printed. The February 2026 handbook says applications are considered mainly in one admission round, for which the deadline is normally the first week of December 2025. The live 2027/28 steps page could not be fetched. A Department of Biomedical Sciences page prints an application deadline of 11:59 pm, 1 December 2026, and a provisional Semester A 2027/2028 start of 30 August 2027. That date was not copied as the mathematics deadline.",
       "source_url": "https://www.cityu.edu.hk/sgs/files/prospective/rpg/Admissions_Handbook.pdf",
-      "match_tag": "strong",
-      "match_rationale": "This is the university-wide monthly studentship for full-time MPhil and PhD students, including the Department of Mathematics, where computational mathematics is a research area. A Hong Kong permanent resident admitted to a UGC-funded place is in the eligible population, and new students are considered with admission. The printed rate is the 2025/26 rate.",
+      "match_tag": "possible",
+      "match_rationale": "This is the university-wide monthly studentship for full-time MPhil and PhD students, including computational mathematics in the Department of Mathematics. The cited February 2026 handbook prints the basic rate as the 2025/26 figure and does not show a 2027/28 intake, so the row is possible rather than a confirmed strong match for that intake.",
       "login_required": false,
       "intake_relevance": "Ongoing award considered with research-degree admission. The handbook's printed main-round timing is the first week of December 2025. The 2027/28 steps page was not fetched.",
       "restrictions": [

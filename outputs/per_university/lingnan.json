@@ -197,8 +197,8 @@
       "deadline": "1 December 2026 (HKT 23:59)",
       "deadline_note": "Lingnan full application by 1 December 2026 (HKT 23:59). Initial application on the RGC system during 1 September to 1 December 2026 (HKT 12:00). Select HK PhD Fellowship Scheme (2027-28). No late application will be accepted.",
       "source_url": "https://www.ln.edu.hk/rpg/hong-kong-phd-fellowship-scheme-hkpfs",
-      "match_tag": "strong",
-      "match_rationale": "HKPFS is a monthly PhD stipend, the Lingnan round is explicitly 2027-28 and still open on 2026-10-13, and the RGC page does not bar applicants by country of origin. It is university-wide for Lingnan PhD programmes, including Data Science, whose published areas include numerical and computational mathematics. It is not an MPhil award.",
+      "match_tag": "possible",
+      "match_rationale": "The cited Lingnan page prints a monthly stipend labelled 2026-27 and an application type labelled 2027-28. It does not itself show that local students are eligible. The scheme is PhD-only, so the row stays possible.",
       "login_required": false,
       "intake_relevance": "Application type on the Lingnan page is HK PhD Fellowship Scheme (2027-28). Stipend text is labelled 2026-27 and subject to annual review.",
       "restrictions": [

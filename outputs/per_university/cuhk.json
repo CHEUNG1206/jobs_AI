@@ -243,8 +243,8 @@
       "deadline": "1 Dec 2026 at 11:59pm, Hong Kong Time",
       "deadline_note": "CUHK Application Deadline. RGC Application Deadline on the same page: 1 Dec 2026 at 12:00nn, Hong Kong Time (GMT + 8 hours). The admissions FAQ still prints 1 December 2025; that date was not used.",
       "source_url": "https://www.gs.cuhk.edu.hk/admissions/scholarships-fees/hkpfs",
-      "match_tag": "possible",
-      "match_rationale": "Explicit 2027-28 PhD fellowship with an annual stipend, open to Mathematics. Local recipients are contemplated on the Graduate School FAQ. It is a competitive fellowship rather than the baseline postgraduate studentship, and it does not cover MPhil.",
+      "match_tag": "strong",
+      "match_rationale": "The cited page prints an annual stipend, invites applicants for the 2027-28 academic year, and includes an awardee from Hong Kong, China. A local PhD applicant in Mathematics can be considered. The scheme is PhD-only.",
       "login_required": false,
       "intake_relevance": "Explicitly the 2027-28 academic year.",
       "restrictions": [
